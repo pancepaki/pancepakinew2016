@@ -3072,129 +3072,10 @@ http://77.76.140.251/prga.m3u8
 http://77.76.140.251/prgb.m3u8
 #EXTINF:-1,TheVoice
 http://77.76.140.251/prgm.m3u8
-#EXTINF:-1,SPORT KLUB 1
-http://83.139.104.123/Content/HLS/Live/Channel(SK_1)/Stream(04)/index.m3u8
-#EXTINF:-1,SPORT KLUB 2
-http://83.139.104.123/Content/HLS/Live/Channel(SK_2)/Stream(04)/index.m3u8
-#EXTINF:-1,SPORT KLUB 3
-http://83.139.104.123/Content/HLS/Live/Channel(SK_3)/Stream(04)/index.m3u8
-#EXTINF:-1,HRT 1
-http://83.139.104.123/Content/HLS/Live/Channel(HTV1)/Stream(04)/index.m3u8
-#EXTINF:-1,HRT 2
-http://83.139.104.123/Content/HLS/Live/Channel(HTV2)/Stream(04)/index.m3u8
-#EXTINF:-1,HRT 3
-http://83.139.104.123/Content/HLS/Live/Channel(HTV3)/Stream(04)/index.m3u8
-#EXTINF:-1,HRT 4
-http://83.139.104.123/Content/HLS/Live/Channel(HTV4)/Stream(04)/index.m3u8
-#EXTINF:-1,CMC
-http://83.139.104.123/Content/HLS/Live/Channel(CMC)/Stream(04)/index.m3u8
-#EXTINF:-1,DMC
-http://83.139.104.123/Content/HLS/Live/Channel(DMC)/Stream(04)/index.m3u8
-#EXTINF:-1,TLC
-http://83.139.104.123/Content/HLS/Live/Channel(TLC)/Stream(04)/index.m3u8
-#EXTINF:-1,vevo 3
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/468.m3u8
-#EXTINF:-1,vevo 2
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/467.m3u8
-#EXTINF:-1,vevo 1
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/466.m3u8
-#EXTINF:-1,SPORT TV HD 1080P *2 opção*
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/1.m3u8
-#EXTINF:-1,Sportv HD 1 test
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/517.m3u8
-#EXTINF:-1,Sportv 2 HD test
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/503.m3u8
-#EXTINF:-1,Sportv 3 HD test
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/563.m3u8
-#EXTINF:-1,Sportv 5 HD test
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/577.m3u8
-#EXTINF:-1,Sportv 1 SD teste
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/523.m3u8
-#EXTINF:-1,Sportv 2 SD teste
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/524.m3u8
-#EXTINF:-1,Sportv 3 test
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/506.m3u8
-#EXTINF:-1,Sportv 4 test
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/519.m3u8
-#EXTINF:-1,Sportv 5 test
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/505.m3u8
-#EXTINF:-1,sportv 4
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/257.m3u8
-#EXTINF:-1,BenficaTV 1 SD teste
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/502.m3u8
-#EXTINF:-1,BenficaTV 1 HD teste
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/558.m3u8
-#EXTINF:-1,BenficaTV HD 2 test
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/557.m3u8
-#EXTINF:-1,BenficaTV SD 2 test
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/501.m3u8
-#EXTINF:-1,sporting test
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/513.m3u8
-#EXTINF:-1,Sporting HD
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/719.m3u8
-#EXTINF:-1,sportv americas
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/458.m3u8
-#EXTINF:-1,eurosport 1 test
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/516.m3u8
-#EXTINF:-1,eurosport 2 test
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/561.m3u8
-#EXTINF:-1,Arena Sport 1 HD
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/486.m3u8
-#EXTINF:-1,Arena Sport 2
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/221.m3u8
-#EXTINF:-1,Arena Sport 3
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/224.m3u8
-#EXTINF:-1,Sport Klub HD 1
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/477.m3u8
-#EXTINF:-1,Sport Klub HD 2
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/478.m3u8
-#EXTINF:-1,Sport Klub HD 3
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/479.m3u8
-#EXTINF:-1,ES: CANAL+ LIGA
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/498.m3u8
-#EXTINF:-1,Bein Sport 1 HD
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/474.m3u8
-#EXTINF:-1,AR: BeIN HD 2
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/491.m3u8
-#EXTINF:-1,Bein Sport 3
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/484.m3u8
-#EXTINF:-1,USA: beIN USA
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/490.m3u8
-#EXTINF:-1,US NBA
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/540.m3u8
-#EXTINF:-1,DE: Sky BundesLiga HD
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/497.m3u8
-#EXTINF:-1,DE: Sky Sporm3u8 1 HD
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/480.m3u8
-#EXTINF:-1,DE: Sky Sporm3u8 2 HD
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/481.m3u8
-#EXTINF:-1,Italian: Moto Gp
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/476.m3u8
-#EXTINF:-1,uk: Sky Sporm3u8 F1 HD
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/475.m3u8
-#EXTINF:-1,UK: Sky Sport 1 HD
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/472.m3u8
-#EXTINF:-1,UK: Sky Sport 2 HD
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/473.m3u8
-#EXTINF:-1,BT SPORm3u8 1
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/487.m3u8
-#EXTINF:-1,BT SPORm3u8 2
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/488.m3u8
-#EXTINF:-1,USA: Fox Sporm3u8 1 HD testes
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/471.m3u8
-#EXTINF:-1,USA: Fox Sporm3u8 2 HD - UFC
-http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/470.m3u8
-
-#EXTINF:0,Arena Sport 1
-http://188.247.133.26:8888/ipvt_010
-#EXTINF:0,Arena Sport 2
-http://188.247.133.26:8888/ipvt_011
 #EXTINF:0,Arena Sport 3
 http://188.247.133.18:8888/ipvt_005
 #EXTINF:0,Arena Sport 4
 http://188.247.133.18:8888/ipvt_006
-#EXTINF:0,Arena Sport 5
-http://188.247.133.18:8888/ipvt_007
 #EXTINF:0,CETV
 http://213.81.153.221:8080/cetv
 #EXTINF:0,Dolny Kubin m3u8
@@ -3213,16 +3094,6 @@ rtmp://s1.media-planet.sk:80/live/pezinok
 http://s1.media-planet.sk:80/live/reduta/playlist.m3u8
 #EXTINF:0,SK-Reduta rtmp
 rtmp://s1.media-planet.sk:80/live/reduta
-#EXTINF:0,SK-RTV KREA
-http://213.81.153.221:8080/galanta
-#EXTINF:0,SK-Senica m3u8
-http://s1.media-planet.sk:80/live/senica1/playlist.m3u8
-#EXTINF:0,SK-Senica rtmp
-rtmp://s1.media-planet.sk:80/live/senica1
-#EXTINF:0,SK-STV1
-http://88.212.10.27:81/streams/stv1.m3u8?
-#EXTINF:0,SK-TA3
-http://88.212.10.27:81/streams/ta3.m3u8?
 #EXTINF:0,SK-Trencin rtmp
 rtmp://s1.media-planet.sk:80/live/trencin1
 #EXTINF:0,SK-Turzovka rtmp
@@ -3231,51 +3102,25 @@ rtmp://s1.media-planet.sk:80/live/turzovka
 http://s1.media-planet.sk:80/live/myjava1/playlist.m3u8
 #EXTINF:0,SK-TV Mijava rtmp
 rtmp://s1.media-planet.sk:80/live/myjava1
-#EXTINF:0,SK-TV Skalica m3u8
-http://s1.media-planet.sk:80/live/skalica1/playlist.m3u8
 #EXTINF:9223372036854,PTC
 rtsp://195.252.113.40/rts
 #EXTINF:9223372036854,PTC SAT
 rtsp://rts.videostreaming.rs/rts/video
-#EXTINF:0,REGION
-http://88.212.10.27:81/streams/region.m3u8
 #EXTINF:0,RROKUM TV
 rtmp://82.114.65.202/live/rrokumtv
 #EXTINF:0,RTK 1
 rtmp://wowza.rtkit.com/live/livestream
-#EXTINF:0,RTS – Serbia
-rtsp://rts.videostreaming.rs/rts
 #EXTINF:0,RTS Sat mms
 mmsh://rts.videostreaming.rs/rts
 #EXTINF:0,RTV BANOVINA HR
 rtmp://video.radio-banovina.hr/live/myStream
-#EXTINF:0,SHUTEL
-http://fms.zulu.mk:1935/zulu/shutel_1/playlist.m3u8
 #EXTINF:0,Sitel
 rtsp://fms.zulu.mk/zulu/sitel_1
 #EXTINF:0,SITEL
 http://fms.zulu.mk:1935/zulu/sitel_1/playlist.m3u8
-#EXTINF:0,Sitel 3
-rtsp://fms.zulu.mk/zulu/sitel3_1
-#EXTINF:0,SITEL 3
-http://fms.zulu.mk:1935/zulu/sitel3_1/playlist.m3u8
 #EXTINF:0,B92
 #EXTINF:0,Bardejov
 rtsp://s1.media-planet.sk:80/live/bardejov1
-#EXTINF:0,BK TV SLO
-rtmp://194.249.141.146:1935/live/bktv
-#EXTINF:0,Delta TV
-rtmp://rtmp.infomaniak.ch:1935/livecast/deltatv
-#EXTINF:0,ERA
-http://fms.zulu.mk:1935/zulu/era_1/playlist.m3u8
-#EXTINF:0,era TV
-rtsp://fms.zulu.mk/zulu/era_1
-#EXTINF:0,IRIS
-http://62.162.58.54:8080/iris
-#EXTINF:0,jug tv
-rtmp://84.20.77.50/live/livestream1
-#EXTINF:0,KANAL 5 PLUS
-http://fms.zulu.mk:1935/zulu/kanal5plus_1/playlist.m3u8
 #EXTINF:0,LESKOVAC TV
 http://5.153.25.7:8082/stream/?channel=tvleskovac&stream=1mb
 #EXTINF:0,ND TV
