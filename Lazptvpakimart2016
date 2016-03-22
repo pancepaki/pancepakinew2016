@@ -1,0 +1,3414 @@
+#EXTM3U
+#EXTINF:-1,1HD
+http://80.250.191.10:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
+#EXTINF:-1,1HD
+http://188.227.50.105:7778/udp/235.10.11.119:1234
+#EXTINF:-1,1HD
+http://msk3.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_Kiss tv" tvg-name="Kiss_tv" tvg-logo="guiatv-prueba.png",Kiss TV - España
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
+#EXTINF:-1,VEVO 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1,VEVO 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1,VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1,One HD
+http://rtmp.one.by:1300
+#EXTINF:-1,One UHD
+http://rtmp.one.by:1400
+#EXTINF:-1,Hit Tv
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+#EXTINF:-1,Heart TV
+
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1,Miami tv music
+http://74.208.152.93/music/stream3/stream.m3u8
+
+#EXTINF:-1,Vevo 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF:-1,Vevo 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+#EXTINF:-1,Vevo 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1,VEVO 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1,VEVO 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1,VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:0,Radio capital TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+
+#EXTINF:-1, Rock TV
+mmsh://mediatv2.topix.it/24RockOne66
+#EXTINF:-1,Eska Best
+rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:-1,Eska Rock
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+#EXTINF:-1,Eska Party
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:-1,Матч! Наш спорт
+http://31.43.6.172:1234/udp/239.0.0.156:1234
+
+
+#EXTINF:-1,BEIN SPORT
+http://www.t12v.com:8000/live/prevot/prevot/837.ts
+
+#EXTINF:-1,CANAL+ LIGA_HD
+http://www.t12v.com:8000/live/prevot/prevot/795.ts
+
+#EXTINF:-1,BARCA TV
+http://www.t12v.com:8000/live/prevot/prevot/775.ts
+
+#EXTINF:0, : REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+
+#EXTINF:-1,SKY BUNDESLIGA_1
+http://www.t12v.com:8000/live/prevot/prevot/1023.ts
+
+#EXTINF:-1,CANAL+ FUTBOL
+http://www.t12v.com:8000/live/prevot/prevot/793.ts
+
+
+#EXTINF:-1,Eurosport 2 HD
+http://31.148.218.195:9094/udp/239.239.76.62:1234
+#EXTINF:-1, :Tele Basel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/.m3u8
+#EXTINF:-1, :ROUGE TV
+http://rtmp.infomaniak.ch/livecast/rougetv/.m3u8
+#EXTINF:-1, :TELE X
+http://rtmp.infomaniak.ch/livecast/latele/.m3u8
+#EXTINF:-1, :TELEZURI Suisse
+http://rtmp.infomaniak.ch/livecast/telebielinguech/.m3u8
+#EXTINF:-1, :LA TELE
+http://rtmp.infomaniak.ch/livecast/latele/.m3u8
+#EXTINF:-1,1 Georgian
+http://94.43.239.178:8080/CHANNEL826/BITRATE0/playlist.m3u8
+#EXTINF:0, KAZSPORT
+http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+#EXTINF:0,CNN
+http://118.97.167.19/jhos/arena//Playlist.m3u8
+#EXTINF:0,Eurosport (French)
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+#EXTINF:0,Eurosport 1 ENG
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:0,EUROSPORT 1 FR
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:0,Eurosport 1 Fransa
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:0,Fox sport 2
+http://motorsport.hopto.org:8080/
+#EXTINF:0,TURK-BURSASPOR TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
+#EXTINF:0,USA-PAC 12 Bay Area (HD)
+http://www.xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:0,USA-Pac 12 Bay Area 720 HD
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:0,USA-PAC 12 Oregon (HD)
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:0,USA:SPORTES 5 HD
+http://www.xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:0,USA:SPORTES 6 HD
+http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:0,A1 Strumica
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/a1-strumica/chunklist.m3u8
+#EXTINF:0,kplus-tv
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/kplus-tv-stip/playlist.m3u8
+#EXTINF:0,k1-tv
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/k1-tv-veles/playlist.m3u8
+#EXTINF:0,o2-tv
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/o2-tv-ohrid/playlist.m3u8
+#EXTINF:0,a1
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/a1-strumica/playlist.m3u8
+#EXTINF:0,ultra-tv
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/ultra-tv-tetovo/playlist.m3u8
+#EXTINF:0,mega-bitola
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/hdtv-mega-bitola/playlist.m3u8
+#EXTINF:0,k3-tv-kumanovo
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/k3-tv-kumanovo/playlist.m3u8
+#EXTINF:0,kanal-3-debar
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/kanal-3-debar/playlist.m3u8
+Kanal5 Plus
+http://gigaiptv.pro:8000/live/test/test/114.ts
+#EXTINF:-1,24 Vesti
+http://gigaiptv.pro:8000/live/test/test/415.ts
+#EXTINF:-1,Telma
+http://gigaiptv.pro:8000/live/test/test/115.ts
+#EXTINF:-1,Alfa
+http://gigaiptv.pro:8000/live/test/test/116.ts
+#EXTINF:-1,TV Skopje
+http://gigaiptv.pro:8000/live/test/test/117.ts
+#EXTINF:-1,BLA BLA
+http://gigaiptv.pro:8000/live/test/test/140.ts
+#EXTINF:-1,IN TV Avstralija
+http://gigaiptv.pro:8000/live/test/test/141.ts
+#EXTINF:-1,A1 Strumica
+http://gigaiptv.pro:8000/live/test/test/429.ts
+#EXTINF:-1,MegaTv Bitola
+http://gigaiptv.pro:8000/live/test/test/143.ts
+#EXTINF:-1,O2 Ohrid
+http://gigaiptv.pro:8000/live/test/test/328.ts
+#EXTINF:-1,K+ Stip
+http://gigaiptv.pro:8000/live/test/test/142.ts
+#EXTINF:-1,Shutel
+http://gigaiptv.pro:8000/live/test/test/149.ts
+#EXTINF:-1,Alsat M
+http://gigaiptv.pro:8000/live/test/test/118.ts
+#EXTINF:-1,ERA
+http://gigaiptv.pro:8000/live/test/test/147.ts
+
+#EXTINF:0,A1 Balkan
+rtmp://176.9.45.202:22222/live/alpha1
+#EXTINF:0,AUSTRIA 24
+rtmp://streaming.austria24.tv/live/stream_360p
+#EXTINF:0,Alfa_2
+http://fms.zulu.mk:554/zulu/alfa_2/playlist_b125000_w1132785237.m3u8
+#EXTINF:0,CITY TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
+#EXTINF:0,CHILE:Campus TV
+http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
+#EXTINF:0,CHILE:EL PINGUINO TV
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/HasBahCa.m3u8
+#EXTINF:0,CHILE:La Red HD 720
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u
+#EXTINF:0,CHILE:MEGA
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b400.m3u8
+#EXTINF:0,COL:Canal Capital
+http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
+#EXTINF:0,Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,ClubLand
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:0,ESKA BEST MUSIC TV
+rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:0,ESKA PARTY TV
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:0,ESKA ROCK TV
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+#EXTINF:0,ESKA TV
+http://stream.smcloud.net/live/eskatv/playlist.m3u8
+#EXTINF:0,Filmon TV
+http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
+#EXTINF:0,Family TV 2
+rtmp://83.169.58.36/live/DasneueTV
+#EXTINF:0,Family TV HD
+http://83.169.58.38:1935/live/Stream3/chunklist_w1828558504.m3u8
+#EXTINF:0,HD FASHION
+rtmp://95.67.8.43:1935/live/fashionhd
+#EXTINF:0,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,K Plus
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/kplus-tv-stip/chunklist.m3u8
+#EXTINF:0,K1 Veles
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/k1-tv-veles/chunklist.m3u8
+#EXTINF:0,K3
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/k3-tv-kumanovo/chunklist.m3u8
+#EXTINF:0,KANAL 5
+http://217.16.82.6:554/zulu/kanal5_1/playlist.m3u8
+#EXTINF:0,KANAL 8 (Kocani)
+mms://62.162.58.55/TVkanal8
+#EXTINF:0,MPT1
+http://217.16.82.6:554/zulu/mtv1_1/playlist.m3u8
+#EXTINF:0,Mega TV(Македония)
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/hdtv-mega-bitola/playlist.m3u8
+#EXTINF:0,Miami TV Music
+mmsh://74.208.69.207:1755/music44?MSWMExt=.asf
+#EXTINF:0,O2
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/o2-tv-ohrid/chunklist.m3u8
+#EXTINF:0,SITEL
+http://217.16.82.6:554/zulu/sitel_1/playlist.m3u8
+#EXTINF:0,STV Osijek
+mms://89.201.164.181/stv
+#EXTINF:0,Studentska TV
+rtmp://213.202.73.202/iskon/studentska_b3.stream
+#EXTINF:0,SportBG 720p Bulgarian
+http://t.co/0LvQuvp6q1
+#EXTINF:0,Sports Tonight UK
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
+#EXTINF:0,TELMA
+http://217.16.82.6:554/zulu/telma_1/playlist.m3u8
+#EXTINF:0,TVCG MONTENEGRO
+mms://195.252.114.172/tvcg
+#EXTINF:0,ULTRA TETOVO
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/ultra-tv-tetovo/chunklist.m3u8
+#EXTINF:0,VEVO 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:0,VEVO 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:0,VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:0,VEVO EU HD
+http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8
+#EXTINF:0,VEVO TV DE
+http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/appleman.m3u8
+#EXTINF:0,VH1 CLASSIC
+http://212.79.96.134:8024
+#EXTINF:0,VH1 Classic
+http://212.79.96.134:8024/
+#EXTINF:0,Вести 24(Македония)
+mmsh://62.162.58.55/24vesti
+#EXTINF:0,РТРС
+http://parh.rtrs.tv:1935/tv/live/HasBahCa.m3u8?u=min@p=PTPC
+#EXTINF:0,РТС Sat
+rtsp://rts.videostreaming.rs/rts/video
+#EXTINF:0,ТВ СОНЦЕ
+http://92.53.27.201:10000
+#EXTINF:0,Viasat Sport
+http://4.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
+#EXTINF:0,Баскетбол
+http://77.120.118.235:8082
+#EXTINF:0,Россия 1 +4
+http://188.128.118.189:4002
+#EXTINF:0,Россия 1 +4 (Резерв 2)
+http://air.televyshka.ru:900/63
+#EXTINF:0,Россия 1 +4 (Резерв)
+http://4.hls.bolshoe.tv/1/streaming/rossija/tvrec/playlist.m3u8
+#EXTINF:0,Россия 2
+http://188.128.118.189:4003
+#EXTINF:0,Россия 2 (Резерв 2)
+http://air.televyshka.ru:900/17
+#EXTINF:0,Россия 2 (Резерв)
+http://4.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
+#EXTINF:0,Россия 24
+http://188.128.118.189:4010
+#EXTINF:0,Россия 24 (Кузбасс)
+http://4.hls.bolshoe.tv/1/streaming/vesti/tvrec/playlist.m3u8
+#EXTINF:0,Россия 24 (Резерв)
+http://air.televyshka.ru:900/19
+#EXTINF:0,Россия HD
+http://air.televyshka.ru:900/228
+#EXTINF:0,Россия К
+http://air.televyshka.ru:900/95
+#EXTINF:0,Россия К +4
+http://4.hls.bolshoe.tv/1/streaming/kultura/tvrec/playlist.m3u8
+#EXTINF:0,Россия К +4 (Резерв)
+http://188.128.118.189:4006
+#EXTINF:0,Спорт
+http://4.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
+#EXTINF:0,Спорт 1
+http://air.televyshka.ru:900/64
+#EXTINF:0,Спорт 1 (UA)
+http://tv.netlan.net.ua:8000/Sport14
+#EXTINF:0,Спорт 1 (UA) (Резерв 2)
+http://91.196.148.6/sport1
+#EXTINF:0,Спорт 1 (UA) (Резерв)
+http://87.76.73.130:8141/sport1mp4b1
+#EXTINF:0,Спорт 2 (UA)
+http://tv.netlan.net.ua:8000/Sport24
+#EXTINF:0,Спорт 2 (UA) (Резерв)
+http://109.68.47.204:8221/sport2mp2b1
+#EXTINF:0,Спорт плюс
+http://4.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
+#EXTINF:0, ALEX BERLIN (Urban Music)
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
+#EXTINF:0, Amazing
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+#EXTINF:0, Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
+#EXTINF:0, Clubland
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:0, DJING Ibiza
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:0, Dream TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0, Electrosound
+rtmp://www.electrosound.tv:1935/public/stream
+#EXTINF:0, ELECTROSOUND TV
+rtmp://www.electrosound.tv:1935/public/stream
+#EXTINF:0, ESKA Go
+rtmp://stream.smcloud.net/live2/best/best_360p
+#EXTINF:0, ESKA Music Vox
+rtmp://stream.smcloud.net/live2/vox/vox_720p
+#EXTINF:0, ESKA Party
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:0, ESKA Rock
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+#EXTINF:0, ESKA TV
+rtmp://stream.smcloud.net/live/eskatv
+#EXTINF:0, Europa Plus TV
+rtmp://europaplus.cdnvideo.ru:1935/europaplus-live/eptv_main.sdp
+#EXTINF:0, Europa Plus TV
+http://europaplus.cdnvideo.ru:1935/europaplus-live/mp4:eptv_main.sdp/playlist.m3u8
+#EXTINF:0, Film ON TV Clubbing
+http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
+#EXTINF:0, Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:0, Kiss TV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
+#EXTINF:0, Music Box UA
+rtmp://212.26.132.86/live/mb_ua
+#EXTINF:0, QMusica
+mms://streamqm.uigc.net/qmusica
+#EXTINF:0, Radio 105
+rtmp://fms.105.net:1935/live/105Test1
+#EXTINF:0, Radio Montecarlo
+rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:0, Si TV
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+#EXTINF:0, Virgin TV
+rtmp://fms.105.net:1935/live/virgin2
+#EXTINF:0,24RockOne66
+http://194.116.83.15:80/24RockOne66
+#EXTINF:0,Djing HD
+http://cdn.djing.com/tv/05.m3u8
+#EXTINF:0,Djing Hot
+http://cdn.djing.com/tv/h-05.m3u8
+#EXTINF:0,Djing Ibiza
+http://cdn.djing.com/tv/d-05.m3u8
+#EXTINF:0,Djing Underground
+http://cdn.djing.com/tv/u-05.m3u8
+#EXTINF:0,ESKATV Music
+rtmp://stream.smcloud.net/live/eskatv
+#EXTINF:0,Hit TV
+http://vs2.cdn.ott.otautv.kz/dtv/id13_KTR_SG--Hittv/03/plst.m3u8
+#EXTINF:0,M6 Music Hits
+https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+#EXTINF:0,MFM TV HQ
+http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
+#EXTINF:0,POLO TV Music
+rtmp://stream.smcloud.net/live/polotv
+#EXTINF:0,Quiero Musica
+mms://streamqm.uigc.net/qmusica
+#EXTINF:0,Radio Italia TV
+rtmp://cworigin.cdcache.net:1935/cworigin/_definst_/rilive
+#EXTINF:0,Radio Monte Carlo TV
+http://serv07.vintera.tv:1935/restream/rmc.stream/playlist.m3u8
+#EXTINF:0,REBEL TV
+rtmp://95.211.203.5/live/rebel.stream
+#EXTINF:0,Rock One
+mmsh://mediatv2.topix.it/24RockOne66
+#EXTINF:0,Rock One
+mmsh://mediatv2.topix.it/24RockOne66
+#EXTINF:0,ROUGE TV
+rtmp://rtmp.infomaniak.ch/livecast/rougetv
+#EXTINF:0,Strictlybellydancing
+rtsp://46.249.213.87/broadcast/strictlybellydancing-tablet.3gp?trackingid=3651600000>ime=1350065493&gu
+#EXTINF:0,Super Sonic TV
+http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
+#EXTINF:0,UTV
+http://82.76.249.77:80/utvedge/utvlive/index.m3u8
+#EXTINF:0,Vevo TV 1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:0,Vevo TV 2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:0,Vevo TV 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1, One.by 
+http://rtmp.one.by:1200 
+#EXTINF:-1, One.by HD 
+http://rtmp.one.by:1300 
+#EXTINF:-1, One.by UHD 
+http://rtmp.one.by:1400 
+#EXTINF:-1, One.by Россия 
+http://rtmp.one.by:2200 
+#EXTINF:-1, One.by Россия HD 
+http://rtmp.one.by:2300
+#EXTINF:-1,1HD
+http://176.100.108.190:4000/udp/239.1.1.194:1234
+#EXTINF:-1,Amazing life
+http://212.19.7.91:8888/udp/239.191.254.87:13343
+#EXTINF:-1,Amazing life
+http://176.100.108.190:4000/udp/239.1.1.192:1234
+#EXTINF:-1,Amedia 1 (Резерв)
+http://212.19.7.91:8888/udp/239.191.254.30:13343
+#EXTINF:-1,Extreme sports
+http://212.19.7.91:8888/udp/239.191.254.39:13343
+#EXTINF:-1,Extreme sports
+http://77.120.118.235:8081
+#EXTINF:-1,FTV
+http://212.19.7.91:8888/udp/239.191.254.69:13343
+#EXTINF:-1,Fashion HD
+http://176.100.108.190:4000/udp/239.1.1.42:1234
+#EXTINF:-1,Fox
+http://212.19.7.91:8888/udp/239.191.254.107:13343
+#EXTINF:-1,Fox life
+http://212.19.7.91:8888/udp/239.191.254.108:13343
+#EXTINF:-1,France 24
+http://212.19.7.91:8888/udp/239.191.254.114:13343
+#EXTINF:-1,Galaxy
+http://212.19.7.91:8888/udp/239.191.254.113:13343
+#EXTINF:-1,Gamanoid
+http://176.100.108.190:4000/udp/239.1.1.197:1234
+#EXTINF:-1,HL
+http://176.100.108.190:4000/udp/239.1.1.78:1234
+#EXTINF:-1,ID
+http://176.100.108.190:4000/udp/239.1.1.184:1234
+#EXTINF:-1,Luxury world
+http://176.100.108.190:4000/udp/239.1.1.133:1234
+#EXTINF:-1,M6 HD
+http://176.100.108.190:4000/udp/239.1.1.40:1234
+#EXTINF:-1,Mezzo
+http://176.100.108.190:4000/udp/239.1.1.234:1234
+#EXTINF:-1,Mtv
+http://176.100.108.190:4000/udp/239.1.1.198:1234
+#EXTINF:-1,Mtv Hits
+http://212.19.7.91:8888/udp/239.191.254.57:13343
+#EXTINF:-1,Music box
+http://93.157.174.217:4022/udp/234.5.2.81:1234
+#EXTINF:-1,Myzen tv HD
+http://176.100.108.190:4000/udp/239.1.1.41:1234
+#EXTINF:-1,Nano tv
+http://93.157.174.217:4022/udp/234.5.2.30:1234
+#EXTINF:-1,Nat geo HD
+http://176.100.108.190:4000/udp/239.1.1.147:1234
+#EXTINF:-1,Nhk world
+http://212.19.7.91:8888/udp/239.191.254.179:13343
+#EXTINF:-1,Nhk world
+http://176.100.108.190:4000/udp/239.1.1.100:1234
+#EXTINF:-1,Ocean tv
+http://91.224.17.5:7777/udp/239.100.0.207:1234
+#EXTINF:-1,Ocean tv
+http://212.19.7.91:8888/udp/239.191.254.54:13343
+#EXTINF:-1,RT Doc HD
+http://176.100.108.190:4000/udp/239.1.1.137:1234
+#EXTINF:-1,Super tennis HD
+http://176.100.108.190:4000/udp/239.1.1.138:1234
+#EXTINF:-1,TV 1000
+http://212.19.7.91:8888/udp/239.191.254.8:13343
+#EXTINF:-1,TV 1000 Action
+http://212.19.7.91:8888/udp/239.191.254.25:13343
+#EXTINF:-1,Teletravel HD
+http://176.100.108.190:4000/udp/239.1.1.141:1234
+#EXTINF:-1,Trace urban
+http://176.100.108.190:4000/udp/239.1.1.5:1234
+#EXTINF:-1,VH1
+http://176.100.108.190:4000/udp/239.1.1.79:1234
+#EXTINF:-1,Viasat explore
+http://91.224.17.5:7777/udp/239.100.0.166:1234
+#EXTINF:-1,Viasat sport
+http://91.224.17.5:7777/udp/239.100.0.169:1234
+#EXTINF:-1,Viasat sport
+http://212.19.7.91:8888/udp/239.191.254.11:13343
+#EXTINF:-1,Viasat sport
+http://176.100.108.190:4000/udp/239.1.1.75:1234
+#EXTINF:-1,Vintage tv
+http://176.100.108.190:4000/udp/239.1.1.188:1234
+#EXTINF:-1,НТВ+ Спорт
+http://91.224.17.5:7777/udp/239.100.0.221:1234
+#EXTINF:-1,RT
+http://212.19.7.91:8888/udp/239.191.254.106:13343
+#EXTINF:-1,Наш футбол
+http://212.19.7.91:8888/udp/239.191.254.118:13343
+#EXTINF:-1,Оружие
+http://212.19.7.91:8888/udp/239.191.254.150:13343
+#EXTINF:-1,Охота и рыбалка
+http://212.19.7.91:8888/udp/239.191.254.98:13343
+#EXTINF:-1,Охота и рыбалка
+http://176.100.108.190:4000/udp/239.1.1.126:1234
+#EXTINF:-1,Охотник и рыболов HD
+http://176.100.108.190:4000/udp/239.1.1.148:1234
+#EXTINF:-1,Спорт плюс
+http://176.100.108.190:4000/udp/239.1.1.81:1234
+#EXTINF:-1,Футбол
+http://176.100.108.190:4000/udp/239.1.1.196:1234
+#EXTINF:-1,Футбол 1
+http://176.100.108.190:4000/udp/239.1.1.98:1234
+
+#EXTINF:-1, Idman Tv
+
+http://149.255.152.112/idman/index.m3u8
+
+#EXTINF:-1, Fox Tv
+
+http://149.255.152.112/foxturk/index.m3u8
+
+#EXTINF:-1, Ntv sport
+
+http://149.255.152.112/ntvspor/index.m3u8
+
+#EXTINF:-1, Eurosport
+
+http://149.255.152.112/eurosport/index.m3u8
+
+#EXTINF:-1,RU:NTV Football
+
+http://149.255.152.112/ntvfootball/index.m3u8
+
+#EXTINF:-1,Extreme Sports
+
+http://149.255.152.112/extremesports/index.m3u8
+#EXTINF:-1,1Music Channel TV
+http://santhoratv.zecast.net/santhoratv/santhoratv/chunklist.m3u8
+
+#EXTINF:-1,Russia Today
+
+http://rt-lh.akamaihd.net/i/ch_06@325610/index_720p.m3u8
+#EXTINF:-1,Россия 24
+
+http://video.spcdn.ru/701/84/rus24_71/index.m3u8
+
+#EXTINF:-1,A-ONE
+http://win.cdn.bonus-tv.ru/TVB7/a1tv/playlist.m3u8
+
+#EXTINF:-1,Москва 24
+
+http://testlivestream.rfn.ru/live/smil:m24.smil/playlist.m3u8?auth=vh&cast_id=1661
+
+#EXTINF:-1,Hello TV
+
+http://live.tvhello.ru:80/live/Stream1/playlist.m3u8
+
+
+#EXTINF:-1,Eska Rock
+
+http://serv07.vintera.tv:1935/restream/eska_rock.stream/playlist.m3u8
+
+#EXTINF:-1,Eska TV
+
+http://stream.smcloud.net/live/eskatv/playlist.m3u8
+#EXTINF:-1,Eska Party
+
+http://stream.smcloud.net/live2/eska_party/eska_party_360p/playlist.m3u8
+
+#EXTINF:-1,Public TV
+
+http://win.cdn.bonus-tv.ru/TVB7/publictv/index.m3u8
+
+#EXTINF:-1,Футбол
+
+http://bal.bonus-tv.ru/btv/football/type/user/devname/LG-SmartTV/devid/LG-1445619362/eol/20200101T000000/hash/0113bb2b44d9523d6c998b820901b5b080996f5d/playlist.m3u8
+
+
+#EXTINF:-1,Авто 24
+
+http://win.cdn.bonus-tv.ru/TVB7/auto24/playlist.m3u8
+
+#EXTINF:-1,RT Doc
+
+http://win.cdn.bonus-tv.ru/TVB7/rtdoc/playlist.m3u8
+
+
+#EXTINF:-1,RT
+
+http://win.cdn.bonus-tv.ru/TVB7/rttv/playlist.m3u8
+#EXTINF:-1,Россия HD
+
+http://win.cdn.bonus-tv.ru:8080/russiahd/index.m3u8
+
+#EXTINF:-1,World Fashion Россия HD
+
+http://win.cdn.bonus-tv.ru/TVB8/wfhd/playlist.m3u8
+
+#EXTINF:-1,World Fashion Europe HD
+
+http://win.cdn.bonus-tv.ru/TVB7/wfhdeu/playlist.m3u8
+#EXTINF:-1,LIFENEWS
+
+http://bal.bonus-tv.ru/btv/lifenews/type/user/devname/LG-SmartTV/devid/LG-1433367804/eol/20200101T000000/hash/963ba2b65d79e4bd01c0ba00930d1b5a09379d09/playlist.m3u8
+
+
+#EXTINF:-1,A-One
+
+http://win.cdn.bonus-tv.ru/TVB7/a1tv/playlist.m3u8
+
+
+#EXTINF:-1,Россия 1
+
+http://bal.bonus-tv.ru/btv/russia1/type/user/devname/LG-SmartTV/devid/LG-1446137959/eol/20200101T000000/hash/86ca396736cabb8770c56e8619b4b16404399c58/playlist.m3u8
+
+#EXTINF:-1,Оружие
+
+http://win.cdn.bonus-tv.ru/TVB7/orujie/playlist.m3u8
+
+#EXTINF: 0, Sport 7
+
+http://212.79.96.134:8009/
+#EXTINF:-1,Vevo HD 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1,Vevo HD 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1,Vevo HD 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1 tvg-logo="canal12.png",Canal 12 Cordoba - Argentina Muzika
+http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
+#EXTINF:0 tvg-id="Argentina_269.dtv.la" tvg-name="Quiero_Música_en_mi_Idioma_(269)269" tvg-logo="Q Musica.png",Q Musica - Argentina
+mms://streamqm.uigc.net/qmusica
+#EXTINF:0 tvg-id="Argentina_717.dtv.la" tvg-name="C5N_(717)717" tvg-logo="C5N.png",C5N - Argentina Mega 
+rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:-1 tvg-logo="guiatv-prueba.png",Colosal TV - Costa Rica
+rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
+#EXTINF:0 tvg-logo="guiatv-prueba.png",CB Televisión - Costa Rica
+http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8?
+#EXTINF:-1 tvg-logo="guiatv-prueba.png",SMO TV - Costa Rica
+rtmp://199.217.118.90:1935/smotv/stream
+#EXTINF:-1 tvg-logo="guiatv-prueba.png",Tele Uno TV - Costa Rica
+rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
+#EXTINF:0 tvg-id="Chile_149.dtv.la" tvg-name="TVN_(149)149" tvg-logo="tvn1.png",TVN - Chile
+http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:0 tvg-id="Total_TV Chile" tvg-name="TV_Chile" tvg-logo="tvchile.png" tvg-shift="5",TV Chile
+http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_Galicia TV" tvg-name="Galicia_TV" tvg-logo="tvgalicia.png",TV Galicia - España
+http://media3.crtvg.es/live/tvge/hasbahca.m3u8
+#EXTINF:-1 tvg-id="CVMX_I715.44563133.microsoft.com" tvg-name="EURONEWS715_EURONEWS715euronewsCable" tvg-logo="euronews-logo.png",Euronews - España
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+#EXTINF:-1,RT Documentary  [COLOR lime]FTA[/COLOR]
+http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
+#EXTINF:-1,Africa News Network  [COLOR lime]FTA[/COLOR]
+rtmp://46.4.25.213/live-ann7/ann7-hi.stream
+#EXTINF:-1,Music Videos 1  [COLOR lime]FTA[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1,Music Videos 2  [COLOR lime]FTA[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1,Music Videos 3  [COLOR lime]FTA[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1,Music Videos 4  [COLOR lime]FTA[/COLOR]
+http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,Music Videos 5  [COLOR lime]FTA[/COLOR]
+http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
+#EXTINF:-1,Music Videos 6  [COLOR lime]FTA[/COLOR]
+http://djing.com/tv/hothothot.m3u8
+#EXTINF:-1,Music Videos 7  [COLOR lime]FTA[/COLOR]
+http://djing.com/tv/underground.m3u8
+#EXTINF:-1,Music Videos 8  [COLOR lime]FTA[/COLOR]
+http://djing.com/tv/dancefloor.m3u8
+#EXTINF:-1,Music Videos 9  [COLOR lime]FTA[/COLOR]
+rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:-1,Music Videos 10  [COLOR lime]FTA[/COLOR]
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1,Music Videos 11  [COLOR lime]FTA[/COLOR]
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+#EXTINF:-1,Music Videos 13  [COLOR lime]FTA[/COLOR]
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1,Music Videos 14  [COLOR lime]FTA[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1,Music Videos 15  [COLOR lime]FTA[/COLOR]
+http://185.28.3.10/powertv/powerturktvh.stream/playlist.m3u8
+#EXTINF:-1,Music Videos 16  [COLOR lime]FTA[/COLOR]
+http://rtmp.one.by:1300/
+#EXTINF:-1,Music Videos 17  [COLOR lime]FTA[/COLOR]
+http://194.79.52.77/goldi/goldHQ2/index.m3u8
+#EXTINF:-1,Music Videos 18  [COLOR lime]FTA[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1,Music Videos 19  [COLOR lime]FTA[/COLOR]
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Music Videos 20  [COLOR lime]FTA[/COLOR]
+rtmp://stream.smcloud.net/live/vox2/stream1
+#EXTINF:-1,Music Videos 21  [COLOR lime]FTA[/COLOR]
+rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
+#EXTINF:-1,Music Videos 22  [COLOR lime]FTA[/COLOR]
+rtmp://stream.smcloud.net/live2/vox/vox_360p
+#EXTINF:-1,Music Videos 23  [COLOR lime]FTA[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:-1,Music Videos 24  [COLOR lime]FTA[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+#EXTINF:-1,Music Videos 25  [COLOR lime]FTA[/COLOR]
+rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:-1,Music Videos 26  [COLOR lime]FTA[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1,Music Videos 27  [COLOR lime]FTA[/COLOR]
+http://82.76.249.77/utvedge/utvmqlivehls/chunklist.m3u8
+#EXTINF:-1,Music Videos 28  [COLOR lime]FTA[/COLOR]
+http://rtmp.one.by:2300/
+#EXTINF:-1,Music Videos 29  [COLOR lime]FTA[/COLOR]
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+#EXTINF:-1,Music Videos 30  [COLOR lime]FTA[/COLOR]
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1, Sport 3  [COLOR lime]FTA[/COLOR]
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1, Sport 4  [COLOR lime]FTA[/COLOR]
+http://www.xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1, Sport 5  [COLOR lime]FTA[/COLOR]
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1, Sport 8  [COLOR lime]FTA[/COLOR]
+http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u8
+#EXTINF:-1, Sport 10  [COLOR lime]FTA[/COLOR]
+http://87.248.160.8/edge/smil:boet/HasBahCa.m3u8
+#EXTINF:-1, Sport 11  [COLOR lime]FTA[/COLOR]
+http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
+#EXTINF:-1, Sport 13  [COLOR lime]FTA[/COLOR]
+http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
+#EXTINF:-1, Sport 14  [COLOR lime]FTA[/COLOR]
+rtmp://cp39414.live.edgefcs.net/live/event1@9756
+#EXTINF:-1, Sport 16  [COLOR lime]FTA[/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+#EXTINF:-1, Sport 17  [COLOR lime]FTA[/COLOR]
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+#EXTINF:-1, Sport 18  [COLOR lime]FTA[/COLOR]
+http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
+#EXTINF:-1, Sport 19  [COLOR lime]FTA[/COLOR]
+http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
+#EXTINF:-1, Sport 20  [COLOR lime]FTA[/COLOR]
+http://motorsport.hopto.org:8080/
+#EXTINF:-1,PPV Movies - A Brilliant Young Mind  [COLOR lime]FTA[/COLOR]
+http://iptvnation.com/30.mp4
+#EXTINF:-1,España 8  [COLOR lime]FTA[/COLOR]
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
+#EXTINF:-1,España 10  [COLOR lime]FTA[/COLOR]
+rtmp://62.210.141.18:1935/directo/lancelot.television
+#EXTINF:-1,España 12  [COLOR lime]FTA[/COLOR]
+http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
+#EXTINF:-1,España 15  [COLOR lime]FTA[/COLOR]
+http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
+#EXTINF:-1,Uruguay 1  [COLOR lime]FTA[/COLOR]
+http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,Guatemala 1  [COLOR lime]FTA[/COLOR]
+http://iphone-streaming.ustream.tv/ustreamVideo/9556054/streams/live/playlist.m3u8
+#EXTINF:-1,Guatemala 2  [COLOR lime]FTA[/COLOR]
+http://72.46.226.61/live01/canal31/playlist.m3u8
+#EXTINF:-1,Costa Rica 3  [COLOR lime]FTA[/COLOR]
+rtmp://199.217.118.90:1935/smotv/stream
+#EXTINF:-1,Costa Rica 4  [COLOR lime]FTA[/COLOR]
+rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
+#EXTINF:-1,Costa Rica 5  [COLOR lime]FTA[/COLOR]
+rtmp://k3.usastreams.com:1935/cana6/cana6
+#EXTINF:-1,Costa Rica 8  [COLOR lime]FTA[/COLOR]
+rtmp://k3.usastreams.com:1935/canal29/canal29
+#EXTINF:-1,Mexico 1  [COLOR lime]FTA[/COLOR]
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+#EXTINF:-1,Argentina 2  [COLOR lime]FTA[/COLOR]
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:-1,Argentina 6  [COLOR lime]FTA[/COLOR]
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:-1,Argentina 8  [COLOR lime]FTA[/COLOR]
+rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360
+#EXTINF:-1,Peru 1  [COLOR lime]FTA[/COLOR]
+http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
+#EXTINF:-1,Peru 6  [COLOR lime]FTA[/COLOR]
+http://edge-31-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist.m3u8
+#EXTINF:-1,Azteca Noticias  [COLOR lime]FTA[/COLOR]
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+#EXTINF:-1,CB24  [COLOR lime]FTA[/COLOR]
+rtmp://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp
+#EXTINF:-1,TVE 24h  [COLOR lime]FTA[/COLOR]
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:-1,Korea 1  [COLOR lime]FTA[/COLOR]
+rtmp://124.139.232.61:1935/live/livestream
+#EXTINF:-1,Korea 2  [COLOR lime]FTA[/COLOR]
+rtmp://live.chosun.gscdn.com/live//tvchosun1.stream
+#EXTINF:-1,Russia 1  [COLOR lime]FTA[/COLOR]
+http://tv.life.ru/lifetv/360p/index.m3u8
+#EXTINF:-1,Russia 2  [COLOR lime]FTA[/COLOR]
+http://4.hls.bolshoe.tv/2/streaming/telekafe/tvrec/playlist.m3u8
+#EXTINF:-1,Russia 3  [COLOR lime]FTA[/COLOR]
+rtmp://spastv.cdnvideo.ru/spastv-live/spastv.sdp
+#EXTINF:-1,Russia 4  [COLOR lime]FTA[/COLOR]
+http://193.107.103.42:81/mystream.m3u8
+#EXTINF:-1,Russia 5  [COLOR lime]FTA[/COLOR]
+http://sftr89en.edem.tv/iptv/AG4F5YHLGU6RDV/202/index.m3u8
+#EXTINF:-1,Russia 9  [COLOR lime]FTA[/COLOR]
+http://195.189.246.131/russiak_250k.m3u8
+#EXTINF:-1,France 2  [COLOR lime]FTA[/COLOR]
+http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1,France 3  [COLOR lime]FTA[/COLOR]
+http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
+#EXTINF:-1,France 4  [COLOR lime]FTA[/COLOR]
+rtmp://str81.creacast.com:80/weo/high
+#EXTINF:-1,France 5  [COLOR lime]FTA[/COLOR]
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8?Wse=4577tr
+#EXTINF:-1,France 6  [COLOR lime]FTA[/COLOR]
+http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
+#EXTINF:-1,France 7  [COLOR lime]FTA[/COLOR]
+rtmp://62.210.204.108/livtv7vo/mystream700.sdp
+#EXTINF:-1,France 8  [COLOR lime]FTA[/COLOR]
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
+#EXTINF:-1,France 10  [COLOR lime]FTA[/COLOR]
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1,Canada 1  [COLOR lime]FTA[/COLOR]
+rtmp://cp39414.live.edgefcs.net/live/lcn1@9753
+#EXTINF:-1,Canada 6  [COLOR lime]FTA[/COLOR]
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
+#EXTINF:-1,Canada 8  [COLOR lime]FTA[/COLOR]
+http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
+#EXTINF:-1,Canada 9  [COLOR lime]FTA[/COLOR]
+rtmp://37.59.17.222:1935/live_ca/eettv
+#EXTINF:-1,Germany 2  [COLOR lime]FTA[/COLOR]
+http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/master.m3u8
+#EXTINF:-1,Germany 3  [COLOR lime]FTA[/COLOR]
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
+#EXTINF:-1,Germany 4  [COLOR lime]FTA[/COLOR]
+rtmp://badentv-stream2.siebnich.info/rtplive/btv.stream
+#EXTINF:-1,Germany 5  [COLOR lime]FTA[/COLOR]
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8
+#EXTINF:-1,Germany 6  [COLOR lime]FTA[/COLOR]
+http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/index_2692_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Germany 7  [COLOR lime]FTA[/COLOR]
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w639935191.m3u8
+#EXTINF:-1,Germany 8  [COLOR lime]FTA[/COLOR]
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w1654226206.m3u8
+#EXTINF:-1,Germany 9  [COLOR lime]FTA[/COLOR]
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Germany 10  [COLOR lime]FTA[/COLOR]
+http://mf.weltderwunder.c.nmdn.net/wdwlive/WDW-HQ.stream/chunklist.m3u8?wowzasessionid=1817564159
+#EXTINF:-1,Romania 1  [COLOR lime]FTA[/COLOR]
+http://82.76.249.77/digi24edge/digi24hdhqhls/hasbahca.m3u8
+#EXTINF:-1,Romania 2  [COLOR lime]FTA[/COLOR]
+http://82.76.249.77/digi24edge/digi24brasovlive/hasbahca.m3u8
+#EXTINF:-1,Romania 3  [COLOR lime]FTA[/COLOR]
+http://82.76.249.77/digi24edge/digi24constantalivehls/hasbahca.m3u8
+#EXTINF:-1,Romania 4  [COLOR lime]FTA[/COLOR]
+http://82.76.249.77/digi24edge/digi24craiovalive/hasbahca.m3u8
+#EXTINF:-1,Romania 5  [COLOR lime]FTA[/COLOR]
+http://82.76.249.77/digi24edge/digi24timislivehls/hasbahca.m3u8
+#EXTINF:-1,Romania 6  [COLOR lime]FTA[/COLOR]
+http://82.76.249.77/digi24edge/digi24oradealivehls/hasbahca.m3u8
+#EXTINF:-1,Romania 7  [COLOR lime]FTA[/COLOR]
+http://82.208.151.248:8989/1.flv
+#EXTINF:-1,Romania 8  [COLOR lime]FTA[/COLOR]
+http://1tv.ambra.ro
+#EXTINF:-1,Austria 1  [COLOR lime]FTA[/COLOR]
+rtmp://streaming.austria24.tv/live/stream_720p
+#EXTINF:-1,China 4  [COLOR lime]FTA[/COLOR]
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8
+#EXTINF:-1,China 5  [COLOR lime]FTA[/COLOR]
+http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/hyds2/as/live/hyds2_4.m3u8
+
+#EXTINF:-1,bein8
+http://109.123.113.74:8000/live/jfbsdjfsdfvvvnbv/kcnsdtymv/51.ts
+#EXTINF:-1,bein7
+http://109.123.113.74:8000/live/jfbsdjfsdfvvvnbv/kcnsdtymv/44.ts
+#EXTINF:-1,bein6
+http://109.123.113.74:8000/live/jfbsdjfsdfvvvnbv/kcnsdtymv/49.ts
+#EXTINF:-1,Bein5
+http://109.123.113.74:8000/live/jfbsdjfsdfvvvnbv/kcnsdtymv/45.ts
+#EXTINF:-1,Bein4
+http://109.123.113.74:8000/live/jfbsdjfsdfvvvnbv/kcnsdtymv/46.ts
+#EXTINF:-1,bein3
+http://109.123.113.74:8000/live/jfbsdjfsdfvvvnbv/kcnsdtymv/47.ts
+#EXTINF:-1,bein2
+http://109.123.113.74:8000/live/jfbsdjfsdfvvvnbv/kcnsdtymv/50.ts
+#EXTINF:-1,bein1
+http://109.123.113.74:8000/live/jfbsdjfsdfvvvnbv/kcnsdtymv/48.ts
+#EXTINF:-1,AR_BEINSPORT_1HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/1.ts
+#EXTINF:-1,Local_BeinSport_1HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/423.ts
+#EXTINF:-1,AR_BEINSPORT_2HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/2.ts
+#EXTINF:-1,Local_BeinSport_2HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/424.ts
+#EXTINF:-1,AR_BEINSPORT_3HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/3.ts
+#EXTINF:-1,Local_BeinSport_3HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/425.ts
+#EXTINF:-1,AR_BEINSPORT_4HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/4.ts
+#EXTINF:-1,Local_BeinSport_4HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/426.ts
+#EXTINF:-1,AR_BEINSPORT_5HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/5.ts
+#EXTINF:-1,Local_BeinSport_5HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/427.ts
+#EXTINF:-1,AR_BEINSPORT_6HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/6.ts
+#EXTINF:-1,Local_BeinSport_6HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/428.ts
+#EXTINF:-1,AR_BEINSPORT_7HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/7.ts
+#EXTINF:-1,Local_BeinSport_7HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/429.ts
+#EXTINF:-1,AR_BEINSPORT_8HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/8.ts
+#EXTINF:-1,Local_BeinSport_8HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/430.ts
+#EXTINF:-1,AR_BEINSPORT_9HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/9.ts
+#EXTINF:-1,Local_BeinSport_9HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/431.ts
+#EXTINF:-1,AR_BEINSPORT_10HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/10.ts
+#EXTINF:-1,Local_BeinSport_10HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/432.ts
+#EXTINF:-1,AR_BEINSPORT_11HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/11.ts
+#EXTINF:-1,AR_BEINSPORT_12HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/12.ts
+#EXTINF:-1,AR_BEINSPORT_13HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/13.ts
+#EXTINF:-1,AR_BEINSPORT_14HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/14.ts
+#EXTINF:-1,AR_BEINSPORT_15HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/15.ts
+#EXTINF:-1,AR_BEINSPORT_16HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/16.ts
+EXTINF:-1,##########[ CANAL+ CANALSAT FRANCE ]###########
+http://clinetiptv.ddns.net:8000/live/alger/alger/230.ts
+#EXTINF:-1,FR-13-Rue
+http://clinetiptv.ddns.net:8000/live/alger/alger/524.ts
+#EXTINF:-1,FR-AB1
+http://clinetiptv.ddns.net:8000/live/alger/alger/297.ts
+#EXTINF:-1,FR-Action-HD
+http://clinetiptv.ddns.net:8000/live/alger/alger/92.ts
+#EXTINF:-1,FR-Animaux-HD
+http://clinetiptv.ddns.net:8000/live/alger/alger/91.ts
+#EXTINF:-1,FR-ARTE
+http://clinetiptv.ddns.net:8000/live/alger/alger/80.ts
+#EXTINF:-1,FR-BFM-TV
+http://clinetiptv.ddns.net:8000/live/alger/alger/81.ts
+#EXTINF:-1,FR-Boing
+http://clinetiptv.ddns.net:8000/live/alger/alger/525.ts
+#EXTINF:-1,FR-CANAL-J
+http://clinetiptv.ddns.net:8000/live/alger/alger/402.ts
+#EXTINF:-1,FR-Canal-Plus
+http://clinetiptv.ddns.net:8000/live/alger/alger/37.ts
+#EXTINF:-1,FR-Canal-Plus-Cinema
+http://clinetiptv.ddns.net:8000/live/alger/alger/90.ts
+#EXTINF:-1,FR-Canal-PLUS-Decale
+http://clinetiptv.ddns.net:8000/live/alger/alger/295.ts
+#EXTINF:-1,FR-Canal-Plus-Family
+http://clinetiptv.ddns.net:8000/live/alger/alger/88.ts
+#EXTINF:-1,FR-Canal-PLUS-Series
+http://clinetiptv.ddns.net:8000/live/alger/alger/87.ts
+#EXTINF:-1,FR-CANAL-PLUS-SPORT
+http://clinetiptv.ddns.net:8000/live/alger/alger/27.ts
+#EXTINF:-1,FR-CARTOON-NETWORK
+http://clinetiptv.ddns.net:8000/live/alger/alger/400.ts
+#EXTINF:-1,FR-CHASSE-&-PECHE
+http://clinetiptv.ddns.net:8000/live/alger/alger/467.ts
+#EXTINF:-1,FR-CINE-PLUS-Emotion
+http://clinetiptv.ddns.net:8000/live/alger/alger/296.ts
+#EXTINF:-1,FR-D8
+http://clinetiptv.ddns.net:8000/live/alger/alger/78.ts
+#EXTINF:-1,FR-Discovery
+http://clinetiptv.ddns.net:8000/live/alger/alger/518.ts
+#EXTINF:-1,FR-Discovery-Science
+http://clinetiptv.ddns.net:8000/live/alger/alger/698.ts
+#EXTINF:-1,FR-Disney-CHANNEL
+http://clinetiptv.ddns.net:8000/live/alger/alger/293.ts
+#EXTINF:-1,FR-Disney-Cinemagic
+http://clinetiptv.ddns.net:8000/live/alger/alger/404.ts
+#EXTINF:-1,FR-Documania
+http://clinetiptv.ddns.net:8000/live/alger/alger/463.ts
+#EXTINF:-1,FR-Eurosport-1
+http://clinetiptv.ddns.net:8000/live/alger/alger/741.ts
+#EXTINF:-1,FR-FRANCE-2
+http://clinetiptv.ddns.net:8000/live/alger/alger/71.ts
+#EXTINF:-1,FR-FRANCE-24
+http://clinetiptv.ddns.net:8000/live/alger/alger/75.ts
+#EXTINF:-1,FR-FRANCE-3
+http://clinetiptv.ddns.net:8000/live/alger/alger/72.ts
+#EXTINF:-1,FR-FRANCE-4
+http://clinetiptv.ddns.net:8000/live/alger/alger/73.ts
+#EXTINF:-1,FR-FRANCE-5
+http://clinetiptv.ddns.net:8000/live/alger/alger/74.ts
+#EXTINF:-1,FR-FRANCE-ô
+http://clinetiptv.ddns.net:8000/live/alger/alger/76.ts
+#EXTINF:-1,FR-Gulli
+http://clinetiptv.ddns.net:8000/live/alger/alger/294.ts
+#EXTINF:-1,FR-i24-NEWS
+http://clinetiptv.ddns.net:8000/live/alger/alger/732.ts
+#EXTINF:-1,FR-M6
+http://clinetiptv.ddns.net:8000/live/alger/alger/77.ts
+#EXTINF:-1,FR-MANGA
+http://clinetiptv.ddns.net:8000/live/alger/alger/401.ts
+#EXTINF:-1,FR-MONTE-CARLO
+http://clinetiptv.ddns.net:8000/live/alger/alger/740.ts
+#EXTINF:-1,FR-National-Geo-Wild-HD
+http://clinetiptv.ddns.net:8000/live/alger/alger/465.ts
+#EXTINF:-1,FR-National-Geographic-HD
+http://clinetiptv.ddns.net:8000/live/alger/alger/520.ts
+#EXTINF:-1,FR-D17
+http://clinetiptv.ddns.net:8000/live/alger/alger/734.ts
+#EXTINF:-1,FR-OCS-City
+http://clinetiptv.ddns.net:8000/live/alger/alger/765.ts
+#EXTINF:-1,FR-OCS-Geants
+http://clinetiptv.ddns.net:8000/live/alger/alger/764.ts
+#EXTINF:-1,FR-OCS-Max
+http://clinetiptv.ddns.net:8000/live/alger/alger/763.ts
+#EXTINF:-1,FR-PIWI
+http://clinetiptv.ddns.net:8000/live/alger/alger/405.ts
+#EXTINF:-1,FR-Planet+Thalassa
+http://clinetiptv.ddns.net:8000/live/alger/alger/573.ts
+#EXTINF:-1,FR-PLANETE-CI
+http://clinetiptv.ddns.net:8000/live/alger/alger/403.ts
+#EXTINF:-1,FR-PLANETE-HD
+http://clinetiptv.ddns.net:8000/live/alger/alger/298.ts
+#EXTINF:-1,FR-Rmc-Decouverte
+http://clinetiptv.ddns.net:8000/live/alger/alger/38.ts
+#EXTINF:-1,FR-RTC
+http://clinetiptv.ddns.net:8000/live/alger/alger/733.ts
+#EXTINF:-1,FR-RTL9
+http://clinetiptv.ddns.net:8000/live/alger/alger/535.ts
+#EXTINF:-1,FR-Science&Vie
+http://clinetiptv.ddns.net:8000/live/alger/alger/688.ts
+#EXTINF:-1,FR-Serie-Club-HD
+http://clinetiptv.ddns.net:8000/live/alger/alger/291.ts
+#EXTINF:-1,FR-Syfy
+http://clinetiptv.ddns.net:8000/live/alger/alger/522.ts
+#EXTINF:-1,FR-Teletoon
+http://clinetiptv.ddns.net:8000/live/alger/alger/519.ts
+#EXTINF:-1,FR-TF1
+http://clinetiptv.ddns.net:8000/live/alger/alger/70.ts
+#EXTINF:-1,FR-TVA
+http://clinetiptv.ddns.net:8000/live/alger/alger/738.ts
+#EXTINF:-1,FR-USHUAIA-TV-HD
+http://clinetiptv.ddns.net:8000/live/alger/alger/292.ts
+#EXTINF:-1,FR-M6-Music
+http://clinetiptv.ddns.net:8000/live/alger/alger/85.ts
+#EXTINF:-1,FR-VOYAGE
+http://clinetiptv.ddns.net:8000/live/alger/alger/767.ts
+#EXTINF:-1,FR-W9
+http://clinetiptv.ddns.net:8000/live/alger/alger/79.ts
+#EXTINF:-1,FR-WEO
+http://clinetiptv.ddns.net:8000/live/alger/alger/84.ts
+#EXTINF:-1,FR-YVELINES-PREMIER
+http://clinetiptv.ddns.net:8000/live/alger/alger/735.ts
+#EXTINF:-1,FR-BOOMERANG
+http://clinetiptv.ddns.net:8000/live/alger/alger/768.ts
+#EXTINF:-1,FR-Eurosport-2
+http://clinetiptv.ddns.net:8000/live/alger/alger/742.ts
+#EXTINF:-1,FR-Infosport+
+http://clinetiptv.ddns.net:8000/live/alger/alger/450.ts
+#EXTINF:-1,FR-Ma-Chaine-SportHD
+http://clinetiptv.ddns.net:8000/live/alger/alger/523.ts
+#EXTINF:-1,FR-BEIN-SPORT-1HD
+http://clinetiptv.ddns.net:8000/live/alger/alger/17.ts
+#EXTINF:-1,FR-BEIN-SPORT-2HD
+http://clinetiptv.ddns.net:8000/live/alger/alger/18.ts
+#EXTINF:-1,FR-BEIN-SPORT-3HD
+http://clinetiptv.ddns.net:8000/live/alger/alger/19.ts
+#EXTINF:-1,FR-BEIN-SPORT-4-MAX
+http://clinetiptv.ddns.net:8000/live/alger/alger/20.ts
+#EXTINF:-1,FR-BEIN-SPORT-5-MAX
+http://clinetiptv.ddns.net:8000/live/alger/alger/21.ts
+#EXTINF:-1,FR-BEIN-SPORT-6-MAX
+http://clinetiptv.ddns.net:8000/live/alger/alger/22.ts
+#EXTINF:-1,FR-BEIN-SPORT-7-MAX
+http://clinetiptv.ddns.net:8000/live/alger/alger/23.ts
+#EXTINF:-1,FR-BEIN-SPORT-8-MAX
+http://clinetiptv.ddns.net:8000/live/alger/alger/24.ts
+#EXTINF:-1,FR-BEIN-SPORT-9-MAX
+http://clinetiptv.ddns.net:8000/live/alger/alger/25.ts
+#EXTINF:-1,FR-BEIN-SPORT-10-MAX
+http://clinetiptv.ddns.net:8000/live/alger/alger/26.ts
+#EXTINF:-1,BOX_OFFICE_1HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/238.ts
+#EXTINF:-1,BOX_OFFICE_2HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/239.ts
+#EXTINF:-1,OSN_Cinema_1HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/236.ts
+#EXTINF:-1,OSN_Cinema_2HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/237.ts
+#EXTINF:-1,OSN-YaHala-HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/18.ts
+#EXTINF:-1,OSN-YaHala-DRAMA-HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/31.ts
+#EXTINF:-1,OSN-YaHala!-Shabab-HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/30.ts
+#EXTINF:-1,OSN-WWE-HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/35.ts
+#EXTINF:-1,OSN--Star-Movies2-HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/190.ts
+#EXTINF:-1,OSN-ON-DEMAND-1-HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/38.ts
+#EXTINF:-1,OSN-National-Geographic-HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/33.ts
+#EXTINF:-1,OSN-Movies-Premiere-HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/27.ts
+#EXTINF:-1,OSN-Movies-HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/20.ts
+#EXTINF:-1,OSN-MOVIES-First-More-HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/19.ts
+#EXTINF:-1,OSN-Movies-Festival-HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/28.ts
+#EXTINF:-1,OSN-Movies-Drama-HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/21.ts
+#EXTINF:-1,OSN-Movies-Comedy-HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/36.ts
+#EXTINF:-1,OSN-Movies-Action-HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/34.ts
+#EXTINF:-1,OSN-Movie-kids-HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/23.ts
+#EXTINF:-1,OSN-MBC+DRAMA _HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/32.ts
+#EXTINF:-1,OSN-First-HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/25.ts
+#EXTINF:-1,OSN-First-Comedy-HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/22.ts
+#EXTINF:-1,OSN-Cinema-2-HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/26.ts
+#EXTINF:-1,OSN-Cinema-1-HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/29.ts
+#EXTINF:-1,OSN-AlYoum
+http://iptv.taqmaq.com:8080/live/daniel/daniel/24.ts
+#EXTINF:-1,OSN--Star-Movies-HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/39.ts
+#EXTINF:-1,ART-Aflam-1-HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/41.ts
+#EXTINF:-1,ART-Aflam-2-HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/42.ts
+#EXTINF:-1,ART-Cinema-HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/40.ts
+#EXTINF:-1,ART_HIKAYAT_HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/45.ts
+#EXTINF:-1,ART_HIKAYAT2_HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/46.ts
+#EXTINF:-1,AR_Al-Majd
+http://iptv.taqmaq.com:8080/live/daniel/daniel/78.ts
+#EXTINF:-1,AR_iqraa
+http://iptv.taqmaq.com:8080/live/daniel/daniel/80.ts
+#EXTINF:-1,AR_QuranTV
+http://iptv.taqmaq.com:8080/live/daniel/daniel/79.ts
+#EXTINF:-1,AR_Al_Resalah
+http://iptv.taqmaq.com:8080/live/daniel/daniel/240.ts
+#EXTINF:-1,AR_Al_Rahma
+http://iptv.taqmaq.com:8080/live/daniel/daniel/463.ts
+#EXTINF:-1,AR_Al_Rafidain
+http://iptv.taqmaq.com:8080/live/daniel/daniel/464.ts
+#EXTINF:-1,AR_Spacetoon
+http://iptv.taqmaq.com:8080/live/daniel/daniel/466.ts
+#EXTINF:-1,AR_Cartoon_Network
+http://iptv.taqmaq.com:8080/live/daniel/daniel/462.ts
+#EXTINF:-1,AR_Wanasah
+http://iptv.taqmaq.com:8080/live/daniel/daniel/459.ts
+#EXTINF:-1,AR_Music_plus
+http://iptv.taqmaq.com:8080/live/daniel/daniel/460.ts
+#EXTINF:-1,AR_Mazzika
+http://iptv.taqmaq.com:8080/live/daniel/daniel/461.ts
+#EXTINF:-1,AR_Al_Haneen_Music
+http://iptv.taqmaq.com:8080/live/daniel/daniel/465.ts
+#EXTINF:-1,MA_2M
+http://iptv.taqmaq.com:8080/live/daniel/daniel/47.ts
+#EXTINF:-1,MA_alaoula
+http://iptv.taqmaq.com:8080/live/daniel/daniel/48.ts
+#EXTINF:-1,MA_almaghribia
+http://iptv.taqmaq.com:8080/live/daniel/daniel/49.ts
+#EXTINF:-1,MA_Arryadia
+http://iptv.taqmaq.com:8080/live/daniel/daniel/50.ts
+#EXTINF:-1,MA_Assadissa
+http://iptv.taqmaq.com:8080/live/daniel/daniel/51.ts
+#EXTINF:-1,MA_Medi1Tv
+http://iptv.taqmaq.com:8080/live/daniel/daniel/52.ts
+#EXTINF:-1,DZ_samiratv
+http://iptv.taqmaq.com:8080/live/daniel/daniel/66.ts
+#EXTINF:-1,DZ_KBCALGERIA
+http://iptv.taqmaq.com:8080/live/daniel/daniel/63.ts
+#EXTINF:-1,DZ_EnnaharTV
+http://iptv.taqmaq.com:8080/live/daniel/daniel/67.ts
+#EXTINF:-1,DZ_ELDJAZAIRIA
+http://iptv.taqmaq.com:8080/live/daniel/daniel/69.ts
+#EXTINF:-1,DZ_ElBiladNewstv
+http://iptv.taqmaq.com:8080/live/daniel/daniel/64.ts
+#EXTINF:-1,DZ_EchoroukTV
+http://iptv.taqmaq.com:8080/live/daniel/daniel/68.ts
+#EXTINF:-1,DZ_CANALALGERIETV
+http://iptv.taqmaq.com:8080/live/daniel/daniel/65.ts
+#EXTINF:-1,DZ_AlWatanAlgerie
+http://iptv.taqmaq.com:8080/live/daniel/daniel/62.ts
+#EXTINF:-1,DZ_A3TV
+http://iptv.taqmaq.com:8080/live/daniel/daniel/61.ts
+#EXTINF:-1,TN_TOUNESNA
+http://iptv.taqmaq.com:8080/live/daniel/daniel/57.ts
+#EXTINF:-1,TN_TNNTV
+http://iptv.taqmaq.com:8080/live/daniel/daniel/58.ts
+#EXTINF:-1,TN_TELVZATV
+http://iptv.taqmaq.com:8080/live/daniel/daniel/59.ts
+#EXTINF:-1,TN_nessma
+http://iptv.taqmaq.com:8080/live/daniel/daniel/56.ts
+#EXTINF:-1,TN_HANNIBAL
+http://iptv.taqmaq.com:8080/live/daniel/daniel/55.ts
+#EXTINF:-1,TN_ALJANOUBIA
+http://iptv.taqmaq.com:8080/live/daniel/daniel/54.ts
+#EXTINF:-1,TN_Al-Hiwar-Ettounsi
+http://iptv.taqmaq.com:8080/live/daniel/daniel/53.ts
+#EXTINF:-1,AR_MBC1
+http://iptv.taqmaq.com:8080/live/daniel/daniel/70.ts
+#EXTINF:-1,AR_MBC2
+http://iptv.taqmaq.com:8080/live/daniel/daniel/71.ts
+#EXTINF:-1,AR_MBC3
+http://iptv.taqmaq.com:8080/live/daniel/daniel/72.ts
+#EXTINF:-1,AR_MBC4
+http://iptv.taqmaq.com:8080/live/daniel/daniel/73.ts
+#EXTINF:-1,AR_MBC_ACTION
+http://iptv.taqmaq.com:8080/live/daniel/daniel/76.ts
+#EXTINF:-1,AR_MBC_DRAMA
+http://iptv.taqmaq.com:8080/live/daniel/daniel/74.ts
+#EXTINF:-1,AR_MBC_Masr1
+http://iptv.taqmaq.com:8080/live/daniel/daniel/75.ts
+#EXTINF:-1,AR_MBC_BOLLYWOOD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/77.ts
+#EXTINF:-1,AR_Rotana_Music
+http://iptv.taqmaq.com:8080/live/daniel/daniel/447.ts
+#EXTINF:-1,AR_Rotana_Masriya
+http://iptv.taqmaq.com:8080/live/daniel/daniel/448.ts
+#EXTINF:-1,AR_Rotana_Khaligi
+http://iptv.taqmaq.com:8080/live/daniel/daniel/449.ts
+#EXTINF:-1,AR_Rotana_Clip
+http://iptv.taqmaq.com:8080/live/daniel/daniel/450.ts
+#EXTINF:-1,AR_Rotana_Classic
+http://iptv.taqmaq.com:8080/live/daniel/daniel/451.ts
+#EXTINF:-1,AR_Rotana_cinema
+http://iptv.taqmaq.com:8080/live/daniel/daniel/452.ts
+#EXTINF:-1,AR_Rotana_Aflam
+http://iptv.taqmaq.com:8080/live/daniel/daniel/453.ts
+#EXTINF:-1,AR_Nile_Tv
+http://iptv.taqmaq.com:8080/live/daniel/daniel/454.ts
+#EXTINF:-1,AR_Nile_News
+http://iptv.taqmaq.com:8080/live/daniel/daniel/455.ts
+#EXTINF:-1,AR_Nile_Drama
+http://iptv.taqmaq.com:8080/live/daniel/daniel/456.ts
+#EXTINF:-1,AR_Nile_Comedy
+http://iptv.taqmaq.com:8080/live/daniel/daniel/457.ts
+#EXTINF:-1,AR_Nile_Cinema
+http://iptv.taqmaq.com:8080/live/daniel/daniel/458.ts
+#EXTINF:-1,AR_ZEE_AFLAM
+http://iptv.taqmaq.com:8080/live/daniel/daniel/82.ts
+#EXTINF:-1,AR_ZEE_ALWAN
+http://iptv.taqmaq.com:8080/live/daniel/daniel/81.ts
+#EXTINF:-1,IN_jayatv
+http://iptv.taqmaq.com:8080/live/daniel/daniel/280.ts
+#EXTINF:-1,IN_Aajtak
+http://iptv.taqmaq.com:8080/live/daniel/daniel/278.ts
+#EXTINF:-1,IN_Bindass_Play
+http://iptv.taqmaq.com:8080/live/daniel/daniel/279.ts
+#EXTINF:-1,IN_Z_Cine
+http://iptv.taqmaq.com:8080/live/daniel/daniel/272.ts
+#EXTINF:-1,IN_Zoom
+http://iptv.taqmaq.com:8080/live/daniel/daniel/269.ts
+#EXTINF:-1,IN_Sun_Tv
+http://iptv.taqmaq.com:8080/live/daniel/daniel/274.ts
+#EXTINF:-1,IN_Sun_Music
+http://iptv.taqmaq.com:8080/live/daniel/daniel/275.ts
+#EXTINF:-1,IN_Ten_Cricket
+http://iptv.taqmaq.com:8080/live/daniel/daniel/273.ts
+#EXTINF:-1,IN_SonY_Us
+http://iptv.taqmaq.com:8080/live/daniel/daniel/105.ts
+#EXTINF:-1,IN_Sony_Sab
+http://iptv.taqmaq.com:8080/live/daniel/daniel/106.ts
+#EXTINF:-1,IN_Sony_Pix_HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/107.ts
+#EXTINF:-1,IN_Sony_HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/108.ts
+#EXTINF:-1,IN_Star_Plus_HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/104.ts
+#EXTINF:-1,IN_Star_Gold
+http://iptv.taqmaq.com:8080/live/daniel/daniel/277.ts
+#EXTINF:-1,IN_Starz_Cinema
+http://iptv.taqmaq.com:8080/live/daniel/daniel/276.ts
+#EXTINF:-1,IN_Zee_Action
+http://iptv.taqmaq.com:8080/live/daniel/daniel/102.ts
+#EXTINF:-1,IN_Zee_Cinema
+http://iptv.taqmaq.com:8080/live/daniel/daniel/103.ts
+#EXTINF:-1,IN_Zee_Classic
+http://iptv.taqmaq.com:8080/live/daniel/daniel/101.ts
+#EXTINF:-1,IN_Zee_Tv_Us
+http://iptv.taqmaq.com:8080/live/daniel/daniel/270.ts
+#EXTINF:-1,IN_Zee_Punjabi
+http://iptv.taqmaq.com:8080/live/daniel/daniel/271.ts
+#EXTINF:-1,FR_CANAL_PLAY1
+http://iptv.taqmaq.com:8080/live/daniel/daniel/241.ts
+#EXTINF:-1,FR_CANAL_PLAY2
+http://iptv.taqmaq.com:8080/live/daniel/daniel/242.ts
+#EXTINF:-1,FR_CANAL_PLAY3
+http://iptv.taqmaq.com:8080/live/daniel/daniel/243.ts
+#EXTINF:-1,FR_CANAL_PLAY4
+http://iptv.taqmaq.com:8080/live/daniel/daniel/244.ts
+#EXTINF:-1,FR_CANAL_PLAY5
+http://iptv.taqmaq.com:8080/live/daniel/daniel/245.ts
+#EXTINF:-1,FR_CANAL_PLAY7
+http://iptv.taqmaq.com:8080/live/daniel/daniel/246.ts
+#EXTINF:-1,FR_CANAL_PLAY8
+http://iptv.taqmaq.com:8080/live/daniel/daniel/247.ts
+#EXTINF:-1,FR_CANAL_PLAY9
+http://iptv.taqmaq.com:8080/live/daniel/daniel/248.ts
+#EXTINF:-1,FR_CANAL_PLAY10
+http://iptv.taqmaq.com:8080/live/daniel/daniel/249.ts
+#EXTINF:-1,FR_A_LA_CARTE1
+http://iptv.taqmaq.com:8080/live/daniel/daniel/250.ts
+#EXTINF:-1,FR_A_LA_CARTE2
+http://iptv.taqmaq.com:8080/live/daniel/daniel/251.ts
+#EXTINF:-1,FR_A_LA_CARTE3
+http://iptv.taqmaq.com:8080/live/daniel/daniel/252.ts
+#EXTINF:-1,FR_A_LA_CARTE4
+http://iptv.taqmaq.com:8080/live/daniel/daniel/253.ts
+#EXTINF:-1,FR_A_LA_CARTE5
+http://iptv.taqmaq.com:8080/live/daniel/daniel/254.ts
+#EXTINF:-1,FR_A_LA_CARTE6
+http://iptv.taqmaq.com:8080/live/daniel/daniel/255.ts
+#EXTINF:-1,FR_A_LA_CARTE7
+http://iptv.taqmaq.com:8080/live/daniel/daniel/256.ts
+#EXTINF:-1,FR_A_LA_CARTE8
+http://iptv.taqmaq.com:8080/live/daniel/daniel/257.ts
+#EXTINF:-1,FR_A_LA_CARTE9
+http://iptv.taqmaq.com:8080/live/daniel/daniel/258.ts
+#EXTINF:-1,FR_A_LA_CARTE10
+http://iptv.taqmaq.com:8080/live/daniel/daniel/259.ts
+#EXTINF:-1,FR_A_LA_CARTE11
+http://iptv.taqmaq.com:8080/live/daniel/daniel/260.ts
+#EXTINF:-1,FR_BEINSPORT_1HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/98.ts
+#EXTINF:-1,FR_BEINSPORT_2HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/99.ts
+#EXTINF:-1,FR_BEINSPORT_3HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/100.ts
+#EXTINF:-1,FR_EuroSport_1HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/114.ts
+#EXTINF:-1,FR_EQUIDIA
+http://iptv.taqmaq.com:8080/live/daniel/daniel/126.ts
+#EXTINF:-1,FR_National_Geo_Wild
+http://iptv.taqmaq.com:8080/live/daniel/daniel/120.ts
+#EXTINF:-1,FR_Planete_Plus_HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/118.ts
+#EXTINF:-1,FR_Chasse&Peche
+http://iptv.taqmaq.com:8080/live/daniel/daniel/115.ts
+#EXTINF:-1,FR_Animaux_HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/127.ts
+#EXTINF:-1,FR_OCS_Max_HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/123.ts
+#EXTINF:-1,FR_OCS_Géants_HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/122.ts
+#EXTINF:-1,FR_OCS_City_HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/121.ts
+#EXTINF:-1,FR_Mangas
+http://iptv.taqmaq.com:8080/live/daniel/daniel/117.ts
+#EXTINF:-1,FR_BoomeRang
+http://iptv.taqmaq.com:8080/live/daniel/daniel/113.ts
+#EXTINF:-1,FR_Gulli
+http://iptv.taqmaq.com:8080/live/daniel/daniel/125.ts
+#EXTINF:-1,FR_TF1_HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/119.ts
+#EXTINF:-1,FR_M6_HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/124.ts
+#EXTINF:-1,FR_FranceO
+http://iptv.taqmaq.com:8080/live/daniel/daniel/109.ts
+#EXTINF:-1,FR_France2
+http://iptv.taqmaq.com:8080/live/daniel/daniel/110.ts
+#EXTINF:-1,FR_France3
+http://iptv.taqmaq.com:8080/live/daniel/daniel/111.ts
+#EXTINF:-1,FR_France4
+http://iptv.taqmaq.com:8080/live/daniel/daniel/112.ts
+#EXTINF:-1,FR_D8
+http://iptv.taqmaq.com:8080/live/daniel/daniel/116.ts
+#EXTINF:-1,FR_Canal+_HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/131.ts
+#EXTINF:-1,FR_Canal+_Family_HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/130.ts
+#EXTINF:-1,FR_Canal+_Decale_HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/129.ts
+#EXTINF:-1,FR_Canal+_Cinema_HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/128.ts
+#EXTINF:-1,FR_Canal+_Series_HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/132.ts
+#EXTINF:-1,ES_Canal_Liga
+http://iptv.taqmaq.com:8080/live/daniel/daniel/91.ts
+#EXTINF:-1,ES_Canal_Golf
+http://iptv.taqmaq.com:8080/live/daniel/daniel/92.ts
+#EXTINF:-1,ES_Canal_Futbol
+http://iptv.taqmaq.com:8080/live/daniel/daniel/93.ts
+#EXTINF:-1,ES_Canal_DEPORTES
+http://iptv.taqmaq.com:8080/live/daniel/daniel/96.ts
+#EXTINF:-1,ES_Canal_DCine
+http://iptv.taqmaq.com:8080/live/daniel/daniel/94.ts
+#EXTINF:-1,ES_Canal_Comedia
+http://iptv.taqmaq.com:8080/live/daniel/daniel/95.ts
+#EXTINF:-1,ES_Real_Madrid_Channel
+http://iptv.taqmaq.com:8080/live/daniel/daniel/84.ts
+#EXTINF:-1,ES_Barca_TV
+http://iptv.taqmaq.com:8080/live/daniel/daniel/97.ts
+#EXTINF:-1,ES_NAT_GEO_WILD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/85.ts
+#EXTINF:-1,ES_NAT_GEO
+http://iptv.taqmaq.com:8080/live/daniel/daniel/90.ts
+#EXTINF:-1,ES_Hollywood
+http://iptv.taqmaq.com:8080/live/daniel/daniel/86.ts
+#EXTINF:-1,ES_Telecinco
+http://iptv.taqmaq.com:8080/live/daniel/daniel/83.ts
+#EXTINF:-1,ES_Moviestar_Motogp
+http://iptv.taqmaq.com:8080/live/daniel/daniel/87.ts
+#EXTINF:-1,ES_Disney_Channel
+http://iptv.taqmaq.com:8080/live/daniel/daniel/88.ts
+#EXTINF:-1,ES_Discovery
+http://iptv.taqmaq.com:8080/live/daniel/daniel/89.ts
+#EXTINF:-1,DE_SPORT_TIME_TV2
+http://iptv.taqmaq.com:8080/live/daniel/daniel/195.ts
+#EXTINF:-1,DE_SPORT_TIME_TV3
+http://iptv.taqmaq.com:8080/live/daniel/daniel/196.ts
+#EXTINF:-1,DE_SPORT_TIME_TV4
+http://iptv.taqmaq.com:8080/live/daniel/daniel/197.ts
+#EXTINF:-1,DE_SPORT_TIME_TV5
+http://iptv.taqmaq.com:8080/live/daniel/daniel/198.ts
+#EXTINF:-1,DE_SPORT_TIME_TV6
+http://iptv.taqmaq.com:8080/live/daniel/daniel/199.ts
+#EXTINF:-1,DE_SPORT_TIME_TV7
+http://iptv.taqmaq.com:8080/live/daniel/daniel/200.ts
+#EXTINF:-1,DE_Sky_Sport_1HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/134.ts
+#EXTINF:-1,DE_Sky_Sport_2HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/133.ts
+#EXTINF:-1,DE_Sky_Select_1HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/142.ts
+#EXTINF:-1,DE_Sky_Select_2HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/143.ts
+#EXTINF:-1,DE_Sky_Select_3HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/144.ts
+#EXTINF:-1,DE_Sky_Select_4HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/145.ts
+#EXTINF:-1,DE_Sky_Select_5HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/146.ts
+#EXTINF:-1,DE_Sky_Select_6HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/147.ts
+#EXTINF:-1,DE_Sky_Select_7HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/148.ts
+#EXTINF:-1,DE_Sky_Select_8HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/149.ts
+#EXTINF:-1,DE_Sky_Select_9HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/150.ts
+#EXTINF:-1,DE_Sky_Select_10HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/151.ts
+#EXTINF:-1,DE_Sky_Emotion
+http://iptv.taqmaq.com:8080/live/daniel/daniel/135.ts
+#EXTINF:-1,DE_Sky_Comedy
+http://iptv.taqmaq.com:8080/live/daniel/daniel/136.ts
+#EXTINF:-1,DE_Sky_Cinema+_24
+http://iptv.taqmaq.com:8080/live/daniel/daniel/137.ts
+#EXTINF:-1,DE_Sky_Cinema
+http://iptv.taqmaq.com:8080/live/daniel/daniel/138.ts
+#EXTINF:-1,DE_Sky_BundesLiga_HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/139.ts
+#EXTINF:-1,DE_Sky_Atlantic
+http://iptv.taqmaq.com:8080/live/daniel/daniel/140.ts
+#EXTINF:-1,DE_Sky_Action
+http://iptv.taqmaq.com:8080/live/daniel/daniel/141.ts
+#EXTINF:-1,UK_ITV1
+http://iptv.taqmaq.com:8080/live/daniel/daniel/230.ts
+#EXTINF:-1,UK_ITV2
+http://iptv.taqmaq.com:8080/live/daniel/daniel/231.ts
+#EXTINF:-1,UK_ITV3
+http://iptv.taqmaq.com:8080/live/daniel/daniel/232.ts
+#EXTINF:-1,UK_ITV4
+http://iptv.taqmaq.com:8080/live/daniel/daniel/233.ts
+#EXTINF:-1,UK_BBC_1HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/234.ts
+#EXTINF:-1,UK_BBC_2HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/235.ts
+#EXTINF:-1,UK_BBC_3HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/261.ts
+#EXTINF:-1,UK_BBC_4HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/262.ts
+#EXTINF:-1,UK_Setanta_Ireland
+http://iptv.taqmaq.com:8080/live/daniel/daniel/263.ts
+#EXTINF:-1,UK_Sky_Movie_Sci-Fi_horror
+http://iptv.taqmaq.com:8080/live/daniel/daniel/229.ts
+#EXTINF:-1,UK_Sky_Movies_Thriller
+http://iptv.taqmaq.com:8080/live/daniel/daniel/219.ts
+#EXTINF:-1,UK_Sky_Movies_Select
+http://iptv.taqmaq.com:8080/live/daniel/daniel/220.ts
+#EXTINF:-1,UK_Sky_Movies_Premiere1
+http://iptv.taqmaq.com:8080/live/daniel/daniel/221.ts
+#EXTINF:-1,UK_Sky_Movies_Premiere
+http://iptv.taqmaq.com:8080/live/daniel/daniel/222.ts
+#EXTINF:-1,UK_Sky_Movies_Greats
+http://iptv.taqmaq.com:8080/live/daniel/daniel/223.ts
+#EXTINF:-1,UK_Sky_Movies_Family
+http://iptv.taqmaq.com:8080/live/daniel/daniel/224.ts
+#EXTINF:-1,UK_Sky_Movies_Drama_Romance
+http://iptv.taqmaq.com:8080/live/daniel/daniel/225.ts
+#EXTINF:-1,UK_Sky_Movies_Disney
+http://iptv.taqmaq.com:8080/live/daniel/daniel/226.ts
+#EXTINF:-1,UK_Sky_Movies_Comedy
+http://iptv.taqmaq.com:8080/live/daniel/daniel/227.ts
+#EXTINF:-1,UK_Sky_Movies_Action
+http://iptv.taqmaq.com:8080/live/daniel/daniel/228.ts
+#EXTINF:-1,UK_National_Geography_Wild
+http://iptv.taqmaq.com:8080/live/daniel/daniel/268.ts
+#EXTINF:-1,UK_Disney_Channel
+http://iptv.taqmaq.com:8080/live/daniel/daniel/265.ts
+#EXTINF:-1,UK_Discovery_History
+http://iptv.taqmaq.com:8080/live/daniel/daniel/266.ts
+#EXTINF:-1,UK_Discovery
+http://iptv.taqmaq.com:8080/live/daniel/daniel/267.ts
+#EXTINF:-1,UK_Sky_Sports1
+http://iptv.taqmaq.com:8080/live/daniel/daniel/152.ts
+#EXTINF:-1,UK_sky_sports2
+http://iptv.taqmaq.com:8080/live/daniel/daniel/153.ts
+#EXTINF:-1,UK_SKY_SPORTS3
+http://iptv.taqmaq.com:8080/live/daniel/daniel/154.ts
+#EXTINF:-1,UK_SKY_SPORTS4
+http://iptv.taqmaq.com:8080/live/daniel/daniel/155.ts
+#EXTINF:-1,UK_SKY_SPORTS5
+http://iptv.taqmaq.com:8080/live/daniel/daniel/156.ts
+#EXTINF:-1,UK_SKY_SPORTS_F1
+http://iptv.taqmaq.com:8080/live/daniel/daniel/157.ts
+#EXTINF:-1,UK_BT_ESPN_HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/264.ts
+#EXTINF:-1,UK_BT_Sports_1
+http://iptv.taqmaq.com:8080/live/daniel/daniel/192.ts
+#EXTINF:-1,UK_BT_Sports_2
+http://iptv.taqmaq.com:8080/live/daniel/daniel/191.ts
+#EXTINF:-1,UK_Euro_Sports_1
+http://iptv.taqmaq.com:8080/live/daniel/daniel/193.ts
+#EXTINF:-1,UK_Euro_Sports_2
+http://iptv.taqmaq.com:8080/live/daniel/daniel/194.ts
+#EXTINF:-1,UK_SKY_SPORTS_NEWS
+http://iptv.taqmaq.com:8080/live/daniel/daniel/158.ts
+#EXTINF:-1,IT_Rai1
+http://iptv.taqmaq.com:8080/live/daniel/daniel/160.ts
+#EXTINF:-1,IT_Rai 2
+http://iptv.taqmaq.com:8080/live/daniel/daniel/161.ts
+#EXTINF:-1,IT_RAI3
+http://iptv.taqmaq.com:8080/live/daniel/daniel/218.ts
+#EXTINF:-1,IT_Rai4
+http://iptv.taqmaq.com:8080/live/daniel/daniel/162.ts
+#EXTINF:-1,IT_Rai_Sport1
+http://iptv.taqmaq.com:8080/live/daniel/daniel/163.ts
+#EXTINF:-1,IT_Rai_Premium
+http://iptv.taqmaq.com:8080/live/daniel/daniel/164.ts
+#EXTINF:-1,IT_Rai_News24
+http://iptv.taqmaq.com:8080/live/daniel/daniel/165.ts
+#EXTINF:-1,IT_Rai_Movie
+http://iptv.taqmaq.com:8080/live/daniel/daniel/166.ts
+#EXTINF:-1,IT_Sky_primafila1
+http://iptv.taqmaq.com:8080/live/daniel/daniel/181.ts
+#EXTINF:-1,IT_Sky_Primafila2
+http://iptv.taqmaq.com:8080/live/daniel/daniel/182.ts
+#EXTINF:-1,IT_Sky_Primafila3
+http://iptv.taqmaq.com:8080/live/daniel/daniel/183.ts
+#EXTINF:-1,IT_Sky_Primafila4
+http://iptv.taqmaq.com:8080/live/daniel/daniel/184.ts
+#EXTINF:-1,IT_Sky_Primafila5
+http://iptv.taqmaq.com:8080/live/daniel/daniel/185.ts
+#EXTINF:-1,IT_Sky_Primafila6
+http://iptv.taqmaq.com:8080/live/daniel/daniel/186.ts
+#EXTINF:-1,IT_Sky_Primafila7
+http://iptv.taqmaq.com:8080/live/daniel/daniel/187.ts
+#EXTINF:-1,IT_Sky_Primafila8
+http://iptv.taqmaq.com:8080/live/daniel/daniel/188.ts
+#EXTINF:-1,IT_Sky_Primafila9
+http://iptv.taqmaq.com:8080/live/daniel/daniel/189.ts
+#EXTINF:-1,IT_Sky_Cinema_Passion
+http://iptv.taqmaq.com:8080/live/daniel/daniel/159.ts
+#EXTINF:-1,IT_Premium_Studio_Universal
+http://iptv.taqmaq.com:8080/live/daniel/daniel/167.ts
+#EXTINF:-1,IT_Premium_EuroSport_2HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/179.ts
+#EXTINF:-1,IT_Premium_Emotion
+http://iptv.taqmaq.com:8080/live/daniel/daniel/174.ts
+#EXTINF:-1,IT_Premium_Disney_Junior
+http://iptv.taqmaq.com:8080/live/daniel/daniel/170.ts
+#EXTINF:-1,IT_Premium_Disney_Channel
+http://iptv.taqmaq.com:8080/live/daniel/daniel/168.ts
+#EXTINF:-1,IT_Premium_Disney_Channe
+http://iptv.taqmaq.com:8080/live/daniel/daniel/171.ts
+#EXTINF:-1,IT_Premium_Crime
+http://iptv.taqmaq.com:8080/live/daniel/daniel/172.ts
+#EXTINF:-1,IT_Premium_Cinema_Comedy
+http://iptv.taqmaq.com:8080/live/daniel/daniel/176.ts
+#EXTINF:-1,IT_Premium_CinemaHD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/173.ts
+#EXTINF:-1,IT_Premium_Cinema+_24
+http://iptv.taqmaq.com:8080/live/daniel/daniel/175.ts
+#EXTINF:-1,IT_Premium_CartooN_Network
+http://iptv.taqmaq.com:8080/live/daniel/daniel/178.ts
+#EXTINF:-1,IT_Premium_Calcio
+http://iptv.taqmaq.com:8080/live/daniel/daniel/180.ts
+#EXTINF:-1,IT_Premium_Action_24
+http://iptv.taqmaq.com:8080/live/daniel/daniel/169.ts
+#EXTINF:-1,IT_Premium_ActionHD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/177.ts
+#EXTINF:-1,NL_NPO1
+http://iptv.taqmaq.com:8080/live/daniel/daniel/207.ts
+#EXTINF:-1,NL_NPO2
+http://iptv.taqmaq.com:8080/live/daniel/daniel/208.ts
+#EXTINF:-1,NL_NPO3
+http://iptv.taqmaq.com:8080/live/daniel/daniel/212.ts
+#EXTINF:-1,NL_NET5_HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/217.ts
+#EXTINF:-1,NL_HBO_1HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/201.ts
+#EXTINF:-1,NL_HBO_2HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/202.ts
+#EXTINF:-1,NL_HBO_3HD
+http://iptv.taqmaq.com:8080/live/daniel/daniel/203.ts
+#EXTINF:-1,NL_FOX_SPORT1
+http://iptv.taqmaq.com:8080/live/daniel/daniel/204.ts
+#EXTINF:-1,NL_FOX_SPORT2
+http://iptv.taqmaq.com:8080/live/daniel/daniel/205.ts
+#EXTINF:-1,NL_FOX_SPORT3
+http://iptv.taqmaq.com:8080/live/daniel/daniel/209.ts
+#EXTINF:-1,NL_FOX_SPORT4
+http://iptv.taqmaq.com:8080/live/daniel/daniel/210.ts
+#EXTINF:-1,NL_FOX_SPORT5
+http://iptv.taqmaq.com:8080/live/daniel/daniel/211.ts
+#EXTINF:-1,NL_SPORT1_SELECT
+http://iptv.taqmaq.com:8080/live/daniel/daniel/206.ts
+#EXTINF:-1,NL_Film1_Spotlight
+http://iptv.taqmaq.com:8080/live/daniel/daniel/213.ts
+#EXTINF:-1,NL_Film1_Premiere
+http://iptv.taqmaq.com:8080/live/daniel/daniel/214.ts
+#EXTINF:-1,NL_Film1_Comedy
+http://iptv.taqmaq.com:8080/live/daniel/daniel/215.ts
+#EXTINF:-1,NL_Film1_Action
+http://iptv.taqmaq.com:8080/live/daniel/daniel/216.ts
+#EXTINF:-1,EX-YU_TV_SARAJEVO
+http://iptv.taqmaq.com:8080/live/daniel/daniel/289.ts
+#EXTINF:-1,EX-YU_TV1
+http://iptv.taqmaq.com:8080/live/daniel/daniel/288.ts
+#EXTINF:-1,EX-YU_TK_Tuzla
+http://iptv.taqmaq.com:8080/live/daniel/daniel/290.ts
+#EXTINF:-1,EX-YU_RTRS
+http://iptv.taqmaq.com:8080/live/daniel/daniel/294.ts
+#EXTINF:-1,EX-YU_RTL_HR
+http://iptv.taqmaq.com:8080/live/daniel/daniel/295.ts
+#EXTINF:-1,EX-YU_RTL2_HR
+http://iptv.taqmaq.com:8080/live/daniel/daniel/296.ts
+#EXTINF:-1,EX-YU_port_Klub1
+http://iptv.taqmaq.com:8080/live/daniel/daniel/291.ts
+#EXTINF:-1,EX-YU_port_Klub2
+http://iptv.taqmaq.com:8080/live/daniel/daniel/292.ts
+#EXTINF:-1,EX-YU_port_Klub3
+http://iptv.taqmaq.com:8080/live/daniel/daniel/293.ts
+#EXTINF:-1,EX-YU_Pink_Zabava
+http://iptv.taqmaq.com:8080/live/daniel/daniel/297.ts
+#EXTINF:-1,EX-YU_Pink_Western
+http://iptv.taqmaq.com:8080/live/daniel/daniel/298.ts
+#EXTINF:-1,EX-YU_Pink_Thriller
+http://iptv.taqmaq.com:8080/live/daniel/daniel/299.ts
+#EXTINF:-1,EX-YU_Pink_Premium
+http://iptv.taqmaq.com:8080/live/daniel/daniel/300.ts
+#EXTINF:-1,EX-YU_Pink_Plus
+http://iptv.taqmaq.com:8080/live/daniel/daniel/301.ts
+#EXTINF:-1,EX-YU_Pink_Movies
+http://iptv.taqmaq.com:8080/live/daniel/daniel/302.ts
+#EXTINF:-1,EX-YU_Pink_M
+http://iptv.taqmaq.com:8080/live/daniel/daniel/303.ts
+#EXTINF:-1,EX-YU_Pink_Horror
+http://iptv.taqmaq.com:8080/live/daniel/daniel/304.ts
+#EXTINF:-1,EX-YU_Pink_Folk2
+http://iptv.taqmaq.com:8080/live/daniel/daniel/305.ts
+#EXTINF:-1,EX-YU_Pink_Folk1
+http://iptv.taqmaq.com:8080/live/daniel/daniel/306.ts
+#EXTINF:-1,EX-YU_Pink_Film
+http://iptv.taqmaq.com:8080/live/daniel/daniel/307.ts
+#EXTINF:-1,EX-YU_Pink_Extra
+http://iptv.taqmaq.com:8080/live/daniel/daniel/308.ts
+#EXTINF:-1,EX-YU_Pink_Crime&Mystery
+http://iptv.taqmaq.com:8080/live/daniel/daniel/309.ts
+#EXTINF:-1,EX-YU_Pink_Comedy
+http://iptv.taqmaq.com:8080/live/daniel/daniel/310.ts
+#EXTINF:-1,EX-YU_Pink_BH
+http://iptv.taqmaq.com:8080/live/daniel/daniel/311.ts
+#EXTINF:-1,EX-YU_Pink_Action
+http://iptv.taqmaq.com:8080/live/daniel/daniel/312.ts
+#EXTINF:-1,EX-YU_Pink2
+http://iptv.taqmaq.com:8080/live/daniel/daniel/313.ts
+#EXTINF:-1,EX-YU_Pink
+http://iptv.taqmaq.com:8080/live/daniel/daniel/314.ts
+#EXTINF:-1,EX-YU_OBN
+http://iptv.taqmaq.com:8080/live/daniel/daniel/315.ts
+#EXTINF:-1,EX-YU_Nova_TV
+http://iptv.taqmaq.com:8080/live/daniel/daniel/316.ts
+#EXTINF:-1,EX-YU_MTV_Igman
+http://iptv.taqmaq.com:8080/live/daniel/daniel/317.ts
+#EXTINF:-1,EX-YU_HRT1
+http://iptv.taqmaq.com:8080/live/daniel/daniel/318.ts
+#EXTINF:-1,EX-YU_HRT2
+http://iptv.taqmaq.com:8080/live/daniel/daniel/319.ts
+#EXTINF:-1,EX-YU_HRT3
+http://iptv.taqmaq.com:8080/live/daniel/daniel/320.ts
+#EXTINF:-1,EX-YU_Hayat_Plus
+http://iptv.taqmaq.com:8080/live/daniel/daniel/321.ts
+#EXTINF:-1,EX-YU_Hayat_Folk
+http://iptv.taqmaq.com:8080/live/daniel/daniel/322.ts
+#EXTINF:-1,EX-YU_Hayat
+http://iptv.taqmaq.com:8080/live/daniel/daniel/323.ts
+#EXTINF:-1,EX-YU_Federalna_TV
+http://iptv.taqmaq.com:8080/live/daniel/daniel/324.ts
+#EXTINF:-1,EX-YU_Face_TV
+http://iptv.taqmaq.com:8080/live/daniel/daniel/325.ts
+#EXTINF:-1,EX-YU_Doma_TV
+http://iptv.taqmaq.com:8080/live/daniel/daniel/326.ts
+#EXTINF:-1,EX-YU_Bujrum_TV
+http://iptv.taqmaq.com:8080/live/daniel/daniel/327.ts
+#EXTINF:-1,EX-YU_Bosna_TV1
+http://iptv.taqmaq.com:8080/live/daniel/daniel/328.ts
+#EXTINF:-1,EX-YU_BHT1
+http://iptv.taqmaq.com:8080/live/daniel/daniel/329.ts
+#EXTINF:-1,EX-YU_B92
+http://iptv.taqmaq.com:8080/live/daniel/daniel/330.ts
+#EXTINF:-1,EX-YU_ATV
+http://iptv.taqmaq.com:8080/live/daniel/daniel/331.ts
+#EXTINF:-1,EX-YU_Arena_Sport3
+http://iptv.taqmaq.com:8080/live/daniel/daniel/332.ts
+#EXTINF:-1,EX-YU_Arena_Sport2
+http://iptv.taqmaq.com:8080/live/daniel/daniel/333.ts
+#EXTINF:-1,EX-YU_Arena_Sport1
+http://iptv.taqmaq.com:8080/live/daniel/daniel/334.ts
+#EXTINF:-1,EX-YU_A1_Balkan
+http://iptv.taqmaq.com:8080/live/daniel/daniel/335.ts
+
+#EXTINF:-1,Rai 1 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/217.ts
+#EXTINF:-1,Rai 2 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/218.ts
+#EXTINF:-1,Rai 3 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/219.ts
+#EXTINF:-1,Rete 4 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/220.ts
+#EXTINF:-1,Canale 5 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/221.ts
+#EXTINF:-1,Italia 1 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/222.ts
+#EXTINF:-1,La7
+http://tvservice.webhop.me:80/live/sacco/sacco/223.ts
+#EXTINF:-1,MTV 8
+http://tvservice.webhop.me:80/live/sacco/sacco/1557.ts
+#EXTINF:-1,Deejay TV
+http://tvservice.webhop.me:80/live/sacco/sacco/2523.ts
+#EXTINF:-1,RSI La1 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/421.ts
+#EXTINF:-1,RSI La2 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/420.ts
+#EXTINF:-1,---- CINEMA ----
+http://tvservice.webhop.me:80/live/sacco/sacco/224.ts
+#EXTINF:-1,Sky Cinema 1 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/225.ts
+#EXTINF:-1,Sky Cinema +1 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/226.ts
+#EXTINF:-1,Sky Cinema +24 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/227.ts
+#EXTINF:-1,Sky Cinema 007 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/228.ts
+#EXTINF:-1,Sky Cinema Family HD
+http://tvservice.webhop.me:80/live/sacco/sacco/229.ts
+#EXTINF:-1,Sky Cinema Passion HD
+http://tvservice.webhop.me:80/live/sacco/sacco/230.ts
+#EXTINF:-1,Sky Cinema Comedy HD
+http://tvservice.webhop.me:80/live/sacco/sacco/231.ts
+#EXTINF:-1,Sky Cinema Max HD
+http://tvservice.webhop.me:80/live/sacco/sacco/232.ts
+#EXTINF:-1,Sky Cinema Max +1 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/3183.ts
+#EXTINF:-1,Sky Cinema Cult HD
+http://tvservice.webhop.me:80/live/sacco/sacco/234.ts
+#EXTINF:-1,Sky Cinema Classic HD
+http://tvservice.webhop.me:80/live/sacco/sacco/235.ts
+#EXTINF:-1,Iris
+http://tvservice.webhop.me:80/live/sacco/sacco/1481.ts
+#EXTINF:-1,Rai Movie
+http://tvservice.webhop.me:80/live/sacco/sacco/1552.ts
+#EXTINF:-1,---- INTRATTENIMENTO ----
+http://tvservice.webhop.me:80/live/sacco/sacco/236.ts
+#EXTINF:-1,Sky Uno HD
+http://tvservice.webhop.me:80/live/sacco/sacco/237.ts
+#EXTINF:-1,Sky Atlantic HD
+http://tvservice.webhop.me:80/live/sacco/sacco/238.ts
+#EXTINF:-1,Fox HD
+http://tvservice.webhop.me:80/live/sacco/sacco/239.ts
+#EXTINF:-1,Fox +1
+http://tvservice.webhop.me:80/live/sacco/sacco/2892.ts
+#EXTINF:-1,Fox Life HD
+http://tvservice.webhop.me:80/live/sacco/sacco/240.ts
+#EXTINF:-1,Fox Crime HD
+http://tvservice.webhop.me:80/live/sacco/sacco/241.ts
+#EXTINF:-1,Fox Comedy HD
+http://tvservice.webhop.me:80/live/sacco/sacco/242.ts
+#EXTINF:-1,Fox Animation HD
+http://tvservice.webhop.me:80/live/sacco/sacco/243.ts
+#EXTINF:-1,CI Crime+Investigation HD
+http://tvservice.webhop.me:80/live/sacco/sacco/244.ts
+#EXTINF:-1,AXN HD
+http://tvservice.webhop.me:80/live/sacco/sacco/245.ts
+#EXTINF:-1,AXN Sci-Fi
+http://tvservice.webhop.me:80/live/sacco/sacco/1707.ts
+#EXTINF:-1,Comedy Central
+http://tvservice.webhop.me:80/live/sacco/sacco/2190.ts
+#EXTINF:-1,Lei
+http://tvservice.webhop.me:80/live/sacco/sacco/2215.ts
+#EXTINF:-1,Lei +1
+http://tvservice.webhop.me:80/live/sacco/sacco/2590.ts
+#EXTINF:-1,Real Time
+http://tvservice.webhop.me:80/live/sacco/sacco/247.ts
+#EXTINF:-1,Real time +1
+http://tvservice.webhop.me:80/live/sacco/sacco/2905.ts
+#EXTINF:-1,Laeffe
+http://tvservice.webhop.me:80/live/sacco/sacco/2644.ts
+#EXTINF:-1,Cielo
+http://tvservice.webhop.me:80/live/sacco/sacco/246.ts
+#EXTINF:-1,Top Crime
+http://tvservice.webhop.me:80/live/sacco/sacco/1473.ts
+#EXTINF:-1,Mediaset Italia 2
+http://tvservice.webhop.me:80/live/sacco/sacco/912.ts
+#EXTINF:-1,Mediaset Extra
+http://tvservice.webhop.me:80/live/sacco/sacco/1558.ts
+#EXTINF:-1,La 5
+http://tvservice.webhop.me:80/live/sacco/sacco/1392.ts
+#EXTINF:-1,La7d
+http://tvservice.webhop.me:80/live/sacco/sacco/1561.ts
+#EXTINF:-1,Giallo
+http://tvservice.webhop.me:80/live/sacco/sacco/2482.ts
+#EXTINF:-1,Rai 4
+http://tvservice.webhop.me:80/live/sacco/sacco/911.ts
+#EXTINF:-1,Rai 5
+http://tvservice.webhop.me:80/live/sacco/sacco/1554.ts
+#EXTINF:-1,Rai Premium
+http://tvservice.webhop.me:80/live/sacco/sacco/1548.ts
+#EXTINF:-1,E! Entertainment
+http://tvservice.webhop.me:80/live/sacco/sacco/2900.ts
+#EXTINF:-1,Tv globo
+http://tvservice.webhop.me:80/live/sacco/sacco/2899.ts
+#EXTINF:-1,--- REGIONALI ---
+http://tvservice.webhop.me:80/live/sacco/sacco/2838.ts
+#EXTINF:-1,Italia 7 gold
+http://tvservice.webhop.me:80/live/sacco/sacco/2901.ts
+#EXTINF:-1,Teleticino
+http://tvservice.webhop.me:80/live/sacco/sacco/1612.ts
+#EXTINF:-1,Tv 2000
+http://tvservice.webhop.me:80/live/sacco/sacco/2049.ts
+#EXTINF:-1,Clb classic Italia
+http://tvservice.webhop.me:80/live/sacco/sacco/3218.ts
+#EXTINF:-1,R3
+http://tvservice.webhop.me:80/live/sacco/sacco/1950.ts
+#EXTINF:-1,Telemia
+http://tvservice.webhop.me:80/live/sacco/sacco/2893.ts
+#EXTINF:-1,Videolina
+http://tvservice.webhop.me:80/live/sacco/sacco/1624.ts
+#EXTINF:-1,Sardegna 1
+http://tvservice.webhop.me:80/live/sacco/sacco/2836.ts
+#EXTINF:-1,Canale 21
+http://tvservice.webhop.me:80/live/sacco/sacco/2326.ts
+#EXTINF:-1,Canale 8
+http://tvservice.webhop.me:80/live/sacco/sacco/2651.ts
+#EXTINF:-1,TV luna
+http://tvservice.webhop.me:80/live/sacco/sacco/2324.ts
+#EXTINF:-1,Canale 10
+http://tvservice.webhop.me:80/live/sacco/sacco/2325.ts
+#EXTINF:-1,---- SPORT ----
+http://tvservice.webhop.me:80/live/sacco/sacco/249.ts
+#EXTINF:-1,Sky Sport 24 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/250.ts
+#EXTINF:-1,Sky Sport 1 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/251.ts
+#EXTINF:-1,Sky Sport 2 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/252.ts
+#EXTINF:-1,Sky Sport 3 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/253.ts
+#EXTINF:-1,Sky Sport Plus HD
+http://tvservice.webhop.me:80/live/sacco/sacco/2073.ts
+#EXTINF:-1,Sky Sport F1 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/254.ts
+#EXTINF:-1,Sky Moto GP HD
+http://tvservice.webhop.me:80/live/sacco/sacco/255.ts
+#EXTINF:-1,Eurosport HD
+http://tvservice.webhop.me:80/live/sacco/sacco/2633.ts
+#EXTINF:-1,Eurosport 2 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/2634.ts
+#EXTINF:-1,Gazzetta tv
+http://tvservice.webhop.me:80/live/sacco/sacco/2618.ts
+#EXTINF:-1,Sport Italia
+http://tvservice.webhop.me:80/live/sacco/sacco/1547.ts
+#EXTINF:-1,Sport television
+http://tvservice.webhop.me:80/live/sacco/sacco/2725.ts
+#EXTINF:-1,Rai Sport 1
+http://tvservice.webhop.me:80/live/sacco/sacco/1551.ts
+#EXTINF:-1,Rai Sport 2
+http://tvservice.webhop.me:80/live/sacco/sacco/2048.ts
+#EXTINF:-1,Super Tennis HD
+http://tvservice.webhop.me:80/live/sacco/sacco/256.ts
+#EXTINF:-1,---- CALCIO ----
+http://tvservice.webhop.me:80/live/sacco/sacco/257.ts
+#EXTINF:-1,Milan channel
+http://tvservice.webhop.me:80/live/sacco/sacco/1515.ts
+#EXTINF:-1,Inter Channel
+http://tvservice.webhop.me:80/live/sacco/sacco/1917.ts
+#EXTINF:-1,Fox Sports HD
+http://tvservice.webhop.me:80/live/sacco/sacco/413.ts
+#EXTINF:-1,Sky Supercalcio HD
+http://tvservice.webhop.me:80/live/sacco/sacco/258.ts
+#EXTINF:-1,Sky Calcio 1 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/259.ts
+#EXTINF:-1,Sky Calcio 2 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/260.ts
+#EXTINF:-1,Sky Calcio 3 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/261.ts
+#EXTINF:-1,Sky Calcio 4 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/262.ts
+#EXTINF:-1,Sky Calcio 5 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/263.ts
+#EXTINF:-1,Sky Calcio 6 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/264.ts
+#EXTINF:-1,Sky Calcio 7 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/2739.ts
+#EXTINF:-1,--- SPORTUBE ---
+http://tvservice.webhop.me:80/live/sacco/sacco/3136.ts
+#EXTINF:-1,Sportube 1 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/3144.ts
+#EXTINF:-1,Sportube 2 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/3132.ts
+#EXTINF:-1,Sportube 3 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/3135.ts
+#EXTINF:-1,Sportube 4 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/3137.ts
+#EXTINF:-1,Sportube 5 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/3138.ts
+#EXTINF:-1,Sportube 6 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/3139.ts
+#EXTINF:-1,Sportube 7 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/3140.ts
+#EXTINF:-1,Sportube 8 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/3141.ts
+#EXTINF:-1,Sportube 9 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/3143.ts
+#EXTINF:-1,Sportube 10 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/3145.ts
+#EXTINF:-1,Sportube 11 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/3146.ts
+#EXTINF:-1,Sportube 12 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/3147.ts
+#EXTINF:-1,Sportube 13 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/3169.ts
+#EXTINF:-1,Sportube 14 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/3195.ts
+#EXTINF:-1,Sportube 15 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/3142.ts
+#EXTINF:-1,---- CULTURA ----
+http://tvservice.webhop.me:80/live/sacco/sacco/266.ts
+#EXTINF:-1,Sky Arte HD
+http://tvservice.webhop.me:80/live/sacco/sacco/1526.ts
+#EXTINF:-1,NationalGeo HD
+http://tvservice.webhop.me:80/live/sacco/sacco/267.ts
+#EXTINF:-1,NatGeo People HD
+http://tvservice.webhop.me:80/live/sacco/sacco/268.ts
+#EXTINF:-1,NatGeo Wild HD
+http://tvservice.webhop.me:80/live/sacco/sacco/394.ts
+#EXTINF:-1,Discovery Sci HD
+http://tvservice.webhop.me:80/live/sacco/sacco/357.ts
+#EXTINF:-1,Explora HD
+http://tvservice.webhop.me:80/live/sacco/sacco/284.ts
+#EXTINF:-1,Discovery Channel HD
+http://tvservice.webhop.me:80/live/sacco/sacco/269.ts
+#EXTINF:-1,Discovery Travel
+http://tvservice.webhop.me:80/live/sacco/sacco/2277.ts
+#EXTINF:-1,Premium Discovery World
+http://tvservice.webhop.me:80/live/sacco/sacco/303.ts
+#EXTINF:-1,Premium BBC
+http://tvservice.webhop.me:80/live/sacco/sacco/302.ts
+#EXTINF:-1,History HD
+http://tvservice.webhop.me:80/live/sacco/sacco/272.ts
+#EXTINF:-1,Gambero Rosso HD
+http://tvservice.webhop.me:80/live/sacco/sacco/1920.ts
+#EXTINF:-1,Focus
+http://tvservice.webhop.me:80/live/sacco/sacco/679.ts
+#EXTINF:-1,Animal Planet
+http://tvservice.webhop.me:80/live/sacco/sacco/1490.ts
+#EXTINF:-1,Caccia e Pesca
+http://tvservice.webhop.me:80/live/sacco/sacco/273.ts
+#EXTINF:-1,Pesca e Caccia
+http://tvservice.webhop.me:80/live/sacco/sacco/863.ts
+#EXTINF:-1,Italian Fishing Tv
+http://tvservice.webhop.me:80/live/sacco/sacco/2874.ts
+#EXTINF:-1,Nuvolari
+http://tvservice.webhop.me:80/live/sacco/sacco/2096.ts
+#EXTINF:-1,Marcopolo
+http://tvservice.webhop.me:80/live/sacco/sacco/1559.ts
+#EXTINF:-1,Alice
+http://tvservice.webhop.me:80/live/sacco/sacco/1569.ts
+#EXTINF:-1,Fine living
+http://tvservice.webhop.me:80/live/sacco/sacco/1395.ts
+#EXTINF:-1,DMAX HD
+http://tvservice.webhop.me:80/live/sacco/sacco/271.ts
+#EXTINF:-1,---- MUSICA ---
+http://tvservice.webhop.me:80/live/sacco/sacco/274.ts
+#EXTINF:-1,m2o
+http://tvservice.webhop.me:80/live/sacco/sacco/2517.ts
+#EXTINF:-1,Mtv Music
+http://tvservice.webhop.me:80/live/sacco/sacco/1556.ts
+#EXTINF:-1,Radio 105
+http://tvservice.webhop.me:80/live/sacco/sacco/2518.ts
+#EXTINF:-1,Radio Tv Capital
+http://tvservice.webhop.me:80/live/sacco/sacco/2656.ts
+#EXTINF:-1,Radio Italia tv
+http://tvservice.webhop.me:80/live/sacco/sacco/290.ts
+#EXTINF:-1,R.T.L 102.5
+http://tvservice.webhop.me:80/live/sacco/sacco/289.ts
+#EXTINF:-1,Dance 90
+http://tvservice.webhop.me:80/live/sacco/sacco/277.ts
+#EXTINF:-1,RDS
+http://tvservice.webhop.me:80/live/sacco/sacco/1479.ts
+#EXTINF:-1,--- BAMBINI ---
+http://tvservice.webhop.me:80/live/sacco/sacco/1397.ts
+#EXTINF:-1,Disney XD
+http://tvservice.webhop.me:80/live/sacco/sacco/1566.ts
+#EXTINF:-1,DeAKids
+http://tvservice.webhop.me:80/live/sacco/sacco/3219.ts
+#EXTINF:-1,Nick Jr.
+http://tvservice.webhop.me:80/live/sacco/sacco/3220.ts
+#EXTINF:-1,Super!
+http://tvservice.webhop.me:80/live/sacco/sacco/1546.ts
+#EXTINF:-1,K2
+http://tvservice.webhop.me:80/live/sacco/sacco/1563.ts
+#EXTINF:-1,Premium Disney Channel
+http://tvservice.webhop.me:80/live/sacco/sacco/285.ts
+#EXTINF:-1,Premium Disney Channel +1
+http://tvservice.webhop.me:80/live/sacco/sacco/403.ts
+#EXTINF:-1,Premium Disney Junior
+http://tvservice.webhop.me:80/live/sacco/sacco/286.ts
+#EXTINF:-1,Premium Cartoon Network
+http://tvservice.webhop.me:80/live/sacco/sacco/287.ts
+#EXTINF:-1,-frisbee-
+http://tvservice.webhop.me:80/live/sacco/sacco/1564.ts
+#EXTINF:-1,Rai yoyo
+http://tvservice.webhop.me:80/live/sacco/sacco/1549.ts
+#EXTINF:-1,Rai Gulp
+http://tvservice.webhop.me:80/live/sacco/sacco/1553.ts
+#EXTINF:-1,Boing
+http://tvservice.webhop.me:80/live/sacco/sacco/1393.ts
+#EXTINF:-1,Cartoonito
+http://tvservice.webhop.me:80/live/sacco/sacco/1474.ts
+#EXTINF:-1,---- NOTIZIE ----
+http://tvservice.webhop.me:80/live/sacco/sacco/278.ts
+#EXTINF:-1,Sky TG 24
+http://tvservice.webhop.me:80/live/sacco/sacco/279.ts
+#EXTINF:-1,Tg Com 24
+http://tvservice.webhop.me:80/live/sacco/sacco/280.ts
+#EXTINF:-1,Rai News 24
+http://tvservice.webhop.me:80/live/sacco/sacco/281.ts
+#EXTINF:-1,TG Norba 24
+http://tvservice.webhop.me:80/live/sacco/sacco/2830.ts
+#EXTINF:-1,Rai senato
+http://tvservice.webhop.me:80/live/sacco/sacco/2903.ts
+#EXTINF:-1,----- MEDIASET PREMIUM ----
+http://tvservice.webhop.me:80/live/sacco/sacco/291.ts
+#EXTINF:-1,Premium Cinema HD
+http://tvservice.webhop.me:80/live/sacco/sacco/292.ts
+#EXTINF:-1,Premium Cinema +24
+http://tvservice.webhop.me:80/live/sacco/sacco/2191.ts
+#EXTINF:-1,Premium Cinema 2 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/2192.ts
+#EXTINF:-1,Premium Cinema 2 +24
+http://tvservice.webhop.me:80/live/sacco/sacco/2214.ts
+#EXTINF:-1,Premium Emotion
+http://tvservice.webhop.me:80/live/sacco/sacco/297.ts
+#EXTINF:-1,Premium Energy
+http://tvservice.webhop.me:80/live/sacco/sacco/298.ts
+#EXTINF:-1,Premium Comedy
+http://tvservice.webhop.me:80/live/sacco/sacco/295.ts
+#EXTINF:-1,Premium Studio Universal
+http://tvservice.webhop.me:80/live/sacco/sacco/301.ts
+#EXTINF:-1,Premium Action HD
+http://tvservice.webhop.me:80/live/sacco/sacco/294.ts
+#EXTINF:-1,Premium Action +24
+http://tvservice.webhop.me:80/live/sacco/sacco/2193.ts
+#EXTINF:-1,Premium Crime HD
+http://tvservice.webhop.me:80/live/sacco/sacco/2196.ts
+#EXTINF:-1,Premium Crime +24
+http://tvservice.webhop.me:80/live/sacco/sacco/2194.ts
+#EXTINF:-1,Premium Joy
+http://tvservice.webhop.me:80/live/sacco/sacco/300.ts
+#EXTINF:-1,Premium Stories
+http://tvservice.webhop.me:80/live/sacco/sacco/299.ts
+#EXTINF:-1,Premium Extra 1
+http://tvservice.webhop.me:80/live/sacco/sacco/2771.ts
+#EXTINF:-1,Premium Extra 2
+http://tvservice.webhop.me:80/live/sacco/sacco/2773.ts
+#EXTINF:-1,Premium Sport HD
+http://tvservice.webhop.me:80/live/sacco/sacco/2528.ts
+#EXTINF:-1,Premium Calcio
+http://tvservice.webhop.me:80/live/sacco/sacco/349.ts
+#EXTINF:-1,Premium Calcio 1
+http://tvservice.webhop.me:80/live/sacco/sacco/2834.ts
+#EXTINF:-1,Premium Calcio 1 HD
+http://tvservice.webhop.me:80/live/sacco/sacco/346.ts
+#EXTINF:-1,Premium Calcio 2
+http://tvservice.webhop.me:80/live/sacco/sacco/348.ts
+#EXTINF:-1,Premium Calcio 3
+http://tvservice.webhop.me:80/live/sacco/sacco/352.ts
+#EXTINF:-1,Premium Calcio 4
+http://tvservice.webhop.me:80/live/sacco/sacco/353.ts
+#EXTINF:-1,Premium Calcio 5
+http://tvservice.webhop.me:80/live/sacco/sacco/400.ts
+#EXTINF:-1,Premium Calcio 6
+http://tvservice.webhop.me:80/live/sacco/sacco/401.ts
+#EXTINF:-1,Premium Calcio 7
+http://tvservice.webhop.me:80/live/sacco/sacco/402.ts
+#EXTINF:-1,---- SKY PRIMAFILA ----
+http://tvservice.webhop.me:80/live/sacco/sacco/304.ts
+#EXTINF:-1,Vetrina Primafila
+http://tvservice.webhop.me:80/movie/sacco/sacco/2174.mp4
+#EXTINF:-1,PRIMA FILA 1 HD
+http://tvservice.webhop.me:80/movie/sacco/sacco/2122.mkv
+#EXTINF:-1,PRIMA FILA 2 HD
+http://tvservice.webhop.me:80/movie/sacco/sacco/2120.mkv
+#EXTINF:-1,PRIMA FILA 3 HD
+http://tvservice.webhop.me:80/movie/sacco/sacco/2123.mkv
+#EXTINF:-1,PRIMA FILA 4 HD
+http://tvservice.webhop.me:80/movie/sacco/sacco/2124.mkv
+#EXTINF:-1,PRIMA FILA 5 HD
+http://tvservice.webhop.me:80/movie/sacco/sacco/2125.mkv
+#EXTINF:-1,PRIMA FILA 6 HD
+http://tvservice.webhop.me:80/movie/sacco/sacco/2126.mkv
+#EXTINF:-1,PRIMA FILA 7 HD
+http://tvservice.webhop.me:80/movie/sacco/sacco/2127.mkv
+#EXTINF:-1,PRIMA FILA 8 HD
+http://tvservice.webhop.me:80/movie/sacco/sacco/2128.mkv
+#EXTINF:-1,PRIMA FILA 9 HD
+http://tvservice.webhop.me:80/movie/sacco/sacco/2129.mkv
+#EXTINF:-1,PRIMA FILA 10 HD
+http://tvservice.webhop.me:80/movie/sacco/sacco/2130.mkv
+#EXTINF:-1,PRIMA FILA 11 HD
+http://tvservice.webhop.me:80/movie/sacco/sacco/2434.mkv
+#EXTINF:-1,PRIMA FILA 12 HD
+http://tvservice.webhop.me:80/movie/sacco/sacco/2435.mkv
+#EXTINF:-1,PRIMA FILA WWE HD
+http://tvservice.webhop.me:80/movie/sacco/sacco/2186.mkv
+#EXTINF:-1,---- FILM IN SALA ----
+http://tvservice.webhop.me:80/live/sacco/sacco/2693.ts
+#EXTINF:-1,Vetrina Film In Sala
+http://tvservice.webhop.me:80/movie/sacco/sacco/2692.mp4
+#EXTINF:-1,Film In Sala 1
+http://tvservice.webhop.me:80/movie/sacco/sacco/2668.mkv
+#EXTINF:-1,Film In Sala 2
+http://tvservice.webhop.me:80/movie/sacco/sacco/2669.mkv
+#EXTINF:-1,Film In Sala 3
+http://tvservice.webhop.me:80/movie/sacco/sacco/2670.mkv
+#EXTINF:-1,Film In Sala 4
+http://tvservice.webhop.me:80/movie/sacco/sacco/2671.mkv
+#EXTINF:-1,Film In Sala 5
+http://tvservice.webhop.me:80/movie/sacco/sacco/2672.mp4
+#EXTINF:-1,Film In Sala 6
+http://tvservice.webhop.me:80/movie/sacco/sacco/2673.mkv
+#EXTINF:-1,Film in Sala 7
+http://tvservice.webhop.me:80/movie/sacco/sacco/2676.mp4
+#EXTINF:-1,Film In Sala 8
+
+#EXTINF:-1,---- ON DEMAND FILM ----
+http://tvservice.webhop.me:80/live/sacco/sacco/404.ts
+#EXTINF:-1,12 anni schiavo
+http://tvservice.webhop.me:80/movie/sacco/sacco/2875.mkv
+#EXTINF:-1,50 sfumature di grigio
+http://tvservice.webhop.me:80/movie/sacco/sacco/2680.mkv
+#EXTINF:-1,A good man
+http://tvservice.webhop.me:80/movie/sacco/sacco/2884.mkv
+#EXTINF:-1,A piedi nudi
+http://tvservice.webhop.me:80/movie/sacco/sacco/3001.mkv
+#EXTINF:-1,Adaline
+http://tvservice.webhop.me:80/movie/sacco/sacco/2750.mkv
+#EXTINF:-1,Adult beginners
+http://tvservice.webhop.me:80/movie/sacco/sacco/2759.mkv
+#EXTINF:-1,Affare fatto
+http://tvservice.webhop.me:80/movie/sacco/sacco/2788.mkv
+#EXTINF:-1,After the Ball: Cenerentola in passerella
+http://tvservice.webhop.me:80/movie/sacco/sacco/2846.mkv
+#EXTINF:-1,Age of ice
+http://tvservice.webhop.me:80/movie/sacco/sacco/2763.mkv
+#EXTINF:-1,Age of Tomorrow
+http://tvservice.webhop.me:80/movie/sacco/sacco/2704.mkv
+#EXTINF:-1,Air - I Custodi Del Sonno
+http://tvservice.webhop.me:80/movie/sacco/sacco/2795.mkv
+#EXTINF:-1,Alla ricerca del limite
+http://tvservice.webhop.me:80/movie/sacco/sacco/2816.mkv
+#EXTINF:-1,Anarchia la notte del giudizio
+http://tvservice.webhop.me:80/movie/sacco/sacco/2684.mkv
+#EXTINF:-1,Annie: La felicità è contagiosa
+http://tvservice.webhop.me:80/movie/sacco/sacco/3217.mkv
+#EXTINF:-1,Ant-Man
+http://tvservice.webhop.me:80/movie/sacco/sacco/3197.mkv
+#EXTINF:-1,Appuntamento con l’amore
+http://tvservice.webhop.me:80/movie/sacco/sacco/2805.mkv
+#EXTINF:-1,Babadook
+http://tvservice.webhop.me:80/movie/sacco/sacco/2807.mkv
+#EXTINF:-1,Banshee Chapter: I Files Segreti Della Cia
+http://tvservice.webhop.me:80/movie/sacco/sacco/2785.mkv
+#EXTINF:-1,Battleship
+http://tvservice.webhop.me:80/movie/sacco/sacco/2798.mkv
+#EXTINF:-1,Beasts of No Nation
+http://tvservice.webhop.me:80/movie/sacco/sacco/2999.mkv
+#EXTINF:-1,Bessie
+http://tvservice.webhop.me:80/movie/sacco/sacco/3198.mkv
+#EXTINF:-1,Black or white
+http://tvservice.webhop.me:80/movie/sacco/sacco/2778.mkv
+#EXTINF:-1,C'era una volta a New York
+http://tvservice.webhop.me:80/movie/sacco/sacco/2864.mkv
+#EXTINF:-1,Cattivi vicini
+http://tvservice.webhop.me:80/movie/sacco/sacco/2859.mkv
+#EXTINF:-1,Cell 213: La dannazione
+http://tvservice.webhop.me:80/movie/sacco/sacco/2895.mkv
+#EXTINF:-1,Cella 211
+http://tvservice.webhop.me:80/movie/sacco/sacco/2740.mkv
+#EXTINF:-1,Child 44
+http://tvservice.webhop.me:80/movie/sacco/sacco/2729.mkv
+#EXTINF:-1,Città di carta
+http://tvservice.webhop.me:80/movie/sacco/sacco/2800.mkv
+#EXTINF:-1,Colpa delle stelle
+http://tvservice.webhop.me:80/movie/sacco/sacco/2856.mkv
+#EXTINF:-1,Combustion
+http://tvservice.webhop.me:80/movie/sacco/sacco/2780.mkv
+#EXTINF:-1,Come ti rovino le vacanze
+http://tvservice.webhop.me:80/movie/sacco/sacco/2868.mkv
+#EXTINF:-1,Come ti spaccio la famiglia
+http://tvservice.webhop.me:80/movie/sacco/sacco/2701.mkv
+#EXTINF:-1,Contagious: Epidemia mortale
+http://tvservice.webhop.me:80/movie/sacco/sacco/2829.mkv
+#EXTINF:-1,Dead Rising: Watchtower
+http://tvservice.webhop.me:80/movie/sacco/sacco/2699.mkv
+#EXTINF:-1,Emperor
+http://tvservice.webhop.me:80/movie/sacco/sacco/2754.mkv
+#EXTINF:-1,Empire state
+http://tvservice.webhop.me:80/movie/sacco/sacco/2749.mkv
+#EXTINF:-1,End of watch
+http://tvservice.webhop.me:80/movie/sacco/sacco/2718.mkv
+#EXTINF:-1,Entourage
+http://tvservice.webhop.me:80/movie/sacco/sacco/2910.mkv
+#EXTINF:-1,Everest
+http://tvservice.webhop.me:80/movie/sacco/sacco/2850.mkv
+#EXTINF:-1,Everly
+http://tvservice.webhop.me:80/movie/sacco/sacco/2721.mkv
+#EXTINF:-1,Ex Machina
+http://tvservice.webhop.me:80/movie/sacco/sacco/2702.mkv
+#EXTINF:-1,Exodus
+http://tvservice.webhop.me:80/movie/sacco/sacco/2681.mkv
+#EXTINF:-1,Extinction Sopravvissuti
+http://tvservice.webhop.me:80/movie/sacco/sacco/2757.mkv
+#EXTINF:-1,Fast e furious 7
+http://tvservice.webhop.me:80/movie/sacco/sacco/2731.mkv
+#EXTINF:-1,Finders Keepers
+http://tvservice.webhop.me:80/movie/sacco/sacco/2821.mkv
+#EXTINF:-1,Firequake
+http://tvservice.webhop.me:80/movie/sacco/sacco/3179.mkv
+#EXTINF:-1,Firestorm
+http://tvservice.webhop.me:80/movie/sacco/sacco/3184.mkv
+#EXTINF:-1,Focus: Niente è come sembra
+http://tvservice.webhop.me:80/movie/sacco/sacco/2738.mkv
+#EXTINF:-1,Fuga in tacchi a spillo
+http://tvservice.webhop.me:80/movie/sacco/sacco/2799.mkv
+#EXTINF:-1,Fury
+http://tvservice.webhop.me:80/movie/sacco/sacco/2663.mkv
+#EXTINF:-1,Gangster squad
+http://tvservice.webhop.me:80/movie/sacco/sacco/2719.mkv
+#EXTINF:-1,Generazione Perduta
+http://tvservice.webhop.me:80/movie/sacco/sacco/3180.mkv
+#EXTINF:-1,Giovani si diventa
+http://tvservice.webhop.me:80/movie/sacco/sacco/3152.mkv
+#EXTINF:-1,Gran Torino
+http://tvservice.webhop.me:80/movie/sacco/sacco/2741.mkv
+#EXTINF:-1,Hello Ladies: Il Film
+http://tvservice.webhop.me:80/movie/sacco/sacco/2888.mkv
+#EXTINF:-1,Ho ucciso Napoleone
+http://tvservice.webhop.me:80/movie/sacco/sacco/2851.mkv
+#EXTINF:-1,Homefront
+http://tvservice.webhop.me:80/movie/sacco/sacco/2716.mkv
+#EXTINF:-1,Il fidanzato di mia sorella
+http://tvservice.webhop.me:80/movie/sacco/sacco/2714.mkv
+#EXTINF:-1,Il mistero dei teschi di cristallo
+http://tvservice.webhop.me:80/movie/sacco/sacco/2986.mkv
+#EXTINF:-1,Il racconto dei racconti
+http://tvservice.webhop.me:80/movie/sacco/sacco/2711.mkv
+#EXTINF:-1,Il ragazzo invisibile
+http://tvservice.webhop.me:80/movie/sacco/sacco/3133.mkv
+#EXTINF:-1,Insidious 3: L' Inizio
+http://tvservice.webhop.me:80/movie/sacco/sacco/2808.mkv
+#EXTINF:-1,Insurgent
+http://tvservice.webhop.me:80/movie/sacco/sacco/2710.mkv
+#EXTINF:-1,Into the woods
+http://tvservice.webhop.me:80/movie/sacco/sacco/2734.mkv
+#EXTINF:-1,Io sono tu
+http://tvservice.webhop.me:80/movie/sacco/sacco/2726.mkv
+#EXTINF:-1,John Wick
+http://tvservice.webhop.me:80/movie/sacco/sacco/2996.mkv
+#EXTINF:-1,Joker: Wild card
+http://tvservice.webhop.me:80/movie/sacco/sacco/2708.mkv
+#EXTINF:-1,Jurassic World
+http://tvservice.webhop.me:80/movie/sacco/sacco/2790.mkv
+#EXTINF:-1,Kreuzweg: Le stazioni della fede
+http://tvservice.webhop.me:80/movie/sacco/sacco/3196.mkv
+#EXTINF:-1,Kristy
+http://tvservice.webhop.me:80/movie/sacco/sacco/2871.mkv
+#EXTINF:-1,L'asso nella manica
+http://tvservice.webhop.me:80/movie/sacco/sacco/2858.mkv
+#EXTINF:-1,L'evocazione
+http://tvservice.webhop.me:80/movie/sacco/sacco/2819.mkv
+#EXTINF:-1,L’esorcismo di Molly Hartley
+http://tvservice.webhop.me:80/movie/sacco/sacco/3042.mkv
+#EXTINF:-1,La madre
+http://tvservice.webhop.me:80/movie/sacco/sacco/3182.mkv
+#EXTINF:-1,La quinta stagione
+http://tvservice.webhop.me:80/movie/sacco/sacco/2696.mkv
+#EXTINF:-1,La regola del gioco
+http://tvservice.webhop.me:80/movie/sacco/sacco/2809.mkv
+#EXTINF:-1,La risposta è nelle stesse
+http://tvservice.webhop.me:80/movie/sacco/sacco/2770.mkv
+#EXTINF:-1,Last Knights
+http://tvservice.webhop.me:80/movie/sacco/sacco/3021.mkv
+#EXTINF:-1,Left Behind: La Profezia
+http://tvservice.webhop.me:80/movie/sacco/sacco/2700.mkv
+#EXTINF:-1,Lockout
+http://tvservice.webhop.me:80/movie/sacco/sacco/2767.mkv
+#EXTINF:-1,Mad Max: Fury Road
+http://tvservice.webhop.me:80/movie/sacco/sacco/2715.mkv
+#EXTINF:-1,Magic in the moonlight
+http://tvservice.webhop.me:80/movie/sacco/sacco/2723.mkv
+#EXTINF:-1,Maladies
+http://tvservice.webhop.me:80/movie/sacco/sacco/3171.mkv
+#EXTINF:-1,Mission Impossible: Rogue Nation
+http://tvservice.webhop.me:80/movie/sacco/sacco/2796.mkv
+#EXTINF:-1,Nightingale
+http://tvservice.webhop.me:80/movie/sacco/sacco/3213.mkv
+#EXTINF:-1,Ombre dal passato
+http://tvservice.webhop.me:80/movie/sacco/sacco/2784.mkv
+#EXTINF:-1,Parigi a tutti i costi
+http://tvservice.webhop.me:80/movie/sacco/sacco/2698.mkv
+#EXTINF:-1,Pixels
+http://tvservice.webhop.me:80/movie/sacco/sacco/2792.mkv
+#EXTINF:-1,Poltergeist
+http://tvservice.webhop.me:80/movie/sacco/sacco/2753.mkv
+#EXTINF:-1,Predestination
+http://tvservice.webhop.me:80/movie/sacco/sacco/2876.mkv
+#EXTINF:-1,Professore per amore
+http://tvservice.webhop.me:80/movie/sacco/sacco/2713.mkv
+#EXTINF:-1,Questa è la mia casa: 4closed
+http://tvservice.webhop.me:80/movie/sacco/sacco/2762.mkv
+#EXTINF:-1,Rampart
+http://tvservice.webhop.me:80/movie/sacco/sacco/2818.mkv
+#EXTINF:-1,Reclaim
+http://tvservice.webhop.me:80/movie/sacco/sacco/2865.mkv
+#EXTINF:-1,Return to sender
+http://tvservice.webhop.me:80/movie/sacco/sacco/2839.mkv
+#EXTINF:-1,Run All Night: Una notte per sopravvivere
+http://tvservice.webhop.me:80/movie/sacco/sacco/2691.mkv
+#EXTINF:-1,Ruth e Alex: L'amore cerca casa
+http://tvservice.webhop.me:80/movie/sacco/sacco/2873.mkv
+#EXTINF:-1,San Andreas
+http://tvservice.webhop.me:80/movie/sacco/sacco/2679.mkv
+#EXTINF:-1,Second chance
+http://tvservice.webhop.me:80/movie/sacco/sacco/2775.mkv
+#EXTINF:-1,Selfless
+http://tvservice.webhop.me:80/movie/sacco/sacco/2728.mkv
+#EXTINF:-1,Selma
+http://tvservice.webhop.me:80/movie/sacco/sacco/2709.mkv
+#EXTINF:-1,Sola nel buio
+http://tvservice.webhop.me:80/movie/sacco/sacco/2748.mkv
+#EXTINF:-1,Sotto il cielo delle hawaii
+http://tvservice.webhop.me:80/movie/sacco/sacco/2777.mkv
+#EXTINF:-1,Southpaw: L'ultima sfida
+http://tvservice.webhop.me:80/movie/sacco/sacco/2686.mkv
+#EXTINF:-1,Spy
+http://tvservice.webhop.me:80/movie/sacco/sacco/2758.mkv
+#EXTINF:-1,Stalingrad
+http://tvservice.webhop.me:80/movie/sacco/sacco/2717.mkv
+#EXTINF:-1,Straight Outta Compton
+http://tvservice.webhop.me:80/movie/sacco/sacco/2833.mkv
+#EXTINF:-1,Stretch
+http://tvservice.webhop.me:80/movie/sacco/sacco/2703.mkv
+#EXTINF:-1,Sword of Vengeance – La spada della vendetta
+http://tvservice.webhop.me:80/movie/sacco/sacco/2861.mkv
+#EXTINF:-1,Taken 3: L'ora della verità
+http://tvservice.webhop.me:80/movie/sacco/sacco/2667.mkv
+#EXTINF:-1,Ted 2
+http://tvservice.webhop.me:80/movie/sacco/sacco/2789.mkv
+#EXTINF:-1,Teneramente Folle
+http://tvservice.webhop.me:80/movie/sacco/sacco/3178.mkv
+#EXTINF:-1,Terminator Genisys
+http://tvservice.webhop.me:80/movie/sacco/sacco/2803.mkv
+#EXTINF:-1,The avengers
+http://tvservice.webhop.me:80/movie/sacco/sacco/2732.mkv
+#EXTINF:-1,The avengers: Age Of Ultron
+http://tvservice.webhop.me:80/movie/sacco/sacco/2735.mkv
+#EXTINF:-1,The big wedding
+http://tvservice.webhop.me:80/movie/sacco/sacco/2787.mkv
+#EXTINF:-1,The counselor
+http://tvservice.webhop.me:80/movie/sacco/sacco/2737.mkv
+#EXTINF:-1,The Hungover games
+http://tvservice.webhop.me:80/movie/sacco/sacco/2889.mkv
+#EXTINF:-1,The last Exorcism 2: Liberaci dal male
+http://tvservice.webhop.me:80/movie/sacco/sacco/2794.mkv
+#EXTINF:-1,The Spectacular Now
+http://tvservice.webhop.me:80/movie/sacco/sacco/2793.mkv
+#EXTINF:-1,The Wedding Ringer: Un Testimone In Affitto
+http://tvservice.webhop.me:80/movie/sacco/sacco/2689.mkv
+#EXTINF:-1,The Woman in Black 2: Angelo della morte
+http://tvservice.webhop.me:80/movie/sacco/sacco/2860.mkv
+#EXTINF:-1,This is where i leave you
+http://tvservice.webhop.me:80/movie/sacco/sacco/2761.mkv
+#EXTINF:-1,Timbuktu
+http://tvservice.webhop.me:80/movie/sacco/sacco/2712.mkv
+#EXTINF:-1,Tomorrowland: Il Mondo Di Domani
+http://tvservice.webhop.me:80/movie/sacco/sacco/2781.mkv
+#EXTINF:-1,Tracers
+http://tvservice.webhop.me:80/movie/sacco/sacco/2707.mkv
+#EXTINF:-1,Tutte contro lui
+http://tvservice.webhop.me:80/movie/sacco/sacco/2724.mkv
+#EXTINF:-1,Una notte da matricole
+http://tvservice.webhop.me:80/movie/sacco/sacco/2835.mkv
+#EXTINF:-1,Un disastro di ragazza
+http://tvservice.webhop.me:80/movie/sacco/sacco/2760.mkv
+#EXTINF:-1,Unfriended
+http://tvservice.webhop.me:80/movie/sacco/sacco/2896.mkv
+#EXTINF:-1,Unknown: Senza identita
+http://tvservice.webhop.me:80/movie/sacco/sacco/2783.mkv
+#EXTINF:-1,Uomini di parola
+http://tvservice.webhop.me:80/movie/sacco/sacco/2752.mkv
+#EXTINF:-1,Wolf Creek 2: La preda sei tu
+http://tvservice.webhop.me:80/movie/sacco/sacco/3134.mkv
+#EXTINF:-1,Woman in Gold
+http://tvservice.webhop.me:80/movie/sacco/sacco/2885.mkv
+#EXTINF:-1,Zero dark thirty
+http://tvservice.webhop.me:80/movie/sacco/sacco/2782.mkv
+#EXTINF:-1,---- ON DEMAND ITALIANO ----
+http://tvservice.webhop.me:80/live/sacco/sacco/2988.ts
+#EXTINF:-1,Andiamo a quel paese
+http://tvservice.webhop.me:80/movie/sacco/sacco/2756.mkv
+#EXTINF:-1,Benvenuto Presidente!
+http://tvservice.webhop.me:80/movie/sacco/sacco/3149.mkv
+#EXTINF:-1,Bianca come il latte, rossa come il sangue
+http://tvservice.webhop.me:80/movie/sacco/sacco/3150.mkv
+#EXTINF:-1,Confusi e felici
+http://tvservice.webhop.me:80/movie/sacco/sacco/3044.mkv
+#EXTINF:-1,Fantozzi 1975
+http://tvservice.webhop.me:80/movie/sacco/sacco/2993.mkv
+#EXTINF:-1,Fantozzi Due 1976
+http://tvservice.webhop.me:80/movie/sacco/sacco/3170.mkv
+#EXTINF:-1,Il nome del figlio
+http://tvservice.webhop.me:80/movie/sacco/sacco/3202.mkv
+#EXTINF:-1,Il peggior Natale della mia vita
+http://tvservice.webhop.me:80/movie/sacco/sacco/3215.mkv
+#EXTINF:-1,Il Principe Abusivo
+http://tvservice.webhop.me:80/movie/sacco/sacco/2991.mkv
+#EXTINF:-1,Italiano medio
+http://tvservice.webhop.me:80/movie/sacco/sacco/3186.mkv
+#EXTINF:-1,La gente che sta bene
+http://tvservice.webhop.me:80/movie/sacco/sacco/2852.mkv
+#EXTINF:-1,La mafia uccide solo d'estate
+http://tvservice.webhop.me:80/movie/sacco/sacco/2890.mkv
+#EXTINF:-1,La moglie del sarto
+http://tvservice.webhop.me:80/movie/sacco/sacco/2866.mkv
+#EXTINF:-1,La scelta
+http://tvservice.webhop.me:80/movie/sacco/sacco/3185.mkv
+#EXTINF:-1,Ma che bella sorpresa
+http://tvservice.webhop.me:80/movie/sacco/sacco/3045.mkv
+#EXTINF:-1,Nomi e cognomi
+http://tvservice.webhop.me:80/movie/sacco/sacco/2786.mkv
+#EXTINF:-1,Ogni maledetto Natale
+http://tvservice.webhop.me:80/movie/sacco/sacco/2990.mkv
+#EXTINF:-1,Se dio vuole
+http://tvservice.webhop.me:80/movie/sacco/sacco/2995.mkv
+#EXTINF:-1,Si accettano miracoli
+http://tvservice.webhop.me:80/movie/sacco/sacco/2992.mkv
+#EXTINF:-1,Soldato semplice
+http://tvservice.webhop.me:80/movie/sacco/sacco/2730.mkv
+#EXTINF:-1,Sole a catinelle
+http://tvservice.webhop.me:80/movie/sacco/sacco/2994.mkv
+#EXTINF:-1,Sotto una buona stella
+http://tvservice.webhop.me:80/movie/sacco/sacco/3148.mkv
+#EXTINF:-1,Tempo Instabile Con Probabili Schiarite
+http://tvservice.webhop.me:80/movie/sacco/sacco/2886.mkv
+#EXTINF:-1,Torno indietro e cambio vita
+http://tvservice.webhop.me:80/movie/sacco/sacco/2801.mkv
+#EXTINF:-1,Una piccola impresa meridionale
+http://tvservice.webhop.me:80/movie/sacco/sacco/3151.mkv
+#EXTINF:-1,Youth La Giovinezza
+http://tvservice.webhop.me:80/movie/sacco/sacco/2997.mkv
+#EXTINF:-1,---- ON DEMAND BAMBINI ----
+http://tvservice.webhop.me:80/live/sacco/sacco/651.ts
+#EXTINF:-1,Albert e il diamante magico
+http://tvservice.webhop.me:80/movie/sacco/sacco/2831.mkv
+#EXTINF:-1,Atlantis: L'impero Perduto
+http://tvservice.webhop.me:80/movie/sacco/sacco/3216.mkv
+#EXTINF:-1,Barbie e il regno segreto
+http://tvservice.webhop.me:80/movie/sacco/sacco/2869.mkv
+#EXTINF:-1,Barbie e la principessa delle perle
+http://tvservice.webhop.me:80/movie/sacco/sacco/2872.mkv
+#EXTINF:-1,Barbie Mariposa and the Fairy Princess
+http://tvservice.webhop.me:80/movie/sacco/sacco/2811.mkv
+#EXTINF:-1,Barbie: Principessa rock
+http://tvservice.webhop.me:80/movie/sacco/sacco/2694.mkv
+#EXTINF:-1,Bianca e Bernie nella terra dei canguri
+http://tvservice.webhop.me:80/movie/sacco/sacco/3194.mkv
+#EXTINF:-1,Big hero 6
+http://tvservice.webhop.me:80/movie/sacco/sacco/2736.mkv
+#EXTINF:-1,Cars motori ruggenti
+http://tvservice.webhop.me:80/movie/sacco/sacco/2765.mkv
+#EXTINF:-1,Cars 2
+http://tvservice.webhop.me:80/movie/sacco/sacco/2764.mkv
+#EXTINF:-1,Cattivissimo Me
+http://tvservice.webhop.me:80/movie/sacco/sacco/2825.mkv
+#EXTINF:-1,Cattivissimo Me 2
+http://tvservice.webhop.me:80/movie/sacco/sacco/2678.mkv
+#EXTINF:-1,Cenerentola
+http://tvservice.webhop.me:80/movie/sacco/sacco/2824.mkv
+#EXTINF:-1,Coraline e la porta magica
+http://tvservice.webhop.me:80/movie/sacco/sacco/2877.mkv
+#EXTINF:-1,Descendants
+http://tvservice.webhop.me:80/movie/sacco/sacco/2880.mkv
+#EXTINF:-1,Dino e la macchina del tempo
+http://tvservice.webhop.me:80/movie/sacco/sacco/2823.mkv
+#EXTINF:-1,Dragon Ball Z: La rerurrezione di F
+http://tvservice.webhop.me:80/movie/sacco/sacco/2845.mkv
+#EXTINF:-1,Dragon trainer
+http://tvservice.webhop.me:80/movie/sacco/sacco/2743.mkv
+#EXTINF:-1,Fantasia: 2000
+http://tvservice.webhop.me:80/movie/sacco/sacco/2898.mkv
+#EXTINF:-1,Fantasia: walt Disney
+http://tvservice.webhop.me:80/movie/sacco/sacco/2897.mkv
+#EXTINF:-1,Fronzen: Il regno di ghiaccio
+http://tvservice.webhop.me:80/movie/sacco/sacco/2826.mkv
+#EXTINF:-1,Frozen: fever
+http://tvservice.webhop.me:80/movie/sacco/sacco/2827.mkv
+#EXTINF:-1,Il libro della vita
+http://tvservice.webhop.me:80/movie/sacco/sacco/2733.mkv
+#EXTINF:-1,Il mio amico gicante
+http://tvservice.webhop.me:80/movie/sacco/sacco/3046.mkv
+#EXTINF:-1,Inside out
+http://tvservice.webhop.me:80/movie/sacco/sacco/2802.mkv
+#EXTINF:-1,L'attacco dei Giganti: P. 1
+http://tvservice.webhop.me:80/movie/sacco/sacco/2705.mkv
+#EXTINF:-1,La bella addormentata nel bosco
+http://tvservice.webhop.me:80/movie/sacco/sacco/2855.mkv
+#EXTINF:-1,La bella e la bestia
+http://tvservice.webhop.me:80/movie/sacco/sacco/3181.mkv
+#EXTINF:-1,Lilo & Stitch
+http://tvservice.webhop.me:80/movie/sacco/sacco/3214.mkv
+#EXTINF:-1,Minions
+http://tvservice.webhop.me:80/movie/sacco/sacco/2662.mkv
+#EXTINF:-1,Monster High: 13 Wishes
+http://tvservice.webhop.me:80/movie/sacco/sacco/2812.mkv
+#EXTINF:-1,Monster High: Boo York, Boo York
+http://tvservice.webhop.me:80/movie/sacco/sacco/2863.mkv
+#EXTINF:-1,Monster High: Ciak si Grida
+http://tvservice.webhop.me:80/movie/sacco/sacco/2813.mkv
+#EXTINF:-1,Monster High: Freaky Fusion
+http://tvservice.webhop.me:80/movie/sacco/sacco/2814.mkv
+#EXTINF:-1,Monster High: Haunted
+http://tvservice.webhop.me:80/movie/sacco/sacco/2815.mkv
+#EXTINF:-1,Nausicaa della Valle del vento
+http://tvservice.webhop.me:80/movie/sacco/sacco/2843.mkv
+#EXTINF:-1,Piovono polpette
+http://tvservice.webhop.me:80/movie/sacco/sacco/2742.mkv
+#EXTINF:-1,Pudsey: Un ciclone a 4 zampe
+http://tvservice.webhop.me:80/movie/sacco/sacco/2682.mkv
+#EXTINF:-1,Scooby Doo
+http://tvservice.webhop.me:80/movie/sacco/sacco/3201.mkv
+#EXTINF:-1,Strange Magic
+http://tvservice.webhop.me:80/movie/sacco/sacco/3177.mkv
+#EXTINF:-1,Super buddies
+http://tvservice.webhop.me:80/movie/sacco/sacco/2768.mkv
+#EXTINF:-1,Winx club: Il mistero degli abissi
+http://tvservice.webhop.me:80/movie/sacco/sacco/2727.mkv
+#EXTINF:-1,---- ON DEMAND 3D ----
+http://tvservice.webhop.me:80/live/sacco/sacco/340.ts
+#EXTINF:-1,300 L'alba di un impero 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2152.mkv
+#EXTINF:-1,A spasso con i dinosauri 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2153.mkv
+#EXTINF:-1,Apartment 1303 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2183.mkv
+#EXTINF:-1,Apes Revolution: Il pianeta delle Scimmie 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2154.mkv
+#EXTINF:-1,Arn: L ultimo cavaliere 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2747.mkv
+#EXTINF:-1,Capitan America: The Winter soldier 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2155.mkv
+#EXTINF:-1,Frozen 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2406.mkv
+#EXTINF:-1,Godzilla 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2470.mkv
+#EXTINF:-1,Gravity 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2531.mkv
+#EXTINF:-1,I 7 Nani 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2156.mkv
+#EXTINF:-1,Il libro della vita 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/3175.mkv
+#EXTINF:-1,Il Magico Mondo Di Oz 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2157.mkv
+#EXTINF:-1,Il mistero dei teschi di cristallo 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2985.mkv
+#EXTINF:-1,Inside out 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2883.mkv
+#EXTINF:-1,Jupiter: Il destino dell’universo 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2695.mkv
+#EXTINF:-1,Jurassic World 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2832.mkv
+#EXTINF:-1,Kristy 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2870.mkv
+#EXTINF:-1,L.A. Apocalypse - Apocalisse a Los Angeles 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2987.mkv
+#EXTINF:-1,Lo Hobbit la Battaglia delle Cinque Armate 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2158.mkv
+#EXTINF:-1,Mad max: Fury Road 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2797.mkv
+#EXTINF:-1,Minions 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/3000.mkv
+#EXTINF:-1,Non aprite quella porta 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2335.mkv
+#EXTINF:-1,Pacific Rim 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2185.mkv
+#EXTINF:-1,Piovono Polpette 2 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2160.mkv
+#EXTINF:-1,Pixels 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2867.mkv
+#EXTINF:-1,Poltergeist 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2804.mkv
+#EXTINF:-1,Pompeii 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2746.mkv
+#EXTINF:-1,Prometheus 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2332.mkv
+#EXTINF:-1,Resident Evil retribution 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2745.mkv
+#EXTINF:-1,Rio 2: Missione Amazzonia 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2853.mkv
+#EXTINF:-1,San Andreas 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2841.mkv
+#EXTINF:-1,Shak week 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2492.mkv
+#EXTINF:-1,Spongebob Fuori dall acqua 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2293.mkv
+#EXTINF:-1,Step Up All In 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2164.mkv
+#EXTINF:-1,Tartarughe Ninja 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2165.mkv
+#EXTINF:-1,Terminator: Genisys 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/3176.mkv
+#EXTINF:-1,The Amazing spider man 2 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2562.mkv
+#EXTINF:-1,The Avengers: Age Of Ultron 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2842.mkv
+#EXTINF:-1,The Lego Movie 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2166.mkv
+#EXTINF:-1,Thor The Dark World 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2744.mkv
+#EXTINF:-1,Young Detective Dee: Il Risveglio Del Drago Marino 3D
+http://tvservice.webhop.me:80/movie/sacco/sacco/2849.mkv
+
+#EXTINF:-1,SPORT TIME TV (US)
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+#EXTINF:-1 group-title="SPORTS",SPORT SPORT TIME TV 1HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
+#EXTINF:-1 group-title="SPORTS",SPORT SPORT TIME TV 2HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
+#EXTINF:-1 group-title="SPORTS",SPORT SPORT TIME TV 3HD GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
+#EXTINF:-1 group-title="SPORTS",SPORT SPORT TIME TV 4HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+#EXTINF:-1 group-title="SPORTS",SPORT SPORT TIME TV 4HD GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800
+#EXTINF:-1 group-title="SPORTS",SPORT SPORT TIME TV 5HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+#EXTINF:-1 group-title="SPORTS",SPORT SPORT TIME TV 5HD GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
+#EXTINF:-1 group-title="SPORTS",SPORT SPORT TIME TV 6HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+#EXTINF:-1 group-title="SPORTS",SPORT SPORT TIME TV 6HD GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
+#EXTINF:-1 group-title="SPORTS",SPORT SPORT TIME TV 7HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+#EXTINF:-1 group-title="SPORTS",SPORT SPORT TIME TV 7HD GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
+#EXTINF:0, Rai Sport 1
+mmsh://212.162.68.163:80/raisport+
+EXTINF:-1, Buraspor TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
+#EXTINF:0, KAZSPORT
+http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
+#EXTINF:-1,Sports Max
+http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
+#EXTINF:0,PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8?
+#EXTINF:0,PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8?
+#EXTINF:0,PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8?
+#EXTINF:0,PAC-12 Net. (Moutain)
+http://xrxs.net/video/live-p12moun-4728.m3u8?
+#EXTINF:0,PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8?
+#EXTINF:0,PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8?
+#EXTINF:-1,Sports Night HD
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
+#EXTINF:-1,USA-BASKET UNI.(Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1,USA-BASKET UNI.(Moutain)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:-1, Moldova Sport HD
+http://87.248.160.8/edge/smil:boet/playlist.m3u8
+#EXTINF:-1 tvg-logo="cdN.png", CDN Sports esp
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+#EXTINF:-1, Sport 2 Ru
+http://194.190.78.230/output/russia2/playlist.m3u8
+#EXTINF:-1,Sports Night
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
+#EXTINF:0, Sport 1 (RU)
+http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
+#EXTINF:0, Football (RU)
+http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
+#EXTINF:0,Македонска Телевизија 1
+http://stream.mrt-edge.spectar.tv:1935/mrt-liveedge/_definst_/amlst:dm/hls/video_id/3551/token/be2d2dcf860a7865b8c037aa6d25ca37/chunklist_w2141491901_b1196000.m3u8 #EXTINF:0,Македонска Телевизија 2 МултиЕтнички Јазик http://stream.mrt-edge.spectar.tv:1935/mrt-liveedge/_definst_/amlst:dm/hls/video_id/3548/token/be2d2dcf860a7865b8c037aa6d25ca37/chunklist_w55190976_b1196000.m3u8
+ #EXTINF:0,Македонска Телевизија 3
+ http://stream.mrt-edge.spectar.tv:1935/mrt-liveedge/_definst_/amlst:dm/hls/video_id/3545/token/be2d2dcf860a7865b8c037aa6d25ca37/chunklist_w927907065_b1196000.m3u8
+ #EXTINF:0,Македонска Телевизија сателит 1 
+  http://mrt.cdn.spectar.tv:1935/mrt-edge/_definst_/mrt1-sat/chunklist_w636127703.m3u8
+  #EXTINF:0,СИТЕЛ Телевизија
+  http://fms.zulu.mk:1935/zulu/sitel_2/playlist.m3u8
+  #EXTINF:0,СИТЕЛ 3 Телевизија
+  http://fms.zulu.mk:554/zulu/sitel3_1/playlist_b125000_w1132785237.m3u8
+ #EXTINF:0,КАНАЛ 5 Телевизија
+   http://fms.zulu.mk:1935/zulu/kanal5_2/playlist.m3u8?wowzasessionid=2097540408
+   #EXTINF:0,КАНАЛ 5+ Телевизија
+   http://fms.zulu.mk:1935/zulu/kanal5plus_2/playlist.m3u8
+    #EXTINF:0,АЛФА Телевизија
+     http://fms.zulu.mk:1935/zulu/alfa_1/playlist.m3u8
+   #EXTINF:0,ТЕЛМА Телевизија
+   http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8
+   #EXTINF:0,24 ВЕСТИ
+    mms://62.162.58.55/24vesti
+   #EXTINF:0,ШУТЕЛ Телевизија
+   http://fms.zulu.mk:1935/zulu/shutel_2/playlist.m3u8
+    #EXTINF:0,НАША ТВ Телевизија
+   http://fms.zulu.mk:1935/zulu/nashatv_2/playlist.m3u8
+    #EXTINF:-1,О2 ОХРИД Телевизија
+   http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/o2-tv-ohrid/chunklist.m3u8
+   #EXTINF:0,К1 ВЕЛЕС Телевизија
+   http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/k1-tv-veles/chunklist.m3u8
+   #EXTINF:0,УЛТРА ТЕТОВО Телевизија
+   http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/ultra-tv-tetovo/chunklist.m3u8
+   #EXTINF:0,К3 КУМАНОВО Телевизија
+   http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/k3-tv-kumanovo/chunklist.m3u8
+   #EXTINF:0,МЕГА БИТОЛА Телевизија
+  http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/hdtv-mega-bitola/chunklist.m3u8
+  #EXTINF:0,К+ ШТИП Телевизија
+  http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/kplus-tv-stip/chunklist.m3u8
+   #EXTINF:0,А1 СТРУМИЦА Телевизија
+   http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/a1-strumica/chunklist.m3u8
+   #EXTINF:-1,ИН ТВ ОХРИД Музика
+   rtsp://streamus.intv.mk:1935/live/intv
+   #EXTINF:0,КАНАЛ 8 Телевизија
+   mms://62.162.58.55/TVkanal8
+   #EXTINF:0,КАНАЛ21 Телевизија
+   mms://62.162.58.55/TVkanal21  
+#EXTINF:0, Муз ТВ
+http://grifon.info:84/muz_tv
+#EXTINF:0, Россия 1
+http://grifon.info:84/rossia_1
+#EXTINF:0, Россия 24
+http://grifon.info:84/rossia_24
+#EXTINF:0, Пятница
+http://grifon.info:84/pyatnica
+#EXTINF:-1,TAQUILLA_1
+http://www.t12v.com:8000/live/prevot/prevot/890.ts
+
+#EXTINF:-1,TAQUILLA_2
+http://www.t12v.com:8000/live/prevot/prevot/423.ts
+
+#EXTINF:-1,TAQUILLA_3
+http://www.t12v.com:8000/live/prevot/prevot/282.ts
+
+#EXTINF:-1,TAQUILLA_4
+http://www.t12v.com:8000/live/prevot/prevot/265.ts
+
+#EXTINF:-1,TAQUILLA_5
+http://www.t12v.com:8000/live/prevot/prevot/904.ts
+
+#EXTINF:-1,TAQUILLA_6
+http://www.t12v.com:8000/live/prevot/prevot/858.ts
+
+#EXTINF:-1,TAQUILLA_7
+http://www.t12v.com:8000/live/prevot/prevot/854.ts
+
+#EXTINF:-1,CINE+ FRISSON_HD
+http://www.t12v.com:8000/live/prevot/prevot/877.ts
+
+#EXTINF:0,CineStreamTV
+http://68.71.42.179/live/livestream1/playlist.m3u8
+
+#EXTINF: 0, **Movie Premier**
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,FOX
+http://www.t12v.com:8000/live/prevot/prevot/856.ts
+
+#EXTINF:-1,CANAL ACTION
+http://www.t12v.com:8000/live/prevot/prevot/791.ts
+
+#EXTINF:-1,CANAL+ DCINE
+http://www.t12v.com:8000/live/prevot/prevot/785.ts
+
+#EXTINF:-1,CANAL+ COMEDIA
+http://www.t12v.com:8000/live/prevot/prevot/792.ts
+
+#EXTINF:-1,Zombie Channel
+http://iphone-streaming.ustream.tv/ustreamVideo/15905949/streams/live/playlist.m3u8
+
+#EXTINF:-1, True movie 2
+http://89.163.148.31:8000/live/aytac/aytac/2755.m3u8
+
+#EXTINF:0,: XTREME TV
+http://iphone-streaming.ustream.tv:80/uhls/20555006/streams/live/playlist.m3u8
+
+#EXTINF:-1,BEIN SPORT
+http://www.t12v.com:8000/live/prevot/prevot/837.ts
+
+#EXTINF:-1,CANAL+ LIGA_HD
+http://www.t12v.com:8000/live/prevot/prevot/795.ts
+
+#EXTINF:-1,BARCA TV
+http://www.t12v.com:8000/live/prevot/prevot/775.ts
+
+#EXTINF:0, : REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+
+#EXTINF:-1,SKY BUNDESLIGA_1
+http://www.t12v.com:8000/live/prevot/prevot/1023.ts
+
+#EXTINF:-1,CANAL+ FUTBOL
+http://www.t12v.com:8000/live/prevot/prevot/793.ts
+
+#EXTINF:0, NFL Now HD
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+
+#EXTINF:0,Fox Sports 502 HD
+http://motorsport.hopto.org:8080/
+
+#EXTINF:-1 ,EuroSports
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+
+#EXTINF:-1,40 TV
+http://www.t12v.com:8000/live/prevot/prevot/763.ts
+
+#EXTINF:-1,Hit Tv
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+#EXTINF:-1,Heart TV
+
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1,Miami tv music
+http://74.208.152.93/music/stream3/stream.m3u8
+
+#EXTINF:-1,Vevo 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF:-1,Vevo 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+#EXTINF:-1,Vevo 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF:0,Radio capital TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+
+#EXTINF:-1, Rock TV
+mmsh://mediatv2.topix.it/24RockOne66
+
+#EXTINF:-1 ,Telemusica
+rtmp://186.155.200.118:1935/live/telemusica
+
+#EXTINF:-1 , Doing Animation music
+http://www.djing.com/tv/animation.m3u8?
+
+#EXTINF:-1 ,ESKA tv Rock
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
+
+#EXTINF:-1 ,Party tv eska
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p
+
+#EXTINF:-1 ,Si tv
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+
+#EXTINF:-1,Doing Hot Hot music
+http://www.djing.com/tv/hothothot.m3u8?
+
+#EXTINF:-1,My Music HD
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+
+#EXTINF:-1,Tigo music tv
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+
+#EXTINF:-1,Trendy channel music
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+
+#EXTINF:-1,CNN Internacional
+
+http://edge1.everyon.tv/etv1sb/pld16/chunklist_w535411323.m3u8
+
+
+#EXTINF:-1,Bloomberg
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?b?b*t$
+
+#EXTINF:0,Azteca Noticias
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+
+#EXTINF:0,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+#EXTINF:1,BBC One London
+http://89.163.148.31:8000/live/aytac/aytac/2752.m3u8
+
+#EXTINF: 0, BBC World News
+http://origin2.voronezh.ertelecom.ru/content/private/s147213/d3720264/r971567sd2000000/4dc056d69c5791101b1c85419bce537a665e6eb2/track_2_1200/playlist.m3u8
+
+#EXTINF:0,WEATHER NATION
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+
+#EXTINF:0,Accuweather Channel
+http://iphone-streaming.ustream.tv/ustreamVideo/14984935/streams/live/playlist.m3u8
+
+#EXTINF:0,Euronews 
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/fr_vidan750_rtp.sdp
+
+#EXTINF:0,WFTV EVENT LIVE 1
+http://bcoveliveios-i.akamaihd.net/hls/live/207141/268012959001/WFTV_EVENTLIVE1/WFTV_EVENTLIVE1_800.m3u8
+
+#EXTINF:-1,FOX NEWS
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
+
+#EXTINF:-1, OLALA
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+
+#EXTINF:0, Live Ting Tv
+rtsp://edge2.everyon.tv/etv2/phd1006
+
+#EXTINF:-1, BRAZZERS
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+
+#EXTINF:-1,LATIN LIVE SEX
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+
+#EXTINF:-1,Bella Club
+rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
+
+#EXTINF:-1,sext6senso tv
+http://bit.ly/1JWhNlG
+
+#EXTINF:-1, OKADAI HD
+http://edge2.everyon.tv:1935/etv2/phd1003/paz.m3u8
+
+#EXTINF:0,JASMIN
+rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
+
+#EXTINF:-1,HOT SHOTS
+http://46.249.213.93/iPhone/HLS_TS/broadcast/hotshots-tablet.3gp/hotshots-tablet.3gp-mr649k.m3u8
+
+#EXTINF:-1,CS Sex +18 ADULT
+mmsh://tv.webmisto.cz:7000
+
+#EXTINF:-1,BABES SPORTING
+http://46.249.213.93/iPhone/broadcast/babespotting-tablet.3gp/babespotting-tablet.3gp-mr397k.m3u8
+#EXTINF:-1, Canal de las Estrellas Latinoamérica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+
+#EXTINF:-1, Once TV
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+
+#EXTINF:-1,AZTECA 13 HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+
+#EXTINF:-1, Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
+
+#EXTINF:-1, DW Latinoamérica
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+
+#EXTINF:-1, Ingenio TV
+http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
+
+#EXTINF:0, : Efecto Tv Hd
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/index_3_av-p.m3u8
+
+#EXTINF:-1,Tvmas Hd
+rtmp://50.7.98.234/rtv/videortv
+
+#EXTINF:-1,Ocho Tv
+http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8
+
+#EXTINF:-1, Milenio TV
+http://brightcove03-f.akamaihd.net/milenio_centro_512k@101956
+
+#EXTINF:-1, Capital 21 CDMX
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+
+#EXTINF:-1,Multimedios TV
+http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
+
+#EXTINF:0,: 5 Tv Monterrey
+http://video.gvstream.net:1935/e-tv-video/default.stream/live.m3u8
+
+#EXTINF:-1, Canal 7 Mazatlán
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
+
+#EXTINF:-1, 3 TV Pacífico Sinaloa
+http://74.63.97.188:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+
+#EXTINF:-1, RCG  Coahuila
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+
+#EXTINF:-1, 5tv Coahuila
+http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
+
+#EXTINF:-1, Canal 2 Obregón
+http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1501260201.m3u8?
+
+#EXTINF:-1, Canal 15 Zacatecas
+rtmp://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15fresnillo/livestream
+
+#EXTINF:0,: Rcg Hd 1 Coahuila
+http://wowzacontrol.com:1935/stream34/stream34/live.m3u8
+
+#EXTINF:0, : C7 Guadalajara
+http://74.63.97.188:1935/c7/videoc7/live.m3u8
+
+#EXTINF:0, : Canal 2 Hd (estado)
+http://74.63.97.188:1935/gpacifico2/videogpacifico2/live.m3u8
+
+#EXTINF:-1, Canal 10 Quintana Roo
+http://162.212.132.116:1935/live/tvlive2/master.m3u8
+
+#EXTINF:-1, Telemar Campeche
+http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8
+
+#EXTINF:-1, Canal Diez Chiapas
+rtmp://wos1.smartcast.com.mx/chiapas/chiapastv
+
+#EXTINF:-1, RTG Guerrero
+http://50.7.98.234:1935/5936soyguerrero/guerrerovideo/playlist.m3u8
+
+#EXTINF:-1, TV Más veracruz
+rtmp://50.7.98.234/rtv/videortv
+
+#EXTINF:0,: Mexico Travel Channel
+http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
+
+#EXTINF:0,Univision e.u
+https://video05-lax.streamup.com/app/turbo-maxs-channel/playlist.m3u8
+
+#EXTINF:0,Telemundo e.u
+https://video05-lax.streamup.com/app/telemundox2chivas_69s-stream/playlist.m3u8
+
+
+#EXTINF:-1, LA RED HD
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/BratuMarian.m3u
+
+#EXTINF:-1,Mbc Max
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+
+#EXTINF:-1,Abc News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+#EXTINF:-1,A&E
+http://www.t12v.com:8000/live/prevot/prevot/779.ts
+
+#EXTINF:-1,AXN WHITE
+http://www.t12v.com:8000/live/prevot/prevot/777.ts
+
+#EXTINF:-1,AXN
+http://www.t12v.com:8000/live/prevot/prevot/778.ts
+
+#EXTINF:-1,HOLLYWOOD
+http://www.t12v.com:8000/live/prevot/prevot/802.ts
+
+#EXTINF:-1,NATIONAL_GEO_WILD
+http://www.t12v.com:8000/live/prevot/prevot/836.ts
+
+#EXTINF:-1,NATIONAL_GEOGRAPHIC
+http://www.t12v.com:8000/live/prevot/prevot/804.ts
+
+#EXTINF:-1,HISTORIA
+http://www.t12v.com:8000/live/prevot/prevot/841.ts
+
+#EXTINF:-1,FOX LIFE
+http://www.t12v.com:8000/live/prevot/prevot/789.ts
+
+#EXTINF:0,The UFO Channel
+http://veetle.com/index.php/hls/streamMbrFast/5570083766031_/stream.m3u8
+
+#EXTINF:-1,NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+
+#EXTINF:-1,Animacion clasica movies “mms”
+mms://72.13.93.186/animatedfilms
+
+#EXTINF:-1,Anime Tv
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+
+#EXTINF:-1,Toonami
+http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
+
+#EXTINF:-1,TIIN
+http://104.131.117.246:8081/chuy/76/2154-Tiin/playlist.m3u8
+
+#EXTINF:-1,CBEEBIES
+
+http://104.131.117.246:8081/chuy/76/014-Cbeebies/playlist.m3u8
+#EXTINF:-1,Cinemax+
+http://77.76.140.251/prgb.m3u8
+#EXTINF:-1,F+
+http://77.76.140.251/prge.m3u8
+#EXTINF:-1,AXN
+http://77.76.140.251/prgd.m3u8
+#EXTINF:-1,MovieStar
+http://77.76.140.251/prgc.m3u8
+#EXTINF:-1,NatGeo
+http://77.76.140.251/prgf.m3u8
+#EXTINF:-1,DIscovery
+http://77.76.140.251/prgh.m3u8
+#EXTINF:-1,DiscoveryScience
+http://77.76.140.251/prgi.m3u8
+#EXTINF:-1,ViasatNature
+http://77.76.140.251/prgj.m3u8
+#EXTINF:-1,ViasatExplorer
+http://77.76.140.251/prgk.m3u8
+#EXTINF:-1,TheVoice
+http://77.76.140.251/prgm.m3u8
+#EXTINF:-1,HBO+
+http://77.76.140.251/prgp.m3u8
+#EXTINF:-1,NatGeoWild
+http://77.76.140.251/prgg.m3u8
+#EXTINF:-1,RingBG
+http://77.76.140.251/prgr.m3u8
+#EXTINF:-1,Eurosport
+http://77.76.140.251/prgs.m3u8
+#EXTINF:-1,Eurosport2
+http://77.76.140.251/prgt.m3u8
+#EXTINF:-1,TravelChannel
+http://77.76.140.251/prgu.m3u8
+#EXTINF:-1,AnimalPlanet
+http://77.76.140.251/prgw.m3u8
+#EXTINF:-1,NatGeoBG
+http://77.76.140.251/prgf.m3u8
+#EXTINF:-1,NatGeoWILD
+http://77.76.140.251/prgg.m3u8
+#EXTINF:-1,Discovery
+http://77.76.140.251/prgh.m3u8
+#EXTINF:-1,DiscoveryScience
+http://77.76.140.251/prgi.m3u8
+#EXTINF:-1,ViasatNature
+http://77.76.140.251/prgj.m3u8
+#EXTINF:-1,ViasatExplore
+http://77.76.140.251/prgk.m3u8
+#EXTINF:-1,?????????????
+http://77.76.140.251/prgl.m3u8
+#EXTINF:-1,HBOBG
+http://77.76.140.251/prgp.m3u8
+#EXTINF:-1,HBOComedy
+http://77.76.140.251/prga.m3u8
+#EXTINF:-1,Cinemax
+http://77.76.140.251/prgb.m3u8
+#EXTINF:-1,MovieStar
+http://77.76.140.251/prgc.m3u8
+#EXTINF:-1,AXN
+http://77.76.140.251/prgd.m3u8
+#EXTINF:-1,F+
+http://77.76.140.251/prge.m3u8
+#EXTINF:-1,AutoMotorSport
+http://77.76.140.251/prgu.m3u8
+#EXTINF:-1,FilmBoxHD
+http://77.76.140.251/prga.m3u8
+#EXTINF:-1,FilmBox+HD
+http://77.76.140.251/prgb.m3u8
+#EXTINF:-1,TheVoice
+http://77.76.140.251/prgm.m3u8
+#EXTINF:-1,SPORT KLUB 1
+http://83.139.104.123/Content/HLS/Live/Channel(SK_1)/Stream(04)/index.m3u8
+#EXTINF:-1,SPORT KLUB 2
+http://83.139.104.123/Content/HLS/Live/Channel(SK_2)/Stream(04)/index.m3u8
+#EXTINF:-1,SPORT KLUB 3
+http://83.139.104.123/Content/HLS/Live/Channel(SK_3)/Stream(04)/index.m3u8
+#EXTINF:-1,HRT 1
+http://83.139.104.123/Content/HLS/Live/Channel(HTV1)/Stream(04)/index.m3u8
+#EXTINF:-1,HRT 2
+http://83.139.104.123/Content/HLS/Live/Channel(HTV2)/Stream(04)/index.m3u8
+#EXTINF:-1,HRT 3
+http://83.139.104.123/Content/HLS/Live/Channel(HTV3)/Stream(04)/index.m3u8
+#EXTINF:-1,HRT 4
+http://83.139.104.123/Content/HLS/Live/Channel(HTV4)/Stream(04)/index.m3u8
+#EXTINF:-1,CMC
+http://83.139.104.123/Content/HLS/Live/Channel(CMC)/Stream(04)/index.m3u8
+#EXTINF:-1,DMC
+http://83.139.104.123/Content/HLS/Live/Channel(DMC)/Stream(04)/index.m3u8
+#EXTINF:-1,TLC
+http://83.139.104.123/Content/HLS/Live/Channel(TLC)/Stream(04)/index.m3u8
+#EXTINF:-1,vevo 3
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/468.m3u8
+#EXTINF:-1,vevo 2
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/467.m3u8
+#EXTINF:-1,vevo 1
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/466.m3u8
+#EXTINF:-1,SPORT TV HD 1080P *2 opção*
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/1.m3u8
+#EXTINF:-1,Sportv HD 1 test
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/517.m3u8
+#EXTINF:-1,Sportv 2 HD test
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/503.m3u8
+#EXTINF:-1,Sportv 3 HD test
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/563.m3u8
+#EXTINF:-1,Sportv 5 HD test
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/577.m3u8
+#EXTINF:-1,Sportv 1 SD teste
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/523.m3u8
+#EXTINF:-1,Sportv 2 SD teste
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/524.m3u8
+#EXTINF:-1,Sportv 3 test
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/506.m3u8
+#EXTINF:-1,Sportv 4 test
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/519.m3u8
+#EXTINF:-1,Sportv 5 test
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/505.m3u8
+#EXTINF:-1,sportv 4
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/257.m3u8
+#EXTINF:-1,BenficaTV 1 SD teste
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/502.m3u8
+#EXTINF:-1,BenficaTV 1 HD teste
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/558.m3u8
+#EXTINF:-1,BenficaTV HD 2 test
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/557.m3u8
+#EXTINF:-1,BenficaTV SD 2 test
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/501.m3u8
+#EXTINF:-1,sporting test
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/513.m3u8
+#EXTINF:-1,Sporting HD
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/719.m3u8
+#EXTINF:-1,sportv americas
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/458.m3u8
+#EXTINF:-1,eurosport 1 test
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/516.m3u8
+#EXTINF:-1,eurosport 2 test
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/561.m3u8
+#EXTINF:-1,Arena Sport 1 HD
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/486.m3u8
+#EXTINF:-1,Arena Sport 2
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/221.m3u8
+#EXTINF:-1,Arena Sport 3
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/224.m3u8
+#EXTINF:-1,Sport Klub HD 1
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/477.m3u8
+#EXTINF:-1,Sport Klub HD 2
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/478.m3u8
+#EXTINF:-1,Sport Klub HD 3
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/479.m3u8
+#EXTINF:-1,ES: CANAL+ LIGA
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/498.m3u8
+#EXTINF:-1,Bein Sport 1 HD
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/474.m3u8
+#EXTINF:-1,AR: BeIN HD 2
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/491.m3u8
+#EXTINF:-1,Bein Sport 3
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/484.m3u8
+#EXTINF:-1,USA: beIN USA
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/490.m3u8
+#EXTINF:-1,US NBA
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/540.m3u8
+#EXTINF:-1,DE: Sky BundesLiga HD
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/497.m3u8
+#EXTINF:-1,DE: Sky Sporm3u8 1 HD
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/480.m3u8
+#EXTINF:-1,DE: Sky Sporm3u8 2 HD
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/481.m3u8
+#EXTINF:-1,Italian: Moto Gp
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/476.m3u8
+#EXTINF:-1,uk: Sky Sporm3u8 F1 HD
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/475.m3u8
+#EXTINF:-1,UK: Sky Sport 1 HD
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/472.m3u8
+#EXTINF:-1,UK: Sky Sport 2 HD
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/473.m3u8
+#EXTINF:-1,BT SPORm3u8 1
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/487.m3u8
+#EXTINF:-1,BT SPORm3u8 2
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/488.m3u8
+#EXTINF:-1,USA: Fox Sporm3u8 1 HD testes
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/471.m3u8
+#EXTINF:-1,USA: Fox Sporm3u8 2 HD - UFC
+http://tvdasogra.com:8880/live/RMendes/w2EEXL0gii/470.m3u8
+
+#EXTINF:0,Arena Sport 1
+http://188.247.133.26:8888/ipvt_010
+#EXTINF:0,Arena Sport 2
+http://188.247.133.26:8888/ipvt_011
+#EXTINF:0,Arena Sport 3
+http://188.247.133.18:8888/ipvt_005
+#EXTINF:0,Arena Sport 4
+http://188.247.133.18:8888/ipvt_006
+#EXTINF:0,Arena Sport 5
+http://188.247.133.18:8888/ipvt_007
+#EXTINF:0,CETV
+http://213.81.153.221:8080/cetv
+#EXTINF:0,Dolny Kubin m3u8
+http://s1.media-planet.sk:80/live/dolnykubin/playlist.m3u8
+#EXTINF:0,Dolny Kubin rtmp
+rtmp://s1.media-planet.sk:80/live/dolnykubin
+#EXTINF:0,Hronka Slovenia
+http://213.81.153.221:8080/hronka
+#EXTINF:0,SK-Nove Zamky m3u8
+http://s1.media-planet.sk:80/live/novezamky/playlist.m3u8
+#EXTINF:0,SK-Nove Zamky rtmp
+rtmp://s1.media-planet.sk:80/live/novezamky
+#EXTINF:0,SK-Pezinok rtmp
+rtmp://s1.media-planet.sk:80/live/pezinok
+#EXTINF:0,SK-Reduta m3u8
+http://s1.media-planet.sk:80/live/reduta/playlist.m3u8
+#EXTINF:0,SK-Reduta rtmp
+rtmp://s1.media-planet.sk:80/live/reduta
+#EXTINF:0,SK-RTV KREA
+http://213.81.153.221:8080/galanta
+#EXTINF:0,SK-Senica m3u8
+http://s1.media-planet.sk:80/live/senica1/playlist.m3u8
+#EXTINF:0,SK-Senica rtmp
+rtmp://s1.media-planet.sk:80/live/senica1
+#EXTINF:0,SK-STV1
+http://88.212.10.27:81/streams/stv1.m3u8?
+#EXTINF:0,SK-TA3
+http://88.212.10.27:81/streams/ta3.m3u8?
+#EXTINF:0,SK-Trencin rtmp
+rtmp://s1.media-planet.sk:80/live/trencin1
+#EXTINF:0,SK-Turzovka rtmp
+rtmp://s1.media-planet.sk:80/live/turzovka
+#EXTINF:0,SK-TV Mijava m3u8
+http://s1.media-planet.sk:80/live/myjava1/playlist.m3u8
+#EXTINF:0,SK-TV Mijava rtmp
+rtmp://s1.media-planet.sk:80/live/myjava1
+#EXTINF:0,SK-TV Skalica m3u8
+http://s1.media-planet.sk:80/live/skalica1/playlist.m3u8
+#EXTINF:9223372036854,PTC
+rtsp://195.252.113.40/rts
+#EXTINF:9223372036854,PTC SAT
+rtsp://rts.videostreaming.rs/rts/video
+#EXTINF:0,REGION
+http://88.212.10.27:81/streams/region.m3u8
+#EXTINF:0,RROKUM TV
+rtmp://82.114.65.202/live/rrokumtv
+#EXTINF:0,RTK 1
+rtmp://wowza.rtkit.com/live/livestream
+#EXTINF:0,RTS – Serbia
+rtsp://rts.videostreaming.rs/rts
+#EXTINF:0,RTS Sat mms
+mmsh://rts.videostreaming.rs/rts
+#EXTINF:0,RTV BANOVINA HR
+rtmp://video.radio-banovina.hr/live/myStream
+#EXTINF:0,SHUTEL
+http://fms.zulu.mk:1935/zulu/shutel_1/playlist.m3u8
+#EXTINF:0,Sitel
+rtsp://fms.zulu.mk/zulu/sitel_1
+#EXTINF:0,SITEL
+http://fms.zulu.mk:1935/zulu/sitel_1/playlist.m3u8
+#EXTINF:0,Sitel 3
+rtsp://fms.zulu.mk/zulu/sitel3_1
+#EXTINF:0,SITEL 3
+http://fms.zulu.mk:1935/zulu/sitel3_1/playlist.m3u8
+#EXTINF:0,B92
+#EXTINF:0,Bardejov
+rtsp://s1.media-planet.sk:80/live/bardejov1
+#EXTINF:0,BK TV SLO
+rtmp://194.249.141.146:1935/live/bktv
+#EXTINF:0,Delta TV
+rtmp://rtmp.infomaniak.ch:1935/livecast/deltatv
+#EXTINF:0,ERA
+http://fms.zulu.mk:1935/zulu/era_1/playlist.m3u8
+#EXTINF:0,era TV
+rtsp://fms.zulu.mk/zulu/era_1
+#EXTINF:0,IRIS
+http://62.162.58.54:8080/iris
+#EXTINF:0,jug tv
+rtmp://84.20.77.50/live/livestream1
+#EXTINF:0,KANAL 5 PLUS
+http://fms.zulu.mk:1935/zulu/kanal5plus_1/playlist.m3u8
+#EXTINF:0,LESKOVAC TV
+http://5.153.25.7:8082/stream/?channel=tvleskovac&stream=1mb
+#EXTINF:0,ND TV
+http://bglive-a.bitgravity.com/ndtv/247hi/live/native
+#EXTINF:0,NET TV INFO
+http://5.153.25.7:8082/stream/?channel=nettvinfo&stream=1mb
+#EXTINF:0,NOVOSADSKA TV
+http://176.106.121.32:8080/
+#EXTINF:0,NOVOSADSKA TV mms
+mms://176.106.121.32:8080/
+#EXTINF:0,supersonic tv
+rtmp://str103.setplex.net:1935/228/stv_online
+#EXTINF:1,RTV1
+mms://176.106.121.32:8080/
+#EXTINF:1,RTV2
+mms://195.252.114.172/studiob
