@@ -247,8 +247,6 @@ rtmp://fms.105.net:1935/live/virgin2
 http://194.116.83.15:80/24RockOne66
 #EXTINF:0,Djing HD
 http://cdn.djing.com/tv/05.m3u8
-#EXTINF:0,Djing Hot
-http://cdn.djing.com/tv/h-05.m3u8
 #EXTINF:0,Djing Ibiza
 http://cdn.djing.com/tv/d-05.m3u8
 #EXTINF:0,Djing Underground
@@ -265,16 +263,8 @@ http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
 rtmp://stream.smcloud.net/live/polotv
 #EXTINF:0,Quiero Musica
 mms://streamqm.uigc.net/qmusica
-#EXTINF:0,Radio Italia TV
-rtmp://cworigin.cdcache.net:1935/cworigin/_definst_/rilive
-#EXTINF:0,Radio Monte Carlo TV
-http://serv07.vintera.tv:1935/restream/rmc.stream/playlist.m3u8
 #EXTINF:0,REBEL TV
 rtmp://95.211.203.5/live/rebel.stream
-#EXTINF:0,Rock One
-mmsh://mediatv2.topix.it/24RockOne66
-#EXTINF:0,Rock One
-mmsh://mediatv2.topix.it/24RockOne66
 #EXTINF:0,ROUGE TV
 rtmp://rtmp.infomaniak.ch/livecast/rougetv
 #EXTINF:0,Strictlybellydancing
