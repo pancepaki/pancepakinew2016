@@ -53,10 +53,6 @@ rtmp://stream.smcloud.net/live2/best/best_720p
 rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
 #EXTINF:-1,Eska Party
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
-#EXTINF:-1,Матч! Наш спорт
-http://31.43.6.172:1234/udp/239.0.0.156:1234
-
-
 #EXTINF:-1,BEIN SPORT
 http://www.t12v.com:8000/live/prevot/prevot/837.ts
 
@@ -74,10 +70,6 @@ http://www.t12v.com:8000/live/prevot/prevot/1023.ts
 
 #EXTINF:-1,CANAL+ FUTBOL
 http://www.t12v.com:8000/live/prevot/prevot/793.ts
-
-
-#EXTINF:-1,Eurosport 2 HD
-http://31.148.218.195:9094/udp/239.239.76.62:1234
 #EXTINF:-1, :Tele Basel
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/.m3u8
 #EXTINF:-1, :ROUGE TV
@@ -92,8 +84,6 @@ http://rtmp.infomaniak.ch/livecast/latele/.m3u8
 http://94.43.239.178:8080/CHANNEL826/BITRATE0/playlist.m3u8
 #EXTINF:0, KAZSPORT
 http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
-#EXTINF:0,CNN
-http://118.97.167.19/jhos/arena//Playlist.m3u8
 #EXTINF:0,Eurosport (French)
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
 #EXTINF:0,Eurosport 1 ENG
@@ -162,7 +152,6 @@ http://gigaiptv.pro:8000/live/test/test/149.ts
 http://gigaiptv.pro:8000/live/test/test/118.ts
 #EXTINF:-1,ERA
 http://gigaiptv.pro:8000/live/test/test/147.ts
-
 #EXTINF:0,A1 Balkan
 rtmp://176.9.45.202:22222/live/alpha1
 #EXTINF:0,AUSTRIA 24
