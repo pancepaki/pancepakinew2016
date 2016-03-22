@@ -7,6 +7,41 @@ http://188.227.50.105:7778/udp/235.10.11.119:1234
 http://msk3.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Total_Kiss tv" tvg-name="Kiss_tv" tvg-logo="guiatv-prueba.png",Kiss TV - España
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
+#EXTINF:1,Arena Sport 2 HR
+http://balkanstream.com/stream/arenasport2HR/amy/amy
+#EXTINF:1,Arena Sport 4 HR
+http://balkanstream.com/stream/arenasport4HR/amy/amy
+#EXTINF:1,Arena Sport 5 HR
+http://balkanstream.com/stream/arenasport5HR/amy/amy
+#EXTINF:1,Arena Sport 1 SR
+http://balkanstream.com/stream/arenasport1sr/amy/amy
+#EXTINF:1,Arena Sport 3 SR
+http://balkanstream.com/stream/arenasport3sr/amy/amy
+#EXTINF:1,Arena Sport 4 SR
+http://balkanstream.com/stream/arenasport1sr/amy/amy
+#EXTINF:1, SportKlub 1 HR
+http://balkanstream.com/stream/sportklub1hr/amy/amy
+#EXTINF:1, SportKlub 3 HR
+http://balkanstream.com/stream/sportklub3hr/amy/amy
+#EXTINF:-1, Sport Klub 1 HD
+http://77.76.140.251/prgr.m3u8
+#EXTINF:-1, Sport Klub 2 HD
+http://77.76.140.251/prgs.m3u8
+#EXTINF:-1, Sport Klub 3 HD
+http://77.76.140.251/prgt.m3u8
+#EXTINF:-1,Sport Klub 3 HD Slovenia
+http://77.76.140.251/prgt.m3u8
+#EXTINF:-1,EX - Arena 1 Srb
+http://xtream.iptv-streamer.com:8000/live/aa/aa/879.ts
+#EXTINF:-1,EX - Arena 2 Srb
+http://xtream.iptv-streamer.com:8000/live/aa/aa/880.ts
+#EXTINF:-1,EX - Arena 3 Srb
+http://xtream.iptv-streamer.com:8000/live/aa/aa/881.ts
+#EXTINF:-1,EX - Arena 4 Srb
+http://xtream.iptv-streamer.com:8000/live/aa/aa/882.ts
+#EXTINF:-1,EX - Arena 5 Srb
+http://xtream.iptv-streamer.com:8000/live/aa/aa/883.ts
+
 #EXTINF:-1,VEVO 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:-1,VEVO 2
@@ -2969,3 +3004,1568 @@ rtmp://str103.setplex.net:1935/228/stv_online
 mms://176.106.121.32:8080/
 #EXTINF:1,RTV2
 mms://195.252.114.172/studiob
+------------------------------------srbija----------
+#EXTINF:0,EX-YU: RTS 2
+http://ksportiptv.com:1557/live/iptv/iptv/1050.ts
+#EXTINF:0,EX-YU: B 92
+http://ksportiptv.com:1557/live/iptv/iptv/874.ts
+#EXTINF:0,EX-YU: Fox Life
+http://ksportiptv.com:1557/live/iptv/iptv/1615.ts
+#EXTINF:0,UK: BBC Four
+http://ksportiptv.com:1557/live/iptv/iptv/1842.ts
+#EXTINF:0,EX-YU : Klasik TV
+http://ksportiptv.com:1557/live/iptv/iptv/1723.ts
+#EXTINF:0,EX-YU: Al Jazeera Balkan
+http://ksportiptv.com:1557/live/iptv/iptv/844.ts
+#EXTINF:0,EX-YU: Fan
+http://ksportiptv.com:1557/live/iptv/iptv/1614.ts
+#EXTINF:0,EX-YU : BALKANIKA
+http://ksportiptv.com:1557/live/iptv/iptv/1721.ts
+#EXTINF:0,EX-YU: HBO Comedy
+http://ksportiptv.com:1557/live/iptv/iptv/954.ts
+#EXTINF:0,EX-YU: RTL
+http://ksportiptv.com:1557/live/iptv/iptv/1635.ts
+#EXTINF:0,EX-YU: RTL 2
+http://ksportiptv.com:1557/live/iptv/iptv/1636.ts
+#EXTINF:0,EX-YU: Posavina TV
+http://ksportiptv.com:1557/live/iptv/iptv/1633.ts
+#EXTINF:0,EX-YU: OBN
+http://ksportiptv.com:1557/live/iptv/iptv/1623.ts
+#EXTINF:0,EX-YU: Nova HR
+http://ksportiptv.com:1557/live/iptv/iptv/1622.ts
+#EXTINF:0,EX-YU: HRT 1
+http://ksportiptv.com:1557/live/iptv/iptv/1618.ts
+#EXTINF:0,EX-YU: HRT 2
+http://ksportiptv.com:1557/live/iptv/iptv/1619.ts
+#EXTINF:0,EX-YU: HRT 3
+http://ksportiptv.com:1557/live/iptv/iptv/1620.ts
+#EXTINF:0,EX-YU: HRT 4
+http://ksportiptv.com:1557/live/iptv/iptv/1621.ts
+#EXTINF:0,EX-YU: Hayat
+http://ksportiptv.com:1557/live/iptv/iptv/1616.ts
+#EXTINF:0,EX-YU: Doma TV
+http://ksportiptv.com:1557/live/iptv/iptv/1613.ts
+#EXTINF:0,EX-YU: DM Sat
+http://ksportiptv.com:1557/live/iptv/iptv/1612.ts
+#EXTINF:0,EX-YU: BN
+http://ksportiptv.com:1557/live/iptv/iptv/1606.ts
+#EXTINF:0,EX-YU: BN Music
+http://ksportiptv.com:1557/live/iptv/iptv/1607.ts
+#EXTINF:0,EX-YU: BHT
+http://ksportiptv.com:1557/live/iptv/iptv/1605.ts
+#EXTINF:0,EX-YU: Prva Plus
+http://ksportiptv.com:1557/live/iptv/iptv/1634.ts
+#EXTINF:0,EX-YU: Cinemax HD
+http://ksportiptv.com:1557/live/iptv/iptv/1608.ts
+#EXTINF:0,EX-YU: Pink
+http://ksportiptv.com:1557/live/iptv/iptv/1004.ts
+#EXTINF:0,EX-YU: Pink 2
+http://ksportiptv.com:1557/live/iptv/iptv/1005.ts
+#EXTINF:0,EX-YU : PINK 3
+http://ksportiptv.com:1557/live/iptv/iptv/1986.ts
+#EXTINF:0,EX-YU: Pink Action
+http://ksportiptv.com:1557/live/iptv/iptv/1006.ts
+#EXTINF:0,EX-YU: Pink Comedy
+http://ksportiptv.com:1557/live/iptv/iptv/1008.ts
+#EXTINF:0,EX-YU: Pink Serije
+http://ksportiptv.com:1557/live/iptv/iptv/1630.ts
+#EXTINF:0,EX-YU: Pink Extra
+http://ksportiptv.com:1557/live/iptv/iptv/1009.ts
+#EXTINF:0,EX-YU: Pink Family
+http://ksportiptv.com:1557/live/iptv/iptv/1010.ts
+#EXTINF:0,EX-YU: Pink Film
+http://ksportiptv.com:1557/live/iptv/iptv/1011.ts
+#EXTINF:0,EX-YU: Pink Horror
+http://ksportiptv.com:1557/live/iptv/iptv/1012.ts
+#EXTINF:0,EX-YU: Pink Movies
+http://ksportiptv.com:1557/live/iptv/iptv/1013.ts
+#EXTINF:0,EX-YU: Pink Pedia
+http://ksportiptv.com:1557/live/iptv/iptv/1014.ts
+#EXTINF:0,EX-YU: Pink Western
+http://ksportiptv.com:1557/live/iptv/iptv/1632.ts
+#EXTINF:0,EX-YU: Pink Thriller
+http://ksportiptv.com:1557/live/iptv/iptv/1631.ts
+#EXTINF:0,EX-YU: Pink Romance
+http://ksportiptv.com:1557/live/iptv/iptv/1628.ts
+#EXTINF:0,EX-YU: Pink Sci-Fi & Fantasy
+http://ksportiptv.com:1557/live/iptv/iptv/1629.ts
+#EXTINF:0,EX-YU: Pink Reality
+http://ksportiptv.com:1557/live/iptv/iptv/1627.ts
+#EXTINF:0,EX-YU: Pink Premium
+http://ksportiptv.com:1557/live/iptv/iptv/1626.ts
+#EXTINF:0,EX-YU: Pink Plus
+http://ksportiptv.com:1557/live/iptv/iptv/1625.ts
+#EXTINF:0,EX-YU: Pink Crime & Mystery
+http://ksportiptv.com:1557/live/iptv/iptv/1684.ts
+#EXTINF:0,EX-YU: Pink BH
+http://ksportiptv.com:1557/live/iptv/iptv/1624.ts
+#EXTINF:0,EX-YU: Arena Sport 1 SRB
+http://ksportiptv.com:1557/live/iptv/iptv/864.ts
+#EXTINF:0,EX-YU: Arena Sport 2 SRB
+http://ksportiptv.com:1557/live/iptv/iptv/866.ts
+#EXTINF:0,EX-YU: Arena Sport 3 SRB
+http://ksportiptv.com:1557/live/iptv/iptv/868.ts
+#EXTINF:0,EX-YU: Arena Sport 4 SRB
+http://ksportiptv.com:1557/live/iptv/iptv/870.ts
+#EXTINF:0,XXX 1
+http://ksportiptv.com:1557/live/iptv/iptv/1698.ts
+#EXTINF:0,XXX 2
+http://ksportiptv.com:1557/live/iptv/iptv/1699.ts
+#EXTINF:0,xxx 3
+http://ksportiptv.com:1557/live/iptv/iptv/1700.ts
+#EXTINF:0,XXX 4
+http://ksportiptv.com:1557/live/iptv/iptv/1701.ts
+#EXTINF:0,XXX 5
+
+#EXTINF:0,>>>>>SPORT<<<<<
+http://ksportiptv.com:1557/live/iptv/iptv/840.ts
+#EXTINF:0,EX-YU: Arena Sport 1 HR
+http://ksportiptv.com:1557/live/iptv/iptv/863.ts
+#EXTINF:0,EX-YU: Arena Sport 2 HR
+http://ksportiptv.com:1557/live/iptv/iptv/865.ts
+#EXTINF:0,EX-YU: Arena Sport 3 HR
+http://ksportiptv.com:1557/live/iptv/iptv/867.ts
+#EXTINF:0,EX-YU: Arena Sport 4 HR
+http://ksportiptv.com:1557/live/iptv/iptv/869.ts
+#EXTINF:0,EX-YU: Arena Sport 5 HR
+http://ksportiptv.com:1557/live/iptv/iptv/871.ts
+#EXTINF:0,EX-YU: Sport Klub 1 HR
+http://ksportiptv.com:1557/live/iptv/iptv/1132.ts
+#EXTINF:0,EX-YU: Sport Klub 2 HR
+http://ksportiptv.com:1557/live/iptv/iptv/1133.ts
+#EXTINF:0,EX-YU: Sport Klub 3 HR
+http://ksportiptv.com:1557/live/iptv/iptv/1134.ts
+#EXTINF:0,EX-YU : Sportal TV HD
+http://ksportiptv.com:1557/live/iptv/iptv/1864.ts
+#EXTINF:0,EX-YU : SPORT KLUB 3 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1720.ts
+#EXTINF:0,EX-YU : SPORT KLUB 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1719.ts
+#EXTINF:0,EX-YU : SPORT KLUB 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1718.ts
+#EXTINF:0,UK: CHT Stadium X
+http://ksportiptv.com:1557/live/iptv/iptv/1691.ts
+#EXTINF:0,UK:CTH Stadium 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1685.ts
+#EXTINF:0,CTH Stadium 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1686.ts
+#EXTINF:0,CTH Stadium 3 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1687.ts
+#EXTINF:0,CTH Stadium 4 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1688.ts
+#EXTINF:0,UK: CTH Stadium 5 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1689.ts
+#EXTINF:0,UK: CTH Stadium 6 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1690.ts
+#EXTINF:0,PT: Sport TV1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1655.ts
+#EXTINF:0,PT: Sport TV2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1656.ts
+#EXTINF:0,PT: Sport TV3
+http://ksportiptv.com:1557/live/iptv/iptv/1657.ts
+#EXTINF:0,PT: Sport TV 4
+http://ksportiptv.com:1557/live/iptv/iptv/1695.ts
+#EXTINF:0,PT: Sport TV 5
+http://ksportiptv.com:1557/live/iptv/iptv/1696.ts
+#EXTINF:0,AR: beINSports 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/882.ts
+#EXTINF:0,AR: beINSports 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/883.ts
+#EXTINF:0,AR: beINSports 3 HD
+http://ksportiptv.com:1557/live/iptv/iptv/884.ts
+#EXTINF:0,AR: beINSports 4 HD
+http://ksportiptv.com:1557/live/iptv/iptv/885.ts
+#EXTINF:0,AR: beINSports 5 HD
+http://ksportiptv.com:1557/live/iptv/iptv/886.ts
+#EXTINF:0,AR: beINSports 6 HD
+http://ksportiptv.com:1557/live/iptv/iptv/887.ts
+#EXTINF:0,AR: beINSports 7 HD
+http://ksportiptv.com:1557/live/iptv/iptv/888.ts
+#EXTINF:0,AR: beINSports 8 HD
+http://ksportiptv.com:1557/live/iptv/iptv/889.ts
+#EXTINF:0,AR: beINSports 9 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1729.ts
+#EXTINF:0,AR: beINSports 10 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1730.ts
+#EXTINF:0,AR: beINSports 11 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1769.ts
+
+http://ksportiptv.com:1557/live/iptv/iptv/1702.ts
+
+
+#EXTINF:0,>>>>>>> KOSOVA <<<<<<<
+http://ksportiptv.com:1557/live/iptv/iptv/1204.ts
+#EXTINF:0,AL: RTK SAT
+http://ksportiptv.com:1557/live/iptv/iptv/1345.ts
+#EXTINF:0,AL: RTK 1
+http://ksportiptv.com:1557/live/iptv/iptv/1042.ts
+#EXTINF:0,AL: RTK 2
+http://ksportiptv.com:1557/live/iptv/iptv/1043.ts
+#EXTINF:0,AL: RTK 3
+http://ksportiptv.com:1557/live/iptv/iptv/1044.ts
+#EXTINF:0,AL: RTK 4
+http://ksportiptv.com:1557/live/iptv/iptv/1045.ts
+#EXTINF:0,AL: RTK 1 (test)
+http://ksportiptv.com:1557/live/iptv/iptv/1304.ts
+#EXTINF:0,AL: RTV 21 Toksor
+http://ksportiptv.com:1557/live/iptv/iptv/1319.ts
+#EXTINF:0,AL: RTV 21 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1052.ts
+#EXTINF:0,AL: KTV Toksor
+http://ksportiptv.com:1557/live/iptv/iptv/1308.ts
+#EXTINF:0,AL: KTV HD
+http://ksportiptv.com:1557/live/iptv/iptv/979.ts
+#EXTINF:0,AL: ALSAT M (backup)
+http://ksportiptv.com:1557/live/iptv/iptv/1926.ts
+#EXTINF:0,AL: KLAN Kosova HD
+http://ksportiptv.com:1557/live/iptv/iptv/1307.ts
+#EXTINF:0,AL: ZICO TV
+http://ksportiptv.com:1557/live/iptv/iptv/1202.ts
+#EXTINF:0,AL: RTV 21 Popullore
+http://ksportiptv.com:1557/live/iptv/iptv/825.ts
+#EXTINF:0,AL: First TV
+http://ksportiptv.com:1557/live/iptv/iptv/944.ts
+#EXTINF:0,AL: Besa TV
+http://ksportiptv.com:1557/live/iptv/iptv/890.ts
+#EXTINF:0,AL: Supersonic TV
+http://ksportiptv.com:1557/live/iptv/iptv/1302.ts
+#EXTINF:0,AL: Apollon
+http://ksportiptv.com:1557/live/iptv/iptv/1305.ts
+#EXTINF:0,AL: Rrokum TV
+http://ksportiptv.com:1557/live/iptv/iptv/1041.ts
+#EXTINF:0,AL: RTV Sharri
+http://ksportiptv.com:1557/live/iptv/iptv/1055.ts
+#EXTINF:0,AL: TV Opoja
+http://ksportiptv.com:1557/live/iptv/iptv/1185.ts
+#EXTINF:0,AL: VEVO
+http://ksportiptv.com:1557/live/iptv/iptv/1317.ts
+#EXTINF:0,AL: TV Tetova
+http://ksportiptv.com:1557/live/iptv/iptv/1575.ts
+#EXTINF:0,AL: TV Syri
+http://ksportiptv.com:1557/live/iptv/iptv/1325.ts
+#EXTINF:0,AL: TV Rozafa
+http://ksportiptv.com:1557/live/iptv/iptv/1334.ts
+#EXTINF:0,AL: TV R
+http://ksportiptv.com:1557/live/iptv/iptv/1576.ts
+#EXTINF:0,AL: TV Mitrovica
+http://ksportiptv.com:1557/live/iptv/iptv/1326.ts
+#EXTINF:0,AL: TV Istogu
+http://ksportiptv.com:1557/live/iptv/iptv/1448.ts
+#EXTINF:0,AL: TV Iliret
+http://ksportiptv.com:1557/live/iptv/iptv/1330.ts
+#EXTINF:0,AL: TV Elbasani
+http://ksportiptv.com:1557/live/iptv/iptv/1574.ts
+#EXTINF:0,AL: TV Dukagjini
+http://ksportiptv.com:1557/live/iptv/iptv/1180.ts
+#EXTINF:0,AL: TV DUGAGJINI
+http://ksportiptv.com:1557/live/iptv/iptv/1873.ts
+#EXTINF:0,AL: TV Arta
+http://ksportiptv.com:1557/live/iptv/iptv/1178.ts
+#EXTINF:0,AL: TV 1 ShkodÃ«r
+http://ksportiptv.com:1557/live/iptv/iptv/1573.ts
+#EXTINF:0,AL: Tribuna TV
+http://ksportiptv.com:1557/live/iptv/iptv/1572.ts
+#EXTINF:0,AL: Tirana TV
+http://ksportiptv.com:1557/live/iptv/iptv/1315.ts
+#EXTINF:0,AL: Tele Sport
+http://ksportiptv.com:1557/live/iptv/iptv/1449.ts
+#EXTINF:0,AL: STV Folk
+http://ksportiptv.com:1557/live/iptv/iptv/1318.ts
+#EXTINF:0,AL: RTV Islam
+http://ksportiptv.com:1557/live/iptv/iptv/1054.ts
+#EXTINF:0,AL: RTV 7
+http://ksportiptv.com:1557/live/iptv/iptv/1571.ts
+#EXTINF:0,AL: RTV 21 Plus
+http://ksportiptv.com:1557/live/iptv/iptv/1053.ts
+#EXTINF:0,AL: RTV 21 Maqedonia
+http://ksportiptv.com:1557/live/iptv/iptv/1312.ts
+#EXTINF:0,AL: RTV 21 Junior
+http://ksportiptv.com:1557/live/iptv/iptv/1313.ts
+#EXTINF:0,AL: RTSH Sport HD
+http://ksportiptv.com:1557/live/iptv/iptv/1887.ts
+#EXTINF:0,AL: Report TV
+http://ksportiptv.com:1557/live/iptv/iptv/1461.ts
+#EXTINF:0,AL: Peace TV Shqip
+http://ksportiptv.com:1557/live/iptv/iptv/1003.ts
+#EXTINF:0,AL: News TV Kosova
+http://ksportiptv.com:1557/live/iptv/iptv/1331.ts
+#EXTINF:0,AL: K3 Kumanova
+http://ksportiptv.com:1557/live/iptv/iptv/1332.ts
+#EXTINF:0,AL: Mekke TV
+http://ksportiptv.com:1557/live/iptv/iptv/1569.ts
+#EXTINF:0,AL: Medina TV
+http://ksportiptv.com:1557/live/iptv/iptv/1570.ts
+#EXTINF:0,AL: KLAN Plus
+http://ksportiptv.com:1557/live/iptv/iptv/1475.ts
+#EXTINF:0,AL: Folklorit
+http://ksportiptv.com:1557/live/iptv/iptv/1320.ts
+#EXTINF:0,AL: Folk +
+http://ksportiptv.com:1557/live/iptv/iptv/945.ts
+#EXTINF:0,AL: Elrodi TV
+http://ksportiptv.com:1557/live/iptv/iptv/1321.ts
+#EXTINF:0,AL: Dasma TV
+http://ksportiptv.com:1557/live/iptv/iptv/1324.ts
+#EXTINF:0,AL: Club TV
+http://ksportiptv.com:1557/live/iptv/iptv/1339.ts
+#EXTINF:0,AL: Cegrani Media
+http://ksportiptv.com:1557/live/iptv/iptv/1333.ts
+#EXTINF:0,AL: Blue Sky
+http://ksportiptv.com:1557/live/iptv/iptv/1328.ts
+#EXTINF:0,AL: ALB POPULLOR
+http://ksportiptv.com:1557/live/iptv/iptv/1886.ts
+#EXTINF:0,AL: ALB HITS
+http://ksportiptv.com:1557/live/iptv/iptv/1860.ts
+#EXTINF:0,AL: AL MUZIK
+http://ksportiptv.com:1557/live/iptv/iptv/1885.ts
+#EXTINF:0,AL: A1 TV Music
+http://ksportiptv.com:1557/live/iptv/iptv/1884.ts
+#EXTINF:0,AL: A1 ISLAM
+http://ksportiptv.com:1557/live/iptv/iptv/1327.ts
+#EXTINF:0,>>>>>>> DIGITALB <<<<<<
+http://ksportiptv.com:1557/live/iptv/iptv/830.ts
+#EXTINF:0,AL: TVSH
+http://ksportiptv.com:1557/live/iptv/iptv/1189.ts
+#EXTINF:0,AL: T HD
+http://ksportiptv.com:1557/live/iptv/iptv/1157.ts
+#EXTINF:0,AL: Top News
+http://ksportiptv.com:1557/live/iptv/iptv/1309.ts
+#EXTINF:0,AL: TOP Channel Toksor
+http://ksportiptv.com:1557/live/iptv/iptv/1161.ts
+#EXTINF:0,AL: TOP Channel HD
+http://ksportiptv.com:1557/live/iptv/iptv/1310.ts
+#EXTINF:0,AL: KLAN HD
+http://ksportiptv.com:1557/live/iptv/iptv/976.ts
+#EXTINF:0,AL: Channel ONE
+http://ksportiptv.com:1557/live/iptv/iptv/907.ts
+#EXTINF:0,AL: Film Aksion
+http://ksportiptv.com:1557/live/iptv/iptv/929.ts
+#EXTINF:0,AL: Film Autor
+http://ksportiptv.com:1557/live/iptv/iptv/930.ts
+#EXTINF:0,AL: Film Drama
+http://ksportiptv.com:1557/live/iptv/iptv/931.ts
+#EXTINF:0,AL: Film Komedi
+http://ksportiptv.com:1557/live/iptv/iptv/938.ts
+#EXTINF:0,AL: Film Hits
+http://ksportiptv.com:1557/live/iptv/iptv/937.ts
+#EXTINF:0,AL: Film Hits +1
+http://ksportiptv.com:1557/live/iptv/iptv/1205.ts
+#EXTINF:0,AL: Film NjÃ« HD
+http://ksportiptv.com:1557/live/iptv/iptv/939.ts
+#EXTINF:0,AL: Film Dy HD
+http://ksportiptv.com:1557/live/iptv/iptv/932.ts
+#EXTINF:0,AL: Digi Gold
+http://ksportiptv.com:1557/live/iptv/iptv/918.ts
+#EXTINF:0,AL: Film StinÃ«t
+http://ksportiptv.com:1557/live/iptv/iptv/940.ts
+#EXTINF:0,AL: Film Thriller
+http://ksportiptv.com:1557/live/iptv/iptv/941.ts
+#EXTINF:0,AL: Plus HD
+http://ksportiptv.com:1557/live/iptv/iptv/1016.ts
+#EXTINF:0,AL: Explorer Shkenc
+http://ksportiptv.com:1557/live/iptv/iptv/924.ts
+#EXTINF:0,AL: Explorer Natyra
+http://ksportiptv.com:1557/live/iptv/iptv/923.ts
+#EXTINF:0,AL: Explorer Histori
+http://ksportiptv.com:1557/live/iptv/iptv/922.ts
+#EXTINF:0,AL: Junior TV
+http://ksportiptv.com:1557/live/iptv/iptv/958.ts
+#EXTINF:0,AL: Ãhttp://ksportiptv.com:1557/live/iptv/iptv/916.ts
+#EXTINF:0,AL: Bang Bang
+http://ksportiptv.com:1557/live/iptv/iptv/876.ts
+#EXTINF:0,AL: ABC News
+http://ksportiptv.com:1557/live/iptv/iptv/843.ts
+#EXTINF:0,AL: News 24
+http://ksportiptv.com:1557/live/iptv/iptv/1000.ts
+#EXTINF:0,AL: ORA News
+http://ksportiptv.com:1557/live/iptv/iptv/1001.ts
+#EXTINF:0,AL: Super Sport 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1145.ts
+#EXTINF:0,AL: Super Sport 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1147.ts
+#EXTINF:0,AL: Super Sport 3 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1149.ts
+#EXTINF:0,AL: Super Sport 4 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1151.ts
+#EXTINF:0,AL: Super Sport 1
+http://ksportiptv.com:1557/live/iptv/iptv/1146.ts
+#EXTINF:0,AL: Super Sport 2
+http://ksportiptv.com:1557/live/iptv/iptv/1148.ts
+#EXTINF:0,AL: Super Sport 3
+http://ksportiptv.com:1557/live/iptv/iptv/1150.ts
+#EXTINF:0,AL: Super Sport 4
+http://ksportiptv.com:1557/live/iptv/iptv/1152.ts
+#EXTINF:0,AL: Super Sport 5
+http://ksportiptv.com:1557/live/iptv/iptv/1153.ts
+#EXTINF:0,AL: Super Sport 6
+http://ksportiptv.com:1557/live/iptv/iptv/1462.ts
+#EXTINF:0,AL: Sport Kosova 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1136.ts
+#EXTINF:0,AL: Sport Kosova 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1138.ts
+#EXTINF:0,AL: SuperSport Kosova
+http://ksportiptv.com:1557/live/iptv/iptv/1875.ts
+#EXTINF:0,AL: Sport Kosova 1
+http://ksportiptv.com:1557/live/iptv/iptv/1135.ts
+#EXTINF:0,AL: Kujtesa Sport 1
+http://ksportiptv.com:1557/live/iptv/iptv/1876.ts
+#EXTINF:0,AL: Kujtesa Sport 2
+http://ksportiptv.com:1557/live/iptv/iptv/1877.ts
+#EXTINF:0,>>>>>>> TRING <<<<<<
+http://ksportiptv.com:1557/live/iptv/iptv/833.ts
+#EXTINF:0,AL: Vizion Plus HD
+http://ksportiptv.com:1557/live/iptv/iptv/1192.ts
+#EXTINF:0,AL: Vision Plus Toksor
+http://ksportiptv.com:1557/live/iptv/iptv/1301.ts
+#EXTINF:0,AL: Tring 3+
+http://ksportiptv.com:1557/live/iptv/iptv/827.ts
+#EXTINF:0,AL: JUG TV
+http://ksportiptv.com:1557/live/iptv/iptv/957.ts
+#EXTINF:0,AL: Tring Smile
+http://ksportiptv.com:1557/live/iptv/iptv/1124.ts
+#EXTINF:0,AL: Zjarr TV
+http://ksportiptv.com:1557/live/iptv/iptv/1203.ts
+#EXTINF:0,FR: LUX TV
+http://ksportiptv.com:1557/live/iptv/iptv/984.ts
+#EXTINF:0,AL: Living HD
+http://ksportiptv.com:1557/live/iptv/iptv/983.ts
+#EXTINF:0,IT: Fox Crime HD
+http://ksportiptv.com:1557/live/iptv/iptv/947.ts
+#EXTINF:0,AL: Tring Jolly HD
+http://ksportiptv.com:1557/live/iptv/iptv/956.ts
+#EXTINF:0,AL: Tring Super
+http://ksportiptv.com:1557/live/iptv/iptv/1174.ts
+#EXTINF:0,AL: Tring Shqip
+http://ksportiptv.com:1557/live/iptv/iptv/1168.ts
+#EXTINF:0,AL: Tring Max
+http://ksportiptv.com:1557/live/iptv/iptv/1166.ts
+#EXTINF:0,AL: Tring Life
+http://ksportiptv.com:1557/live/iptv/iptv/1165.ts
+#EXTINF:0,AL: Tring Fantasy
+http://ksportiptv.com:1557/live/iptv/iptv/1164.ts
+#EXTINF:0,AL: Tring Comedy
+http://ksportiptv.com:1557/live/iptv/iptv/1163.ts
+#EXTINF:0,AL: Tring World
+http://ksportiptv.com:1557/live/iptv/iptv/1176.ts
+#EXTINF:0,AL: Tring Planet
+http://ksportiptv.com:1557/live/iptv/iptv/1167.ts
+#EXTINF:0,AL: Tring Histori
+http://ksportiptv.com:1557/live/iptv/iptv/1316.ts
+#EXTINF:0,AL: Muse
+http://ksportiptv.com:1557/live/iptv/iptv/991.ts
+#EXTINF:0,AL: BBF Music
+http://ksportiptv.com:1557/live/iptv/iptv/880.ts
+#EXTINF:0,AL: Click
+http://ksportiptv.com:1557/live/iptv/iptv/913.ts
+#EXTINF:0,AL: Tip TV
+http://ksportiptv.com:1557/live/iptv/iptv/1160.ts
+#EXTINF:0,AL: Tring Tring
+http://ksportiptv.com:1557/live/iptv/iptv/1175.ts
+#EXTINF:0,AL: Tring Sport News HD
+http://ksportiptv.com:1557/live/iptv/iptv/1173.ts
+#EXTINF:0,AL: Tring Sport 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1169.ts
+#EXTINF:0,AL: Tring Sport 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1170.ts
+#EXTINF:0,AL: Tring Sport 3 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1171.ts
+#EXTINF:0,AL: Tring Sport 4 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1172.ts
+#EXTINF:0,>>>>>>> KINOO <<<<<<<
+http://ksportiptv.com:1557/live/iptv/iptv/831.ts
+#EXTINF:0,Mission Impossible Rogue Nation (2015)
+http://ksportiptv.com:1557/movie/iptv/iptv/1306.mp4
+#EXTINF:0,AL: Film Gold 1
+http://ksportiptv.com:1557/live/iptv/iptv/1880.ts
+#EXTINF:0,AL: Film Gold 2
+http://ksportiptv.com:1557/live/iptv/iptv/1881.ts
+#EXTINF:0,AL: Film Gold 3
+http://ksportiptv.com:1557/live/iptv/iptv/1882.ts
+#EXTINF:0,AL: Film Gold 4
+http://ksportiptv.com:1557/live/iptv/iptv/1883.ts
+#EXTINF:0,AL: Kino Action
+http://ksportiptv.com:1557/live/iptv/iptv/964.ts
+#EXTINF:0,AL: Kino Premiere 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/971.ts
+#EXTINF:0,AL: Kino Premiere 3 HD
+http://ksportiptv.com:1557/live/iptv/iptv/970.ts
+#EXTINF:0,AL: Kino Premiere 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/972.ts
+#EXTINF:0,AL: Kino Comedy HD
+http://ksportiptv.com:1557/live/iptv/iptv/969.ts
+#EXTINF:0,AL: Sky Comedy
+http://ksportiptv.com:1557/live/iptv/iptv/1879.ts
+#EXTINF:0,AL: Kino Arkiva
+http://ksportiptv.com:1557/live/iptv/iptv/1878.ts
+#EXTINF:0,AL: Kino Thriller HD
+http://ksportiptv.com:1557/live/iptv/iptv/966.ts
+#EXTINF:0,AL: Kino Scifi HD
+http://ksportiptv.com:1557/live/iptv/iptv/974.ts
+#EXTINF:0,AL: Kino RomancÃ« HD
+http://ksportiptv.com:1557/live/iptv/iptv/973.ts
+#EXTINF:0,AL: Kino Family HD
+http://ksportiptv.com:1557/live/iptv/iptv/968.ts
+#EXTINF:0,AL: Kino Dark HD
+http://ksportiptv.com:1557/live/iptv/iptv/967.ts
+#EXTINF:0,>>>>>>> ALB TV<<<<<<<
+http://ksportiptv.com:1557/live/iptv/iptv/829.ts
+#EXTINF:0,AL: TV Diaspora
+http://ksportiptv.com:1557/live/iptv/iptv/1179.ts
+#EXTINF:0,AL: AlbUK Movie
+http://ksportiptv.com:1557/live/iptv/iptv/856.ts
+#EXTINF:0,AL: AlbUK
+http://ksportiptv.com:1557/live/iptv/iptv/858.ts
+#EXTINF:0,AL: AlbUK Music
+http://ksportiptv.com:1557/live/iptv/iptv/857.ts
+#EXTINF:0,AL: AlbUK Info
+http://ksportiptv.com:1557/live/iptv/iptv/854.ts
+#EXTINF:0,>>>>>>> MAKEDONIA <<<<<<<
+http://ksportiptv.com:1557/live/iptv/iptv/832.ts
+#EXTINF:0,AL: Alsat M
+http://ksportiptv.com:1557/live/iptv/iptv/860.ts
+#EXTINF:0,MK: MPT 1
+http://ksportiptv.com:1557/live/iptv/iptv/988.ts
+#EXTINF:0,AL: MPT 2
+http://ksportiptv.com:1557/live/iptv/iptv/989.ts
+#EXTINF:0,TR: Star TV
+http://ksportiptv.com:1557/live/iptv/iptv/1143.ts
+#EXTINF:0,AL: TV Koha
+http://ksportiptv.com:1557/live/iptv/iptv/1182.ts
+#EXTINF:0,AL: ERA TV
+http://ksportiptv.com:1557/live/iptv/iptv/1181.ts
+#EXTINF:0,AL: TV 2 Gostivar
+http://ksportiptv.com:1557/live/iptv/iptv/1177.ts
+#EXTINF:0,GR: Kontra TV
+http://ksportiptv.com:1557/live/iptv/iptv/978.ts
+#EXTINF:0,MK: Alfa
+http://ksportiptv.com:1557/live/iptv/iptv/859.ts
+#EXTINF:0,MK: TV M3 Music
+http://ksportiptv.com:1557/live/iptv/iptv/1184.ts
+#EXTINF:0,MK: KANL 5
+http://ksportiptv.com:1557/live/iptv/iptv/962.ts
+#EXTINF:0,AL: Kanali 7 News
+http://ksportiptv.com:1557/live/iptv/iptv/961.ts
+#EXTINF:0,>>>>>GERMANY<<<<<
+http://ksportiptv.com:1557/live/iptv/iptv/837.ts
+#EXTINF:0,DE:ZDF HD
+http://ksportiptv.com:1557/live/iptv/iptv/1846.ts
+#EXTINF:0,DE:SPORT1
+http://ksportiptv.com:1557/live/iptv/iptv/1848.ts
+#EXTINF:0,DE:Sky Select 9
+http://ksportiptv.com:1557/live/iptv/iptv/1776.ts
+#EXTINF:0,DE:Sky de Cinema Hits HD
+http://ksportiptv.com:1557/live/iptv/iptv/1779.ts
+#EXTINF:0,DE:SF 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1775.ts
+#EXTINF:0,DE:Sat.1
+http://ksportiptv.com:1557/live/iptv/iptv/1849.ts
+#EXTINF:0,DE:RTL NITRO
+http://ksportiptv.com:1557/live/iptv/iptv/1850.ts
+#EXTINF:0,DE:ProSieben Maxx
+http://ksportiptv.com:1557/live/iptv/iptv/1851.ts
+#EXTINF:0,DE:ORF ein HD
+http://ksportiptv.com:1557/live/iptv/iptv/1852.ts
+#EXTINF:0,DE:Nationalgeo Wild De HD
+http://ksportiptv.com:1557/live/iptv/iptv/1844.ts
+#EXTINF:0,DE:Arte HD
+http://ksportiptv.com:1557/live/iptv/iptv/1857.ts
+#EXTINF:0,DE: Universal HD
+http://ksportiptv.com:1557/live/iptv/iptv/1528.ts
+#EXTINF:0,DE: SRF 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1538.ts
+#EXTINF:0,DE: Sport 1+ HD
+http://ksportiptv.com:1557/live/iptv/iptv/1582.ts
+#EXTINF:0,DE: Sky Sport Austria HD
+http://ksportiptv.com:1557/live/iptv/iptv/1496.ts
+#EXTINF:0,DE: Sky Romance HD
+http://ksportiptv.com:1557/live/iptv/iptv/1763.ts
+#EXTINF:0,DE: SKY CINEMA 1
+http://ksportiptv.com:1557/live/iptv/iptv/1722.ts
+#EXTINF:0,DE: Sky Cinema +24 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1917.ts
+#EXTINF:0,DE: ORF 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1531.ts
+#EXTINF:0,DE: NDR HD
+http://ksportiptv.com:1557/live/iptv/iptv/1532.ts
+#EXTINF:0,DE: Nationalgeo De HD
+http://ksportiptv.com:1557/live/iptv/iptv/1765.ts
+#EXTINF:0,DE: KABEL 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1731.ts
+#EXTINF:0,De: Cinema  24 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1758.ts
+#EXTINF:0,DE: ZDF
+http://ksportiptv.com:1557/live/iptv/iptv/1504.ts
+#EXTINF:0,DE: ZDF Info HD
+http://ksportiptv.com:1557/live/iptv/iptv/1506.ts
+#EXTINF:0,DE: VOX
+http://ksportiptv.com:1557/live/iptv/iptv/1193.ts
+#EXTINF:0,DE: Super RTL HD
+http://ksportiptv.com:1557/live/iptv/iptv/1514.ts
+#EXTINF:0,DE: SRF 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1583.ts
+#EXTINF:0,DE: Sixx
+http://ksportiptv.com:1557/live/iptv/iptv/1581.ts
+#EXTINF:0,DE: Prosieben HD
+http://ksportiptv.com:1557/live/iptv/iptv/1540.ts
+#EXTINF:0,DE: N24
+http://ksportiptv.com:1557/live/iptv/iptv/1472.ts
+#EXTINF:0,DE: Sky DMAX
+http://ksportiptv.com:1557/live/iptv/iptv/1579.ts
+#EXTINF:0,DE: Austria 24
+http://ksportiptv.com:1557/live/iptv/iptv/1468.ts
+#EXTINF:0,DE: Anixe
+http://ksportiptv.com:1557/live/iptv/iptv/1535.ts
+#EXTINF:0,DE: 13th Street
+http://ksportiptv.com:1557/live/iptv/iptv/1550.ts
+#EXTINF:0,DE: Kabel 1
+http://ksportiptv.com:1557/live/iptv/iptv/959.ts
+#EXTINF:0,DE: Das Erste
+http://ksportiptv.com:1557/live/iptv/iptv/917.ts
+#EXTINF:0,DE: KIKA HD
+http://ksportiptv.com:1557/live/iptv/iptv/963.ts
+#EXTINF:0,DE: Sat 1
+http://ksportiptv.com:1557/live/iptv/iptv/1056.ts
+#EXTINF:0,DE: ORF 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1002.ts
+#EXTINF:0,DE: RTL HD
+http://ksportiptv.com:1557/live/iptv/iptv/1048.ts
+#EXTINF:0,DE: RTL 2
+http://ksportiptv.com:1557/live/iptv/iptv/1047.ts
+#EXTINF:0,DE: TNT Serie HD
+http://ksportiptv.com:1557/live/iptv/iptv/1515.ts
+#EXTINF:0,DE: TNT Film
+http://ksportiptv.com:1557/live/iptv/iptv/1584.ts
+#EXTINF:0,DE: Sky Action HD
+http://ksportiptv.com:1557/live/iptv/iptv/1522.ts
+#EXTINF:0,DE: Sky Atlantic
+http://ksportiptv.com:1557/live/iptv/iptv/1062.ts
+#EXTINF:0,DE: Sky Hits
+http://ksportiptv.com:1557/live/iptv/iptv/1094.ts
+#EXTINF:0,DE: Sky MGM HD
+http://ksportiptv.com:1557/live/iptv/iptv/1087.ts
+#EXTINF:0,DE: Sky Emotion
+http://ksportiptv.com:1557/live/iptv/iptv/1554.ts
+#EXTINF:0,DE: Sky Cinema HD
+http://ksportiptv.com:1557/live/iptv/iptv/1517.ts
+#EXTINF:0,DE: Sky Krimi
+http://ksportiptv.com:1557/live/iptv/iptv/1086.ts
+#EXTINF:0,DE: Sky Junior HD
+http://ksportiptv.com:1557/live/iptv/iptv/1085.ts
+#EXTINF:0,DE: Sky History Channel HD
+http://ksportiptv.com:1557/live/iptv/iptv/1084.ts
+#EXTINF:0,DE: Sky Disney Cinemagic HD
+http://ksportiptv.com:1557/live/iptv/iptv/1082.ts
+#EXTINF:0,DE: Sky Comedy
+http://ksportiptv.com:1557/live/iptv/iptv/1081.ts
+#EXTINF:0,DE: Sky National Geographic HD
+http://ksportiptv.com:1557/live/iptv/iptv/1089.ts
+#EXTINF:0,DE: Sky NatGeo Wild HD
+http://ksportiptv.com:1557/live/iptv/iptv/1088.ts
+#EXTINF:0,UK: Sky Syfy
+http://ksportiptv.com:1557/live/iptv/iptv/1123.ts
+#EXTINF:0,DE: Sky Select 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1101.ts
+#EXTINF:0,DE: Sky Select 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1558.ts
+#EXTINF:0,DE: Sky Select 3 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1103.ts
+#EXTINF:0,DE: Sky Select 4 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1104.ts
+#EXTINF:0,DE: Sky Select 5 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1105.ts
+#EXTINF:0,DE: Sky Select 6 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1562.ts
+#EXTINF:0,DE: Eurosport 1
+http://ksportiptv.com:1557/live/iptv/iptv/1498.ts
+#EXTINF:0,UK: EuroSport 2
+http://ksportiptv.com:1557/live/iptv/iptv/921.ts
+#EXTINF:0,DE: Sportdigital HD
+http://ksportiptv.com:1557/live/iptv/iptv/1497.ts
+#EXTINF:0,DE: Sky Germany Sport News HD
+http://ksportiptv.com:1557/live/iptv/iptv/1091.ts
+#EXTINF:0,DE: SKY Sport News HD
+http://ksportiptv.com:1557/live/iptv/iptv/1493.ts
+#EXTINF:0,DE: Sport Time 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1127.ts
+#EXTINF:0,DE: Sport Time 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1139.ts
+#EXTINF:0,DE: Sport Time 3 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1140.ts
+#EXTINF:0,DE: Sport Time 4 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1141.ts
+#EXTINF:0,DE: Sky Sport 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1106.ts
+#EXTINF:0,DE: Sky Sport 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1495.ts
+#EXTINF:0,DE: Sky Bundesliga 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1499.ts
+#EXTINF:0,DE: Sky Bundesliga 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1077.ts
+#EXTINF:0,DE: Sky Bundesliga 3 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1078.ts
+#EXTINF:0,DE: Sky Bundesliga 4 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1079.ts
+#EXTINF:0,DE: Sky Bundesliga 5 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1080.ts
+#EXTINF:0,*******  BELGIUM TV *******
+http://ksportiptv.com:1557/live/iptv/iptv/2081.ts
+#EXTINF:0,BE: VTMKAZOOM/ KANAL Z
+http://ksportiptv.com:1557/live/iptv/iptv/2085.ts
+#EXTINF:0,BE: Tvvesdre
+http://ksportiptv.com:1557/live/iptv/iptv/2086.ts
+#EXTINF:0,BE: TVO
+http://ksportiptv.com:1557/live/iptv/iptv/2087.ts
+#EXTINF:0,BE: TVL
+http://ksportiptv.com:1557/live/iptv/iptv/2088.ts
+#EXTINF:0,BE: TV LUX
+http://ksportiptv.com:1557/live/iptv/iptv/2089.ts
+#EXTINF:0,BE: RTL TVI
+http://ksportiptv.com:1557/live/iptv/iptv/2090.ts
+#EXTINF:0,BE: Plug RTL
+http://ksportiptv.com:1557/live/iptv/iptv/2091.ts
+#EXTINF:0,BE: La Une
+http://ksportiptv.com:1557/live/iptv/iptv/2092.ts
+#EXTINF:0,BE: La Trois
+http://ksportiptv.com:1557/live/iptv/iptv/2093.ts
+#EXTINF:0,BE: La Deux
+http://ksportiptv.com:1557/live/iptv/iptv/2094.ts
+#EXTINF:0,BE: CLUB RTL
+http://ksportiptv.com:1557/live/iptv/iptv/2095.ts
+#EXTINF:0,BE: BE SERIE
+http://ksportiptv.com:1557/live/iptv/iptv/2082.ts
+#EXTINF:0,BE: BE CINE
+http://ksportiptv.com:1557/live/iptv/iptv/2083.ts
+#EXTINF:0,BE: BE 1
+http://ksportiptv.com:1557/live/iptv/iptv/2084.ts
+#EXTINF:0,BE: 2BE
+http://ksportiptv.com:1557/live/iptv/iptv/2096.ts
+#EXTINF:0,>>>SWEDEN CHANNELl<<<<
+http://ksportiptv.com:1557/live/iptv/iptv/2009.ts
+#EXTINF:0,SE: VIASAT Sport
+http://ksportiptv.com:1557/live/iptv/iptv/1995.ts
+#EXTINF:0,SE: VIASAT FILM
+http://ksportiptv.com:1557/live/iptv/iptv/1996.ts
+#EXTINF:0,SE: TV8 SW
+http://ksportiptv.com:1557/live/iptv/iptv/1997.ts
+#EXTINF:0,SE: TV6
+http://ksportiptv.com:1557/live/iptv/iptv/1998.ts
+#EXTINF:0,SE: TV4 GULD
+http://ksportiptv.com:1557/live/iptv/iptv/1999.ts
+#EXTINF:0,SE: TV4 Film
+http://ksportiptv.com:1557/live/iptv/iptv/1988.ts
+#EXTINF:0,SE: TV4
+http://ksportiptv.com:1557/live/iptv/iptv/2001.ts
+#EXTINF:0,SE: TV3 Sweden
+http://ksportiptv.com:1557/live/iptv/iptv/1989.ts
+#EXTINF:0,SE: TV10
+http://ksportiptv.com:1557/live/iptv/iptv/1990.ts
+#EXTINF:0,SE: TV 4
+http://ksportiptv.com:1557/live/iptv/iptv/1987.ts
+#EXTINF:0,SE: SVT24/B
+http://ksportiptv.com:1557/live/iptv/iptv/2002.ts
+#EXTINF:0,SE: SVT2
+http://ksportiptv.com:1557/live/iptv/iptv/1991.ts
+#EXTINF:0,SE: SVT1
+http://ksportiptv.com:1557/live/iptv/iptv/1992.ts
+#EXTINF:0,SE: Kunskapskanalen
+http://ksportiptv.com:1557/live/iptv/iptv/1993.ts
+#EXTINF:0,SE: Kanal 5 Sweden
+http://ksportiptv.com:1557/live/iptv/iptv/1994.ts
+#EXTINF:0,SE: Kanal 4
+http://ksportiptv.com:1557/live/iptv/iptv/2000.ts
+#EXTINF:0,SE: C MORE SPORT
+http://ksportiptv.com:1557/live/iptv/iptv/2003.ts
+#EXTINF:0,SE: C MORE SERIES
+http://ksportiptv.com:1557/live/iptv/iptv/2004.ts
+#EXTINF:0,SE: C MORE LIVE
+http://ksportiptv.com:1557/live/iptv/iptv/2005.ts
+#EXTINF:0,SE: C MORE HITS
+http://ksportiptv.com:1557/live/iptv/iptv/2006.ts
+#EXTINF:0,SE: C MORE FIRST
+http://ksportiptv.com:1557/live/iptv/iptv/2007.ts
+#EXTINF:0,SE: C MORE ACTION
+http://ksportiptv.com:1557/live/iptv/iptv/2008.ts
+#EXTINF:0,>>>>>NETHERLAND CHANNELS<<<<<
+http://ksportiptv.com:1557/live/iptv/iptv/2010.ts
+#EXTINF:0,NL_WAWA TV
+http://ksportiptv.com:1557/live/iptv/iptv/1954.ts
+#EXTINF:0,NL_RTL7_HD
+http://ksportiptv.com:1557/live/iptv/iptv/1961.ts
+#EXTINF:0,NL_RTL4_HD
+http://ksportiptv.com:1557/live/iptv/iptv/1963.ts
+#EXTINF:0,NL_National Geographic
+http://ksportiptv.com:1557/live/iptv/iptv/1969.ts
+#EXTINF:0,NL_Fox Sports 2
+http://ksportiptv.com:1557/live/iptv/iptv/1972.ts
+#EXTINF:0,NL_Fox Sports 1
+http://ksportiptv.com:1557/live/iptv/iptv/1973.ts
+#EXTINF:0,NL_Film 1 Premiere HD
+http://ksportiptv.com:1557/live/iptv/iptv/1975.ts
+#EXTINF:0,NL_Film 1 Comedy and Kids
+http://ksportiptv.com:1557/live/iptv/iptv/1976.ts
+#EXTINF:0,NL: Golf_HD
+http://ksportiptv.com:1557/live/iptv/iptv/1977.ts
+#EXTINF:0,NL RTL 7
+http://ksportiptv.com:1557/live/iptv/iptv/1942.ts
+#EXTINF:0,NL RTL 5
+http://ksportiptv.com:1557/live/iptv/iptv/1941.ts
+#EXTINF:0,NL Rtl 4
+http://ksportiptv.com:1557/live/iptv/iptv/1940.ts
+#EXTINF:0,NL NPO3
+http://ksportiptv.com:1557/live/iptv/iptv/1945.ts
+#EXTINF:0,NL NPO 2
+http://ksportiptv.com:1557/live/iptv/iptv/1944.ts
+#EXTINF:0,NL NPO 1
+http://ksportiptv.com:1557/live/iptv/iptv/1943.ts
+#EXTINF:0,NL HBO HD
+http://ksportiptv.com:1557/live/iptv/iptv/1947.ts
+#EXTINF:0,NL HBO 3 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1982.ts
+#EXTINF:0,NL HBO 3
+http://ksportiptv.com:1557/live/iptv/iptv/1948.ts
+#EXTINF:0,NL HBO 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1983.ts
+#EXTINF:0,NL HBO 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1984.ts
+#EXTINF:0,NL Fox Sport 3 NL
+http://ksportiptv.com:1557/live/iptv/iptv/1950.ts
+#EXTINF:0,NL Film 1 Action HD
+http://ksportiptv.com:1557/live/iptv/iptv/1985.ts
+#EXTINF:0,NL 13th Street NL
+http://ksportiptv.com:1557/live/iptv/iptv/1953.ts
+#EXTINF:0,>>>>>ITALI<<<<<
+http://ksportiptv.com:1557/live/iptv/iptv/838.ts
+#EXTINF:0,IT: Rai 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1034.ts
+#EXTINF:0,IT: RAI 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1035.ts
+#EXTINF:0,IT: RAI 3 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1036.ts
+#EXTINF:0,IT: Rai 4
+http://ksportiptv.com:1557/live/iptv/iptv/1651.ts
+#EXTINF:0,IT: Rai YoYo
+http://ksportiptv.com:1557/live/iptv/iptv/1653.ts
+#EXTINF:0,IT: Rai Movie
+http://ksportiptv.com:1557/live/iptv/iptv/1652.ts
+#EXTINF:0,IT: RSI LA 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1755.ts
+#EXTINF:0,IT: Cinema Collection HD
+http://ksportiptv.com:1557/live/iptv/iptv/1751.ts
+#EXTINF:0,IT: RAI News 24
+http://ksportiptv.com:1557/live/iptv/iptv/1037.ts
+#EXTINF:0,IT: ITALIA 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/955.ts
+#EXTINF:0,IT: Sky Sport MotoGP HD
+http://ksportiptv.com:1557/live/iptv/iptv/1121.ts
+#EXTINF:0,IT: Sky Sport F1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1693.ts
+#EXTINF:0,IT: Sky Sport 24 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1692.ts
+#EXTINF:0,IT: Rai Sport 1
+http://ksportiptv.com:1557/live/iptv/iptv/1038.ts
+#EXTINF:0,IT: Rai Sport 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1039.ts
+#EXTINF:0,IT: Sky Sport 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1107.ts
+#EXTINF:0,IT: Sky Sport 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1111.ts
+#EXTINF:0,IT: Sky Sport 3 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1384.ts
+#EXTINF:0,IT: SKY Calcio 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1063.ts
+#EXTINF:0,IT: SKY Calcio 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1064.ts
+#EXTINF:0,IT: SKY Calcio 3 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1065.ts
+#EXTINF:0,IT: SKY Calcio 4 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1752.ts
+#EXTINF:0,IT: SKY Calcio 5 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1753.ts
+#EXTINF:0,IT: SKY Calcio 6 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1754.ts
+#EXTINF:0,IT: Sky Cinema 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1066.ts
+#EXTINF:0,IT: Sky Cinema Max HD
+http://ksportiptv.com:1557/live/iptv/iptv/1654.ts
+#EXTINF:0,IT: Sky Cinema Classic HD IT
+http://ksportiptv.com:1557/live/iptv/iptv/1068.ts
+#EXTINF:0,IT: Sky Cinema Comedy HD
+http://ksportiptv.com:1557/live/iptv/iptv/1069.ts
+#EXTINF:0,IT: Sky Cinema Family HD
+http://ksportiptv.com:1557/live/iptv/iptv/1070.ts
+#EXTINF:0,IT: Sky Cinema Hits HD
+http://ksportiptv.com:1557/live/iptv/iptv/1071.ts
+#EXTINF:0,IT: Sky Cinema Passion HD
+http://ksportiptv.com:1557/live/iptv/iptv/1072.ts
+#EXTINF:0,IT: Primafila 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1030.ts
+#EXTINF:0,IT: Primafila 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1031.ts
+#EXTINF:0,IT: Primafila 3 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1032.ts
+#EXTINF:0,IT: PRIMAFILA 4 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1724.ts
+#EXTINF:0,IT: PRIMAFILA 5 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1725.ts
+#EXTINF:0,IT: PRIMAFILA 6 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1726.ts
+#EXTINF:0,IT: PRIMAFILA 8 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1727.ts
+#EXTINF:0,IT: Premium Cinema
+http://ksportiptv.com:1557/live/iptv/iptv/1019.ts
+#EXTINF:0,IT: SKY CALCIO 7
+http://ksportiptv.com:1557/live/iptv/iptv/1018.ts
+#EXTINF:0,IT: Premium Action HD
+http://ksportiptv.com:1557/live/iptv/iptv/1017.ts
+#EXTINF:0,IT: Premium Cinema 24
+http://ksportiptv.com:1557/live/iptv/iptv/1020.ts
+#EXTINF:0,IT: Premium Cinema 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1021.ts
+#EXTINF:0,IT: Premium Cinema HD
+http://ksportiptv.com:1557/live/iptv/iptv/1022.ts
+#EXTINF:0,IT: Premium Comedy
+http://ksportiptv.com:1557/live/iptv/iptv/1023.ts
+#EXTINF:0,IT: Premium Studio Universal
+http://ksportiptv.com:1557/live/iptv/iptv/1029.ts
+#EXTINF:0,IT: Premium Crime +24
+http://ksportiptv.com:1557/live/iptv/iptv/1024.ts
+#EXTINF:0,IT: Premium Mya
+http://ksportiptv.com:1557/live/iptv/iptv/1028.ts
+#EXTINF:0,IT: Premium Joy
+http://ksportiptv.com:1557/live/iptv/iptv/1027.ts
+#EXTINF:0,IT: Premium Energy
+http://ksportiptv.com:1557/live/iptv/iptv/1026.ts
+#EXTINF:0,IT: Premium Emotion
+http://ksportiptv.com:1557/live/iptv/iptv/1025.ts
+#EXTINF:0,IT: Super!
+http://ksportiptv.com:1557/live/iptv/iptv/2026.ts
+#EXTINF:0,IT: Super Tennis HD
+http://ksportiptv.com:1557/live/iptv/iptv/2032.ts
+#EXTINF:0,IT: Sport Italia
+http://ksportiptv.com:1557/live/iptv/iptv/2020.ts
+#EXTINF:0,IT: Sky Uno HD
+http://ksportiptv.com:1557/live/iptv/iptv/2048.ts
+#EXTINF:0,IT: Sky Cinema Oscar HD
+http://ksportiptv.com:1557/live/iptv/iptv/2043.ts
+#EXTINF:0,IT: Sky Cinema Max  1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/2045.ts
+#EXTINF:0,IT: Sky Cinema Cult HD
+http://ksportiptv.com:1557/live/iptv/iptv/2044.ts
+#EXTINF:0,IT: Sky Cinema Classic HD
+http://ksportiptv.com:1557/live/iptv/iptv/2042.ts
+#EXTINF:0,IT: Sky Cinema 24 HD
+http://ksportiptv.com:1557/live/iptv/iptv/2041.ts
+#EXTINF:0,IT: Sky Calcio 4
+http://ksportiptv.com:1557/live/iptv/iptv/2040.ts
+#EXTINF:0,IT: Sky Calcio 3
+http://ksportiptv.com:1557/live/iptv/iptv/2039.ts
+#EXTINF:0,IT: Sky Calcio 2
+http://ksportiptv.com:1557/live/iptv/iptv/2038.ts
+#EXTINF:0,IT: Sky Calcio 1
+http://ksportiptv.com:1557/live/iptv/iptv/2037.ts
+#EXTINF:0,IT: Sky Atlantic HD
+http://ksportiptv.com:1557/live/iptv/iptv/2046.ts
+#EXTINF:0,IT: Sky 3D
+http://ksportiptv.com:1557/live/iptv/iptv/2049.ts
+#EXTINF:0,IT: RSI LA 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1756.ts
+#EXTINF:0,IT: Real Time
+http://ksportiptv.com:1557/live/iptv/iptv/2018.ts
+#EXTINF:0,IT: Rai Sport 2
+http://ksportiptv.com:1557/live/iptv/iptv/2014.ts
+#EXTINF:0,IT: Rai Premium
+http://ksportiptv.com:1557/live/iptv/iptv/2015.ts
+#EXTINF:0,IT: Rai Gulp
+http://ksportiptv.com:1557/live/iptv/iptv/2016.ts
+#EXTINF:0,IT: Rai 5
+http://ksportiptv.com:1557/live/iptv/iptv/2013.ts
+#EXTINF:0,IT: Rai 4 HD
+http://ksportiptv.com:1557/live/iptv/iptv/2012.ts
+#EXTINF:0,IT: PRIMAFILA 9 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1728.ts
+#EXTINF:0,IT: Primafila 7 HD
+http://ksportiptv.com:1557/live/iptv/iptv/2073.ts
+#EXTINF:0,IT: Primafila 15 HD
+http://ksportiptv.com:1557/live/iptv/iptv/2077.ts
+#EXTINF:0,IT: Primafila 14 HD
+http://ksportiptv.com:1557/live/iptv/iptv/2076.ts
+#EXTINF:0,IT: Premium Stories
+http://ksportiptv.com:1557/live/iptv/iptv/1650.ts
+#EXTINF:0,IT: PREMIUM SPORT HD
+http://ksportiptv.com:1557/live/iptv/iptv/1757.ts
+#EXTINF:0,IT: Premium Joi
+http://ksportiptv.com:1557/live/iptv/iptv/2067.ts
+#EXTINF:0,IT: Premium Crime HD
+http://ksportiptv.com:1557/live/iptv/iptv/2069.ts
+#EXTINF:0,IT: Premium Crime 24
+http://ksportiptv.com:1557/live/iptv/iptv/2070.ts
+#EXTINF:0,IT: Premium Cartoon Network
+http://ksportiptv.com:1557/live/iptv/iptv/2068.ts
+#EXTINF:0,IT: Premium Action 24
+http://ksportiptv.com:1557/live/iptv/iptv/2066.ts
+#EXTINF:0,IT: Net Geo People HD
+http://ksportiptv.com:1557/live/iptv/iptv/2061.ts
+#EXTINF:0,IT: Nat Geo Wild HD
+http://ksportiptv.com:1557/live/iptv/iptv/2060.ts
+#EXTINF:0,IT: MILAN CHANNEL
+http://ksportiptv.com:1557/live/iptv/iptv/1938.ts
+#EXTINF:0,IT: Marcopolo
+http://ksportiptv.com:1557/live/iptv/iptv/2017.ts
+#EXTINF:0,IT: LA 7
+http://ksportiptv.com:1557/live/iptv/iptv/2021.ts
+#EXTINF:0,IT: K2
+http://ksportiptv.com:1557/live/iptv/iptv/2027.ts
+#EXTINF:0,IT: Juventus Channel
+http://ksportiptv.com:1557/live/iptv/iptv/2035.ts
+#EXTINF:0,IT: IRIS
+http://ksportiptv.com:1557/live/iptv/iptv/2025.ts
+#EXTINF:0,IT: INTER CHANNEL
+http://ksportiptv.com:1557/live/iptv/iptv/1937.ts
+#EXTINF:0,IT: History Channel
+http://ksportiptv.com:1557/live/iptv/iptv/2063.ts
+#EXTINF:0,IT: Gambero Rosso
+http://ksportiptv.com:1557/live/iptv/iptv/2055.ts
+#EXTINF:0,IT: Fox Sports HD
+http://ksportiptv.com:1557/live/iptv/iptv/2033.ts
+#EXTINF:0,IT: Fox Life
+http://ksportiptv.com:1557/live/iptv/iptv/2050.ts
+#EXTINF:0,IT: Fox HD
+http://ksportiptv.com:1557/live/iptv/iptv/2051.ts
+#EXTINF:0,IT: Fox Comedy HD
+http://ksportiptv.com:1557/live/iptv/iptv/2053.ts
+#EXTINF:0,IT: Focus
+http://ksportiptv.com:1557/live/iptv/iptv/2023.ts
+#EXTINF:0,IT: Dmax HD
+http://ksportiptv.com:1557/live/iptv/iptv/2019.ts
+#EXTINF:0,IT: Discovery Travel & Living HD
+http://ksportiptv.com:1557/live/iptv/iptv/2058.ts
+#EXTINF:0,IT: Cielo
+http://ksportiptv.com:1557/live/iptv/iptv/2024.ts
+#EXTINF:0,IT: Cartoonito
+http://ksportiptv.com:1557/live/iptv/iptv/2029.ts
+#EXTINF:0,IT: Cartoon Network
+http://ksportiptv.com:1557/live/iptv/iptv/2028.ts
+#EXTINF:0,IT: CANALE 5 HD
+http://ksportiptv.com:1557/live/iptv/iptv/2011.ts
+#EXTINF:0,IT: Caccia e Pesca
+http://ksportiptv.com:1557/live/iptv/iptv/2054.ts
+#EXTINF:0,IT: Bike Channel HD
+http://ksportiptv.com:1557/live/iptv/iptv/2036.ts
+#EXTINF:0,IT: AXN Sci Fi
+http://ksportiptv.com:1557/live/iptv/iptv/2064.ts
+#EXTINF:0,IT: AXN HD
+http://ksportiptv.com:1557/live/iptv/iptv/2065.ts
+#EXTINF:0,IT: Alice
+http://ksportiptv.com:1557/live/iptv/iptv/2022.ts
+#EXTINF:0,IT: Sky Arte HD
+http://ksportiptv.com:1557/live/iptv/iptv/1061.ts
+#EXTINF:0,>>>>>>>FRANC<<<<<<<
+http://ksportiptv.com:1557/live/iptv/iptv/834.ts
+#EXTINF:0,FR: M6 HD
+http://ksportiptv.com:1557/live/iptv/iptv/985.ts
+#EXTINF:0,FR: TF1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1159.ts
+#EXTINF:0,FR: Gulli
+http://ksportiptv.com:1557/live/iptv/iptv/1288.ts
+#EXTINF:0,FR: Arte
+http://ksportiptv.com:1557/live/iptv/iptv/1298.ts
+#EXTINF:0,FR: Animaux
+http://ksportiptv.com:1557/live/iptv/iptv/1300.ts
+#EXTINF:0,FR: Action
+http://ksportiptv.com:1557/live/iptv/iptv/1299.ts
+#EXTINF:0,FR: TMC
+http://ksportiptv.com:1557/live/iptv/iptv/1294.ts
+#EXTINF:0,FR: RTL 9
+http://ksportiptv.com:1557/live/iptv/iptv/1295.ts
+#EXTINF:0,FR: NT1
+http://ksportiptv.com:1557/live/iptv/iptv/1296.ts
+#EXTINF:0,FR: Nrj12
+http://ksportiptv.com:1557/live/iptv/iptv/1297.ts
+#EXTINF:0,FR: Piwi +
+http://ksportiptv.com:1557/live/iptv/iptv/1289.ts
+#EXTINF:0,FR: OCS Max
+http://ksportiptv.com:1557/live/iptv/iptv/1291.ts
+#EXTINF:0,FR: OCS Geant
+http://ksportiptv.com:1557/live/iptv/iptv/1292.ts
+#EXTINF:0,UK: History Channel
+http://ksportiptv.com:1557/live/iptv/iptv/1268.ts
+#EXTINF:0,FR: Disney Channel
+http://ksportiptv.com:1557/live/iptv/iptv/1286.ts
+#EXTINF:0,FR: Disney Cinema
+http://ksportiptv.com:1557/live/iptv/iptv/1285.ts
+#EXTINF:0,FR: France 2
+http://ksportiptv.com:1557/live/iptv/iptv/949.ts
+#EXTINF:0,FR: France 3
+http://ksportiptv.com:1557/live/iptv/iptv/950.ts
+#EXTINF:0,FR: France 4
+http://ksportiptv.com:1557/live/iptv/iptv/951.ts
+#EXTINF:0,FR: France 5
+http://ksportiptv.com:1557/live/iptv/iptv/952.ts
+#EXTINF:0,FR: 13eme Rue
+http://ksportiptv.com:1557/live/iptv/iptv/1211.ts
+#EXTINF:0,FR: SyFy
+http://ksportiptv.com:1557/live/iptv/iptv/1210.ts
+#EXTINF:0,FR: Canal Series
+http://ksportiptv.com:1557/live/iptv/iptv/1279.ts
+#EXTINF:0,FR: Canal
+http://ksportiptv.com:1557/live/iptv/iptv/1284.ts
+#EXTINF:0,FR: Canal J
+http://ksportiptv.com:1557/live/iptv/iptv/1287.ts
+#EXTINF:0,FR: Canal+ Sport
+http://ksportiptv.com:1557/live/iptv/iptv/1280.ts
+#EXTINF:0,FR: Canal Family
+http://ksportiptv.com:1557/live/iptv/iptv/1281.ts
+#EXTINF:0,FR: Canal DÃ©calÃ©
+http://ksportiptv.com:1557/live/iptv/iptv/1282.ts
+#EXTINF:0,FR: Canal Cinema
+http://ksportiptv.com:1557/live/iptv/iptv/1283.ts
+#EXTINF:0,FR: Cine Frisson
+http://ksportiptv.com:1557/live/iptv/iptv/1278.ts
+#EXTINF:0,FR: Cine Classic
+http://ksportiptv.com:1557/live/iptv/iptv/910.ts
+#EXTINF:0,FR: CinÃ© Plus Emotion HD
+http://ksportiptv.com:1557/live/iptv/iptv/908.ts
+#EXTINF:0,FR: Canal+ Cinema
+http://ksportiptv.com:1557/live/iptv/iptv/1209.ts
+#EXTINF:0,FR: beiN Sport 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1476.ts
+#EXTINF:0,FR: beiN Sport 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1477.ts
+#EXTINF:0,FR: beiN Sport 3 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1208.ts
+#EXTINF:0,>>>>>TURK<<<<<<
+http://ksportiptv.com:1557/live/iptv/iptv/1250.ts
+#EXTINF:0,TR: Bursa Spor
+http://ksportiptv.com:1557/live/iptv/iptv/1245.ts
+#EXTINF:0,TR: TRT World
+http://ksportiptv.com:1557/live/iptv/iptv/1220.ts
+#EXTINF:0,TR: TRT HD
+http://ksportiptv.com:1557/live/iptv/iptv/1215.ts
+#EXTINF:0,TR:  Haber HD
+http://ksportiptv.com:1557/live/iptv/iptv/1222.ts
+#EXTINF:0,TR: ULKE TV HD
+http://ksportiptv.com:1557/live/iptv/iptv/1704.ts
+#EXTINF:0,TR: TV 8 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1709.ts
+#EXTINF:0,TR: TRT TBMM
+http://ksportiptv.com:1557/live/iptv/iptv/1395.ts
+#EXTINF:0,TR: TRT TÜRK HD
+http://ksportiptv.com:1557/live/iptv/iptv/1391.ts
+#EXTINF:0,TR: TRT SPOR
+http://ksportiptv.com:1557/live/iptv/iptv/1703.ts
+#EXTINF:0,TR: TRT Okul
+http://ksportiptv.com:1557/live/iptv/iptv/1393.ts
+#EXTINF:0,TR: TRT MUZIK
+http://ksportiptv.com:1557/live/iptv/iptv/1416.ts
+#EXTINF:0,TR: TRT Kurdi
+http://ksportiptv.com:1557/live/iptv/iptv/1392.ts
+#EXTINF:0,TR: TRT Diyanet
+http://ksportiptv.com:1557/live/iptv/iptv/1398.ts
+#EXTINF:0,TR: TRT COCUK
+http://ksportiptv.com:1557/live/iptv/iptv/1412.ts
+#EXTINF:0,TR: TRT ArapÃ§a
+http://ksportiptv.com:1557/live/iptv/iptv/1394.ts
+#EXTINF:0,TR: TRT 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1390.ts
+#EXTINF:0,TR: STAR TV YEDEK
+http://ksportiptv.com:1557/live/iptv/iptv/1707.ts
+#EXTINF:0,TR: SHOW TV HD
+http://ksportiptv.com:1557/live/iptv/iptv/1710.ts
+#EXTINF:0,TR: SHOW HD
+http://ksportiptv.com:1557/live/iptv/iptv/1399.ts
+#EXTINF:0,TR: Samanyolu TV
+http://ksportiptv.com:1557/live/iptv/iptv/1233.ts
+#EXTINF:0,TR: Salon 1
+http://ksportiptv.com:1557/live/iptv/iptv/1368.ts
+#EXTINF:0,TR: Salon 2
+http://ksportiptv.com:1557/live/iptv/iptv/1367.ts
+#EXTINF:0,TR: NTV Spor
+http://ksportiptv.com:1557/live/iptv/iptv/1667.ts
+#EXTINF:0,TR: NTV
+http://ksportiptv.com:1557/live/iptv/iptv/1714.ts
+#EXTINF:0,TR: MovieSmart Family HD
+http://ksportiptv.com:1557/live/iptv/iptv/1666.ts
+#EXTINF:0,TR: Kral Pop
+http://ksportiptv.com:1557/live/iptv/iptv/1663.ts
+#EXTINF:0,TR: KENT DE HA
+http://ksportiptv.com:1557/live/iptv/iptv/1715.ts
+#EXTINF:0,TR: KANAL D HD YEDEK
+http://ksportiptv.com:1557/live/iptv/iptv/1732.ts
+#EXTINF:0,TR: Kanal D HD
+http://ksportiptv.com:1557/live/iptv/iptv/1238.ts
+#EXTINF:0,TR: Kanal 7 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1403.ts
+#EXTINF:0,TR: KANAL 7 AVRUPA
+http://ksportiptv.com:1557/live/iptv/iptv/1708.ts
+#EXTINF:0,TR: Kanal 24
+http://ksportiptv.com:1557/live/iptv/iptv/1240.ts
+#EXTINF:0,TR: ISTANBUL TV 1
+http://ksportiptv.com:1557/live/iptv/iptv/1712.ts
+#EXTINF:0,TR: FOX TV HD
+http://ksportiptv.com:1557/live/iptv/iptv/1711.ts
+#EXTINF:0,TR: Flash TV
+http://ksportiptv.com:1557/live/iptv/iptv/1242.ts
+#EXTINF:0,TR: Filma X Premier HD
+http://ksportiptv.com:1557/live/iptv/iptv/1371.ts
+#EXTINF:0,TR: Fanatik TV
+http://ksportiptv.com:1557/live/iptv/iptv/1244.ts
+#EXTINF:0,TR: DREAM TURK
+http://ksportiptv.com:1557/live/iptv/iptv/1417.ts
+#EXTINF:0,TR: Dream TV
+http://ksportiptv.com:1557/live/iptv/iptv/1418.ts
+#EXTINF:0,TR: CNN TURK HD
+http://ksportiptv.com:1557/live/iptv/iptv/1408.ts
+#EXTINF:0,TR: Bugun TV
+http://ksportiptv.com:1557/live/iptv/iptv/1662.ts
+#EXTINF:0,TR: Beyaz TV
+http://ksportiptv.com:1557/live/iptv/iptv/1247.ts
+#EXTINF:0,TR: ATV HD
+http://ksportiptv.com:1557/live/iptv/iptv/1248.ts
+#EXTINF:0,TR: A Spor HD
+http://ksportiptv.com:1557/live/iptv/iptv/1661.ts
+#EXTINF:0,TR: TRT Belgesel
+http://ksportiptv.com:1557/live/iptv/iptv/1217.ts
+#EXTINF:0,TR: TRT Avaz
+http://ksportiptv.com:1557/live/iptv/iptv/1224.ts
+#EXTINF:0,TR: Lig TV 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/982.ts
+#EXTINF:0,TR: Lig TV 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/981.ts
+#EXTINF:0,TR: Yumorcak TV
+http://ksportiptv.com:1557/live/iptv/iptv/1669.ts
+#EXTINF:0,TR: YOL TV
+http://ksportiptv.com:1557/live/iptv/iptv/1906.ts
+#EXTINF:0,TR: TV2
+http://ksportiptv.com:1557/live/iptv/iptv/1899.ts
+#EXTINF:0,TR: Tv EM
+http://ksportiptv.com:1557/live/iptv/iptv/1372.ts
+#EXTINF:0,TR: TRT Sport HD
+http://ksportiptv.com:1557/live/iptv/iptv/1374.ts
+#EXTINF:0,TR: TRT HABER HD
+http://ksportiptv.com:1557/live/iptv/iptv/1232.ts
+#EXTINF:0,TR: TRT COCUK HD
+http://ksportiptv.com:1557/live/iptv/iptv/1898.ts
+#EXTINF:0,TR: TRT 6
+http://ksportiptv.com:1557/live/iptv/iptv/1375.ts
+#EXTINF:0,TR: TRT 2000
+http://ksportiptv.com:1557/live/iptv/iptv/1376.ts
+#EXTINF:0,TR: TIVIBU SPORT 2
+http://ksportiptv.com:1557/live/iptv/iptv/1933.ts
+#EXTINF:0,TR: TIVIBU SPOR 1
+http://ksportiptv.com:1557/live/iptv/iptv/1932.ts
+#EXTINF:0,TR: Star HD
+http://ksportiptv.com:1557/live/iptv/iptv/1378.ts
+#EXTINF:0,TR: Sports TV
+http://ksportiptv.com:1557/live/iptv/iptv/1379.ts
+#EXTINF:0,TR: SKYTURK 360
+http://ksportiptv.com:1557/live/iptv/iptv/1909.ts
+#EXTINF:0,TR: Sinema Platin
+http://ksportiptv.com:1557/live/iptv/iptv/1380.ts
+#EXTINF:0,TR: Sinema Korku
+http://ksportiptv.com:1557/live/iptv/iptv/1363.ts
+#EXTINF:0,TR: Sinema Gold
+http://ksportiptv.com:1557/live/iptv/iptv/1381.ts
+#EXTINF:0,TR: Sinema ASK
+http://ksportiptv.com:1557/live/iptv/iptv/1364.ts
+#EXTINF:0,TR: Sinema Animasyon
+http://ksportiptv.com:1557/live/iptv/iptv/1365.ts
+#EXTINF:0,TR: Sinema 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1231.ts
+#EXTINF:0,TR: Sinema 1
+http://ksportiptv.com:1557/live/iptv/iptv/1230.ts
+#EXTINF:0,TR: SEMERKAND TV
+http://ksportiptv.com:1557/live/iptv/iptv/1904.ts
+#EXTINF:0,TR: Salon 3
+http://ksportiptv.com:1557/live/iptv/iptv/1366.ts
+#EXTINF:0,TR: PowerTurk
+http://ksportiptv.com:1557/live/iptv/iptv/1234.ts
+#EXTINF:0,TR: Minka GO
+http://ksportiptv.com:1557/live/iptv/iptv/1414.ts
+#EXTINF:0,TR: Minka Cocuk
+http://ksportiptv.com:1557/live/iptv/iptv/1413.ts
+#EXTINF:0,TR: MINIKA COCUK
+http://ksportiptv.com:1557/live/iptv/iptv/1914.ts
+#EXTINF:0,TR: LOCA 3
+http://ksportiptv.com:1557/live/iptv/iptv/1369.ts
+#EXTINF:0,TR: LOCA 2
+http://ksportiptv.com:1557/live/iptv/iptv/1370.ts
+#EXTINF:0,TR: Lig TV 3
+http://ksportiptv.com:1557/live/iptv/iptv/1360.ts
+#EXTINF:0,TR: Lig TV
+http://ksportiptv.com:1557/live/iptv/iptv/1664.ts
+#EXTINF:0,TR: Kanal TÃ¼rk
+http://ksportiptv.com:1557/live/iptv/iptv/1236.ts
+#EXTINF:0,TR: KANAL T HD
+http://ksportiptv.com:1557/live/iptv/iptv/1900.ts
+#EXTINF:0,TR: KANAL A HD
+http://ksportiptv.com:1557/live/iptv/iptv/1901.ts
+#EXTINF:0,TR: Kanal 28
+http://ksportiptv.com:1557/live/iptv/iptv/1239.ts
+#EXTINF:0,TR: KABE LIVE
+http://ksportiptv.com:1557/live/iptv/iptv/1903.ts
+#EXTINF:0,TR: HALK TV
+http://ksportiptv.com:1557/live/iptv/iptv/1910.ts
+#EXTINF:0,TR: HABER TURK HD
+http://ksportiptv.com:1557/live/iptv/iptv/1907.ts
+#EXTINF:0,TR: FOX HD
+http://ksportiptv.com:1557/live/iptv/iptv/1241.ts
+#EXTINF:0,TR: FIL TV
+http://ksportiptv.com:1557/live/iptv/iptv/1243.ts
+#EXTINF:0,TR: DSmart 2
+http://ksportiptv.com:1557/live/iptv/iptv/1361.ts
+#EXTINF:0,TR: DSmart 1
+http://ksportiptv.com:1557/live/iptv/iptv/1362.ts
+#EXTINF:0,TR: Disney Channel HD
+http://ksportiptv.com:1557/live/iptv/iptv/1911.ts
+#EXTINF:0,TR: CARTONNETWORK
+http://ksportiptv.com:1557/live/iptv/iptv/1912.ts
+#EXTINF:0,TR: BENGU TURK
+http://ksportiptv.com:1557/live/iptv/iptv/1908.ts
+#EXTINF:0,TR: BEN TV
+http://ksportiptv.com:1557/live/iptv/iptv/1902.ts
+#EXTINF:0,TR: Ballkan TV
+http://ksportiptv.com:1557/live/iptv/iptv/875.ts
+#EXTINF:0,TR: A9 TV
+http://ksportiptv.com:1557/live/iptv/iptv/1905.ts
+#EXTINF:0,>>>>>ENGLAND<<<<<
+http://ksportiptv.com:1557/live/iptv/iptv/836.ts
+#EXTINF:0,UK: Watch
+http://ksportiptv.com:1557/live/iptv/iptv/1738.ts
+#EXTINF:0,US: ABC
+http://ksportiptv.com:1557/live/iptv/iptv/1928.ts
+#EXTINF:0,UK: TV Nasa
+http://ksportiptv.com:1557/live/iptv/iptv/1568.ts
+#EXTINF:0,UK: TLC-IRELAND
+http://ksportiptv.com:1557/live/iptv/iptv/1746.ts
+#EXTINF:0,UK: CHANNEL 5
+http://ksportiptv.com:1557/live/iptv/iptv/1742.ts
+#EXTINF:0,UK: BBC 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/878.ts
+#EXTINF:0,UK: BBC 4 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1745.ts
+#EXTINF:0,FR: EuroNews
+http://ksportiptv.com:1557/live/iptv/iptv/920.ts
+#EXTINF:0,UK: CBS Action
+http://ksportiptv.com:1557/live/iptv/iptv/1277.ts
+#EXTINF:0,UK: CBS Drama
+http://ksportiptv.com:1557/live/iptv/iptv/1276.ts
+#EXTINF:0,UK: CBS Reality
+http://ksportiptv.com:1557/live/iptv/iptv/1275.ts
+#EXTINF:0,UK: ITV 1
+http://ksportiptv.com:1557/live/iptv/iptv/1267.ts
+#EXTINF:0,UK: ITV 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1266.ts
+#EXTINF:0,UK: ITV 3
+http://ksportiptv.com:1557/live/iptv/iptv/1265.ts
+#EXTINF:0,UK: ITV 4
+http://ksportiptv.com:1557/live/iptv/iptv/1264.ts
+#EXTINF:0,UK: SKY 1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1260.ts
+#EXTINF:0,UK: SKY Two HD
+http://ksportiptv.com:1557/live/iptv/iptv/1259.ts
+#EXTINF:0,UK: SKY Atlantic HD
+http://ksportiptv.com:1557/live/iptv/iptv/1258.ts
+#EXTINF:0,UK: SKY Living HD
+http://ksportiptv.com:1557/live/iptv/iptv/1257.ts
+#EXTINF:0,UK: Sky Action HD
+http://ksportiptv.com:1557/live/iptv/iptv/1060.ts
+#EXTINF:0,UK: Sky Movies Action
+http://ksportiptv.com:1557/live/iptv/iptv/1747.ts
+#EXTINF:0,UK: Sky Movies Drama
+http://ksportiptv.com:1557/live/iptv/iptv/1694.ts
+#EXTINF:0,UK: SKY Movies Premier HD
+http://ksportiptv.com:1557/live/iptv/iptv/1253.ts
+#EXTINF:0,UK: Sky Movies  Premiere
+http://ksportiptv.com:1557/live/iptv/iptv/1748.ts
+#EXTINF:0,UK: Sky Movies Thriller HD
+http://ksportiptv.com:1557/live/iptv/iptv/1251.ts
+#EXTINF:0,UK: Sky Movies Sci-fi & Horror HD
+http://ksportiptv.com:1557/live/iptv/iptv/1252.ts
+#EXTINF:0,UK: Sky Movies Greats HD
+http://ksportiptv.com:1557/live/iptv/iptv/1254.ts
+#EXTINF:0,UK: SKY Movies Disney HD
+http://ksportiptv.com:1557/live/iptv/iptv/1255.ts
+#EXTINF:0,UK: Sky Movies Modern
+http://ksportiptv.com:1557/live/iptv/iptv/1098.ts
+#EXTINF:0,UK: Sky Movies Family
+http://ksportiptv.com:1557/live/iptv/iptv/1097.ts
+#EXTINF:0,UK: Sky Movies Comedy
+http://ksportiptv.com:1557/live/iptv/iptv/1096.ts
+#EXTINF:0,UK: Sky Movies Select
+http://ksportiptv.com:1557/live/iptv/iptv/1099.ts
+#EXTINF:0,UK: BoomeRang
+http://ksportiptv.com:1557/live/iptv/iptv/891.ts
+#EXTINF:0,UK_Yesterday
+http://ksportiptv.com:1557/live/iptv/iptv/1789.ts
+#EXTINF:0,UK_Sky Living
+http://ksportiptv.com:1557/live/iptv/iptv/1784.ts
+#EXTINF:0,UK_Sky Arts
+http://ksportiptv.com:1557/live/iptv/iptv/1782.ts
+#EXTINF:0,UK_Sky 1
+http://ksportiptv.com:1557/live/iptv/iptv/1785.ts
+#EXTINF:0,UK_Home
+http://ksportiptv.com:1557/live/iptv/iptv/1786.ts
+#EXTINF:0,UK_Gold
+http://ksportiptv.com:1557/live/iptv/iptv/1788.ts
+#EXTINF:0,UK:Watch
+http://ksportiptv.com:1557/live/iptv/iptv/1792.ts
+#EXTINF:0,UK:Vintage_TV
+http://ksportiptv.com:1557/live/iptv/iptv/1800.ts
+#EXTINF:0,UK:Ulster TV Ireland
+http://ksportiptv.com:1557/live/iptv/iptv/1801.ts
+#EXTINF:0,UK:Travel
+http://ksportiptv.com:1557/live/iptv/iptv/1802.ts
+#EXTINF:0,UK:TLC
+http://ksportiptv.com:1557/live/iptv/iptv/1803.ts
+#EXTINF:0,UK:TCM+1
+http://ksportiptv.com:1557/live/iptv/iptv/1804.ts
+#EXTINF:0,UK:Spike
+http://ksportiptv.com:1557/live/iptv/iptv/1826.ts
+#EXTINF:0,UK:Sky Thriller
+http://ksportiptv.com:1557/live/iptv/iptv/1805.ts
+#EXTINF:0,UK:Sky Sports F1
+http://ksportiptv.com:1557/live/iptv/iptv/1796.ts
+#EXTINF:0,UK:Sky Sports 5
+http://ksportiptv.com:1557/live/iptv/iptv/1827.ts
+#EXTINF:0,UK:Sky Sports 4
+http://ksportiptv.com:1557/live/iptv/iptv/1828.ts
+#EXTINF:0,UK:Sky Sports 3
+http://ksportiptv.com:1557/live/iptv/iptv/1797.ts
+#EXTINF:0,UK:Sky Sports 2
+http://ksportiptv.com:1557/live/iptv/iptv/1798.ts
+#EXTINF:0,UK:Sky Sports 1
+http://ksportiptv.com:1557/live/iptv/iptv/1799.ts
+#EXTINF:0,UK:Sky News
+http://ksportiptv.com:1557/live/iptv/iptv/1829.ts
+#EXTINF:0,UK:Sky Movies Comedy Central
+http://ksportiptv.com:1557/live/iptv/iptv/1795.ts
+#EXTINF:0,UK:Sky 2
+http://ksportiptv.com:1557/live/iptv/iptv/1806.ts
+#EXTINF:0,UK:Quest
+http://ksportiptv.com:1557/live/iptv/iptv/1807.ts
+#EXTINF:0,UK:PICK
+http://ksportiptv.com:1557/live/iptv/iptv/1808.ts
+#EXTINF:0,UK:More 4
+http://ksportiptv.com:1557/live/iptv/iptv/1809.ts
+#EXTINF:0,UK:Manchester United TV
+http://ksportiptv.com:1557/live/iptv/iptv/1830.ts
+#EXTINF:0,UK:Life Time
+http://ksportiptv.com:1557/live/iptv/iptv/1831.ts
+#EXTINF:0,UK:Horror Channel
+http://ksportiptv.com:1557/live/iptv/iptv/1810.ts
+#EXTINF:0,UK:H2
+http://ksportiptv.com:1557/live/iptv/iptv/1811.ts
+#EXTINF:0,UK:Good Food
+http://ksportiptv.com:1557/live/iptv/iptv/1791.ts
+#EXTINF:0,UK:Fox News
+http://ksportiptv.com:1557/live/iptv/iptv/1812.ts
+#EXTINF:0,UK:FOX
+http://ksportiptv.com:1557/live/iptv/iptv/1783.ts
+#EXTINF:0,UK:Film 4
+http://ksportiptv.com:1557/live/iptv/iptv/1813.ts
+#EXTINF:0,UK:Eden
+http://ksportiptv.com:1557/live/iptv/iptv/1787.ts
+#EXTINF:0,UK:Drama
+http://ksportiptv.com:1557/live/iptv/iptv/1794.ts
+#EXTINF:0,UK:Disney XD
+http://ksportiptv.com:1557/live/iptv/iptv/1832.ts
+#EXTINF:0,UK:Disney Jr
+http://ksportiptv.com:1557/live/iptv/iptv/1833.ts
+#EXTINF:0,UK:Disney Channel
+http://ksportiptv.com:1557/live/iptv/iptv/1814.ts
+#EXTINF:0,UK:Discovery Turbo
+http://ksportiptv.com:1557/live/iptv/iptv/1815.ts
+#EXTINF:0,UK:Discovery Science
+http://ksportiptv.com:1557/live/iptv/iptv/1816.ts
+#EXTINF:0,UK:Discovery Home Health
+http://ksportiptv.com:1557/live/iptv/iptv/1817.ts
+#EXTINF:0,UK:Discovery
+http://ksportiptv.com:1557/live/iptv/iptv/1818.ts
+#EXTINF:0,UK:Dave
+http://ksportiptv.com:1557/live/iptv/iptv/1790.ts
+#EXTINF:0,UK:Community
+http://ksportiptv.com:1557/live/iptv/iptv/1834.ts
+#EXTINF:0,UK:CI
+http://ksportiptv.com:1557/live/iptv/iptv/1819.ts
+#EXTINF:0,UK:Chelsea TV
+http://ksportiptv.com:1557/live/iptv/iptv/1835.ts
+#EXTINF:0,UK:Channel 4
+http://ksportiptv.com:1557/live/iptv/iptv/1820.ts
+#EXTINF:0,UK:BT Sports 2
+http://ksportiptv.com:1557/live/iptv/iptv/1836.ts
+#EXTINF:0,UK:BT Sports 1
+http://ksportiptv.com:1557/live/iptv/iptv/1837.ts
+#EXTINF:0,UK:BBC_one
+http://ksportiptv.com:1557/live/iptv/iptv/1838.ts
+#EXTINF:0,UK:BBC TOW
+http://ksportiptv.com:1557/live/iptv/iptv/1839.ts
+#EXTINF:0,UK:BBC Three
+http://ksportiptv.com:1557/live/iptv/iptv/1840.ts
+#EXTINF:0,UK:BBC News
+http://ksportiptv.com:1557/live/iptv/iptv/1841.ts
+#EXTINF:0,UK:At The Races
+http://ksportiptv.com:1557/live/iptv/iptv/1821.ts
+#EXTINF:0,UK:Animal Planet
+http://ksportiptv.com:1557/live/iptv/iptv/1822.ts
+#EXTINF:0,UK:Alibi
+http://ksportiptv.com:1557/live/iptv/iptv/1793.ts
+#EXTINF:0,UK:AKA
+http://ksportiptv.com:1557/live/iptv/iptv/1823.ts
+#EXTINF:0,UK:5 USA
+http://ksportiptv.com:1557/live/iptv/iptv/1824.ts
+#EXTINF:0,UK:3E
+http://ksportiptv.com:1557/live/iptv/iptv/1825.ts
+#EXTINF:0,UK: Sky Sport News HD
+http://ksportiptv.com:1557/live/iptv/iptv/1675.ts
+#EXTINF:0,UK: Sky Sport F1 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1120.ts
+#EXTINF:0,UK: REALLY
+http://ksportiptv.com:1557/live/iptv/iptv/1935.ts
+#EXTINF:0,UK: ITVBE
+http://ksportiptv.com:1557/live/iptv/iptv/1936.ts
+#EXTINF:0,UK: EuroSport 1
+http://ksportiptv.com:1557/live/iptv/iptv/1861.ts
+#EXTINF:0,UK: Dubai Racing (Hourses)
+http://ksportiptv.com:1557/live/iptv/iptv/1865.ts
+#EXTINF:0,UK: Carton Network
+http://ksportiptv.com:1557/live/iptv/iptv/1672.ts
+#EXTINF:0,UK: Disney Junior
+http://ksportiptv.com:1557/live/iptv/iptv/1271.ts
+#EXTINF:0,UK: Nickelodeon
+http://ksportiptv.com:1557/live/iptv/iptv/1261.ts
+#EXTINF:0,UK: Nat Geo Wild
+http://ksportiptv.com:1557/live/iptv/iptv/1262.ts
+#EXTINF:0,UK: National Geographic Channel
+http://ksportiptv.com:1557/live/iptv/iptv/1322.ts
+#EXTINF:0,UK: Nat Geo
+http://ksportiptv.com:1557/live/iptv/iptv/1263.ts
+#EXTINF:0,FR: Nat Geo HD
+http://ksportiptv.com:1557/live/iptv/iptv/1290.ts
+#EXTINF:0,UK: Discovery Channel
+http://ksportiptv.com:1557/live/iptv/iptv/1673.ts
+#EXTINF:0,UK: Discovery History
+http://ksportiptv.com:1557/live/iptv/iptv/1274.ts
+#EXTINF:0,UK: BT Sport ESPN
+http://ksportiptv.com:1557/live/iptv/iptv/1671.ts
+#EXTINF:0,UK: BT SPORT 1
+http://ksportiptv.com:1557/live/iptv/iptv/892.ts
+#EXTINF:0,UK: BT Sport 2
+http://ksportiptv.com:1557/live/iptv/iptv/1386.ts
+#EXTINF:0,UK: Sky Sport 1
+http://ksportiptv.com:1557/live/iptv/iptv/1109.ts
+#EXTINF:0,UK: Sky Sport 2 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1112.ts
+#EXTINF:0,UK: SKY Sport 2
+http://ksportiptv.com:1557/live/iptv/iptv/1113.ts
+#EXTINF:0,UK: Sky Sport 3 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1115.ts
+#EXTINF:0,UK: Sky Sport 3
+http://ksportiptv.com:1557/live/iptv/iptv/1116.ts
+#EXTINF:0,UK: Sky Sport 4
+http://ksportiptv.com:1557/live/iptv/iptv/1388.ts
+#EXTINF:0,UK: Sky Sport 5 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1119.ts
+#EXTINF:0,>>>>>>>SUEDIA<<<<<<<
+http://ksportiptv.com:1557/live/iptv/iptv/835.ts
+#EXTINF:0,TR: TV8 HD
+http://ksportiptv.com:1557/live/iptv/iptv/1188.ts
+
