@@ -19,21 +19,14 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:1400
 #EXTINF:-1,Hit Tv
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-
 #EXTINF:-1,Heart TV
-
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
-
-
 #EXTINF:-1,Miami tv music
 http://74.208.152.93/music/stream3/stream.m3u8
-
 #EXTINF:-1,Vevo 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-
 #EXTINF:-1,Vevo 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-
 #EXTINF:-1,Vevo 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:-1,VEVO 1
@@ -44,7 +37,6 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:0,Radio capital TV
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-
 #EXTINF:-1, Rock TV
 mmsh://mediatv2.topix.it/24RockOne66
 #EXTINF:-1,Eska Best
@@ -55,25 +47,18 @@ rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
 #EXTINF:-1,BEIN SPORT
 http://www.t12v.com:8000/live/prevot/prevot/837.ts
-
 #EXTINF:-1,CANAL+ LIGA_HD
 http://www.t12v.com:8000/live/prevot/prevot/795.ts
-
 #EXTINF:-1,BARCA TV
 http://www.t12v.com:8000/live/prevot/prevot/775.ts
-
 #EXTINF:0, : REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
-
 #EXTINF:-1,SKY BUNDESLIGA_1
 http://www.t12v.com:8000/live/prevot/prevot/1023.ts
-
 #EXTINF:-1,CANAL+ FUTBOL
 http://www.t12v.com:8000/live/prevot/prevot/793.ts
 #EXTINF:-1, :Tele Basel
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/.m3u8
-#EXTINF:-1, :ROUGE TV
-http://rtmp.infomaniak.ch/livecast/rougetv/.m3u8
 #EXTINF:-1, :TELE X
 http://rtmp.infomaniak.ch/livecast/latele/.m3u8
 #EXTINF:-1, :TELEZURI Suisse
@@ -216,10 +201,6 @@ http://217.16.82.6:554/zulu/sitel_1/playlist.m3u8
 mms://89.201.164.181/stv
 #EXTINF:0,Studentska TV
 rtmp://213.202.73.202/iskon/studentska_b3.stream
-#EXTINF:0,SportBG 720p Bulgarian
-http://t.co/0LvQuvp6q1
-#EXTINF:0,Sports Tonight UK
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
 #EXTINF:0,TELMA
 http://217.16.82.6:554/zulu/telma_1/playlist.m3u8
 #EXTINF:0,TVCG MONTENEGRO
@@ -242,10 +223,6 @@ http://212.79.96.134:8024
 http://212.79.96.134:8024/
 #EXTINF:0,Вести 24(Македония)
 mmsh://62.162.58.55/24vesti
-#EXTINF:0,РТРС
-http://parh.rtrs.tv:1935/tv/live/HasBahCa.m3u8?u=min@p=PTPC
-#EXTINF:0,РТС Sat
-rtsp://rts.videostreaming.rs/rts/video
 #EXTINF:0,ТВ СОНЦЕ
 http://92.53.27.201:10000
 #EXTINF:0,Viasat Sport
