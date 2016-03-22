@@ -109,36 +109,6 @@ http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/hdtv-mega-bitola/pla
 http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/k3-tv-kumanovo/playlist.m3u8
 #EXTINF:0,kanal-3-debar
 http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/kanal-3-debar/playlist.m3u8
-Kanal5 Plus
-http://gigaiptv.pro:8000/live/test/test/114.ts
-#EXTINF:-1,24 Vesti
-http://gigaiptv.pro:8000/live/test/test/415.ts
-#EXTINF:-1,Telma
-http://gigaiptv.pro:8000/live/test/test/115.ts
-#EXTINF:-1,Alfa
-http://gigaiptv.pro:8000/live/test/test/116.ts
-#EXTINF:-1,TV Skopje
-http://gigaiptv.pro:8000/live/test/test/117.ts
-#EXTINF:-1,BLA BLA
-http://gigaiptv.pro:8000/live/test/test/140.ts
-#EXTINF:-1,IN TV Avstralija
-http://gigaiptv.pro:8000/live/test/test/141.ts
-#EXTINF:-1,A1 Strumica
-http://gigaiptv.pro:8000/live/test/test/429.ts
-#EXTINF:-1,MegaTv Bitola
-http://gigaiptv.pro:8000/live/test/test/143.ts
-#EXTINF:-1,O2 Ohrid
-http://gigaiptv.pro:8000/live/test/test/328.ts
-#EXTINF:-1,K+ Stip
-http://gigaiptv.pro:8000/live/test/test/142.ts
-#EXTINF:-1,Shutel
-http://gigaiptv.pro:8000/live/test/test/149.ts
-#EXTINF:-1,Alsat M
-http://gigaiptv.pro:8000/live/test/test/118.ts
-#EXTINF:-1,ERA
-http://gigaiptv.pro:8000/live/test/test/147.ts
-#EXTINF:0,A1 Balkan
-rtmp://176.9.45.202:22222/live/alpha1
 #EXTINF:0,AUSTRIA 24
 rtmp://streaming.austria24.tv/live/stream_360p
 #EXTINF:0,Alfa_2
@@ -167,14 +137,8 @@ rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
 rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
 #EXTINF:0,ESKA TV
 http://stream.smcloud.net/live/eskatv/playlist.m3u8
-#EXTINF:0,Filmon TV
-http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
-#EXTINF:0,Family TV 2
-rtmp://83.169.58.36/live/DasneueTV
 #EXTINF:0,Family TV HD
 http://83.169.58.38:1935/live/Stream3/chunklist_w1828558504.m3u8
-#EXTINF:0,HD FASHION
-rtmp://95.67.8.43:1935/live/fashionhd
 #EXTINF:0,Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,K Plus
@@ -213,10 +177,6 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:0,VEVO 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:0,VEVO EU HD
-http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/06/prog_index.m3u8
-#EXTINF:0,VEVO TV DE
-http://vevoplaylist-eu01-live.hls.adaptive.level3.net/vevoeu/ch01/appleman.m3u8
 #EXTINF:0,VH1 CLASSIC
 http://212.79.96.134:8024
 #EXTINF:0,VH1 Classic
@@ -227,48 +187,22 @@ mmsh://62.162.58.55/24vesti
 http://92.53.27.201:10000
 #EXTINF:0,Viasat Sport
 http://4.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
-#EXTINF:0,Баскетбол
-http://77.120.118.235:8082
-#EXTINF:0,Россия 1 +4
-http://188.128.118.189:4002
 #EXTINF:0,Россия 1 +4 (Резерв 2)
 http://air.televyshka.ru:900/63
 #EXTINF:0,Россия 1 +4 (Резерв)
 http://4.hls.bolshoe.tv/1/streaming/rossija/tvrec/playlist.m3u8
-#EXTINF:0,Россия 2
-http://188.128.118.189:4003
 #EXTINF:0,Россия 2 (Резерв 2)
 http://air.televyshka.ru:900/17
 #EXTINF:0,Россия 2 (Резерв)
 http://4.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
-#EXTINF:0,Россия 24
-http://188.128.118.189:4010
 #EXTINF:0,Россия 24 (Кузбасс)
 http://4.hls.bolshoe.tv/1/streaming/vesti/tvrec/playlist.m3u8
 #EXTINF:0,Россия 24 (Резерв)
 http://air.televyshka.ru:900/19
-#EXTINF:0,Россия HD
-http://air.televyshka.ru:900/228
 #EXTINF:0,Россия К
 http://air.televyshka.ru:900/95
 #EXTINF:0,Россия К +4
 http://4.hls.bolshoe.tv/1/streaming/kultura/tvrec/playlist.m3u8
-#EXTINF:0,Россия К +4 (Резерв)
-http://188.128.118.189:4006
-#EXTINF:0,Спорт
-http://4.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
-#EXTINF:0,Спорт 1
-http://air.televyshka.ru:900/64
-#EXTINF:0,Спорт 1 (UA)
-http://tv.netlan.net.ua:8000/Sport14
-#EXTINF:0,Спорт 1 (UA) (Резерв 2)
-http://91.196.148.6/sport1
-#EXTINF:0,Спорт 1 (UA) (Резерв)
-http://87.76.73.130:8141/sport1mp4b1
-#EXTINF:0,Спорт 2 (UA)
-http://tv.netlan.net.ua:8000/Sport24
-#EXTINF:0,Спорт 2 (UA) (Резерв)
-http://109.68.47.204:8221/sport2mp2b1
 #EXTINF:0,Спорт плюс
 http://4.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
 #EXTINF:0, ALEX BERLIN (Urban Music)
@@ -297,26 +231,16 @@ rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
 rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
 #EXTINF:0, ESKA TV
 rtmp://stream.smcloud.net/live/eskatv
-#EXTINF:0, Europa Plus TV
-rtmp://europaplus.cdnvideo.ru:1935/europaplus-live/eptv_main.sdp
-#EXTINF:0, Europa Plus TV
-http://europaplus.cdnvideo.ru:1935/europaplus-live/mp4:eptv_main.sdp/playlist.m3u8
-#EXTINF:0, Film ON TV Clubbing
-http://204.107.26.252:1935/live/691.high.stream/HasBahCa.m3u8
 #EXTINF:0, Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 #EXTINF:0, Kiss TV
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
-#EXTINF:0, Music Box UA
-rtmp://212.26.132.86/live/mb_ua
 #EXTINF:0, QMusica
 mms://streamqm.uigc.net/qmusica
 #EXTINF:0, Radio 105
 rtmp://fms.105.net:1935/live/105Test1
 #EXTINF:0, Radio Montecarlo
 rtmp://fms.105.net:1935/live/rmc1
-#EXTINF:0, Si TV
-http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 #EXTINF:0, Virgin TV
 rtmp://fms.105.net:1935/live/virgin2
 #EXTINF:0,24RockOne66
