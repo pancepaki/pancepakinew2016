@@ -4568,4 +4568,466 @@ http://ksportiptv.com:1557/live/iptv/iptv/1119.ts
 http://ksportiptv.com:1557/live/iptv/iptv/835.ts
 #EXTINF:0,TR: TV8 HD
 http://ksportiptv.com:1557/live/iptv/iptv/1188.ts
+#EXTINF:0, Hrt 1
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/hrt1/amy/amy
+#EXTINF:0, Hrt 2
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/hrt2/amy/amy
+#EXTINF:0, Hrt 3
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/hrt3/amy/amy
+#EXTINF:0, Hrt 4
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/hrt4/amy/amy
+#EXTINF:0, Nova TV
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/novatv/amy/amy
+#EXTINF:0, RTL Televizija
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/rtl/amy/amy
+#EXTINF:0, RTL 2
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/rtl2/amy/amy
+#EXTINF:0, Rtl Plus
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/rtlplus/amy/amy
+#EXTINF:0, Doma TV
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/domatv/amy/amy
+#EXTINF:0, N1 HR
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/N1HR/amy/amy
+#EXTINF:0, CMC
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/cmc/amy/amy
+#EXTINF:0, Jugoton
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/Jugoton/amy/amy
+#EXTINF:0, Osjecka Tv
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/YU_osjecka/amy/amy
+#EXTINF:0, ---------- BOSNA -----------
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/InfoKanali/amy/amy
+#EXTINF:0, BHT HD
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/bhthd/amy/amy
+#EXTINF:0, BHT 1
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/bht1/amy/amy
+#EXTINF:0, FTV
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/ftv/amy/amy
+#EXTINF:0, Al Jazeera Balkans
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/AlJazeeraBalkans/amy/amy
+#EXTINF:0, TV 1
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/tv1/amy/amy
+#EXTINF:0, ATV
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/YU_atv/amy/amy
+#EXTINF:0, Hayat Plus
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/HayatPlus/amy/amy
+#EXTINF:0, Hayat Music
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/BokaTV/amy/amy
+#EXTINF:0, Hayat BIH
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/hayatbih/amy/amy
+#EXTINF:0, Hayat Folk
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/HayatFolk/amy/amy
+#EXTINF:0, Posavina
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/Posavina/amy/amy
+#EXTINF:0, OBN
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/obn/amy/amy
+#EXTINF:0, Face TV
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/facetv/amy/amy
+#EXTINF:0, N1 BiH
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/N1BiH/amy/amy
+#EXTINF:0, TV Tuzla
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/tuzla/amy/amy
+#EXTINF:0, TV Sarajevo
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/tvSarajevo/amy/amy
+#EXTINF:0, TV USK
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/YU_tvUSK/amy/amy
+#EXTINF:0, BN sat
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/bnsat/amy/amy
+#EXTINF:0, BN Music
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/bnmusic/amy/amy
+#EXTINF:0, OTV Valentino
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/otvvalentino/amy/amy
+#EXTINF:0, ---------- SRBIJA -----------
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/InfoKanali/amy/amy
+#EXTINF:0, RTS 1
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/rts1/amy/amy
+#EXTINF:0, RTS 2
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/rts2/amy/amy
+#EXTINF:0, Prva TV
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/prva/amy/amy
+#EXTINF:0, Best TV
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/prvaplus/amy/amy
+#EXTINF:0, Nova RS
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/novars/amy/amy
+#EXTINF:0, B92
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/b92/amy/amy
+#EXTINF:0, RTRS
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/rtrs/amy/amy
+#EXTINF:0, N1 SRB
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/N1SRB/amy/amy
+#EXTINF:0, Happy tv
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/happytv/amy/amy
+#EXTINF:0, Mlave Tv
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/MlaveTv/amy/amy
+#EXTINF:0, Novi Pazar
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/NoviPazar/amy/amy
+#EXTINF:0, Grand Tv
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/grandtv/amy/amy
+#EXTINF:0, DM Sat
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/dmsat/amy/amy
+#EXTINF:0, KCN 1
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/kcn1/amy/amy
+#EXTINF:0, KCN 2
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/kcn2/amy/amy
+#EXTINF:0, KCN 3
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/kcn3/amy/amy
+#EXTINF:0, Atlas
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/atlas/amy/amy
+#EXTINF:0, ---------- SPORT EX-YU -----------
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/InfoKanali/amy/amy
+#EXTINF:0, Arena Sport 1 Sr
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/arenasport1sr/amy/amy
+#EXTINF:0, Arena Sport 1 Hr
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/arenasport1hr/amy/amy
+#EXTINF:0, Arena Sport 2 Hr
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/arenasport2hr/amy/amy
+#EXTINF:0, Arena Sport 2 Sr
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/arenasport2sr/amy/amy
+#EXTINF:0, Arena Sport 3 Sr
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/arenasport3sr/amy/amy
+#EXTINF:0, Arena Sport 3 Hr
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/arenasport3hr/amy/amy
+#EXTINF:0, Arena Sport 4 Hr
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/arenasport4hr/amy/amy
+#EXTINF:0, Arena Sport 4 Sr
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/arenasport4sr/amy/amy
+#EXTINF:0, Arena Sport 5 Sr
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/arenasport5sr/amy/amy
+#EXTINF:0, Arena Sport 5 Hr
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/arenasport5hr/amy/amy
+#EXTINF:0, Sport Klub HR
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/scifi/amy/amy
+#EXTINF:0, Sport Klub 1 HR
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/sportklub1hr/amy/amy
+#EXTINF:0, Sport Klub 2 SR
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/sportklub2sr/amy/amy
+#EXTINF:0, Sport Klub 2 HR
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/sportklub2hr/amy/amy
+#EXTINF:0, Sport Klub 1 SR
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/sportklub1sr/amy/amy
+#EXTINF:0, Sport Klub 3 SR
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/sportklub3sr/amy/amy
+#EXTINF:0, Sport Klub 3 HR
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/sportklub3hr/amy/amy
+#EXTINF:0, SK Golf
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/SKGOLF/amy/amy
+#EXTINF:0, Eurosport 1
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/eurosport1/amy/amy
+#EXTINF:0, Eurosport 2
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/eurosport2/amy/amy
+#EXTINF:0, Lov i Ribolov
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/loviribolov/amy/amy
+#EXTINF:0, Sportska TV
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/sportskatv/amy/amy
+#EXTINF:0, Fight Channel
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/fightchanell/amy/amy
+#EXTINF:0, ---------- FILM EX-YU -----------
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/InfoKanali/amy/amy
+#EXTINF:0, HBO Adria
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/hboadria/amy/amy
+#EXTINF:0, HBO Comedy
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/hbocomedy/amy/amy
+#EXTINF:0, Cinemax 2
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/Cinemax2/amy/amy
+#EXTINF:0, Cinemax
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/Cinemax/amy/amy
+#EXTINF:0, Cinestar
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/Cinestar/amy/amy
+#EXTINF:0, Cinestar Action
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/Cinestaraction/amy/amy
+#EXTINF:0, Cinestar Premiere 1
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/axnspin/amy/amy
+#EXTINF:0, Cinestar Premiere 2
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/tv1000/amy/amy
+#EXTINF:0, Klasik TV
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/klasiktv/amy/amy
+#EXTINF:0, Fox
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/fox/amy/amy
+#EXTINF:0, Fox Movies
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/foxmovies/amy/amy
+#EXTINF:0, Fox Life
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/foxlife/amy/amy
+#EXTINF:0, Fox Crime
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/foxcrime/amy/amy
+#EXTINF:0, Axn
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/axn/amy/amy
+#EXTINF:0, ---------- ZABAVA EX-YU -----------
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/InfoKanali/amy/amy
+#EXTINF:0, History
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/history/amy/amy
+#EXTINF:0, 24 Kitchen
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/24kitchen/amy/amy
+#EXTINF:0, National Geo.
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/national/amy/amy
+#EXTINF:0, Discovery
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/discovery/amy/amy
+#EXTINF:0, ID Extra
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/discaveryID/amy/amy
+#EXTINF:0, Viasat History
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/viasathistory/amy/amy
+#EXTINF:0, Viasat Nature
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/viasatnature/amy/amy
+#EXTINF:0, Tlc
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/Tlc/amy/amy
+#EXTINF:0, Da Vinci Learning
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/DaVinciLearning/amy/amy
+#EXTINF:0, Animal Planet
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/animalplanet/amy/amy
+#EXTINF:0, Rtl Kockica
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/RtlKockica/amy/amy
+#EXTINF:0, Minimax
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/Minimax/amy/amy
+#EXTINF:0, Hayatovci
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/Hayatovci/amy/amy
+#EXTINF:0, MINI TV
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/MINITV/amy/amy
+#EXTINF:0, disney
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/Disney/amy/amy
+#EXTINF:0, ---------- PINK -----------
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/InfoKanali/amy/amy
+#EXTINF:0, Pink Plus
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/PinkPlus/amy/amy
+#EXTINF:0, Pink
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/pink/amy/amy
+#EXTINF:0, Pink 2
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/pink2/amy/amy
+#EXTINF:0, Pink 3
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/pink3/amy/amy
+#EXTINF:0, Pink M
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/PinkM/amy/amy
+#EXTINF:0, Pink Zabava
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/pinkzabava/amy/amy
+#EXTINF:0, Pink BIH
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/pinkbih/amy/amy
+#EXTINF:0, Pink Extra
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/pinkextra/amy/amy
+#EXTINF:0, Pink Premium
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/pinkpremium/amy/amy
+#EXTINF:0, Pink Reality
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/pinkreality/amy/amy
+#EXTINF:0, Pink Pedia
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/pinkpedia/amy/amy
+#EXTINF:0, Pink Folk 1
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/pinkfolk/amy/amy
+#EXTINF:0, Pink Koncert
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/pinklive/amy/amy
+#EXTINF:0, Pink Film
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/pinkfilm/amy/amy
+#EXTINF:0, Pink Romance
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/pinkmovie2/amy/amy
+#EXTINF:0, Pink Sci-Fi&Fantasy
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/pinkmovie3/amy/amy
+#EXTINF:0, Pink Thriler
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/pinkaction2/amy/amy
+#EXTINF:0, Pink Crime&Mystery
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/pinkaction3/amy/amy
+#EXTINF:0, Pink Horor
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/pinkhoror/amy/amy
+#EXTINF:0, Pink Comedy
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/PinkComedy/amy/amy
+#EXTINF:0, Pink Western
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/PinkWestern/amy/amy
+#EXTINF:0, Pink Kids
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/PinkKids/amy/amy
+#EXTINF:0, Pink World
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/PinkWorld/amy/amy
+#EXTINF:0, Pink Soap
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/PinkSoap/amy/amy
+#EXTINF:0, Pink and Roll
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/PinkandRoll/amy/amy
+#EXTINF:0, Pink Folk 2
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/PinkFolk2/amy/amy
+#EXTINF:0, Pink Hits 2
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/PinkMusic3/amy/amy
+#EXTINF:0, ---------- MAKEDONIA -----------
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/InfoKanali/amy/amy
+#EXTINF:0, Mtv 1
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/mkmtv1/amy/amy
+#EXTINF:0, MK 2
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/MK2/amy/amy
+#EXTINF:0, Sitel
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/mksitel/amy/amy
+#EXTINF:0, Sitel3
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/mksitel3/amy/amy
+#EXTINF:0, Alfa
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/mkalfa/amy/amy
+#EXTINF:0, Kanal 5
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/mkkanal5/amy/amy
+#EXTINF:0, Telma
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/mktelma/amy/amy
+#EXTINF:0, TV Uskana
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/tvuskana/amy/amy
+#EXTINF:0,♥ ---------- PORNO -----------
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/XXX/amy/amy
+#EXTINF:0,♥ XXX 1
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/XXX1/amy/amy
+#EXTINF:0,♥ XXX 2
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/XXX2/amy/amy
+#EXTINF:0,♥ XXX 3
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/XXX3/amy/amy
+#EXTINF:0,♥ XXX 4
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/XXX4/amy/amy
+#EXTINF:0,♥ XXX 5
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/XXX5/amy/amy
+#EXTINF:0,♥ XXX 6
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/XXX6/amy/amy
+#EXTINF:0,♥ XXX 7
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/XXX7/amy/amy
+#EXTINF:0,♥ XXX 8
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/XXX8/amy/amy
+#EXTINF:0,♥ XXX 9
+#EXTVLCOPT:network-caching=4500
+http://balkanstream.com/stream/XXX9/amy/amy
 
