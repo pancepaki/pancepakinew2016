@@ -38,11 +38,7 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:0,Radio capital TV
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:-1, Rock TV
-mmsh://mediatv2.topix.it/24RockOne66
-#EXTINF:-1,Eska Best
-rtmp://stream.smcloud.net/live2/best/best_720p
-#EXTINF:-1,Eska Rock
-rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+mmsh://mediatv2.topix.it/24RockOne6
 #EXTINF:-1,Eska Party
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
 #EXTINF:-1, :Tele Basel
@@ -79,14 +75,10 @@ http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/k1-tv-veles/playlist
 http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/o2-tv-ohrid/playlist.m3u8
 #EXTINF:0,a1
 http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/a1-strumica/playlist.m3u8
-#EXTINF:0,ultra-tv
-http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/ultra-tv-tetovo/playlist.m3u8
 #EXTINF:0,mega-bitola
 http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/hdtv-mega-bitola/playlist.m3u8
 #EXTINF:0,k3-tv-kumanovo
 http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/k3-tv-kumanovo/playlist.m3u8
-#EXTINF:0,kanal-3-debar
-http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/kanal-3-debar/playlist.m3u8
 #EXTINF:0,AUSTRIA 24
 rtmp://streaming.austria24.tv/live/stream_360p
 #EXTINF:0,Alfa_2
@@ -103,8 +95,6 @@ rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
 http://stream.smcloud.net/live/eskatv/playlist.m3u8
 #EXTINF:0,Family TV HD
 http://83.169.58.38:1935/live/Stream3/chunklist_w1828558504.m3u8
-#EXTINF:0,Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,K Plus
 http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/kplus-tv-stip/chunklist.m3u8
 #EXTINF:0,K1 Veles
@@ -133,8 +123,6 @@ rtmp://213.202.73.202/iskon/studentska_b3.stream
 http://217.16.82.6:554/zulu/telma_1/playlist.m3u8
 #EXTINF:0,TVCG MONTENEGRO
 mms://195.252.114.172/tvcg
-#EXTINF:0,ULTRA TETOVO
-http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/ultra-tv-tetovo/chunklist.m3u8
 #EXTINF:0,VEVO 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:0,VEVO 2
