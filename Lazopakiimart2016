@@ -7,40 +7,6 @@ http://188.227.50.105:7778/udp/235.10.11.119:1234
 http://msk3.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Total_Kiss tv" tvg-name="Kiss_tv" tvg-logo="guiatv-prueba.png",Kiss TV - España
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
-#EXTINF:1,Arena Sport 2 HR
-http://balkanstream.com/stream/arenasport2HR/amy/amy
-#EXTINF:1,Arena Sport 4 HR
-http://balkanstream.com/stream/arenasport4HR/amy/amy
-#EXTINF:1,Arena Sport 5 HR
-http://balkanstream.com/stream/arenasport5HR/amy/amy
-#EXTINF:1,Arena Sport 1 SR
-http://balkanstream.com/stream/arenasport1sr/amy/amy
-#EXTINF:1,Arena Sport 3 SR
-http://balkanstream.com/stream/arenasport3sr/amy/amy
-#EXTINF:1,Arena Sport 4 SR
-http://balkanstream.com/stream/arenasport1sr/amy/amy
-#EXTINF:1, SportKlub 1 HR
-http://balkanstream.com/stream/sportklub1hr/amy/amy
-#EXTINF:1, SportKlub 3 HR
-http://balkanstream.com/stream/sportklub3hr/amy/amy
-#EXTINF:-1, Sport Klub 1 HD
-http://77.76.140.251/prgr.m3u8
-#EXTINF:-1, Sport Klub 2 HD
-http://77.76.140.251/prgs.m3u8
-#EXTINF:-1, Sport Klub 3 HD
-http://77.76.140.251/prgt.m3u8
-#EXTINF:-1,Sport Klub 3 HD Slovenia
-http://77.76.140.251/prgt.m3u8
-#EXTINF:-1,EX - Arena 1 Srb
-http://xtream.iptv-streamer.com:8000/live/aa/aa/879.ts
-#EXTINF:-1,EX - Arena 2 Srb
-http://xtream.iptv-streamer.com:8000/live/aa/aa/880.ts
-#EXTINF:-1,EX - Arena 3 Srb
-http://xtream.iptv-streamer.com:8000/live/aa/aa/881.ts
-#EXTINF:-1,EX - Arena 4 Srb
-http://xtream.iptv-streamer.com:8000/live/aa/aa/882.ts
-#EXTINF:-1,EX - Arena 5 Srb
-http://xtream.iptv-streamer.com:8000/live/aa/aa/883.ts
 #EXTINF:-1,VEVO 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:-1,VEVO 2
@@ -79,90 +45,6 @@ rtmp://stream.smcloud.net/live2/best/best_720p
 rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
 #EXTINF:-1,Eska Party
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
-#EXTINF:-1,Diema Family
-http://77.76.140.251:22637/udp/231.1.2.1:1234
-#EXTINF:-1,bTV Action
-http://77.76.140.251:22637/udp/231.1.2.2:1234
-#EXTINF:-1,News 7
-http://77.76.140.251:22637/udp/231.1.2.3:1234
-#EXTINF:-1,RING
-http://77.76.140.251:22637/udp/231.1.2.4:1234
-#EXTINF:-1,FOX Crime
-http://77.76.140.251:22637/udp/231.1.2.5:1234
-#EXTINF:-1,FOX life
-http://77.76.140.251:22637/udp/231.1.2.6:1234
-#EXTINF:-1,Folklor TV
-http://77.76.140.251:22637/udp/231.1.2.7:1234
-#EXTINF:-1,Fen Folk TV
-http://77.76.140.251:22637/udp/231.1.2.9:1234
-#EXTINF:-1,BNT 1
-http://77.76.140.251:22637/udp/231.1.2.8:1234
-#EXTINF:-1,FEN TV
-http://77.76.140.251:22637/udp/231.1.2.10:1234
-#EXTINF:-1,FilmBox Plus
-http://77.76.140.251:22637/udp/231.1.2.11:1234
-#EXTINF:-1,S Muzik
-http://77.76.140.251:22637/udp/231.1.2.12:1234
-#EXTINF:-1,Kanal 3
-http://77.76.140.251:22637/udp/231.1.2.13:1234
-#EXTINF:-1,FilmBox Extra
-http://77.76.140.251:22637/udp/231.1.2.14:1234
-#EXTINF:-1,Planeta Folk
-http://77.76.140.251:22637/udp/231.1.2.15:1234
-#EXTINF:-1,Fen Folk TV
-http://77.76.140.251:22637/udp/231.1.2.16:1234
-#EXTINF:-1,24 kitchen
-http://77.76.140.251:22637/udp/231.1.2.17:1234
-#EXTINF:-1,Nova Sport
-http://77.76.140.251:22637/udp/231.1.2.18:1234
-#EXTINF:-1,Balkanika Music
-http://77.76.140.251:22637/udp/231.1.2.19:1234
-#EXTINF:-1,bTV Comedy
-http://77.76.140.251:22637/udp/231.1.2.20:1234
-#EXTINF:-1,bTV Cinema
-http://77.76.140.251:22637/udp/231.1.2.21:1234
-#EXTINF:-1,Super7
-http://77.76.140.251:22637/udp/231.1.2.23:1234
-#EXTINF:-1,TV 7
-http://77.76.140.251:22637/udp/231.1.2.22:1234
-#EXTINF:-1,bTV Lady
-http://77.76.140.251:22637/udp/231.1.2.24:1234
-#EXTINF:-1,Nova TV
-http://77.76.140.251:22637/udp/231.1.2.26:1234
-#EXTINF:-1,Kino Nova
-http://77.76.140.251:22637/udp/231.1.2.27:1234
-#EXTINF:-1,The Voice
-http://77.76.140.251:22637/udp/231.1.2.28:1234
-#EXTINF:-1,Diema
-http://77.76.140.251:22637/udp/231.1.2.29:1234
-#EXTINF:-1,National Geographic
-http://77.76.140.251:22637/udp/231.1.2.31:1234
-#EXTINF:-1,FOX
-http://77.76.140.251:22637/udp/231.1.2.32:1234
-#EXTINF:-1,Cartoon Network
-http://77.76.140.251:22637/udp/231.1.2.36:1234
-#EXTINF:-1,Perviy Kanal
-http://77.76.140.251:22637/udp/231.1.2.37:1234
-#EXTINF:-1,DM-SAT
-http://77.76.140.251:22637/udp/231.1.2.39:1234
-#EXTINF:-1,CITY TV
-http://77.76.140.251:22637/udp/231.1.2.43:1234
-#EXTINF:-1,bTV
-http://77.76.140.251:22637/udp/231.1.2.49:1234
-#EXTINF:-1,Fiesta TV
-http://77.76.140.251:22637/udp/231.1.2.50:1234
-#EXTINF:-1,BEIN SPORT
-http://www.t12v.com:8000/live/prevot/prevot/837.ts
-#EXTINF:-1,CANAL+ LIGA_HD
-http://www.t12v.com:8000/live/prevot/prevot/795.ts
-#EXTINF:-1,BARCA TV
-http://www.t12v.com:8000/live/prevot/prevot/775.ts
-#EXTINF:0, : REAL MADRID TV HD
-http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:-1,SKY BUNDESLIGA_1
-http://www.t12v.com:8000/live/prevot/prevot/1023.ts
-#EXTINF:-1,CANAL+ FUTBOL
-http://www.t12v.com:8000/live/prevot/prevot/793.ts
 #EXTINF:-1, :Tele Basel
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/.m3u8
 #EXTINF:-1, :TELE X
@@ -187,16 +69,6 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 http://motorsport.hopto.org:8080/
 #EXTINF:0,TURK-BURSASPOR TV
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
-#EXTINF:0,USA-PAC 12 Bay Area (HD)
-http://www.xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:0,USA-Pac 12 Bay Area 720 HD
-http://xrxs.net/video/live-p12baya-2328.m3u8
-#EXTINF:0,USA-PAC 12 Oregon (HD)
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:0,USA:SPORTES 5 HD
-http://www.xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:0,USA:SPORTES 6 HD
-http://xrxs.net/video/live-p12netw-4728.m3u8
 #EXTINF:0,A1 Strumica
 http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/a1-strumica/chunklist.m3u8
 #EXTINF:0,kplus-tv
@@ -221,20 +93,6 @@ rtmp://streaming.austria24.tv/live/stream_360p
 http://fms.zulu.mk:554/zulu/alfa_2/playlist_b125000_w1132785237.m3u8
 #EXTINF:0,CITY TV
 http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
-#EXTINF:0,CHILE:Campus TV
-http://wow2.cl.digitalproserver.com/campustv/campustvvivo/campustv.smil/chunklist_w662421777_b848000.m3u8
-#EXTINF:0,CHILE:EL PINGUINO TV
-http://streaming.elpinguino.com:1935/live/pinguinotv_360p/HasBahCa.m3u8
-#EXTINF:0,CHILE:La Red HD 720
-http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/hasbahca.m3u
-#EXTINF:0,CHILE:MEGA
-http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b400.m3u8
-#EXTINF:0,COL:Canal Capital
-http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
-#EXTINF:0,Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,ClubLand
-http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0,ESKA BEST MUSIC TV
 rtmp://stream.smcloud.net/live2/best/best_720p
 #EXTINF:0,ESKA PARTY TV
@@ -445,16 +303,10 @@ http://93.157.174.217:4022/udp/234.5.2.30:1234
 http://176.100.108.190:4000/udp/239.1.1.147:1234
 #EXTINF:-1,Nhk world
 http://212.19.7.91:8888/udp/239.191.254.179:13343
-#EXTINF:-1,Nhk world
-http://176.100.108.190:4000/udp/239.1.1.100:1234
-#EXTINF:-1,Ocean tv
-http://91.224.17.5:7777/udp/239.100.0.207:1234
 #EXTINF:-1,Ocean tv
 http://212.19.7.91:8888/udp/239.191.254.54:13343
 #EXTINF:-1,RT Doc HD
 http://176.100.108.190:4000/udp/239.1.1.137:1234
-#EXTINF:-1,Super tennis HD
-http://176.100.108.190:4000/udp/239.1.1.138:1234
 #EXTINF:-1,TV 1000
 http://212.19.7.91:8888/udp/239.191.254.8:13343
 #EXTINF:-1,TV 1000 Action
@@ -609,10 +461,6 @@ http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?se
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:-1,Music Videos 14  [COLOR lime]FTA[/COLOR]
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:-1,Music Videos 15  [COLOR lime]FTA[/COLOR]
-http://185.28.3.10/powertv/powerturktvh.stream/playlist.m3u8
-#EXTINF:-1,Music Videos 16  [COLOR lime]FTA[/COLOR]
-http://rtmp.one.by:1300/
 #EXTINF:-1,Music Videos 17  [COLOR lime]FTA[/COLOR]
 http://194.79.52.77/goldi/goldHQ2/index.m3u8
 #EXTINF:-1,Music Videos 18  [COLOR lime]FTA[/COLOR]
