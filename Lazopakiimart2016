@@ -538,78 +538,14 @@ mms://72.13.93.186/animatedfilms
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:-1,Toonami
 http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Cinemax+
-http://77.76.140.251/prgb.m3u8
-#EXTINF:-1,F+
-http://77.76.140.251/prge.m3u8
-#EXTINF:-1,AXN
-http://77.76.140.251/prgd.m3u8
-#EXTINF:-1,MovieStar
-http://77.76.140.251/prgc.m3u8
-#EXTINF:-1,DIscovery
-http://77.76.140.251/prgh.m3u8
-#EXTINF:-1,DiscoveryScience
-http://77.76.140.251/prgi.m3u8
-#EXTINF:-1,ViasatNature
-http://77.76.140.251/prgj.m3u8
-#EXTINF:-1,TheVoice
-http://77.76.140.251/prgm.m3u8
-#EXTINF:-1,HBO+
-http://77.76.140.251/prgp.m3u8
-#EXTINF:-1,RingBG
-http://77.76.140.251/prgr.m3u8
-#EXTINF:-1,Eurosport
-http://77.76.140.251/prgs.m3u8
-#EXTINF:-1,Eurosport2
-http://77.76.140.251/prgt.m3u8
-#EXTINF:-1,TravelChannel
-http://77.76.140.251/prgu.m3u8
-#EXTINF:-1,AnimalPlanet
-http://77.76.140.251/prgw.m3u8
-#EXTINF:-1,NatGeoBG
-http://77.76.140.251/prgf.m3u8
-#EXTINF:-1,Discovery
-http://77.76.140.251/prgh.m3u8
-#EXTINF:-1,DiscoveryScience
-http://77.76.140.251/prgi.m3u8
-#EXTINF:-1,ViasatNature
-http://77.76.140.251/prgj.m3u8
-#EXTINF:-1,ViasatExplore
-http://77.76.140.251/prgk.m3u8
-#EXTINF:-1,?????????????
-http://77.76.140.251/prgl.m3u8
-#EXTINF:-1,HBOBG
-http://77.76.140.251/prgp.m3u8
-#EXTINF:-1,HBOComedy
-http://77.76.140.251/prga.m3u8
-#EXTINF:-1,Cinemax
-http://77.76.140.251/prgb.m3u8
-#EXTINF:-1,MovieStar
-http://77.76.140.251/prgc.m3u8
-#EXTINF:-1,AXN
-http://77.76.140.251/prgd.m3u8
-#EXTINF:-1,F+
-http://77.76.140.251/prge.m3u8
-#EXTINF:-1,AutoMotorSport
-http://77.76.140.251/prgu.m3u8
-#EXTINF:-1,FilmBoxHD
-http://77.76.140.251/prga.m3u8
-#EXTINF:-1,FilmBox+HD
-http://77.76.140.251/prgb.m3u8
-#EXTINF:-1,TheVoice
-http://77.76.140.251/prgm.m3u8
 #EXTINF:0,Arena Sport 3
 http://188.247.133.18:8888/ipvt_005
 #EXTINF:0,Arena Sport 4
 http://188.247.133.18:8888/ipvt_006
-#EXTINF:0,CETV
-http://213.81.153.221:8080/cetv
 #EXTINF:0,Dolny Kubin m3u8
 http://s1.media-planet.sk:80/live/dolnykubin/playlist.m3u8
 #EXTINF:0,Dolny Kubin rtmp
 rtmp://s1.media-planet.sk:80/live/dolnykubin
-#EXTINF:0,Hronka Slovenia
-http://213.81.153.221:8080/hronka
 #EXTINF:0,SK-Nove Zamky m3u8
 http://s1.media-planet.sk:80/live/novezamky/playlist.m3u8
 #EXTINF:0,SK-Nove Zamky rtmp
@@ -640,17 +576,10 @@ rtmp://wowza.rtkit.com/live/livestream
 mmsh://rts.videostreaming.rs/rts
 #EXTINF:0,RTV BANOVINA HR
 rtmp://video.radio-banovina.hr/live/myStream
-#EXTINF:0,Sitel
-rtsp://fms.zulu.mk/zulu/sitel_1
 #EXTINF:0,SITEL
 http://fms.zulu.mk:1935/zulu/sitel_1/playlist.m3u8
-#EXTINF:0,B92
-#EXTINF:0,LESKOVAC TV
-http://5.153.25.7:8082/stream/?channel=tvleskovac&stream=1mb
 #EXTINF:0,ND TV
 http://bglive-a.bitgravity.com/ndtv/247hi/live/native
-#EXTINF:0,NET TV INFO
-http://5.153.25.7:8082/stream/?channel=nettvinfo&stream=1mb
 #EXTINF:0,NOVOSADSKA TV
 http://176.106.121.32:8080/
 #EXTINF:0,NOVOSADSKA TV mms
@@ -661,9 +590,7 @@ rtmp://str103.setplex.net:1935/228/stv_online
 mms://176.106.121.32:8080/
 #EXTINF:1,RTV2
 mms://195.252.114.172/studiob
-
-#EXTINF:-1,FR_A_LA_CARTE_X_ADULTES_1
-http://www.q7t1.com:8000/live/2018/2018/1271.ts
+=============================germany=================================================
 #EXTINF: -1, DE DE: the RTL * 
 http://62.210.162.88:80/live/DE160/134520042016/2247.m3u8 
 #EXTINF: -1, DE DE: the RTL 2 * 
