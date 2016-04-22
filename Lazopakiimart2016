@@ -137,26 +137,6 @@ http://212.79.96.134:8024/
 mmsh://62.162.58.55/24vesti
 #EXTINF:0,ТВ СОНЦЕ
 http://92.53.27.201:10000
-#EXTINF:0,Viasat Sport
-http://4.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
-#EXTINF:0,Россия 1 +4 (Резерв 2)
-http://air.televyshka.ru:900/63
-#EXTINF:0,Россия 1 +4 (Резерв)
-http://4.hls.bolshoe.tv/1/streaming/rossija/tvrec/playlist.m3u8
-#EXTINF:0,Россия 2 (Резерв 2)
-http://air.televyshka.ru:900/17
-#EXTINF:0,Россия 2 (Резерв)
-http://4.hls.bolshoe.tv/1/streaming/sport/tvrec/playlist.m3u8
-#EXTINF:0,Россия 24 (Кузбасс)
-http://4.hls.bolshoe.tv/1/streaming/vesti/tvrec/playlist.m3u8
-#EXTINF:0,Россия 24 (Резерв)
-http://air.televyshka.ru:900/19
-#EXTINF:0,Россия К
-http://air.televyshka.ru:900/95
-#EXTINF:0,Россия К +4
-http://4.hls.bolshoe.tv/1/streaming/kultura/tvrec/playlist.m3u8
-#EXTINF:0,Спорт плюс
-http://4.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
 #EXTINF:0, ALEX BERLIN (Urban Music)
 http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
 #EXTINF:0, Amazing
@@ -197,16 +177,8 @@ rtmp://fms.105.net:1935/live/rmc1
 rtmp://fms.105.net:1935/live/virgin2
 #EXTINF:0,24RockOne66
 http://194.116.83.15:80/24RockOne66
-#EXTINF:0,Djing HD
-http://cdn.djing.com/tv/05.m3u8
-#EXTINF:0,Djing Ibiza
-http://cdn.djing.com/tv/d-05.m3u8
-#EXTINF:0,Djing Underground
-http://cdn.djing.com/tv/u-05.m3u8
 #EXTINF:0,ESKATV Music
 rtmp://stream.smcloud.net/live/eskatv
-#EXTINF:0,Hit TV
-http://vs2.cdn.ott.otautv.kz/dtv/id13_KTR_SG--Hittv/03/plst.m3u8
 #EXTINF:0,M6 Music Hits
 https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 #EXTINF:0,MFM TV HQ
