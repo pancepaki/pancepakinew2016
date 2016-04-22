@@ -179,24 +179,16 @@ rtmp://fms.105.net:1935/live/virgin2
 http://194.116.83.15:80/24RockOne66
 #EXTINF:0,ESKATV Music
 rtmp://stream.smcloud.net/live/eskatv
-#EXTINF:0,M6 Music Hits
-https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
 #EXTINF:0,MFM TV HQ
 http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
 #EXTINF:0,POLO TV Music
 rtmp://stream.smcloud.net/live/polotv
 #EXTINF:0,Quiero Musica
 mms://streamqm.uigc.net/qmusica
-#EXTINF:0,REBEL TV
-rtmp://95.211.203.5/live/rebel.stream
 #EXTINF:0,ROUGE TV
 rtmp://rtmp.infomaniak.ch/livecast/rougetv
-#EXTINF:0,Strictlybellydancing
-rtsp://46.249.213.87/broadcast/strictlybellydancing-tablet.3gp?trackingid=3651600000>ime=1350065493&gu
 #EXTINF:0,Super Sonic TV
 http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
-#EXTINF:0,UTV
-http://82.76.249.77:80/utvedge/utvlive/index.m3u8
 #EXTINF:0,Vevo TV 1 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:0,Vevo TV 2 HD
@@ -213,126 +205,26 @@ http://rtmp.one.by:1400
 http://rtmp.one.by:2200 
 #EXTINF:-1, One.by Россия HD 
 http://rtmp.one.by:2300
-#EXTINF:-1,1HD
-http://176.100.108.190:4000/udp/239.1.1.194:1234
-#EXTINF:-1,Amazing life
-http://212.19.7.91:8888/udp/239.191.254.87:13343
-#EXTINF:-1,Amazing life
-http://176.100.108.190:4000/udp/239.1.1.192:1234
 #EXTINF:-1,Amedia 1 (Резерв)
 http://212.19.7.91:8888/udp/239.191.254.30:13343
 #EXTINF:-1,Extreme sports
 http://212.19.7.91:8888/udp/239.191.254.39:13343
-#EXTINF:-1,Extreme sports
-http://77.120.118.235:8081
 #EXTINF:-1,FTV
 http://212.19.7.91:8888/udp/239.191.254.69:13343
-#EXTINF:-1,Fashion HD
-http://176.100.108.190:4000/udp/239.1.1.42:1234
-#EXTINF:-1,Fox
-http://212.19.7.91:8888/udp/239.191.254.107:13343
-#EXTINF:-1,Fox life
-http://212.19.7.91:8888/udp/239.191.254.108:13343
 #EXTINF:-1,France 24
 http://212.19.7.91:8888/udp/239.191.254.114:13343
 #EXTINF:-1,Galaxy
 http://212.19.7.91:8888/udp/239.191.254.113:13343
-#EXTINF:-1,Gamanoid
-http://176.100.108.190:4000/udp/239.1.1.197:1234
-#EXTINF:-1,HL
-http://176.100.108.190:4000/udp/239.1.1.78:1234
-#EXTINF:-1,ID
-http://176.100.108.190:4000/udp/239.1.1.184:1234
-#EXTINF:-1,Luxury world
-http://176.100.108.190:4000/udp/239.1.1.133:1234
-#EXTINF:-1,M6 HD
-http://176.100.108.190:4000/udp/239.1.1.40:1234
-#EXTINF:-1,Mezzo
-http://176.100.108.190:4000/udp/239.1.1.234:1234
-#EXTINF:-1,Mtv
-http://176.100.108.190:4000/udp/239.1.1.198:1234
-#EXTINF:-1,Mtv Hits
-http://212.19.7.91:8888/udp/239.191.254.57:13343
-#EXTINF:-1,Music box
-http://93.157.174.217:4022/udp/234.5.2.81:1234
-#EXTINF:-1,Myzen tv HD
-http://176.100.108.190:4000/udp/239.1.1.41:1234
-#EXTINF:-1,Nano tv
-http://93.157.174.217:4022/udp/234.5.2.30:1234
-#EXTINF:-1,Nat geo HD
-http://176.100.108.190:4000/udp/239.1.1.147:1234
-#EXTINF:-1,Nhk world
-http://212.19.7.91:8888/udp/239.191.254.179:13343
-#EXTINF:-1,Ocean tv
-http://212.19.7.91:8888/udp/239.191.254.54:13343
-#EXTINF:-1,RT Doc HD
-http://176.100.108.190:4000/udp/239.1.1.137:1234
-#EXTINF:-1,TV 1000
-http://212.19.7.91:8888/udp/239.191.254.8:13343
-#EXTINF:-1,TV 1000 Action
-http://212.19.7.91:8888/udp/239.191.254.25:13343
-#EXTINF:-1,Teletravel HD
-http://176.100.108.190:4000/udp/239.1.1.141:1234
-#EXTINF:-1,Trace urban
-http://176.100.108.190:4000/udp/239.1.1.5:1234
-#EXTINF:-1,VH1
-http://176.100.108.190:4000/udp/239.1.1.79:1234
-#EXTINF:-1,Viasat explore
-http://91.224.17.5:7777/udp/239.100.0.166:1234
-#EXTINF:-1,Viasat sport
-http://91.224.17.5:7777/udp/239.100.0.169:1234
-#EXTINF:-1,Viasat sport
-http://212.19.7.91:8888/udp/239.191.254.11:13343
-#EXTINF:-1,Viasat sport
-http://176.100.108.190:4000/udp/239.1.1.75:1234
-#EXTINF:-1,Vintage tv
-http://176.100.108.190:4000/udp/239.1.1.188:1234
-#EXTINF:-1,НТВ+ Спорт
-http://91.224.17.5:7777/udp/239.100.0.221:1234
-#EXTINF:-1,RT
-http://212.19.7.91:8888/udp/239.191.254.106:13343
-#EXTINF:-1,Наш футбол
-http://212.19.7.91:8888/udp/239.191.254.118:13343
 #EXTINF:-1,Оружие
 http://212.19.7.91:8888/udp/239.191.254.150:13343
 #EXTINF:-1,Охота и рыбалка
 http://212.19.7.91:8888/udp/239.191.254.98:13343
-#EXTINF:-1,Охота и рыбалка
-http://176.100.108.190:4000/udp/239.1.1.126:1234
-#EXTINF:-1,Охотник и рыболов HD
-http://176.100.108.190:4000/udp/239.1.1.148:1234
-#EXTINF:-1,Спорт плюс
-http://176.100.108.190:4000/udp/239.1.1.81:1234
-#EXTINF:-1,Футбол
-http://176.100.108.190:4000/udp/239.1.1.196:1234
-#EXTINF:-1,Футбол 1
-http://176.100.108.190:4000/udp/239.1.1.98:1234
-#EXTINF:-1, Idman Tv
-http://149.255.152.112/idman/index.m3u8
-#EXTINF:-1, Fox Tv
-http://149.255.152.112/foxturk/index.m3u8
-#EXTINF:-1, Ntv sport
-http://149.255.152.112/ntvspor/index.m3u8
-#EXTINF:-1, Eurosport
-http://149.255.152.112/eurosport/index.m3u8
-#EXTINF:-1,RU:NTV Football
-http://149.255.152.112/ntvfootball/index.m3u8
-#EXTINF:-1,Extreme Sports
-http://149.255.152.112/extremesports/index.m3u8
 #EXTINF:-1,1Music Channel TV
 http://santhoratv.zecast.net/santhoratv/santhoratv/chunklist.m3u8
 #EXTINF:-1,Russia Today
 http://rt-lh.akamaihd.net/i/ch_06@325610/index_720p.m3u8
-#EXTINF:-1,Россия 24
-http://video.spcdn.ru/701/84/rus24_71/index.m3u8
-#EXTINF:-1,A-ONE
-http://win.cdn.bonus-tv.ru/TVB7/a1tv/playlist.m3u8
 #EXTINF:-1,Москва 24
 http://testlivestream.rfn.ru/live/smil:m24.smil/playlist.m3u8?auth=vh&cast_id=1661
-#EXTINF:-1,Hello TV
-http://live.tvhello.ru:80/live/Stream1/playlist.m3u8
-#EXTINF:-1,Eska Rock
-http://serv07.vintera.tv:1935/restream/eska_rock.stream/playlist.m3u8
 #EXTINF:-1,Eska TV
 http://stream.smcloud.net/live/eskatv/playlist.m3u8
 #EXTINF:-1,Eska Party
@@ -347,16 +239,12 @@ http://win.cdn.bonus-tv.ru/TVB7/auto24/playlist.m3u8
 http://win.cdn.bonus-tv.ru/TVB7/rtdoc/playlist.m3u8
 #EXTINF:-1,RT
 http://win.cdn.bonus-tv.ru/TVB7/rttv/playlist.m3u8
-#EXTINF:-1,Россия HD
-http://win.cdn.bonus-tv.ru:8080/russiahd/index.m3u8
 #EXTINF:-1,World Fashion Россия HD
 http://win.cdn.bonus-tv.ru/TVB8/wfhd/playlist.m3u8
 #EXTINF:-1,World Fashion Europe HD
 http://win.cdn.bonus-tv.ru/TVB7/wfhdeu/playlist.m3u8
 #EXTINF:-1,LIFENEWS
 http://bal.bonus-tv.ru/btv/lifenews/type/user/devname/LG-SmartTV/devid/LG-1433367804/eol/20200101T000000/hash/963ba2b65d79e4bd01c0ba00930d1b5a09379d09/playlist.m3u8
-#EXTINF:-1,A-One
-http://win.cdn.bonus-tv.ru/TVB7/a1tv/playlist.m3u8
 #EXTINF:-1,Россия 1
 http://bal.bonus-tv.ru/btv/russia1/type/user/devname/LG-SmartTV/devid/LG-1446137959/eol/20200101T000000/hash/86ca396736cabb8770c56e8619b4b16404399c58/playlist.m3u8
 #EXTINF:-1,Оружие
@@ -369,8 +257,6 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:-1,Vevo HD 
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1 tvg-logo="canal12.png",Canal 12 Cordoba - Argentina Muzika
-http://iphone-streaming.ustream.tv/ustreamVideo/10923213/streams/live/playlist.m3u8
 #EXTINF:0 tvg-id="Argentina_269.dtv.la" tvg-name="Quiero_Música_en_mi_Idioma_(269)269" tvg-logo="Q Musica.png",Q Musica - Argentina
 mms://streamqm.uigc.net/qmusica
 #EXTINF:0 tvg-id="Argentina_717.dtv.la" tvg-name="C5N_(717)717" tvg-logo="C5N.png",C5N - Argentina Mega 
@@ -383,10 +269,6 @@ http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8?
 rtmp://199.217.118.90:1935/smotv/stream
 #EXTINF:-1 tvg-logo="guiatv-prueba.png",Tele Uno TV - Costa Rica
 rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
-#EXTINF:0 tvg-id="Chile_149.dtv.la" tvg-name="TVN_(149)149" tvg-logo="tvn1.png",TVN - Chile
-http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
-#EXTINF:0 tvg-id="Total_TV Chile" tvg-name="TV_Chile" tvg-logo="tvchile.png" tvg-shift="5",TV Chile
-http://edge-11-mvstr.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
 #EXTINF:-1 tvg-id="Total_Galicia TV" tvg-name="Galicia_TV" tvg-logo="tvgalicia.png",TV Galicia - España
 http://media3.crtvg.es/live/tvge/hasbahca.m3u8
 #EXTINF:-1 tvg-id="CVMX_I715.44563133.microsoft.com" tvg-name="EURONEWS715_EURONEWS715euronewsCable" tvg-logo="euronews-logo.png",Euronews - España
@@ -401,8 +283,6 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 #EXTINF:-1,Music Videos 3  [COLOR lime]FTA[/COLOR]
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:-1,Music Videos 4  [COLOR lime]FTA[/COLOR]
-http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:-1,Music Videos 5  [COLOR lime]FTA[/COLOR]
 http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
 #EXTINF:-1,Music Videos 6  [COLOR lime]FTA[/COLOR]
@@ -421,12 +301,8 @@ http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?se
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:-1,Music Videos 14  [COLOR lime]FTA[/COLOR]
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:-1,Music Videos 17  [COLOR lime]FTA[/COLOR]
-http://194.79.52.77/goldi/goldHQ2/index.m3u8
 #EXTINF:-1,Music Videos 18  [COLOR lime]FTA[/COLOR]
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1,Music Videos 19  [COLOR lime]FTA[/COLOR]
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Music Videos 20  [COLOR lime]FTA[/COLOR]
 rtmp://stream.smcloud.net/live/vox2/stream1
 #EXTINF:-1,Music Videos 21  [COLOR lime]FTA[/COLOR]
@@ -440,65 +316,27 @@ rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
 #EXTINF:-1,Music Videos 25  [COLOR lime]FTA[/COLOR]
 rtmp://stream.smcloud.net/live2/best/best_720p
 #EXTINF:-1,Music Videos 26  [COLOR lime]FTA[/COLOR]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1,Music Videos 27  [COLOR lime]FTA[/COLOR]
-http://82.76.249.77/utvedge/utvmqlivehls/chunklist.m3u8
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u
 #EXTINF:-1,Music Videos 28  [COLOR lime]FTA[/COLOR]
 http://rtmp.one.by:2300/
 #EXTINF:-1,Music Videos 29  [COLOR lime]FTA[/COLOR]
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
 #EXTINF:-1,Music Videos 30  [COLOR lime]FTA[/COLOR]
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:-1, Sport 3  [COLOR lime]FTA[/COLOR]
-http://xrxs.net/video/live-p12moun-1164.m3u8
-#EXTINF:-1, Sport 4  [COLOR lime]FTA[/COLOR]
-http://www.xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1, Sport 5  [COLOR lime]FTA[/COLOR]
-http://xrxs.net/video/live-p12oreg-4728.m3u8
 #EXTINF:-1, Sport 8  [COLOR lime]FTA[/COLOR]
-http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u8
-#EXTINF:-1, Sport 10  [COLOR lime]FTA[/COLOR]
-http://87.248.160.8/edge/smil:boet/HasBahCa.m3u8
-#EXTINF:-1, Sport 11  [COLOR lime]FTA[/COLOR]
-http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
-#EXTINF:-1, Sport 13  [COLOR lime]FTA[/COLOR]
-http://3.hls.bolshoe.tv/1/streaming/ntvsport/tvrec/playlist.m3u8
-#EXTINF:-1, Sport 14  [COLOR lime]FTA[/COLOR]
-rtmp://cp39414.live.edgefcs.net/live/event1@9756
-#EXTINF:-1, Sport 16  [COLOR lime]FTA[/COLOR]
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
-#EXTINF:-1, Sport 17  [COLOR lime]FTA[/COLOR]
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
-#EXTINF:-1, Sport 18  [COLOR lime]FTA[/COLOR]
-http://3.hls.bolshoe.tv/2/streaming/sport2/tvrec/playlist.m3u8
-#EXTINF:-1, Sport 19  [COLOR lime]FTA[/COLOR]
-http://3.hls.bolshoe.tv/1/streaming/viasat_sport/tvrec/playlist.m3u8
+http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u
 #EXTINF:-1, Sport 20  [COLOR lime]FTA[/COLOR]
 http://motorsport.hopto.org:8080/
-#EXTINF:-1,PPV Movies - A Brilliant Young Mind  [COLOR lime]FTA[/COLOR]
-http://iptvnation.com/30.mp4
 #EXTINF:-1,España 8  [COLOR lime]FTA[/COLOR]
 http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
 #EXTINF:-1,España 10  [COLOR lime]FTA[/COLOR]
 rtmp://62.210.141.18:1935/directo/lancelot.television
-#EXTINF:-1,España 12  [COLOR lime]FTA[/COLOR]
-http://cls.todostreaming.eu/azahara/lepevision/chunklist.m3u8
 #EXTINF:-1,España 15  [COLOR lime]FTA[/COLOR]
 http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
-#EXTINF:-1,Uruguay 1  [COLOR lime]FTA[/COLOR]
-http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,Guatemala 1  [COLOR lime]FTA[/COLOR]
-http://iphone-streaming.ustream.tv/ustreamVideo/9556054/streams/live/playlist.m3u8
-#EXTINF:-1,Guatemala 2  [COLOR lime]FTA[/COLOR]
-http://72.46.226.61/live01/canal31/playlist.m3u8
-#EXTINF:-1,Costa Rica 3  [COLOR lime]FTA[/COLOR]
-rtmp://199.217.118.90:1935/smotv/stream
 #EXTINF:-1,Costa Rica 4  [COLOR lime]FTA[/COLOR]
 rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
 #EXTINF:-1,Costa Rica 5  [COLOR lime]FTA[/COLOR]
 rtmp://k3.usastreams.com:1935/cana6/cana6
-#EXTINF:-1,Costa Rica 8  [COLOR lime]FTA[/COLOR]
-rtmp://k3.usastreams.com:1935/canal29/canal29
 #EXTINF:-1,Mexico 1  [COLOR lime]FTA[/COLOR]
 http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 #EXTINF:-1,Argentina 2  [COLOR lime]FTA[/COLOR]
@@ -506,33 +344,16 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 #EXTINF:-1,Argentina 6  [COLOR lime]FTA[/COLOR]
 http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
 #EXTINF:-1,Argentina 8  [COLOR lime]FTA[/COLOR]
-rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360
-#EXTINF:-1,Peru 1  [COLOR lime]FTA[/COLOR]
-http://ooyalahd2-f.akamaihd.net/i/atv02_delivery@25405/index_564_av-p.m3u8
-#EXTINF:-1,Peru 6  [COLOR lime]FTA[/COLOR]
-http://edge-31-us.edge.mdstrm.com/live/smil:c23b8a0a21d215482b4c2703e47f675a/playlist.m3u8
-#EXTINF:-1,Azteca Noticias  [COLOR lime]FTA[/COLOR]
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-#EXTINF:-1,CB24  [COLOR lime]FTA[/COLOR]
-rtmp://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp
-#EXTINF:-1,TVE 24h  [COLOR lime]FTA[/COLOR]
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
 #EXTINF:-1,Korea 1  [COLOR lime]FTA[/COLOR]
 rtmp://124.139.232.61:1935/live/livestream
 #EXTINF:-1,Korea 2  [COLOR lime]FTA[/COLOR]
 rtmp://live.chosun.gscdn.com/live//tvchosun1.stream
 #EXTINF:-1,Russia 1  [COLOR lime]FTA[/COLOR]
 http://tv.life.ru/lifetv/360p/index.m3u8
-#EXTINF:-1,Russia 2  [COLOR lime]FTA[/COLOR]
-http://4.hls.bolshoe.tv/2/streaming/telekafe/tvrec/playlist.m3u8
 #EXTINF:-1,Russia 3  [COLOR lime]FTA[/COLOR]
 rtmp://spastv.cdnvideo.ru/spastv-live/spastv.sdp
 #EXTINF:-1,Russia 4  [COLOR lime]FTA[/COLOR]
 http://193.107.103.42:81/mystream.m3u8
-#EXTINF:-1,Russia 5  [COLOR lime]FTA[/COLOR]
-http://sftr89en.edem.tv/iptv/AG4F5YHLGU6RDV/202/index.m3u8
-#EXTINF:-1,Russia 9  [COLOR lime]FTA[/COLOR]
-http://195.189.246.131/russiak_250k.m3u8
 #EXTINF:-1,France 2  [COLOR lime]FTA[/COLOR]
 http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
 #EXTINF:-1,France 3  [COLOR lime]FTA[/COLOR]
@@ -541,24 +362,14 @@ http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
 rtmp://str81.creacast.com:80/weo/high
 #EXTINF:-1,France 5  [COLOR lime]FTA[/COLOR]
 http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8?Wse=4577tr
-#EXTINF:-1,France 6  [COLOR lime]FTA[/COLOR]
-http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/04.m3u8
 #EXTINF:-1,France 7  [COLOR lime]FTA[/COLOR]
 rtmp://62.210.204.108/livtv7vo/mystream700.sdp
-#EXTINF:-1,France 8  [COLOR lime]FTA[/COLOR]
-http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8
 #EXTINF:-1,France 10  [COLOR lime]FTA[/COLOR]
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1,Canada 1  [COLOR lime]FTA[/COLOR]
-rtmp://cp39414.live.edgefcs.net/live/lcn1@9753
 #EXTINF:-1,Canada 6  [COLOR lime]FTA[/COLOR]
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
-#EXTINF:-1,Canada 8  [COLOR lime]FTA[/COLOR]
-http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
 #EXTINF:-1,Canada 9  [COLOR lime]FTA[/COLOR]
 rtmp://37.59.17.222:1935/live_ca/eettv
-#EXTINF:-1,Germany 2  [COLOR lime]FTA[/COLOR]
-http://hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/master.m3u8
 #EXTINF:-1,Germany 3  [COLOR lime]FTA[/COLOR]
 http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
 #EXTINF:-1,Germany 4  [COLOR lime]FTA[/COLOR]
@@ -575,20 +386,6 @@ http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stre
 http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Germany 10  [COLOR lime]FTA[/COLOR]
 http://mf.weltderwunder.c.nmdn.net/wdwlive/WDW-HQ.stream/chunklist.m3u8?wowzasessionid=1817564159
-#EXTINF:-1,Romania 1  [COLOR lime]FTA[/COLOR]
-http://82.76.249.77/digi24edge/digi24hdhqhls/hasbahca.m3u8
-#EXTINF:-1,Romania 2  [COLOR lime]FTA[/COLOR]
-http://82.76.249.77/digi24edge/digi24brasovlive/hasbahca.m3u8
-#EXTINF:-1,Romania 3  [COLOR lime]FTA[/COLOR]
-http://82.76.249.77/digi24edge/digi24constantalivehls/hasbahca.m3u8
-#EXTINF:-1,Romania 4  [COLOR lime]FTA[/COLOR]
-http://82.76.249.77/digi24edge/digi24craiovalive/hasbahca.m3u8
-#EXTINF:-1,Romania 5  [COLOR lime]FTA[/COLOR]
-http://82.76.249.77/digi24edge/digi24timislivehls/hasbahca.m3u8
-#EXTINF:-1,Romania 6  [COLOR lime]FTA[/COLOR]
-http://82.76.249.77/digi24edge/digi24oradealivehls/hasbahca.m3u8
-#EXTINF:-1,Romania 7  [COLOR lime]FTA[/COLOR]
-http://82.208.151.248:8989/1.flv
 #EXTINF:-1,Romania 8  [COLOR lime]FTA[/COLOR]
 http://1tv.ambra.ro
 #EXTINF:-1,Austria 1  [COLOR lime]FTA[/COLOR]
@@ -597,625 +394,24 @@ rtmp://streaming.austria24.tv/live/stream_720p
 http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8
 #EXTINF:-1,China 5  [COLOR lime]FTA[/COLOR]
 http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/hyds2/as/live/hyds2_4.m3u8
-#EXTINF:-1,Vetrina Primafila
-http://tvservice.webhop.me:80/movie/sacco/sacco/2174.mp4
-#EXTINF:-1,PRIMA FILA 1 HD
-http://tvservice.webhop.me:80/movie/sacco/sacco/2122.mkv
-#EXTINF:-1,PRIMA FILA 2 HD
-http://tvservice.webhop.me:80/movie/sacco/sacco/2120.mkv
-#EXTINF:-1,PRIMA FILA 3 HD
-http://tvservice.webhop.me:80/movie/sacco/sacco/2123.mkv
-#EXTINF:-1,PRIMA FILA 4 HD
-http://tvservice.webhop.me:80/movie/sacco/sacco/2124.mkv
-#EXTINF:-1,PRIMA FILA 5 HD
-http://tvservice.webhop.me:80/movie/sacco/sacco/2125.mkv
-#EXTINF:-1,PRIMA FILA 6 HD
-http://tvservice.webhop.me:80/movie/sacco/sacco/2126.mkv
-#EXTINF:-1,PRIMA FILA 7 HD
-http://tvservice.webhop.me:80/movie/sacco/sacco/2127.mkv
-#EXTINF:-1,PRIMA FILA 8 HD
-http://tvservice.webhop.me:80/movie/sacco/sacco/2128.mkv
-#EXTINF:-1,PRIMA FILA 9 HD
-http://tvservice.webhop.me:80/movie/sacco/sacco/2129.mkv
-#EXTINF:-1,PRIMA FILA 10 HD
-http://tvservice.webhop.me:80/movie/sacco/sacco/2130.mkv
-#EXTINF:-1,PRIMA FILA 11 HD
-http://tvservice.webhop.me:80/movie/sacco/sacco/2434.mkv
-#EXTINF:-1,PRIMA FILA 12 HD
-http://tvservice.webhop.me:80/movie/sacco/sacco/2435.mkv
-#EXTINF:-1,PRIMA FILA WWE HD
-http://tvservice.webhop.me:80/movie/sacco/sacco/2186.mkv
-#EXTINF:-1,---- FILM IN SALA ----
-http://tvservice.webhop.me:80/live/sacco/sacco/2693.ts
-#EXTINF:-1,Vetrina Film In Sala
-http://tvservice.webhop.me:80/movie/sacco/sacco/2692.mp4
-#EXTINF:-1,Film In Sala 1
-http://tvservice.webhop.me:80/movie/sacco/sacco/2668.mkv
-#EXTINF:-1,Film In Sala 2
-http://tvservice.webhop.me:80/movie/sacco/sacco/2669.mkv
-#EXTINF:-1,Film In Sala 3
-http://tvservice.webhop.me:80/movie/sacco/sacco/2670.mkv
-#EXTINF:-1,Film In Sala 4
-http://tvservice.webhop.me:80/movie/sacco/sacco/2671.mkv
-#EXTINF:-1,Film In Sala 5
-http://tvservice.webhop.me:80/movie/sacco/sacco/2672.mp4
-#EXTINF:-1,Film In Sala 6
-http://tvservice.webhop.me:80/movie/sacco/sacco/2673.mkv
-#EXTINF:-1,Film in Sala 7
-http://tvservice.webhop.me:80/movie/sacco/sacco/2676.mp4
-#EXTINF:-1,Film In Sala 8
-
-#EXTINF:-1,---- ON DEMAND FILM ----
-http://tvservice.webhop.me:80/live/sacco/sacco/404.ts
-#EXTINF:-1,12 anni schiavo
-http://tvservice.webhop.me:80/movie/sacco/sacco/2875.mkv
-#EXTINF:-1,50 sfumature di grigio
-http://tvservice.webhop.me:80/movie/sacco/sacco/2680.mkv
-#EXTINF:-1,A good man
-http://tvservice.webhop.me:80/movie/sacco/sacco/2884.mkv
-#EXTINF:-1,A piedi nudi
-http://tvservice.webhop.me:80/movie/sacco/sacco/3001.mkv
-#EXTINF:-1,Adaline
-http://tvservice.webhop.me:80/movie/sacco/sacco/2750.mkv
-#EXTINF:-1,Adult beginners
-http://tvservice.webhop.me:80/movie/sacco/sacco/2759.mkv
-#EXTINF:-1,Affare fatto
-http://tvservice.webhop.me:80/movie/sacco/sacco/2788.mkv
-#EXTINF:-1,After the Ball: Cenerentola in passerella
-http://tvservice.webhop.me:80/movie/sacco/sacco/2846.mkv
-#EXTINF:-1,Age of ice
-http://tvservice.webhop.me:80/movie/sacco/sacco/2763.mkv
-#EXTINF:-1,Age of Tomorrow
-http://tvservice.webhop.me:80/movie/sacco/sacco/2704.mkv
-#EXTINF:-1,Air - I Custodi Del Sonno
-http://tvservice.webhop.me:80/movie/sacco/sacco/2795.mkv
-#EXTINF:-1,Alla ricerca del limite
-http://tvservice.webhop.me:80/movie/sacco/sacco/2816.mkv
-#EXTINF:-1,Anarchia la notte del giudizio
-http://tvservice.webhop.me:80/movie/sacco/sacco/2684.mkv
-#EXTINF:-1,Annie: La felicità è contagiosa
-http://tvservice.webhop.me:80/movie/sacco/sacco/3217.mkv
-#EXTINF:-1,Ant-Man
-http://tvservice.webhop.me:80/movie/sacco/sacco/3197.mkv
-#EXTINF:-1,Appuntamento con l’amore
-http://tvservice.webhop.me:80/movie/sacco/sacco/2805.mkv
-#EXTINF:-1,Babadook
-http://tvservice.webhop.me:80/movie/sacco/sacco/2807.mkv
-#EXTINF:-1,Banshee Chapter: I Files Segreti Della Cia
-http://tvservice.webhop.me:80/movie/sacco/sacco/2785.mkv
-#EXTINF:-1,Battleship
-http://tvservice.webhop.me:80/movie/sacco/sacco/2798.mkv
-#EXTINF:-1,Beasts of No Nation
-http://tvservice.webhop.me:80/movie/sacco/sacco/2999.mkv
-#EXTINF:-1,Bessie
-http://tvservice.webhop.me:80/movie/sacco/sacco/3198.mkv
-#EXTINF:-1,Black or white
-http://tvservice.webhop.me:80/movie/sacco/sacco/2778.mkv
-#EXTINF:-1,C'era una volta a New York
-http://tvservice.webhop.me:80/movie/sacco/sacco/2864.mkv
-#EXTINF:-1,Cattivi vicini
-http://tvservice.webhop.me:80/movie/sacco/sacco/2859.mkv
-#EXTINF:-1,Cell 213: La dannazione
-http://tvservice.webhop.me:80/movie/sacco/sacco/2895.mkv
-#EXTINF:-1,Cella 211
-http://tvservice.webhop.me:80/movie/sacco/sacco/2740.mkv
-#EXTINF:-1,Child 44
-http://tvservice.webhop.me:80/movie/sacco/sacco/2729.mkv
-#EXTINF:-1,Città di carta
-http://tvservice.webhop.me:80/movie/sacco/sacco/2800.mkv
-#EXTINF:-1,Colpa delle stelle
-http://tvservice.webhop.me:80/movie/sacco/sacco/2856.mkv
-#EXTINF:-1,Combustion
-http://tvservice.webhop.me:80/movie/sacco/sacco/2780.mkv
-#EXTINF:-1,Come ti rovino le vacanze
-http://tvservice.webhop.me:80/movie/sacco/sacco/2868.mkv
-#EXTINF:-1,Come ti spaccio la famiglia
-http://tvservice.webhop.me:80/movie/sacco/sacco/2701.mkv
-#EXTINF:-1,Contagious: Epidemia mortale
-http://tvservice.webhop.me:80/movie/sacco/sacco/2829.mkv
-#EXTINF:-1,Dead Rising: Watchtower
-http://tvservice.webhop.me:80/movie/sacco/sacco/2699.mkv
-#EXTINF:-1,Emperor
-http://tvservice.webhop.me:80/movie/sacco/sacco/2754.mkv
-#EXTINF:-1,Empire state
-http://tvservice.webhop.me:80/movie/sacco/sacco/2749.mkv
-#EXTINF:-1,End of watch
-http://tvservice.webhop.me:80/movie/sacco/sacco/2718.mkv
-#EXTINF:-1,Entourage
-http://tvservice.webhop.me:80/movie/sacco/sacco/2910.mkv
-#EXTINF:-1,Everest
-http://tvservice.webhop.me:80/movie/sacco/sacco/2850.mkv
-#EXTINF:-1,Everly
-http://tvservice.webhop.me:80/movie/sacco/sacco/2721.mkv
-#EXTINF:-1,Ex Machina
-http://tvservice.webhop.me:80/movie/sacco/sacco/2702.mkv
-#EXTINF:-1,Exodus
-http://tvservice.webhop.me:80/movie/sacco/sacco/2681.mkv
-#EXTINF:-1,Extinction Sopravvissuti
-http://tvservice.webhop.me:80/movie/sacco/sacco/2757.mkv
-#EXTINF:-1,Fast e furious 7
-http://tvservice.webhop.me:80/movie/sacco/sacco/2731.mkv
-#EXTINF:-1,Finders Keepers
-http://tvservice.webhop.me:80/movie/sacco/sacco/2821.mkv
-#EXTINF:-1,Firequake
-http://tvservice.webhop.me:80/movie/sacco/sacco/3179.mkv
-#EXTINF:-1,Firestorm
-http://tvservice.webhop.me:80/movie/sacco/sacco/3184.mkv
-#EXTINF:-1,Focus: Niente è come sembra
-http://tvservice.webhop.me:80/movie/sacco/sacco/2738.mkv
-#EXTINF:-1,Fuga in tacchi a spillo
-http://tvservice.webhop.me:80/movie/sacco/sacco/2799.mkv
-#EXTINF:-1,Fury
-http://tvservice.webhop.me:80/movie/sacco/sacco/2663.mkv
-#EXTINF:-1,Gangster squad
-http://tvservice.webhop.me:80/movie/sacco/sacco/2719.mkv
-#EXTINF:-1,Generazione Perduta
-http://tvservice.webhop.me:80/movie/sacco/sacco/3180.mkv
-#EXTINF:-1,Giovani si diventa
-http://tvservice.webhop.me:80/movie/sacco/sacco/3152.mkv
-#EXTINF:-1,Gran Torino
-http://tvservice.webhop.me:80/movie/sacco/sacco/2741.mkv
-#EXTINF:-1,Hello Ladies: Il Film
-http://tvservice.webhop.me:80/movie/sacco/sacco/2888.mkv
-#EXTINF:-1,Ho ucciso Napoleone
-http://tvservice.webhop.me:80/movie/sacco/sacco/2851.mkv
-#EXTINF:-1,Homefront
-http://tvservice.webhop.me:80/movie/sacco/sacco/2716.mkv
-#EXTINF:-1,Il fidanzato di mia sorella
-http://tvservice.webhop.me:80/movie/sacco/sacco/2714.mkv
-#EXTINF:-1,Il mistero dei teschi di cristallo
-http://tvservice.webhop.me:80/movie/sacco/sacco/2986.mkv
-#EXTINF:-1,Il racconto dei racconti
-http://tvservice.webhop.me:80/movie/sacco/sacco/2711.mkv
-#EXTINF:-1,Il ragazzo invisibile
-http://tvservice.webhop.me:80/movie/sacco/sacco/3133.mkv
-#EXTINF:-1,Insidious 3: L' Inizio
-http://tvservice.webhop.me:80/movie/sacco/sacco/2808.mkv
-#EXTINF:-1,Insurgent
-http://tvservice.webhop.me:80/movie/sacco/sacco/2710.mkv
-#EXTINF:-1,Into the woods
-http://tvservice.webhop.me:80/movie/sacco/sacco/2734.mkv
-#EXTINF:-1,Io sono tu
-http://tvservice.webhop.me:80/movie/sacco/sacco/2726.mkv
-#EXTINF:-1,John Wick
-http://tvservice.webhop.me:80/movie/sacco/sacco/2996.mkv
-#EXTINF:-1,Joker: Wild card
-http://tvservice.webhop.me:80/movie/sacco/sacco/2708.mkv
-#EXTINF:-1,Jurassic World
-http://tvservice.webhop.me:80/movie/sacco/sacco/2790.mkv
-#EXTINF:-1,Kreuzweg: Le stazioni della fede
-http://tvservice.webhop.me:80/movie/sacco/sacco/3196.mkv
-#EXTINF:-1,Kristy
-http://tvservice.webhop.me:80/movie/sacco/sacco/2871.mkv
-#EXTINF:-1,L'asso nella manica
-http://tvservice.webhop.me:80/movie/sacco/sacco/2858.mkv
-#EXTINF:-1,L'evocazione
-http://tvservice.webhop.me:80/movie/sacco/sacco/2819.mkv
-#EXTINF:-1,L’esorcismo di Molly Hartley
-http://tvservice.webhop.me:80/movie/sacco/sacco/3042.mkv
-#EXTINF:-1,La madre
-http://tvservice.webhop.me:80/movie/sacco/sacco/3182.mkv
-#EXTINF:-1,La quinta stagione
-http://tvservice.webhop.me:80/movie/sacco/sacco/2696.mkv
-#EXTINF:-1,La regola del gioco
-http://tvservice.webhop.me:80/movie/sacco/sacco/2809.mkv
-#EXTINF:-1,La risposta è nelle stesse
-http://tvservice.webhop.me:80/movie/sacco/sacco/2770.mkv
-#EXTINF:-1,Last Knights
-http://tvservice.webhop.me:80/movie/sacco/sacco/3021.mkv
-#EXTINF:-1,Left Behind: La Profezia
-http://tvservice.webhop.me:80/movie/sacco/sacco/2700.mkv
-#EXTINF:-1,Lockout
-http://tvservice.webhop.me:80/movie/sacco/sacco/2767.mkv
-#EXTINF:-1,Mad Max: Fury Road
-http://tvservice.webhop.me:80/movie/sacco/sacco/2715.mkv
-#EXTINF:-1,Magic in the moonlight
-http://tvservice.webhop.me:80/movie/sacco/sacco/2723.mkv
-#EXTINF:-1,Maladies
-http://tvservice.webhop.me:80/movie/sacco/sacco/3171.mkv
-#EXTINF:-1,Mission Impossible: Rogue Nation
-http://tvservice.webhop.me:80/movie/sacco/sacco/2796.mkv
-#EXTINF:-1,Nightingale
-http://tvservice.webhop.me:80/movie/sacco/sacco/3213.mkv
-#EXTINF:-1,Ombre dal passato
-http://tvservice.webhop.me:80/movie/sacco/sacco/2784.mkv
-#EXTINF:-1,Parigi a tutti i costi
-http://tvservice.webhop.me:80/movie/sacco/sacco/2698.mkv
-#EXTINF:-1,Pixels
-http://tvservice.webhop.me:80/movie/sacco/sacco/2792.mkv
-#EXTINF:-1,Poltergeist
-http://tvservice.webhop.me:80/movie/sacco/sacco/2753.mkv
-#EXTINF:-1,Predestination
-http://tvservice.webhop.me:80/movie/sacco/sacco/2876.mkv
-#EXTINF:-1,Professore per amore
-http://tvservice.webhop.me:80/movie/sacco/sacco/2713.mkv
-#EXTINF:-1,Questa è la mia casa: 4closed
-http://tvservice.webhop.me:80/movie/sacco/sacco/2762.mkv
-#EXTINF:-1,Rampart
-http://tvservice.webhop.me:80/movie/sacco/sacco/2818.mkv
-#EXTINF:-1,Reclaim
-http://tvservice.webhop.me:80/movie/sacco/sacco/2865.mkv
-#EXTINF:-1,Return to sender
-http://tvservice.webhop.me:80/movie/sacco/sacco/2839.mkv
-#EXTINF:-1,Run All Night: Una notte per sopravvivere
-http://tvservice.webhop.me:80/movie/sacco/sacco/2691.mkv
-#EXTINF:-1,Ruth e Alex: L'amore cerca casa
-http://tvservice.webhop.me:80/movie/sacco/sacco/2873.mkv
-#EXTINF:-1,San Andreas
-http://tvservice.webhop.me:80/movie/sacco/sacco/2679.mkv
-#EXTINF:-1,Second chance
-http://tvservice.webhop.me:80/movie/sacco/sacco/2775.mkv
-#EXTINF:-1,Selfless
-http://tvservice.webhop.me:80/movie/sacco/sacco/2728.mkv
-#EXTINF:-1,Selma
-http://tvservice.webhop.me:80/movie/sacco/sacco/2709.mkv
-#EXTINF:-1,Sola nel buio
-http://tvservice.webhop.me:80/movie/sacco/sacco/2748.mkv
-#EXTINF:-1,Sotto il cielo delle hawaii
-http://tvservice.webhop.me:80/movie/sacco/sacco/2777.mkv
-#EXTINF:-1,Southpaw: L'ultima sfida
-http://tvservice.webhop.me:80/movie/sacco/sacco/2686.mkv
-#EXTINF:-1,Spy
-http://tvservice.webhop.me:80/movie/sacco/sacco/2758.mkv
-#EXTINF:-1,Stalingrad
-http://tvservice.webhop.me:80/movie/sacco/sacco/2717.mkv
-#EXTINF:-1,Straight Outta Compton
-http://tvservice.webhop.me:80/movie/sacco/sacco/2833.mkv
-#EXTINF:-1,Stretch
-http://tvservice.webhop.me:80/movie/sacco/sacco/2703.mkv
-#EXTINF:-1,Sword of Vengeance – La spada della vendetta
-http://tvservice.webhop.me:80/movie/sacco/sacco/2861.mkv
-#EXTINF:-1,Taken 3: L'ora della verità
-http://tvservice.webhop.me:80/movie/sacco/sacco/2667.mkv
-#EXTINF:-1,Ted 2
-http://tvservice.webhop.me:80/movie/sacco/sacco/2789.mkv
-#EXTINF:-1,Teneramente Folle
-http://tvservice.webhop.me:80/movie/sacco/sacco/3178.mkv
-#EXTINF:-1,Terminator Genisys
-http://tvservice.webhop.me:80/movie/sacco/sacco/2803.mkv
-#EXTINF:-1,The avengers
-http://tvservice.webhop.me:80/movie/sacco/sacco/2732.mkv
-#EXTINF:-1,The avengers: Age Of Ultron
-http://tvservice.webhop.me:80/movie/sacco/sacco/2735.mkv
-#EXTINF:-1,The big wedding
-http://tvservice.webhop.me:80/movie/sacco/sacco/2787.mkv
-#EXTINF:-1,The counselor
-http://tvservice.webhop.me:80/movie/sacco/sacco/2737.mkv
-#EXTINF:-1,The Hungover games
-http://tvservice.webhop.me:80/movie/sacco/sacco/2889.mkv
-#EXTINF:-1,The last Exorcism 2: Liberaci dal male
-http://tvservice.webhop.me:80/movie/sacco/sacco/2794.mkv
-#EXTINF:-1,The Spectacular Now
-http://tvservice.webhop.me:80/movie/sacco/sacco/2793.mkv
-#EXTINF:-1,The Wedding Ringer: Un Testimone In Affitto
-http://tvservice.webhop.me:80/movie/sacco/sacco/2689.mkv
-#EXTINF:-1,The Woman in Black 2: Angelo della morte
-http://tvservice.webhop.me:80/movie/sacco/sacco/2860.mkv
-#EXTINF:-1,This is where i leave you
-http://tvservice.webhop.me:80/movie/sacco/sacco/2761.mkv
-#EXTINF:-1,Timbuktu
-http://tvservice.webhop.me:80/movie/sacco/sacco/2712.mkv
-#EXTINF:-1,Tomorrowland: Il Mondo Di Domani
-http://tvservice.webhop.me:80/movie/sacco/sacco/2781.mkv
-#EXTINF:-1,Tracers
-http://tvservice.webhop.me:80/movie/sacco/sacco/2707.mkv
-#EXTINF:-1,Tutte contro lui
-http://tvservice.webhop.me:80/movie/sacco/sacco/2724.mkv
-#EXTINF:-1,Una notte da matricole
-http://tvservice.webhop.me:80/movie/sacco/sacco/2835.mkv
-#EXTINF:-1,Un disastro di ragazza
-http://tvservice.webhop.me:80/movie/sacco/sacco/2760.mkv
-#EXTINF:-1,Unfriended
-http://tvservice.webhop.me:80/movie/sacco/sacco/2896.mkv
-#EXTINF:-1,Unknown: Senza identita
-http://tvservice.webhop.me:80/movie/sacco/sacco/2783.mkv
-#EXTINF:-1,Uomini di parola
-http://tvservice.webhop.me:80/movie/sacco/sacco/2752.mkv
-#EXTINF:-1,Wolf Creek 2: La preda sei tu
-http://tvservice.webhop.me:80/movie/sacco/sacco/3134.mkv
-#EXTINF:-1,Woman in Gold
-http://tvservice.webhop.me:80/movie/sacco/sacco/2885.mkv
-#EXTINF:-1,Zero dark thirty
-http://tvservice.webhop.me:80/movie/sacco/sacco/2782.mkv
-#EXTINF:-1,---- ON DEMAND ITALIANO ----
-http://tvservice.webhop.me:80/live/sacco/sacco/2988.ts
-#EXTINF:-1,Andiamo a quel paese
-http://tvservice.webhop.me:80/movie/sacco/sacco/2756.mkv
-#EXTINF:-1,Benvenuto Presidente!
-http://tvservice.webhop.me:80/movie/sacco/sacco/3149.mkv
-#EXTINF:-1,Bianca come il latte, rossa come il sangue
-http://tvservice.webhop.me:80/movie/sacco/sacco/3150.mkv
-#EXTINF:-1,Confusi e felici
-http://tvservice.webhop.me:80/movie/sacco/sacco/3044.mkv
-#EXTINF:-1,Fantozzi 1975
-http://tvservice.webhop.me:80/movie/sacco/sacco/2993.mkv
-#EXTINF:-1,Fantozzi Due 1976
-http://tvservice.webhop.me:80/movie/sacco/sacco/3170.mkv
-#EXTINF:-1,Il nome del figlio
-http://tvservice.webhop.me:80/movie/sacco/sacco/3202.mkv
-#EXTINF:-1,Il peggior Natale della mia vita
-http://tvservice.webhop.me:80/movie/sacco/sacco/3215.mkv
-#EXTINF:-1,Il Principe Abusivo
-http://tvservice.webhop.me:80/movie/sacco/sacco/2991.mkv
-#EXTINF:-1,Italiano medio
-http://tvservice.webhop.me:80/movie/sacco/sacco/3186.mkv
-#EXTINF:-1,La gente che sta bene
-http://tvservice.webhop.me:80/movie/sacco/sacco/2852.mkv
-#EXTINF:-1,La mafia uccide solo d'estate
-http://tvservice.webhop.me:80/movie/sacco/sacco/2890.mkv
-#EXTINF:-1,La moglie del sarto
-http://tvservice.webhop.me:80/movie/sacco/sacco/2866.mkv
-#EXTINF:-1,La scelta
-http://tvservice.webhop.me:80/movie/sacco/sacco/3185.mkv
-#EXTINF:-1,Ma che bella sorpresa
-http://tvservice.webhop.me:80/movie/sacco/sacco/3045.mkv
-#EXTINF:-1,Nomi e cognomi
-http://tvservice.webhop.me:80/movie/sacco/sacco/2786.mkv
-#EXTINF:-1,Ogni maledetto Natale
-http://tvservice.webhop.me:80/movie/sacco/sacco/2990.mkv
-#EXTINF:-1,Se dio vuole
-http://tvservice.webhop.me:80/movie/sacco/sacco/2995.mkv
-#EXTINF:-1,Si accettano miracoli
-http://tvservice.webhop.me:80/movie/sacco/sacco/2992.mkv
-#EXTINF:-1,Soldato semplice
-http://tvservice.webhop.me:80/movie/sacco/sacco/2730.mkv
-#EXTINF:-1,Sole a catinelle
-http://tvservice.webhop.me:80/movie/sacco/sacco/2994.mkv
-#EXTINF:-1,Sotto una buona stella
-http://tvservice.webhop.me:80/movie/sacco/sacco/3148.mkv
-#EXTINF:-1,Tempo Instabile Con Probabili Schiarite
-http://tvservice.webhop.me:80/movie/sacco/sacco/2886.mkv
-#EXTINF:-1,Torno indietro e cambio vita
-http://tvservice.webhop.me:80/movie/sacco/sacco/2801.mkv
-#EXTINF:-1,Una piccola impresa meridionale
-http://tvservice.webhop.me:80/movie/sacco/sacco/3151.mkv
-#EXTINF:-1,Youth La Giovinezza
-http://tvservice.webhop.me:80/movie/sacco/sacco/2997.mkv
-#EXTINF:-1,---- ON DEMAND BAMBINI ----
-http://tvservice.webhop.me:80/live/sacco/sacco/651.ts
-#EXTINF:-1,Albert e il diamante magico
-http://tvservice.webhop.me:80/movie/sacco/sacco/2831.mkv
-#EXTINF:-1,Atlantis: L'impero Perduto
-http://tvservice.webhop.me:80/movie/sacco/sacco/3216.mkv
-#EXTINF:-1,Barbie e il regno segreto
-http://tvservice.webhop.me:80/movie/sacco/sacco/2869.mkv
-#EXTINF:-1,Barbie e la principessa delle perle
-http://tvservice.webhop.me:80/movie/sacco/sacco/2872.mkv
-#EXTINF:-1,Barbie Mariposa and the Fairy Princess
-http://tvservice.webhop.me:80/movie/sacco/sacco/2811.mkv
-#EXTINF:-1,Barbie: Principessa rock
-http://tvservice.webhop.me:80/movie/sacco/sacco/2694.mkv
-#EXTINF:-1,Bianca e Bernie nella terra dei canguri
-http://tvservice.webhop.me:80/movie/sacco/sacco/3194.mkv
-#EXTINF:-1,Big hero 6
-http://tvservice.webhop.me:80/movie/sacco/sacco/2736.mkv
-#EXTINF:-1,Cars motori ruggenti
-http://tvservice.webhop.me:80/movie/sacco/sacco/2765.mkv
-#EXTINF:-1,Cars 2
-http://tvservice.webhop.me:80/movie/sacco/sacco/2764.mkv
-#EXTINF:-1,Cattivissimo Me
-http://tvservice.webhop.me:80/movie/sacco/sacco/2825.mkv
-#EXTINF:-1,Cattivissimo Me 2
-http://tvservice.webhop.me:80/movie/sacco/sacco/2678.mkv
-#EXTINF:-1,Cenerentola
-http://tvservice.webhop.me:80/movie/sacco/sacco/2824.mkv
-#EXTINF:-1,Coraline e la porta magica
-http://tvservice.webhop.me:80/movie/sacco/sacco/2877.mkv
-#EXTINF:-1,Descendants
-http://tvservice.webhop.me:80/movie/sacco/sacco/2880.mkv
-#EXTINF:-1,Dino e la macchina del tempo
-http://tvservice.webhop.me:80/movie/sacco/sacco/2823.mkv
-#EXTINF:-1,Dragon Ball Z: La rerurrezione di F
-http://tvservice.webhop.me:80/movie/sacco/sacco/2845.mkv
-#EXTINF:-1,Dragon trainer
-http://tvservice.webhop.me:80/movie/sacco/sacco/2743.mkv
-#EXTINF:-1,Fantasia: 2000
-http://tvservice.webhop.me:80/movie/sacco/sacco/2898.mkv
-#EXTINF:-1,Fantasia: walt Disney
-http://tvservice.webhop.me:80/movie/sacco/sacco/2897.mkv
-#EXTINF:-1,Fronzen: Il regno di ghiaccio
-http://tvservice.webhop.me:80/movie/sacco/sacco/2826.mkv
-#EXTINF:-1,Frozen: fever
-http://tvservice.webhop.me:80/movie/sacco/sacco/2827.mkv
-#EXTINF:-1,Il libro della vita
-http://tvservice.webhop.me:80/movie/sacco/sacco/2733.mkv
-#EXTINF:-1,Il mio amico gicante
-http://tvservice.webhop.me:80/movie/sacco/sacco/3046.mkv
-#EXTINF:-1,Inside out
-http://tvservice.webhop.me:80/movie/sacco/sacco/2802.mkv
-#EXTINF:-1,L'attacco dei Giganti: P. 1
-http://tvservice.webhop.me:80/movie/sacco/sacco/2705.mkv
-#EXTINF:-1,La bella addormentata nel bosco
-http://tvservice.webhop.me:80/movie/sacco/sacco/2855.mkv
-#EXTINF:-1,La bella e la bestia
-http://tvservice.webhop.me:80/movie/sacco/sacco/3181.mkv
-#EXTINF:-1,Lilo & Stitch
-http://tvservice.webhop.me:80/movie/sacco/sacco/3214.mkv
-#EXTINF:-1,Minions
-http://tvservice.webhop.me:80/movie/sacco/sacco/2662.mkv
-#EXTINF:-1,Monster High: 13 Wishes
-http://tvservice.webhop.me:80/movie/sacco/sacco/2812.mkv
-#EXTINF:-1,Monster High: Boo York, Boo York
-http://tvservice.webhop.me:80/movie/sacco/sacco/2863.mkv
-#EXTINF:-1,Monster High: Ciak si Grida
-http://tvservice.webhop.me:80/movie/sacco/sacco/2813.mkv
-#EXTINF:-1,Monster High: Freaky Fusion
-http://tvservice.webhop.me:80/movie/sacco/sacco/2814.mkv
-#EXTINF:-1,Monster High: Haunted
-http://tvservice.webhop.me:80/movie/sacco/sacco/2815.mkv
-#EXTINF:-1,Nausicaa della Valle del vento
-http://tvservice.webhop.me:80/movie/sacco/sacco/2843.mkv
-#EXTINF:-1,Piovono polpette
-http://tvservice.webhop.me:80/movie/sacco/sacco/2742.mkv
-#EXTINF:-1,Pudsey: Un ciclone a 4 zampe
-http://tvservice.webhop.me:80/movie/sacco/sacco/2682.mkv
-#EXTINF:-1,Scooby Doo
-http://tvservice.webhop.me:80/movie/sacco/sacco/3201.mkv
-#EXTINF:-1,Strange Magic
-http://tvservice.webhop.me:80/movie/sacco/sacco/3177.mkv
-#EXTINF:-1,Super buddies
-http://tvservice.webhop.me:80/movie/sacco/sacco/2768.mkv
-#EXTINF:-1,Winx club: Il mistero degli abissi
-http://tvservice.webhop.me:80/movie/sacco/sacco/2727.mkv
-#EXTINF:-1,---- ON DEMAND 3D ----
-http://tvservice.webhop.me:80/live/sacco/sacco/340.ts
-#EXTINF:-1,300 L'alba di un impero 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2152.mkv
-#EXTINF:-1,A spasso con i dinosauri 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2153.mkv
-#EXTINF:-1,Apartment 1303 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2183.mkv
-#EXTINF:-1,Apes Revolution: Il pianeta delle Scimmie 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2154.mkv
-#EXTINF:-1,Arn: L ultimo cavaliere 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2747.mkv
-#EXTINF:-1,Capitan America: The Winter soldier 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2155.mkv
-#EXTINF:-1,Frozen 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2406.mkv
-#EXTINF:-1,Godzilla 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2470.mkv
-#EXTINF:-1,Gravity 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2531.mkv
-#EXTINF:-1,I 7 Nani 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2156.mkv
-#EXTINF:-1,Il libro della vita 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/3175.mkv
-#EXTINF:-1,Il Magico Mondo Di Oz 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2157.mkv
-#EXTINF:-1,Il mistero dei teschi di cristallo 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2985.mkv
-#EXTINF:-1,Inside out 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2883.mkv
-#EXTINF:-1,Jupiter: Il destino dell’universo 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2695.mkv
-#EXTINF:-1,Jurassic World 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2832.mkv
-#EXTINF:-1,Kristy 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2870.mkv
-#EXTINF:-1,L.A. Apocalypse - Apocalisse a Los Angeles 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2987.mkv
-#EXTINF:-1,Lo Hobbit la Battaglia delle Cinque Armate 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2158.mkv
-#EXTINF:-1,Mad max: Fury Road 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2797.mkv
-#EXTINF:-1,Minions 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/3000.mkv
-#EXTINF:-1,Non aprite quella porta 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2335.mkv
-#EXTINF:-1,Pacific Rim 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2185.mkv
-#EXTINF:-1,Piovono Polpette 2 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2160.mkv
-#EXTINF:-1,Pixels 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2867.mkv
-#EXTINF:-1,Poltergeist 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2804.mkv
-#EXTINF:-1,Pompeii 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2746.mkv
-#EXTINF:-1,Prometheus 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2332.mkv
-#EXTINF:-1,Resident Evil retribution 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2745.mkv
-#EXTINF:-1,Rio 2: Missione Amazzonia 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2853.mkv
-#EXTINF:-1,San Andreas 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2841.mkv
-#EXTINF:-1,Shak week 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2492.mkv
-#EXTINF:-1,Spongebob Fuori dall acqua 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2293.mkv
-#EXTINF:-1,Step Up All In 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2164.mkv
-#EXTINF:-1,Tartarughe Ninja 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2165.mkv
-#EXTINF:-1,Terminator: Genisys 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/3176.mkv
-#EXTINF:-1,The Amazing spider man 2 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2562.mkv
-#EXTINF:-1,The Avengers: Age Of Ultron 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2842.mkv
-#EXTINF:-1,The Lego Movie 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2166.mkv
-#EXTINF:-1,Thor The Dark World 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2744.mkv
-#EXTINF:-1,Young Detective Dee: Il Risveglio Del Drago Marino 3D
-http://tvservice.webhop.me:80/movie/sacco/sacco/2849.mkv
-
-#EXTINF:-1,SPORT TIME TV (US)
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
-#EXTINF:-1 group-title="SPORTS",SPORT SPORT TIME TV 1HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
-#EXTINF:-1 group-title="SPORTS",SPORT SPORT TIME TV 2HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
-#EXTINF:-1 group-title="SPORTS",SPORT SPORT TIME TV 3HD GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_800
-#EXTINF:-1 group-title="SPORTS",SPORT SPORT TIME TV 4HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
-#EXTINF:-1 group-title="SPORTS",SPORT SPORT TIME TV 4HD GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_800
-#EXTINF:-1 group-title="SPORTS",SPORT SPORT TIME TV 5HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
-#EXTINF:-1 group-title="SPORTS",SPORT SPORT TIME TV 5HD GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_800
-#EXTINF:-1 group-title="SPORTS",SPORT SPORT TIME TV 6HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
-#EXTINF:-1 group-title="SPORTS",SPORT SPORT TIME TV 6HD GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_800
-#EXTINF:-1 group-title="SPORTS",SPORT SPORT TIME TV 7HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
-#EXTINF:-1 group-title="SPORTS",SPORT SPORT TIME TV 7HD GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
 #EXTINF:0, Rai Sport 1
 mmsh://212.162.68.163:80/raisport+
 EXTINF:-1, Buraspor TV
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
 #EXTINF:0, KAZSPORT
 http://vs1.cdn.ott.otautv.kz/dtv/id14_KTR_SG--KazSport/01/plst.m3u8
-#EXTINF:-1,Sports Max
-http://46.249.213.93/iPhone/broadcast/sportmax-tablet.3gp/sportmax-tablet.3gp-mr497k.m3u8
-#EXTINF:0,PAC-12 Net. (Arizona)
-http://xrxs.net/video/live-p12ariz-4728.m3u8?
-#EXTINF:0,PAC-12 Net. (Bay Area)
-http://xrxs.net/video/live-p12baya-4728.m3u8?
-#EXTINF:0,PAC-12 Net. (Los Angeles)
-http://xrxs.net/video/live-p12losa-4728.m3u8?
-#EXTINF:0,PAC-12 Net. (Moutain)
-http://xrxs.net/video/live-p12moun-4728.m3u8?
-#EXTINF:0,PAC-12 Net. (Oregon)
-http://xrxs.net/video/live-p12oreg-4728.m3u8?
-#EXTINF:0,PAC-12 Net. (Washington)
-http://xrxs.net/video/live-p12wash-4728.m3u8?
-#EXTINF:-1,Sports Night HD
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
-#EXTINF:-1,USA-BASKET UNI.(Arizona)
-http://xrxs.net/video/live-p12ariz-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
-http://xrxs.net/video/live-p12losa-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Moutain)
-http://xrxs.net/video/live-p12moun-1164.m3u8
 #EXTINF:-1, Moldova Sport HD
 http://87.248.160.8/edge/smil:boet/playlist.m3u8
-#EXTINF:-1 tvg-logo="cdN.png", CDN Sports esp
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:-1, Sport 2 Ru
-http://194.190.78.230/output/russia2/playlist.m3u8
 #EXTINF:-1,Sports Night
 rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
-#EXTINF:0, Sport 1 (RU)
-http://hls.novotelecom.ru/streaming/sport1/tvrec/playlist.m3u8
 #EXTINF:0, Football (RU)
 http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
-#EXTINF:0,Македонска Телевизија 1
-http://stream.mrt-edge.spectar.tv:1935/mrt-liveedge/_definst_/amlst:dm/hls/video_id/3551/token/be2d2dcf860a7865b8c037aa6d25ca37/chunklist_w2141491901_b1196000.m3u8 #EXTINF:0,Македонска Телевизија 2 МултиЕтнички Јазик http://stream.mrt-edge.spectar.tv:1935/mrt-liveedge/_definst_/amlst:dm/hls/video_id/3548/token/be2d2dcf860a7865b8c037aa6d25ca37/chunklist_w55190976_b1196000.m3u8
  #EXTINF:0,Македонска Телевизија 3
  http://stream.mrt-edge.spectar.tv:1935/mrt-liveedge/_definst_/amlst:dm/hls/video_id/3545/token/be2d2dcf860a7865b8c037aa6d25ca37/chunklist_w927907065_b1196000.m3u8
  #EXTINF:0,Македонска Телевизија сателит 1 
   http://mrt.cdn.spectar.tv:1935/mrt-edge/_definst_/mrt1-sat/chunklist_w636127703.m3u8
   #EXTINF:0,СИТЕЛ Телевизија
   http://fms.zulu.mk:1935/zulu/sitel_2/playlist.m3u8
-  #EXTINF:0,СИТЕЛ 3 Телевизија
-  http://fms.zulu.mk:554/zulu/sitel3_1/playlist_b125000_w1132785237.m3u8
  #EXTINF:0,КАНАЛ 5 Телевизија
    http://fms.zulu.mk:1935/zulu/kanal5_2/playlist.m3u8?wowzasessionid=2097540408
    #EXTINF:0,КАНАЛ 5+ Телевизија
@@ -1234,8 +430,6 @@ http://stream.mrt-edge.spectar.tv:1935/mrt-liveedge/_definst_/amlst:dm/hls/video
    http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/o2-tv-ohrid/chunklist.m3u8
    #EXTINF:0,К1 ВЕЛЕС Телевизија
    http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/k1-tv-veles/chunklist.m3u8
-   #EXTINF:0,УЛТРА ТЕТОВО Телевизија
-   http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/ultra-tv-tetovo/chunklist.m3u8
    #EXTINF:0,К3 КУМАНОВО Телевизија
    http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/k3-tv-kumanovo/chunklist.m3u8
    #EXTINF:0,МЕГА БИТОЛА Телевизија
@@ -1244,36 +438,22 @@ http://stream.mrt-edge.spectar.tv:1935/mrt-liveedge/_definst_/amlst:dm/hls/video
   http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/kplus-tv-stip/chunklist.m3u8
    #EXTINF:0,А1 СТРУМИЦА Телевизија
    http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/a1-strumica/chunklist.m3u8
-   #EXTINF:-1,ИН ТВ ОХРИД Музика
-   rtsp://streamus.intv.mk:1935/live/intv
    #EXTINF:0,КАНАЛ 8 Телевизија
    mms://62.162.58.55/TVkanal8
 #EXTINF:0, Муз ТВ
 http://grifon.info:84/muz_tv
-#EXTINF:0, Россия 1
-http://grifon.info:84/rossia_1
-#EXTINF:0, Россия 24
-http://grifon.info:84/rossia_24
-#EXTINF:0, Пятница
-http://grifon.info:84/pyatnica
 #EXTINF:0,CineStreamTV
 http://68.71.42.179/live/livestream1/playlist.m3u8
 #EXTINF: 0, **Movie Premier**
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,Zombie Channel
-http://iphone-streaming.ustream.tv/ustreamVideo/15905949/streams/live/playlist.m3u8
 #EXTINF:0,: XTREME TV
 http://iphone-streaming.ustream.tv:80/uhls/20555006/streams/live/playlist.m3u8
 #EXTINF:0, : REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
-#EXTINF:0,Fox Sports 502 HD
-http://motorsport.hopto.org:8080/
 #EXTINF:-1 ,EuroSports
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
 #EXTINF:-1,Hit Tv
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-1,Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Miami tv music
 http://74.208.152.93/music/stream3/stream.m3u8
 #EXTINF:-1,Vevo 1
@@ -1292,12 +472,6 @@ http://www.djing.com/tv/animation.m3u8?
 rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
 #EXTINF:-1 ,Party tv eska
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_360p
-#EXTINF:-1,My Music HD
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
-#EXTINF:-1,Tigo music tv
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
-#EXTINF:-1,Trendy channel music
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
 #EXTINF:-1,CNN Internacional
 http://edge1.everyon.tv/etv1sb/pld16/chunklist_w535411323.m3u8
 #EXTINF:-1,Bloomberg
@@ -1318,8 +492,6 @@ http://bcoveliveios-i.akamaihd.net/hls/live/207141/268012959001/WFTV_EVENTLIVE1/
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 #EXTINF:-1, OLALA
 http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
-#EXTINF:0, Live Ting Tv
-rtsp://edge2.everyon.tv/etv2/phd1006
 #EXTINF:-1, BRAZZERS
 http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
 #EXTINF:-1,LATIN LIVE SEX
@@ -1498,3 +670,26 @@ mms://195.252.114.172/studiob
 
 #EXTINF:-1,FR_A_LA_CARTE_X_ADULTES_1
 http://www.q7t1.com:8000/live/2018/2018/1271.ts
+#EXTINF: -1, DE DE: the RTL * 
+http://62.210.162.88:80/live/DE160/134520042016/2247.m3u8 
+#EXTINF: -1, DE DE: the RTL 2 * 
+http://62.210.162.88:80/ live / DE160 / 134520042016 / 2248.m3u8 
+#EXTINF: -1, DE DE: the Super the RTL * 
+http://62.210.162.88:80/live/DE160/134520042016/2249.m3u8 
+#EXTINF: -1, DE DE: Kika * 
+http : //62.210.162.88: 80 / live / DE160 / 134520042016 / 2250.m3u8 
+#EXTINF: -1, DE DE: the NTV * 
+http://62.210.162.88:80/live/DE160/134520042016/2251.m3u8 
+#EXTINF: -1, DE DE: the Vox * 
+http://62.210.162.88:80/live/DE160/134520042016/2254.m3u8 
+#EXTINF: -1, DE DE: the ZDF * 
+http://62.210.162.88:80/live/DE160/ 134520042016 / 2246.m3u8 
+#EXTINF: -1, DE DE: the ARD * 
+http://62.210.162.88:80/live/DE160/134520042016/2115.m3u8 
+#EXTINF: -1, DE DE: the FAMILY the TV : ARTE * http://62.210.162.88:80/live/DE160/134520042016/2116.m3u8 #EXTINF: -1, DE DE: the SD * the HR http://62.210.162.88:80/live/DE160/134520042016/2135 .m3u8 #EXTINF: -1, DE DE: the RIC the SD * http://62.210.162.88:80/live/DE160/134520042016/2136.m3u8 #EXTINF: -1, DE DE: the VH1 * http://62.210.162.88: 80 / live / DE160 / 134520042016 / 2252.m3u8 #EXTINF: -1, DE DE: Jugoton * http://62.210.162.88:80/live/DE160/134520042016/2253.m3u8
+#EXTINF: -1, UK: BBC 1 * 
+http://62.210.162.88:80/live/bbc_uk160/13482064042016/2141.m3u8 
+#EXTINF: -1, UK: BBC 2 * 
+http://62.210.162.88:80 /live/bbc_uk160/13482064042016/2142.m3u8 
+#EXTINF: -1, UK: the BBC 3 * 
+http://62.210.162.88:80/live/bbc_uk160/13482064042016/2143.m3u8
