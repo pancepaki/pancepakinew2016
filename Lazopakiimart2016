@@ -599,3 +599,197 @@ http://80.250.191.10:1935/live/hlsstream343/playlist.m3u8
 #EXTINF:0,CapitalTV 
 #EXTGRP:музыка 
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8 
+#EXTINF:0,A-One Россия
+http://hls.peers.tv/streaming/aone/126/tvrec/playlist.m3u8
+#EXTINF:0,BEST MUSIC TV HD
+rtmp://stream.smcloud.net/live2/best/best_720p?Vd?u#bt!25
+#EXTINF:0,CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,CITY TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
+#EXTINF:0,CT
+rtmp://80.245.113.12/live/pubtalk1
+#EXTINF:0,Djind DJS HD
+http://www.djing.com/tv/tmp/Hedonist_April_2015_DjingMedium/stream-5-2600000/index.m3u8
+#EXTINF:0,DJING Animation HD
+http://www.djing.com/tv/a-05.m3u8
+#EXTINF:0,Djing Animation HD
+http://www.djing.com/tv/a-05.m3u8
+#EXTINF:0,DJING Classic HD
+http://www.djing.com/tv/i-05.m3u8
+#EXTINF:0,Djing Classic HD
+http://www.djing.com/tv/i-05.m3u8
+#EXTINF:0,DJING Dance Floor HD 720
+http://www.djing.com/tv/dancefloor.m3u8
+#EXTINF:0,DJING Dancefloor HD
+http://www.djing.com/tv/d-05.m3u8
+#EXTINF:0,DJING Hot Hot Hot
+http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:0,DJING Hot Hot Hot HD
+http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:0,DJING Hot Hot Hot HD 720
+http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:0,Djing Ibiza HD
+http://www.djing.com/tv/d-05.m3u8
+#EXTINF:0,DJING Ibiza HD 720
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:0,DJing TV
+http://cdn.djing.com/tv/d-05.m3u8
+#EXTINF:0,DJING Underground HD
+http://www.djing.com/tv/u-05.m3u8
+#EXTINF:0,Djing Underground HD
+http://www.djing.com/tv/u-05.m3u8
+#EXTINF:0,DREAM
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0,Dream TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0,Electrosound
+rtmp://www.electrosound.tv:1935/public/stream
+#EXTINF:0,ELECTROSOUND TV
+rtmp://www.electrosound.tv:1935/public/stream
+#EXTINF:0,English Knob Ch3 musicmms
+mms://streams.tvknob.com/tvloops/Ch3/tvknob.wsx
+#EXTINF:0,Eska Best Music
+rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:0,ESKA PARTY TV
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:0,Eska Polo TV
+rtmp://stream.smcloud.net/live/polotv
+#EXTINF:0,Eska Rock
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
+#EXTINF:0,Eska TV
+http://stream.smcloud.net/live/eskatv/playlist.m3u8
+#EXTINF:0,Eska Vox
+rtmp://stream.smcloud.net/live2/vox/vox_360p
+#EXTINF:0,Eska VOX
+rtmp://$OPT:rtmp-raw=rtmp://stream.smcloud.net/live2/vox/vox_360p
+#EXTINF:0,Eska Wawa TV
+rtmp://stream.smcloud.net/live2/wawa/wawa_360p
+#EXTINF:0,FRESH TV
+http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
+#EXTINF:0,HEART TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:0,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:0,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Italia-Radio-TV
+rtmp://cwedge.cdcache.net/cwedge/rilive
+#EXTINF:0,M2O Music
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,MIAMI TV
+mmsh://74.208.69.207:1755/music44?MSWMExt=.asf
+#EXTINF:0,MONTECARLO MUSIC
+rtmp://fms.105.net/live/rmc1
+#EXTINF:0,Music Channel Hungary
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:0,Nebiset
+http://hls.nebiset.tv/nebiset.m3u8
+#EXTINF:0,NRJ TV
+rtmp://rtmp.infomaniak.ch:1935/livecast/energytv
+#EXTINF:0,OndaLatinaTV
+http://ondalatina_tv-lh.akamaihd.net/i/OndaLatinaTv_1@42007/index_600_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,One.by
+http://rtmp.one.by:1200
+#EXTINF:0,One.by HD
+http://rtmp.one.by:1300
+#EXTINF:0,One.by UHD
+http://rtmp.one.by:1400
+#EXTINF:0,One.by Россия
+http://rtmp.one.by:2200
+#EXTINF:0,One.by Россия HD
+http://rtmp.one.by:2300
+#EXTINF:0,PL ESKA Best Music HD 720p
+rtmp://stream.smcloud.net/live2/best/best_720p
+#EXTINF:0,PL Eska Polo Tv .net
+rtmp://stream.smcloud.net/live/polotv
+#EXTINF:0,PL ESKA ROCK TV 720p
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+#EXTINF:0,PL Eska TV
+rtmp://stream.smcloud.net/live/eskatv
+#EXTINF:0,PL ESKA Vox Music Tv
+rtmp://stream.smcloud.net/live/vox2/stream1
+#EXTINF:0,PL Eska Wawa 720p
+rtmp://stream.smcloud.net/live2/wawa/wawa_720p
+#EXTINF:0,PL Fokus Tv 640*386
+rtmp://stream.smcloud.net/live/fokustv
+#EXTINF:0,PL Polo TV
+rtmp://stream.smcloud.net/live/polotv
+#EXTINF:0,PL Vox TV 720p
+rtmp://stream.smcloud.net/live2/vox/vox_720p
+#EXTINF:0,Spirit TV
+rtmp://cdn.rbm.tv/rightbrainmedia-live-109/_definst_/mp4:spirit1#plugin_player
+#EXTINF:0,VEVO 01
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/01/prog_index.m3u8
+#EXTINF:0,VEVO 02
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/01/prog_index.m3u8
+#EXTINF:0,VEVO 03
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/01/prog_index.m3u8
+#EXTINF:0,VEVO 04
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/02/prog_index.m3u8
+#EXTINF:0,VEVO 05
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/02/prog_index.m3u8
+#EXTINF:0,VEVO 06
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/02/prog_index.m3u8
+#EXTINF:0,VEVO 07
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/03/prog_index.m3u8
+#EXTINF:0,VEVO 08
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/03/prog_index.m3u8
+#EXTINF:0,VEVO 09
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/03/prog_index.m3u8
+#EXTINF:0,VEVO 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:0,VEVO 1
+http://pvr.tvip.ga/9002.m3u8
+#EXTINF:0,VEVO 1
+http://pvr.tvip.ga/9001.m3u8
+#EXTINF:0,Vevo 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:0,VEVO 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:0,VEVO 10
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
+#EXTINF:0,VEVO 11
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
+#EXTINF:0,VEVO 12
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
+#EXTINF:0,VEVO 13
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:0,VEVO 14
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:0,VEVO 15
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:0,VEVO 16
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:0,VEVO 17
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:0,VEVO 18
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:0,Vevo 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:0,VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:0,Vevo 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:0,VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:0,Vevo TV 1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:0,Vevo TV 2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:0,Vevo TV 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:0,Virgin Radio
+http://fms.105.net:1935/live/virgin1/.m3u8?
+#EXTINF:0,Virgin Radio TV
+rtmp://fms.105.net:1935/live/virgin1
+#EXTINF:0,Virgin TV
+http://wow01.105.net/live/virgin1/chunklist.m3u8
+#EXTINF:0,Virgin TV
+rtmp://fms.105.net:1935/live/virgin2
+#EXTINF:0,VOX MUSIC TV
+rtmp://stream.smcloud.net/live2/vox/vox_720p
+#EXTINF:0,VOX Music TV 2
+rtmp://stream.smcloud.net/live/vox2/stream1#plugin_player
