@@ -793,3 +793,7 @@ rtmp://fms.105.net:1935/live/virgin2
 rtmp://stream.smcloud.net/live2/vox/vox_720p
 #EXTINF:0,VOX Music TV 2
 rtmp://stream.smcloud.net/live/vox2/stream1#plugin_player
+#EXTINF:0,wawa TV
+rtmp://stream.smcloud.net/live2/wawa/wawa_360p
+#EXTINF:0,ПИКТВ
+rtmp://78.140.209.14:1935/live/piktv3pik3tv
