@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0,Virgin 2
+http://wow01.105.net/live/virgin1/chunklist.m3u8
+
 #EXTINF:-1,1HD
 http://80.250.191.10:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
 #EXTINF:-1,1HD
@@ -41,6 +44,17 @@ http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 mmsh://mediatv2.topix.it/24RockOne6
 #EXTINF:-1,Eska Party
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+#EXTINF:0, HIT TV
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chuklist.m3u8
+#EXTINF:0, 1 HD MUSIC
+http://80.250.191.10:1935/live/livestream1/playlist.m3u8
+#EXTINF:0, 1 HD MUSIC SD
+http://80.250.191.10:1935/live/livestream3/playlist.m3u8
+#EXTINF:0, ATOMIC
+rtmp://5.154.185.153/live/live.flv
+#EXTINF:0, DREAM TV
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
 #EXTINF:-1, :Tele Basel
 http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/.m3u8
 #EXTINF:-1, :TELE X
@@ -853,3 +867,192 @@ http://37.187.24.177:80/mans123/mans123/714.ch
 http://37.187.24.177:80/mans123/mans123/715.ch
 #EXTINF:0,beinHD Sport 2 FR
 http://37.187.24.177:80/mans123/mans123/716.ch
+----------------------------spanija----------------------------
+#EXTINF:0,REDETV HD
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+#EXTINF:0,Rede TV!
+rtmp://evp.mm.uol.com.br/redetv1/_definst_//redetv1
+#EXTINF:0,Rede TV!
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+#EXTINF:0,Globo 2
+http://208.115.227.212:1935/RedeCanaisGlobo/myStream/playlist.m3u8
+#EXTINF:0, SBT MA
+http://srv3.zoeweb.tv:1935/z437-live/stream/livestream.m3u8
+#EXTINF:0, SBT PE
+http://evp.mm.uol.com.br/ne10//ne10-tvjornal-recife-video-web.sdp/live.m3u8
+#EXTINF:0, SBT CARUARU
+http://evp.mm.uol.com.br:1935/ne10/_definst_/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+#EXTINF:0, SBT BA
+http://ns.tvaratu.com.br:1935/aratuduZgOqNa/myStream.sdp/playlist.m3u8
+#EXTINF:0,RECORD ES HD
+http://tvvitoria.viacast.tv/livepl/tvvitoria_3_original.m3u8
+#EXTINF:0,RECORD SP 2
+http://hls.stream.a8se.com/live/tvatalaia_abr/playlist.m3u8
+#EXTINF:0, Band RS
+http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/playlist.m3u8
+#EXTINF:0, Band RS HD
+http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/playlist.m3u8?ChannelsON
+#EXTINF:0, Band HD
+http://evp.mm.uol.com.br:1935/bandpracas/bandcidaders/playlist.m3u8
+#EXTINF:0,TV Escola HD
+http://slrp.sambavideos.sambatech.com/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream1/chunklist.m3u8
+#EXTINF:0, TV Brasil HD
+http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
+#EXTINF:0, TV Ultrafarma 
+http://wse.transmissaodigital.com:1935/cinealta4145/cinealta4145/live.m3u8
+#EXTINF:0, Chef TV
+http://flashd.localmidia.com.br:1935/cheftv/aovivo/live.m3u8
+#EXTINF:0, TVE RS
+http://s5.procergs.com.br:1935/tve/stve/live.m3u8
+#EXTINF:0, TV DIARIO
+http://slrp.sambavideos.sambatech.com/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/chunklist.m3u8
+#EXTINF:0, TCHE NET TV
+http://inalamega.com.br:1935/tchenettv/tchenettv/playlist.m3u8
+#EXTINF:0, TV CAMARA 1
+http://stream2.camara.leg.br:80/tv1/manifest.m3u8
+#EXTINF:0, TV CAMARA 2
+http://stream2.camara.leg.br:80/tv2/manifest.m3u8
+#EXTINF:0, TV CAMARA 3
+http://stream2.camara.leg.br:80/camara-hls-live/tv1/camaraevent/TV1.m3u8
+#EXTINF:0, TV CAMARA 4
+http://stream2.camara.leg.br:80/camara-hls-live/tv2/camaraevent/TV2.m3u8
+#EXTINF:0, SESC TV
+http://srv6.zoeweb.tv/zt2//stream/live.m3u8
+#EXTINF:0, TV URBANA
+http://srv6.zoeweb.tv:1935/z433-live/stream/playlist.m3u8
+#EXTINF:0, TVC MG
+http://flash.asaweb.com.br:1935/8080/8080/live.m3u8
+#EXTINF:0, TV WEB BAHIA
+http://streaming41.sitehosting.com.br:1935/xcfilmes/xcfilmes/live.m3u8
+#EXTINF:0, AXN LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL213/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, FOX LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL201/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, FOX 2 LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, Fox Movies LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL417/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, Fox Cinema LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL421/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, Fox Action HD LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL416/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, FOX CLASSICS LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL424/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, Fox Life ENG
+http://over.ddns.net:65207
+#EXTINF:0, FX LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL258/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, Syfy LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL257/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, TNT LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL482/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, TNT HD LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL435/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, AMC HD LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL444/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, A&E LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL211/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, SPACE LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL491/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, SPACE HD LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL445/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, UNIVERSAL CHANNEL LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL256/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, UNIVERSAL CHANNEL HD LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL207/PROFILE02.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, STUDIO UNIVERSAL LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL492/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, Sony HD LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL203/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, TCM LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL496/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, Warner Channel HD LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL205/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, ANTENA 3 SERIES HD
+http://a3live-lh.akamaihd.net:80/i/a3s/geoa3series_1@122775/index_3_av-p.m3u8
+#EXTINF:0, Cine canal+ LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL430/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, Cine canal LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL480/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, CINEMAX LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL481/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, LA 1 HD ESPANHA
+http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
+#EXTINF:0, LA 2 HD ESPANHA
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0, Hot Music
+http://wow01.105.net/live/rmc1/playlist.m3u8
+#EXTINF:0, FIGHT SPORTS
+http://118.97.183.222:1935/discover/fight/chunklist.m3u8
+#EXTINF:0, TV ALL SPORTS 
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:0, NBA
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:0, NFL NOW 
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_e.m3u8
+#EXTINF:0, FOX SPORTS HD USA
+http://ooyalahd2-f.akamaihd.net/i/eslax17_delivery@349499/index_2528_av-b.m3u8
+#EXTINF:0, ESPN + LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, ESPN LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, ESPN 2 LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, ESPN 3 LATINO
+http://vod.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:0, BEAUTIES - ESPANHA
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net:80/int/ngrp:beauties_web/livestream.m3u8
+#EXTINF:0, TV REAL MADRID
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0, SPORT TIME TV 1
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
+#EXTINF:0, SPORT TIME TV 2
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
+#EXTINF:0, PORSCHE CHANNEL
+rtsp://100automoto.tv/channel_porsche
+#EXTINF:0, DXTV LATINO 
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E 
+#EXTINF:0, VERSUS HD EUA
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:0, PAC 12  Arizona  HD
+http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/master.m3u8
+#EXTINF:0, PAC 12  Bay Area HD
+http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/master.m3u8
+#EXTINF:0, PAC 12  Los Angeles HD
+http://pac12hd2-lh.akamaihd.net/i/p12losa_delivery@132838/master.m3u8
+#EXTINF:0, PAC 12  Oregon HD
+http://pac12hd2-lh.akamaihd.net/i/p12oreg_delivery@132835/master.m3u8
+#EXTINF:0, PAC 12 Mountain HD
+http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/master.m3u8
+#EXTINF:0, PAC 12 Washington HD
+http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/master.m3u8
+#EXTINF:0, LEQUIPE 21
+http://streaming-hub.com/stream/lequipe21.m3u8
+#EXTINF:0, Canal del Deporte Olimpico - CDO
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+#EXTINF:0, Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:0, Rete Sport 8 ITALIA
+http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
+#EXTINF:0, MIAMI TV LIFE
+http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
+#EXTINF:0, Brazil 10
+rtmp://stream2.ba.gov.br/livepkgr//pgm-1?adbe-live-event=irdeb?
+#EXTINF:0, RAI 1 ITALIA
+http://b2everyrai-lh.akamaihd.net/i/rai1_1@398068/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, RAI 2 ITALIA
+http://b2everyrai-lh.akamaihd.net/i/rai2_1@66477/index_1200_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, RAI 3 ITALIA
+http://b2everyrai-lh.akamaihd.net/i/rai3_1@91501/index_1200_av-p.m3u8
+#EXTINF:0, RAI MOVIE ITALIA
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:0, RETE BIELA TV ITALIA
+http://194.116.73.146:1935/megawebtv/streaming/live.m3u8
+#EXTINF:0, TELETICINO LIVE ITALIA
+http://rtmp.infomaniak.ch:1935/livecast/teleticinolive/livestream.m3u8
+#EXTINF:0, RTV SAN MARINO ITALIA
+http://194.116.72.186:1935/webtv_live4/0QBXFQ2L0I5P/livestream.m3u8
+#EXTINF:0,  MIAMI TV
+http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w128908539.m3u8
+#EXTINF:0, TV GALICIA ESPANHA
+http://media1.crtvg.es:1935/live/tvga/livestream.m3u8
