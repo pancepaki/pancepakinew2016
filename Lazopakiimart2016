@@ -1,7 +1,13 @@
 #EXTM3U
 #EXTINF:0,Virgin 2
 http://wow01.105.net/live/virgin1/chunklist.m3u8
-
+#EXTINF:-1,[COLOR yellow]by http://iptv-list-2015.blogspot.com[/COLOR]
+SUPER SPORT 1 HD
+http://81.7.13.162/hls/ss1/index.m3u8
+SUPER SPORT2 HD
+http://81.7.13.162/hls/ss2/index.m3u8
+SUPER SPORT 3 HD
+http://81.7.13.162/hls/ss3/index.m3u8
 #EXTINF:-1,1HD
 http://80.250.191.10:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
 #EXTINF:-1,1HD
