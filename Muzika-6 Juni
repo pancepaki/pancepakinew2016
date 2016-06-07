@@ -19,8 +19,6 @@ http://www.djing.com/tv/tmp/Hedonist_April_2015_DjingMedium/stream-5-2600000/ind
 http://www.djing.com/tv/i-05.m3u8
 #EXTINF:-1 group-title=”Music”,ELECTROSOUND TV
 rtmp://www.electrosound.tv:1935/public/stream
-#EXTINF:-1 group-title=”Music”,ESKA PARTY TV
-rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
 #EXTINF:-1 group-title=”Music”,Eska Rock
 http://serv07.vintera.tv:1935/restream/eska_rock.stream/playlist.m3u8
 #EXTINF:-1 group-title=”Music”,Eska TV
