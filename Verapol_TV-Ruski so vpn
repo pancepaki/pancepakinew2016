@@ -1,0 +1,313 @@
+#EXTM3U
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Музыка",BRIDGE TV
+http://verapol-tv.ru/VLC/BRIDGE_TV.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Музыка",НАШЕ ТВ
+http://verapol-tv.ru/nashe_tv.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Музыка",МУЗ ТВ
+http://verapol-tv.ru/muz_tv.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Музыка",RU TV
+http://verapol-tv.ru/VLC/RU_TV.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Музыка",Russian Music Box
+http://verapol-tv.ru/Russian_Music_Box.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Музыка",EUROPA PLUS TV
+http://verapol-tv.ru/VLC/EUROPA_PLUS_TV.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Музыка",Nebi Set TV
+http://verapol-tv.ru/VLC/Nebi_Set_TV.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Музыка",MUSIC BOX TV
+http://verapol-tv.ru/MUSIC_BOX_TV.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Музыка",MCM TOP
+http://verapol-tv.ru/MCM_TOP.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Музыка",VH 1 CLASSIC
+http://verapol-tv.ru/VH_1_CLASSIC.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",HD LIFE
+http://verapol-tv.ru/HD_LIFE.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",AMEDIA HD
+http://verapol-tv.ru/AMEDIA_HD.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",SONY HD
+http://verapol-tv.ru/TV/SONY_HD.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",ЕДА HD
+http://verapol-tv.ru/TV/eda_hd.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",RTG HD
+http://verapol-tv.ru/RTG_HD.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",Bollywood HD
+http://verapol-tv.ru/TV/Bollywood_HD.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",PARAMOUNT CHANNEL HD
+http://verapol-tv.ru/PARAMOUNT_CHANNEL_HD.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",ПЕРВЫЙ МУЗЫКАЛЬНЫЙ РОССИЯ  HD
+http://verapol-tv.ru/VLC/pervyj_muzykalnyj_rossija_hd.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",Animal Planet HD
+http://verapol-tv.ru/VLC/Animal_Planet_HD.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",DISCOVERY SCIENCE HD
+http://verapol-tv.ru/VLC/DISCOVERY_SCIENCE.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",МАТЧ! ФУТБОЛ - 1 (HD)
+http://verapol-tv.ru/TV/match_futbol.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",Охотник и Рыболов HD
+http://verapol-tv.ru/okhotnik_i_rybolov_hd.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",Travel Channel HD
+http://verapol-tv.ru/TravelAdventure.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",TV 1000 MEGAHIT HD
+http://verapol-tv.ru/VLC/TV_1000_MEGAHIT_HD.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",ПЕРВЫЙ HD
+http://verapol-tv.ru/VLC/pervyj_hd.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",TV 1000 COMEDY HD
+http://verapol-tv.ru/VLC/TV_1000_COMEDY_HD.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",MTV HD
+http://verapol-tv.ru/MTV_HD.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",Paramount Comedy HD
+http://verapol-tv.ru/Paramount_Comedy_HD.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",Teletravel HD
+http://verapol-tv.ru/Teletravel_HD.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",ANYDAY HD
+http://verapol-tv.ru/VLC/ANYDAY_HD.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",МАТЧ ТВ HD
+http://verapol-tv.ru/VLC/match_tv_hd.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",DISCOVERY CHANNEL HD
+http://verapol-tv.ru/TV/DISCOVERY_CHANNEL_HD.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",FOOD NETWORK HD
+http://verapol-tv.ru/FOOD_NETWORK_HD.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",Матч! Арена
+http://verapol-tv.ru/VLC/sport_1_hd.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",TLC HD
+http://verapol-tv.ru/VLC/TLC_HD.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",TV 1000 PREMIUM HD
+http://verapol-tv.ru/VLC/TV_1000_PREMIUM_HD.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",СТРК HD
+http://verapol-tv.ru/VLC/strk_hd.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",Animal Family HD
+http://verapol-tv.ru/VLC/IQ_HD.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",ПЕРВЫЙ МУЗЫКАЛЬНЫЙ HD
+http://verapol-tv.ru/VLC/pervyj_muzykalnyj_hd.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="HD каналы",РОССИЯ HD
+http://verapol-tv.ru/VLC/rossija_hd.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Общественные",ПЯТНИЦА
+http://verapol-tv.ru/VLC/pjatnica.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Общественные",СТС
+http://verapol-tv.ru/VLC/sts.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Общественные",ТНТ
+http://verapol-tv.ru/VLC/tnt.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Общественные",ДОМАШНИЙ
+http://verapol-tv.ru/VLC/domashnij.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Общественные",РЕН ТВ
+http://verapol-tv.ru/VLC/ren_tv.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Общественные",ТВЦ
+http://verapol-tv.ru/VLC/tvc.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Общественные",ЗВЕЗДА
+http://verapol-tv.ru/VLC/zvezda.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Общественные",НТВ
+http://verapol-tv.ru/VLC/ntv.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Общественные",РОССИЯ КУЛЬТУРА
+http://verapol-tv.ru/VLC/rossija_kultura.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Общественные",ПЯТЫЙ КАНАЛ
+http://verapol-tv.ru/VLC/pjatyj_kanal.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Общественные",ОТР
+http://verapol-tv.ru/VLC/otr.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Общественные",РОССИЯ 1
+http://verapol-tv.ru/VLC/rossija_1.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Общественные",ТВ 3
+http://verapol-tv.ru/VLC/tv_3.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Общественные",Первый Канал
+http://verapol-tv.ru/VLC/pervyj_kanal.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Общественные",ЧЕ
+http://verapol-tv.ru/VLC/che.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",VIASAT HISTORY
+http://verapol-tv.ru/VLC/VIASAT_HISTORY.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",Телепутешествие
+http://verapol-tv.ru/teleputeshestvija.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",Da Vinci Learning
+http://verapol-tv.ru/Da_Vinci_Learning.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",LUXURY WORLD
+http://verapol-tv.ru/VLC/LUXURY_WORLD.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",ZOO TV
+http://verapol-tv.ru/zoo_tv.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",Т-24
+http://verapol-tv.ru/t-24.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",ИСТОРИЯ
+http://verapol-tv.ru/VLC/istorija.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",Бобёр ТВ
+http://verapol-tv.ru/VLC/bobjor_tv.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",DTX
+http://verapol-tv.ru/DTX.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",24 ДОК
+http://verapol-tv.ru/VLC/24_dok.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",VIASAT NATURE
+http://verapol-tv.ru/VIASAT_NATURE.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",Кухня ТВ
+http://verapol-tv.ru/kukhnja_tv.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",Живая Планета
+http://verapol-tv.ru/zhivaja_planeta.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",Страна
+http://verapol-tv.ru/strana.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",Оружие
+http://verapol-tv.ru/VLC/oruzhie.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",КАЛЕЙДОСКОП ТВ
+http://verapol-tv.ru/TV/kalejdoskop_tv.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",Russia Today Documentary
+http://verapol-tv.ru/Russia_Today_Documentary.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",365 ТВ
+http://verapol-tv.ru/VLC/365_tv.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",DISCOVERY CHANNEL
+http://verapol-tv.ru/VLC/DISCOVERY_CHANNEL.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",NANO TV
+http://verapol-tv.ru/VLC/NANO_TV.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",NAT GEO WILD
+http://verapol-tv.ru/Nat_Geo_Wild.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",Zoopark
+http://verapol-tv.ru/VLC/zoopark.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",МОЯ ПЛАНЕТА
+http://verapol-tv.ru/VLC/moja_planeta.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",Охотник и Рыболов
+http://verapol-tv.ru/okhotnik_i_rybolov.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",ПРОСВЕЩЕНИЕ
+http://verapol-tv.ru/VLC/prosveshhenie.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",АВТО ПЛЮС
+http://verapol-tv.ru/avto_pljus.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",National Geographic
+http://verapol-tv.ru/National_Geographic.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",ANIMAL PLANET
+http://verapol-tv.ru/ANIMAL_PLANET.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",VIASAT EXPLORER
+http://verapol-tv.ru/VLC/VIASAT_EXPLORER.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",НАУКА 2.0
+http://verapol-tv.ru/nauka_2.0.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",Ностальгия
+http://verapol-tv.ru/nostalgija.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Познавательные",HISTORY
+http://verapol-tv.ru/TV/HISTORY.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Новостные",LIFE 78
+http://verapol-tv.ru/VLC/LIFE_78.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Новостные",РОССИЯ 24
+http://verapol-tv.ru/VLC/rossija_24.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Новостные",РБК
+http://verapol-tv.ru/VLC/rbk.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Новостные",МИР 24
+http://verapol-tv.ru/VLC/mir_24.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Новостные",ДОЖДЬ
+http://verapol-tv.ru/dozhd.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Новостные",EURONEWS
+http://verapol-tv.ru/EURONEWS.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Новостные",LIFE
+http://verapol-tv.ru/VLC/LIFE_NEWS.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Развлекательные",ТНТ 4
+http://verapol-tv.ru/VLC/tnt_comedy.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Развлекательные",СТС LOVE
+http://verapol-tv.ru/VLC/sts_love.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Развлекательные",АВТО 24
+http://verapol-tv.ru/avto_24.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Развлекательные",ТОЧКА ТВ
+http://verapol-tv.ru/VLC/tochka_tv.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Развлекательные",Ю
+http://verapol-tv.ru/ju.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Развлекательные",МИР
+http://verapol-tv.ru/VLC/mir.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Развлекательные",2X2
+http://verapol-tv.ru/2x2.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Развлекательные",Парк Развлечений
+http://verapol-tv.ru/VLC/park_razvlechenij.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Развлекательные",Красная Линия
+http://verapol-tv.ru/VLC/krasnaja_linija.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Развлекательные",Раз ТВ
+http://verapol-tv.ru/VLC/raz_tv.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Фильмы",TV 1000
+http://verapol-tv.ru/VLC/TV_1000.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Фильмы",РУССКИЙ ИЛЛЮЗИОН
+http://verapol-tv.ru/VLC/russkij_illjuzion.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Фильмы",ИЛЛЮЗИОН+
+http://verapol-tv.ru/VLC/illjuzion.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Фильмы",21 TV
+http://verapol-tv.ru/21_TV.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Фильмы",КИНО ПЛЮС (НТВ+)
+http://verapol-tv.ru/VLC/kino_pljus-ntv.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Фильмы",TV 1000 РУССКОЕ КИНО
+http://verapol-tv.ru/VLC/tv_1000_russkoe_kino.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Фильмы",ЕВРОКИНО
+http://verapol-tv.ru/VLC/evrokino.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Фильмы",TV 1000 ACTION
+http://verapol-tv.ru/VLC/TV_1000_ACTION.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Фильмы",FOX LIVE
+http://verapol-tv.ru/VLC/FOX_LIVE.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Фильмы",КИНО ТВ
+http://verapol-tv.ru/kino_tv.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Фильмы",ФЕНИКС + КИНО
+http://verapol-tv.ru/VLC/feniks_kino.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Фильмы",ИНДИЯ ТВ
+http://verapol-tv.ru/indija_tv.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Фильмы",Дом Кино International
+http://verapol-tv.ru/dom_kino_international.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Фильмы",AMEDIA 1
+http://verapol-tv.ru/VLC/AMEDIA_1.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Фильмы",SONY SCI-FI
+http://verapol-tv.ru/VLC/SONY_SCI-FI.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Фильмы",AMEDIA 2
+http://verapol-tv.ru/AMEDIA_2.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Фильмы",РУССКИЙ РОМАН
+http://verapol-tv.ru/VLC/russkij_roman.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Фильмы",НСТ
+http://verapol-tv.ru/nastojashhee_strashnoe_tv.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Фильмы",FOX
+http://verapol-tv.ru/VLC/FOX.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Фильмы",ДОМ КИНО
+http://verapol-tv.ru/dom_kino.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Фильмы",НАШЕ ЛЮБИМОЕ КИНО
+http://verapol-tv.ru/nashe_ljubimoe_kino.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Фильмы",Кинохит (НТВ+)
+http://verapol-tv.ru/VLC/kinokhit-ntv.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Фильмы",Киноклуб (НТВ+)
+http://verapol-tv.ru/VLC/kinoklub-ntv.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Фильмы",ПРЕМЬЕРА (НТВ+)
+http://verapol-tv.ru/VLC/premera-ntv.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Спорт",Eurosport 2
+http://verapol-tv.ru/VLC/Eurosport_2.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Спорт",Матч! Игра
+http://verapol-tv.ru/VLC/sport.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Спорт",Eurosport 1
+http://verapol-tv.ru/VLC/Eurosport_1.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Спорт",VIASAT SPORT
+http://verapol-tv.ru/VIASAT_SPORT.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Спорт",Матч! БОЕЦ
+http://verapol-tv.ru/match_boec.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Спорт",МАТЧ! ТВ
+http://verapol-tv.ru/VLC/match_tv.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Спорт",Бокс ТВ
+http://verapol-tv.ru/boks_tv.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Спорт",Матч!Наш Футбол
+http://verapol-tv.ru/matchnash_futbol.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Спорт",МАТЧ! ПЛАНЕТА
+http://verapol-tv.ru/TV/match_planeta.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Спорт",РУССКИЙ ЭКСТРИМ
+http://verapol-tv.ru/VLC/russkij_ehkstrim.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Детские",ANI
+http://verapol-tv.ru/VLC/ANI.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Детские",NICKELODEON
+http://verapol-tv.ru/Nickelodeon.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Детские",РЫЖИЙ
+http://verapol-tv.ru/ryzhij.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Детские",Мультимания
+http://verapol-tv.ru/multimanija.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Детские",КАРУСЕЛЬ
+http://verapol-tv.ru/VLC/karusel.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Детские",DISNEY
+http://verapol-tv.ru/VLC/DISNEY.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Детские",МУЛЬТ
+http://verapol-tv.ru/VLC/mult.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Детские",ДЕТСКИЙ
+http://verapol-tv.ru/VLC/detskij.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Детские",ДЕТСКИЙ МИР
+http://verapol-tv.ru/TV/detskij_mir.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Детские",CARTOON NETWORK
+http://verapol-tv.ru/VLC/CARTOON_NETWORK.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Региональные",ТРО
+http://verapol-tv.ru/VLC/tro.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Региональные",Телеканал Север
+http://verapol-tv.ru/telekanal_sever.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Региональные",САНКТ ПЕТЕРБУРГ
+http://verapol-tv.ru/VLC/sankt_peterburg.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Региональные",МОСКВА 24
+http://verapol-tv.ru/VLC/moskva_24.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Региональные",Ника ТВ
+http://verapol-tv.ru/nika_tv.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Каналы для взрослых 18+",PLAYBOY TV
+http://verapol-tv.ru/PLAYBOY_TV.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Каналы для взрослых 18+",Русская Ночь
+http://verapol-tv.ru/russkaja_noch.m3u8
+#EXTINF:-1 $ExtFilter="VERAPOL TV" group-title="Каналы для взрослых 18+",JASMIN.TV HD
+http://verapol-tv.ru/JASMIN.TV_HD.m3u8
