@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,JUGOTON TV
+http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/playlist.m3u8
+#EXTINF:-1,CMC
+http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 #EXTINF:-1,MRT 1
 http://95.128.191.112:81/play/a00i
 #EXTINF:-1,Kanal Plus HDTV
@@ -15,7 +19,6 @@ http://95.128.191.112:81/play/a00e
 http://95.128.191.112:81/play/a01p
 #EXTINF:-1,Sitel
 http://95.128.191.112:81/play/a00b
-
 #EXTINF:0,Virgin 2
 http://wow01.105.net/live/virgin1/chunklist.m3u8
 #EXTINF:-1,1HD
@@ -956,3 +959,110 @@ http://109.236.213.182:3030/udp/239.195.2.3:1234
 http://109.236.213.182:3030/udp/239.195.2.4:1234
 #EXTINF:-1,Play boy
 http://109.236.213.182:3030/udp/239.195.2.5:1234
+#EXTINF:-1,Hustler HD
+http://5.128.94.56:81/udp/239.1.6.35:1234
+#EXTINF:-1,Hustler
+http://5.128.94.56:81/udp/239.1.6.36:1234
+#EXTINF:-1,Ночной Клуб
+http://5.128.94.56:81/udp/239.1.6.33:1234
+#EXTINF:-1,O-la-la
+http://5.128.94.56:81/udp/239.1.6.34:1234
+#EXTINF:-1,Playboy TV
+http://5.128.94.56:81/udp/239.1.6.39:1234
+#EXTINF:-1,Brazzers TV
+http://5.128.94.56:81/udp/239.1.6.40:1234
+#EXTINF:-1,Русская ночь
+http://5.128.94.56:81/udp/239.1.6.32:1234
+#EXTINF:-1,Playboy TV
+http://62.76.26.81:8081/cdn/playboy09/playlist.m3u8
+#EXTINF:-1,Passion TV
+http://62.76.26.81:8081/cdn1/passion11/playlist.m3u8
+#EXTINF:-1,Brazzers TV Europe
+http://62.76.26.81:8081/cdn/brazzers09/playlist.m3u8
+#EXTINF:-1,Passion Anal
+http://62.76.26.81:8081/cdn1/passion22/playlist.m3u8
+#EXTINF:-1,Candy
+http://62.76.26.81:8081/candy/candyman07/playlist.m3u8
+#EXTINF:-1,Candy Man
+http://62.76.26.81:8081/candy/candy07/playlist.m3u8
+#EXTINF:-1,Bein Sports 3 HD
+http://666666.ddns.net:8000/fullhd/fullhd/1077
+#EXTINF:-1,Bein Sports 2 HD
+http://666666.ddns.net:8000/fullhd/fullhd/1078
+#EXTINF:-1,Bein Sports 1 HD
+http://666666.ddns.net:8000/fullhd/fullhd/1079
+#EXTINF:-1,Porn
+http://666666.ddns.net:8000/fullhd/fullhd/2057
+#EXTINF:-1,PLAYY
+http://666666.ddns.net:8000/fullhd/fullhd/2043
+#EXTINF:-1,Brazzers TV Europe
+http://666666.ddns.net:8000/fullhd/fullhd/2044
+#EXTINF:-1,Porn
+http://666666.ddns.net:8000/fullhd/fullhd/2046
+#EXTINF:-1,PLAYY
+http://666666.ddns.net:8000/fullhd/fullhd/2047
+#EXTINF:-1,HUSTLER HD
+http://666666.ddns.net:8000/fullhd/fullhd/2050
+#EXTINF:-1,REDLIGHT HD
+http://666666.ddns.net:8000/fullhd/fullhd/2051
+#EXTINF:-1,Porn
+http://666666.ddns.net:8000/fullhd/fullhd/2052
+#EXTINF:-1,Porn
+http://666666.ddns.net:8000/fullhd/fullhd/2053
+#EXTINF:-1,Porn
+http://666666.ddns.net:8000/fullhd/fullhd/2054
+#EXTINF:-1,Porn
+http://666666.ddns.net:8000/fullhd/fullhd/2055
+#EXTINF:-1,Porn
+http://666666.ddns.net:8000/fullhd/fullhd/2058
+#EXTINF:-1,Porn
+http://666666.ddns.net:8000/fullhd/fullhd/2060
+#EXTINF:-1,Porn
+http://666666.ddns.net:8000/fullhd/fullhd/2063
+#EXTINF:-1,Porn
+http://666666.ddns.net:8000/fullhd/fullhd/2069
+#EXTINF:-1,Playboy TV
+http://94.230.123.73:81/udp/239.1.6.39:1234
+#EXTINF:-1,xxx1
+http://94.230.123.73:81/udp/239.1.6.32:1234
+#EXTINF:-1,O-LA-LA
+http://94.230.123.73:81/udp/239.1.6.34:1234
+#EXTINF:-1,Hustler HD
+http://94.230.123.73:81/udp/239.1.6.35:1234
+#EXTINF:-1,xxx2
+http://94.230.123.73:81/udp/239.1.6.33:1234
+#EXTINF:-1,Blue Hustler
+http://94.230.123.73:81/udp/239.1.6.36:1234
+#EXTINF:-1,xxx
+http://37.192.109.16:81/udp/239.1.6.32:1234
+#EXTINF:-1,xxxx
+http://37.192.109.16:81/udp/239.1.6.33:1234
+#EXTINF:-1,Ola-la
+http://37.192.109.16:81/udp/239.1.6.34:1234
+#EXTINF:-1,Hustler HD
+http://37.192.109.16:81/udp/239.1.6.35:1234
+#EXTINF:-1,Blue Hustler
+http://37.192.109.16:81/udp/239.1.6.36:1234
+#EXTINF:-1,Playboy TV
+http://37.192.109.16:81/udp/239.1.6.39:1234
+#EXTINF:-1,Brazzers TV
+http://37.192.109.16:81/udp/239.1.6.40:1234
+#EXTINF:-1,ESPN HD
+http://163.172.214.251:8000/play/a017
+#EXTINF:-1,Nat Geo
+http://163.172.214.251:8000/play/a016
+#EXTINF:-1,CWHD- TEST
+http://163.172.214.251:8000/play/a019
+#EXTINF:-1,CBSHD- TEST
+http://163.172.214.251:8000/play/a01a
+#EXTINF:-1,BeIN Sports US HD
+http://163.172.214.251:8000/play/a014
+#EXTINF:-1,ABCHD
+http://163.172.214.251:8000/play/a018
+#EXTINF:-1,Redlight HD
+http://5.189.4.16:81//udp/239.255.3.93:1234
+#EXTINF:-1,XXL
+http://5.189.4.16:81//udp/239.255.2.72:1234
+#EXTINF:-1,Hustler HD
+http://5.189.4.16:81//udp/239.255.2.232:1234
+
