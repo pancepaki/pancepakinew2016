@@ -5,8 +5,6 @@ http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/playlist.m3u8
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 #EXTINF:-1,MRT 1
 http://95.128.191.112:81/play/a00i
-#EXTINF:-1,Kanal Plus HDTV
-http://95.128.191.112:81/play/a00g
 #EXTINF:-1,Sobraniski Kanal
 http://95.128.191.112:81/play/a00k
 #EXTINF:-1,Telma
@@ -23,10 +21,6 @@ http://95.128.191.112:81/play/a00b
 http://wow01.105.net/live/virgin1/chunklist.m3u8
 #EXTINF:-1,1HD
 http://80.250.191.10:1935/live/hjwdj376883hjdfgje7/chunklist.m3u8
-#EXTINF:-1,1HD
-http://188.227.50.105:7778/udp/235.10.11.119:1234
-#EXTINF:-1,1HD
-http://msk3.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Total_Kiss tv" tvg-name="Kiss_tv" tvg-logo="guiatv-prueba.png",Kiss TV - España
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
 #EXTINF:-1,VEVO 1
@@ -59,8 +53,6 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:0,Radio capital TV
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
-#EXTINF:-1, Rock TV
-mmsh://mediatv2.topix.it/24RockOne6
 #EXTINF:0, HIT TV
 http://tst.es.flash.glb.ipercast.net/tst.es-live/live/chuklist.m3u8
 #EXTINF:0, 1 HD MUSIC
@@ -97,20 +89,6 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 http://motorsport.hopto.org:8080/
 #EXTINF:0,TURK-BURSASPOR TV
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
-#EXTINF:0,A1 Strumica
-http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/a1-strumica/chunklist.m3u8
-#EXTINF:0,kplus-tv
-http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/kplus-tv-stip/playlist.m3u8
-#EXTINF:0,k1-tv
-http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/k1-tv-veles/playlist.m3u8
-#EXTINF:0,o2-tv
-http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/o2-tv-ohrid/playlist.m3u8
-#EXTINF:0,a1
-http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/a1-strumica/playlist.m3u8
-#EXTINF:0,mega-bitola
-http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/hdtv-mega-bitola/playlist.m3u8
-#EXTINF:0,k3-tv-kumanovo
-http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/k3-tv-kumanovo/playlist.m3u8
 #EXTINF:0,AUSTRIA 24
 rtmp://streaming.austria24.tv/live/stream_360p
 #EXTINF:0,Alfa_2
@@ -119,8 +97,6 @@ http://fms.zulu.mk:554/zulu/alfa_2/playlist_b125000_w1132785237.m3u8
 http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
 #EXTINF:0,ESKA TV
 http://stream.smcloud.net/live/eskatv/playlist.m3u8
-#EXTINF:0,Family TV HD
-http://83.169.58.38:1935/live/Stream3/chunklist_w1828558504.m3u8
 #EXTINF:0,K Plus
 http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/kplus-tv-stip/chunklist.m3u8
 #EXTINF:0,K1 Veles
