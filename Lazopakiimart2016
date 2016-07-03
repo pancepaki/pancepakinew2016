@@ -3,6 +3,37 @@
 http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/playlist.m3u8
 #EXTINF:-1,CMC
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
+#EXTINF:-1,Arenasport 1
+http://31.47.9.48:22191/ipvt_006
+#EXTINF:-1,Fight Network
+http://31.47.9.48:22191/ipvt_010
+#EXTINF:-1,Kanal A
+http://31.47.9.48:22191/ipvt_005
+#EXTINF:-1,Arenasport 2
+http://31.47.9.48:22191/ipvt_007
+#EXTINF:-1,Arenasport 3
+http://31.47.9.48:22191/ipvt_008
+#EXTINF:-1,Arenasport 4
+http://31.47.9.48:22191/ipvt_009
+#EXTINF:-1,pink bh
+http://31.47.9.48:22191/ipvt_004
+#EXTINF:-1,Federalna TV
+http://31.47.9.48:22191/ipvt_003
+#EXTINF:-1,hayat hd
+http://31.47.9.48:22191/ipvt_002
+#EXTINF:-1,bht 1
+http://31.47.9.48:22191/ipvt_001
+#EXTINF:-1,pink action
+http://31.47.9.48:22191/ipvt_012
+#EXTINF:-1,N/A
+http://31.47.9.48:22191/ipvt_022
+ #EXTINF:-1 group-title="Sports",Japan:SPORT 2
+http://203.162.235.45:17931
+#EXTINF:-1 group-title="Sports",Japan:SPORT 3
+http://203.162.235.45:17932
+#EXTINF:-1 group-title="Sports",Japan:SPORT 4
+http://203.162.235.45:17933 	
+
 #EXTINF:-1,DM SAT
 http://fra1.ddns.net:97/live/josip/josip/225.m3u8
 #EXTINF:-1,TV7
@@ -1770,3 +1801,446 @@ http://cdn.iptv.amis.net/ts/XDREAM/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 http://cdn.iptv.amis.net/ts/Free-X_TV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:0,Spice TV
 rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
+#EXTINF:-1,Eurosport 1 
+http://5.149.64.8:9999/udp/239.3.3.1:1237?auth=login:pass
+#EXTINF:-1,Eurosport 2
+http://5.149.64.8:9999/udp/239.3.3.2:1237?auth=login:pass
+#EXTINF:-1,Arenasport 1
+http://5.149.64.8:9999/udp/239.3.4.17:1234?auth=login:pass
+#EXTINF:-1,Arenasport 2
+http://5.149.64.8:9999/udp/239.3.4.18:1234?auth=login:pass
+#EXTINF:-1,Arenasport 3
+http://5.149.64.8:9999/udp/239.3.4.19:1234?auth=login:pass
+#EXTINF:-1,Arenasport 4
+http://5.149.64.8:9999/udp/239.3.4.20:1234?auth=login:pass
+---------------ts stream sultanivic
+#EXTINF:0,Sport Klub 1
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/101.ts
+#EXTINF:0,Sport Klub 2
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/102.ts
+#EXTINF:0,Sport Klub 3
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/103.ts
+#EXTINF:0,Arena Sport 1 HD
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/62.ts
+#EXTINF:0,Arena Sport 2 HD
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/63.ts
+#EXTINF:0,Arena Sport 3 HD
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/171.ts
+#EXTINF:0,Arena Sport 4 HD
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/64.ts
+#EXTINF:0,Arena Sport 5 HD
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/816.ts
+#EXTINF:0,MRTV 1
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/93.ts
+#EXTINF:0,EuroNews
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/226.ts
+#EXTINF:0,24 Vesti
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/914.ts
+#EXTINF:0,Sitel
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/91.ts
+#EXTINF:0,SITEL 3
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/908.ts
+#EXTINF:0,Telma
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/90.ts
+#EXTINF:0,Alfa MK
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/800.ts
+#EXTINF:0,KANAL 5
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/92.ts
+#EXTINF:0,MK: Kanal 5+
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/712.ts
+#EXTINF:0,RTV 21MK
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/982.ts
+#EXTINF:0,Ohrid
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/903.ts
+#EXTINF:0,Mega Bitola
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/875.ts
+#EXTINF:0,Amol Tv
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/742.ts
+#EXTINF:0,Shutel
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/891.ts
+#EXTINF:0,Dm Sat
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/699.ts
+#EXTINF:0,Nova TV
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/100.ts
+#EXTINF:0,PRVA
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/230.ts
+#EXTINF:0,OBN
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/99.ts
+#EXTINF:0,HRT
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/97.ts
+#EXTINF:0,HRT 2
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/98.ts
+#EXTINF:0,RTS 1
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/150.ts
+#EXTINF:0,Rts 2
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/765.ts
+#EXTINF:0,BN
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/178.ts
+#EXTINF:0,B92
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/151.ts
+#EXTINF:0,Doma
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/779.ts
+#EXTINF:0,Hayat HD
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/997.ts
+#EXTINF:0,NR 1 Serb
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/761.ts
+#EXTINF:0,PINK
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/85.ts
+#EXTINF:0,Pink 2
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/867.ts
+#EXTINF:0,Pink 3
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/764.ts
+#EXTINF:0,Pink Premium
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/868.ts
+#EXTINF:0,PINK CRIME&MYSTERY
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/730.ts
+#EXTINF:0,Pink Plus
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/756.ts
+#EXTINF:0,Pink Extra
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/763.ts
+#EXTINF:0,Pink Film
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/176.ts
+#EXTINF:0,Pink BH
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/115.ts
+#EXTINF:0,PInk Horror
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/762.ts
+#EXTINF:0,PINK THRILLER
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/758.ts
+#EXTINF:0,PINK ACTION
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/86.ts
+#EXTINF:0,Pink Comedy
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/726.ts
+#EXTINF:0,Pink Romance
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/866.ts
+#EXTINF:0,Pink Kids
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/224.ts
+#EXTINF:0,PINK FOLK 1
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/87.ts
+#EXTINF:0,HAYAT FOLK
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/229.ts
+#EXTINF:0,BN MUSIC
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/760.ts
+#EXTINF:0,Discovery World BK
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/757.ts
+#EXTINF:0,EX-YU: Animal Planet
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/201.ts
+#EXTINF:0,Cinemax
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/834.ts
+#EXTINF:0,Cinestar 2
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/833.ts
+#EXTINF:0,Cinestar Premiere
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/832.ts
+#EXTINF:0,HBO Comedy
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/831.ts
+#EXTINF:0,HBO Adria
+http://iptv.nbrz.ru:9705/live/fcb:ALB_TV_SYSTEMS/TESTIPVFULL/830.ts
+#EXTINF:-1, ex-yu 
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/105.ts
+#EXTINF:-1,Pink 1
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/78.ts
+#EXTINF:-1,PINK 2
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/106.ts
+#EXTINF:-1,PINK 3
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/107.ts
+#EXTINF:-1,Pink Film
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/77.ts
+#EXTINF:-1,PINK SERIJE
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/60.ts
+#EXTINF:-1,Pink Premium
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/428.ts
+#EXTINF:-1,Pink Action
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/161.ts
+#EXTINF:-1,Pink Horor
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/429.ts
+#EXTINF:-1,PINK WESTERN
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/180.ts
+#EXTINF:-1,PINK EXTRA
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/182.ts
+#EXTINF:-1,PINK COMEDY
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/36.ts
+#EXTINF:-1,PINK FOLK 1
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/35.ts
+#EXTINF:-1,PINK M
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/171.ts
+#EXTINF:-1,PINK ZABAVA
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/248.ts
+#EXTINF:-1,DM SAT
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/61.ts
+#EXTINF:-1,RTS 1 SRB
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/160.ts
+#EXTINF:-1,RTS 2 SRB
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/271.ts
+#EXTINF:-1,B 92
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/27.ts
+#EXTINF:-1,B 92 Info
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/40.ts
+#EXTINF:-1,PRVA 1 SRB
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/67.ts
+#EXTINF:-1,PRVA PLUS SRB
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/85.ts
+#EXTINF:-1,HAPPY
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/86.ts
+#EXTINF:-1,NOVA RS SRB
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/96.ts
+#EXTINF:-1,Duga +
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/430.ts
+#EXTINF:-1,TV Sevdah
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/354.ts
+#EXTINF:-1,Nickelodeon SR
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/75.ts
+#EXTINF:-1,DocuBox
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/95.ts
+#EXTINF:-1,Minimx
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/130.ts
+#EXTINF:-1,RTV VOJVODINA 1
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/191.ts
+#EXTINF:-1,KCN 1
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/57.ts
+#EXTINF:-1,KCN 2
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/110.ts
+#EXTINF:-1,KCN 3
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/154.ts
+#EXTINF:-1,N1
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/143.ts
+#EXTINF:-1,HRT 1
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/51.ts
+#EXTINF:-1,HRT 2
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/103.ts
+#EXTINF:-1,HRT 3
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/54.ts
+#EXTINF:-1,HRT 4
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/16.ts
+#EXTINF:-1,RTL HR
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/140.ts
+#EXTINF:-1,RTL LIVING
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/170.ts
+#EXTINF:-1,RTL 2 HR
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/112.ts
+#EXTINF:-1,RTL KOCLICA
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/141.ts
+#EXTINF:-1,NICKEKODEON HR
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/168.ts
+#EXTINF:-1,CARTON NETWORK
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/433.ts
+#EXTINF:-1,NOVA TV HR
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/4.ts
+#EXTINF:-1,DOMA TV
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/142.ts
+#EXTINF:-1,Klasik tv
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/131.ts
+#EXTINF:-1,RTV BANOVINA HR
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/288.ts
+#EXTINF:-1,TRING MAX
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/316.ts
+#EXTINF:-1,CMC HR
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/50.ts
+#EXTINF:-1,JUGOTON HR
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/38.ts
+#EXTINF:-1,FOX CRIME
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/177.ts
+#EXTINF:-1,Fox HR
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/425.ts
+#EXTINF:-1,Fox Life HR
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/426.ts
+#EXTINF:-1,HBO HD
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/97.ts
+#EXTINF:-1,HBO 2 HD
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/58.ts
+#EXTINF:-1,HBO 3 HD
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/181.ts
+#EXTINF:-1,CINEMAX 1 HD
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/136.ts
+#EXTINF:-1,CINEMAX 2 HD
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/135.ts
+#EXTINF:-1,CINESTAR ACTION
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/166.ts
+#EXTINF:-1,CINESTAR ACTION OK
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/174.ts
+#EXTINF:-1,CINE PLUS HD 2
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/172.ts
+#EXTINF:-1,CINE PLUS SELECT HD 1
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/101.ts
+#EXTINF:-1,Cine Plus Select 2
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/47.ts
+#EXTINF:-1,Cine Plus Select 3
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/46.ts
+#EXTINF:-1,Cine Plus Select 4
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/150.ts
+#EXTINF:-1,Cine Plus Select 5
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/26.ts
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/99.ts
+#EXTINF:-1,CINESTAR PREMIERE 2
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/100.ts
+#EXTINF:-1,MY FILM HD srb
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/9.ts
+#EXTINF:-1,FilmBox Plus
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/158.ts
+#EXTINF:-1,FILMBOX EXTRA HD
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/80.ts
+#EXTINF:-1,HISTORY
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/2.ts
+#EXTINF:-1,VIASAT NATURE
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/449.ts
+#EXTINF:-1,VIASAT HISTORY
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/90.ts
+#EXTINF:-1,VIASAT EXPLORER
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/88.ts
+#EXTINF:-1,Discovery Channel
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/83.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/92.ts
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/91.ts
+#EXTINF:-1,LOV I RIBOLOV
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/184.ts
+#EXTINF:-1,FightBox HD
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/169.ts
+#EXTINF:-1,ARENA SPORT 1 HD
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/399.ts
+#EXTINF:-1,ARENA SPORT 2 HD
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/65.ts
+#EXTINF:-1,Arena Sport 3 HD
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/400.ts
+#EXTINF:-1,Arena Sport 4 HD
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/163.ts
+#EXTINF:-1,Arena Sport 5 HD
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/164.ts
+#EXTINF:-1,ARENA SPORT 1 SRB
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/22.ts
+#EXTINF:-1,Arena Sport 2 SRB
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/403.ts
+#EXTINF:-1,Arena Sport 3 SRB
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/151.ts
+#EXTINF:-1,Arena Sport 5 SRB
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/402.ts
+#EXTINF:-1,Arena Sport 4 SRB
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/401.ts
+#EXTINF:-1,SPORT KLUB 1 HD
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/93.ts
+#EXTINF:-1,SPORT KLUB 2 HD
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/20.ts
+#EXTINF:-1,SPORT KLUB 3 HD
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/94.ts
+#EXTINF:-1,Sport Klub 4
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/167.ts
+#EXTINF:-1,SPORT KLUB 5
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/404.ts
+#EXTINF:-1,SPORT KLUB 6
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/405.ts
+#EXTINF:-1,EuroSport 2
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/427.ts
+#EXTINF:-1,ALJEZZEIRA BALKANS
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/34.ts
+#EXTINF:-1,BN TELEVIZIJA
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/66.ts
+#EXTINF:-1,OBN
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/87.ts
+#EXTINF:-1,FEDERALNA
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/114.ts
+#EXTINF:-1,FACE TV
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/113.ts
+#EXTINF:-1,HAYAT
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/111.ts
+#EXTINF:-1,BHT 1 HD
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/179.ts
+#EXTINF:-1,BOSNA TV 1
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/215.ts
+#EXTINF:-1,HAYAT MUSIC
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/55.ts
+#EXTINF:-1,BKTV SLO
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/289.ts
+#EXTINF:-1,KANAL6-Bosnia
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/358.ts
+#EXTINF:-1,SLO: SLOVENIA 2
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/363.ts
+#EXTINF:-1,SLOVENIA 3
+http://zdravahrana.ydns.eu:8000/live/kajgana5/kajgana5/329.ts
+------------------m3u8 ch-----------------------------
+#EXTINF:0,#EXTINF:0, EX-YU 
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/590.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: ARENA SPORT 1
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/399.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: BHT 1 HD
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/398.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: FTV
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/397.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: HBO ADRIA
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/396.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: 24 Kitchen
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/523.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: Al Jazeera Balkans
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/521.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: B92
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/519.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: Face TV
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/524.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: Happy TV
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/520.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: HAYAT HD
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/532.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: HAYAT MUSIC
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/531.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: HAYAT PLUS
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/530.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: HRT 1
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/526.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: HRT 2
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/527.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: HRT 3
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/528.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: HRT4
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/529.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: Nova HR
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/525.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: OBN
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/522.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: RTRS
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/518.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: RTS 1
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/516.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: RTS 2
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/517.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: HAYAT BH
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/534.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: HAYAT FOLK
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/533.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: PRVA PLUS
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/543.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: PINK ZABAVA
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/537.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: PINK WESTERN
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/538.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: PINK THRILLER
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/539.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: PINK REALITY
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/540.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: PINK PREMIUM
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/541.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: PINK PLUS
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/535.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: PINK M
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/542.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: PINK HORROR
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/544.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: PINK FOLK
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/536.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: Arena Sport 1 SR
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/46.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: Arena Sport 1 HR
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/47.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: Arena Sport 2 HR
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/45.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: Arena Sport 2 SR
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/44.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: Arena Sport 3 HR
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/43.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: Arena Sport 3 SR
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/42.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: Arena Sport 4 SR
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/40.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: Arena Sport 4 HR
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/41.m3u8
+#EXTINF:0,#EXTINF:0,EX-YU: Arena Sport 5 HR
+http://s1.ukhdtv.com:7860/live/ml2new/wse1236587/39.m3u8
+  	
