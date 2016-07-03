@@ -9,6 +9,14 @@ http://203.162.235.45:17931
 http://203.162.235.45:17932
 #EXTINF:-1 group-title="Sports",Japan:SPORT 4
 http://203.162.235.45:17933 	
+#EXTINF:0,RTL
+http://fra1.ddns.net:97/live/dzevad/dzevad/24.m3u8
+#EXTINF:0,OBN
+http://fra1.ddns.net:97/live/dzevad/dzevad/46.m3u8
+#EXTINF:0,NTV JATA
+http://fra1.ddns.net:97/live/dzevad/dzevad/96.m3u8
+#EXTINF:0,B92
+http://fra1.ddns.net:97/live/dzevad/dzevad/102.m3u8
 
 #EXTINF:-1,DM SAT
 http://fra1.ddns.net:97/live/josip/josip/225.m3u8
