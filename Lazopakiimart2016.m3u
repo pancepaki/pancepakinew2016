@@ -3,6 +3,188 @@
 http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/playlist.m3u8
 #EXTINF:-1,CMC
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
+#EXTINF:-1,HBO 2
+http://premium.exabytetv.info:8000/live/exabytetv/2oVe2obCrd/108.m3u8
+#EXTINF:-1,HBO Plus
+http://premium.exabytetv.info:8000/live/exabytetv/2oVe2obCrd/109.m3u8
+#EXTINF:-1,MAX
+http://premium.exabytetv.info:8000/live/exabytetv/2oVe2obCrd/114.m3u8
+#EXTINF:-1,Max Prime Oeste
+http://premium.exabytetv.info:8000/live/exabytetv/2oVe2obCrd/112.m3u8
+#EXTINF:-1,Arena 1
+http://50.97.49.87:1935/aqq/arhd1lsh58/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNi8yMDE2IDk6MTY6MzQgUE0maGFzaF92YWx1ZT1Ra2crblB6bndaaXE0WSsrNkZOeS93PT0mdmFsaWRtaW51dGVzPTM2MA==
+#EXTINF:-1,Arena 3
+http://50.97.49.87:1935/aqq/arhd3lsh58/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNi8yMDE2IDk6MTY6MzQgUE0maGFzaF92YWx1ZT1Ra2crblB6bndaaXE0WSsrNkZOeS93PT0mdmFsaWRtaW51dGVzPTM2MA==
+ #EXTINF:-1, RTL
+http://83.218.223.86/live/_definst_/smil:RTL.smil/playlist.m3u8
+#EXTINF:-1, CNN International
+http://83.218.223.86/live/_definst_/smil:CNN_International.smil/playlist.m3u8
+#EXTINF:-1,Paramount Comedy
+http://83.218.223.86/live/_definst_/smil:PR_Comedy.smil/playlist.m3u8
+#EXTINF:-1,C Music
+http://83.218.223.86/live/_definst_/smil:Cmusic.smil/playlist.m3u8
+#EXTINF:-1,Viasat Golf
+http://83.218.223.86/live/_definst_/smil:GolfTV.smil/playlist.m3u8
+#EXTINF:-1, Fine Living
+http://83.218.223.86/live/_definst_/smil:FNL.smil/playlist.m3u8
+#EXTINF:-1, TV5 Monde
+http://83.218.223.86/live/_definst_/smil:TV-5_Monde.smil/playlist.m3u8
+#EXTINF:-1, English Club TV
+http://83.218.223.86/live/_definst_/smil:English_Club_TV.smil/playlist.m3u8
+#EXTINF:-1, Boomerang En
+http://83.218.223.86/live/_definst_/smil:KidsCo.smil/playlist.m3u8
+#EXTINF:-1, Nickelodeon En
+http://83.218.223.86/live/_definst_/smil:NickelodeonEn.smil/playlist.m3u8
+#EXTINF:-1, Cartoon Network En
+http://83.218.223.86/live/_definst_/smil:CartoonetworkEN.smil/playlist.m3u8
+#EXTINF:-1, Disney Channel En
+http://83.218.223.86/live/_definst_/smil:DisneyEn.smil/playlist.m3u8
+#EXTINF:-1, Eurosport En
+http://83.218.223.86/live/_definst_/smil:Eurosport_en.smil/playlist.m3u8
+#EXTINF:-1, Eurosport 2 En
+http://83.218.223.86/live/_definst_/smil:Eurosport2_en.smil/playlist.m3u8
+#EXTINF:-1, TV 1000 Action En
+http://83.218.223.86/live/_definst_/smil:TV1000actionEn.smil/playlist.m3u8
+#EXTINF:-1, TV 1000 English
+http://83.218.223.86/live/_definst_/smil:TV1000En.smil/playlist.m3u8
+#EXTINF:-1, AXN Black
+http://83.218.223.86/live/_definst_/smil:AXN_SciFi.smil/playlist.m3u8
+#EXTINF:-1, AXN White
+http://83.218.223.86/live/_definst_/smil:AXN_Crime.smil/playlist.m3u8
+#EXTINF:-1, AMC
+http://83.218.223.86/live/_definst_/smil:MGMen.smil/playlist.m3u8
+#EXTINF:-1,Fox 
+http://83.218.223.86/live/_definst_/smil:Fox_Life.smil/playlist.m3u8
+#EXTINF:-1,HBO Comedy
+http://83.218.223.86/live/_definst_/smil:HBO_Comedy.smil/playlist.m3u8
+#EXTINF:-1,HBO
+http://83.218.223.86/live/_definst_/smil:HBO.smil/playlist.m3u8
+#EXTINF:-1,Cinemax 2
+http://83.218.223.86/live/_definst_/smil:Cinemax_2.smil/playlist.m3u8
+#EXTINF:-1,Cinemax
+http://83.218.223.86/live/_definst_/smil:Cinemax_.smil/playlist.m3u8
+BT Sports ESPN
+http://149.202.85.84:8080/eiSsepn/counter1/index.m3u8
+Boxnation
+http://149.202.207.8:8080/bxoo-nan/counter1/index.m3u8
+Racing UK
+http://149.202.207.8:8080/riskgyou0K/counter1/index.m3u8
+At The Races
+http://149.202.207.8:8080/etyhte-rcs/counter1/index.m3u8
+Star Sports 1
+http://149.202.85.84:8080/seater-sp-1/counter1/index.m3u8
+Star Sports 2
+http://149.202.85.84:8080/seater-sp-2/counter1/index.m3u8
+Star Sports 3
+http://149.202.85.84:8080/seater-sp-3/counter1/index.m3u8
+Star Sports 4
+http://149.202.85.84:8080/seater-sp-4/counter1/index.m3u8
+Fox Sports 1
+http://149.202.85.84:8080/f00cs-sp-IT/counter1/index.m3u8
+Arena Sports 1
+http://149.202.85.84:8080/airoona-1/counter1/index.m3u8
+Arena Sports 2
+http://149.202.85.84:8080/airoona-2/counter1/index.m3u8
+Arena Sports 3
+http://149.202.85.84:8080/airoona-3/counter1/index.m3u8
+Arena Sports 4
+http://149.202.85.84:8080/airoona-3/counter1/index.m3u8
+Arena Sports 5
+http://149.202.85.84:8080/airoona-5/counter1/index.m3u8
+Sentanta sports
+http://149.202.207.8:8080/bhensp-11/counter1/index.m3u8
+Premier Sports
+http://149.202.85.84:8080/peemrie/counter1/index.m3u8
+Sky Sports News
+http://149.202.85.84:8080/syjkiy-sp-ns/counter1/index.m3u8
+Sky Sports 1
+http://149.202.207.8:8080/syjkiy-1/counter2/index.m3u8
+Sky Sports 2
+http://149.202.207.8:8080/syjkiy-2/counter2/index.m3u8
+Sky Sports 3
+http://149.202.85.84:8080/syjkiy-3/counter1/index.m3u8
+Sky Sports 4
+http://149.202.85.84:8080/syjkiy-4/counter1/index.m3u8
+Sky Sports 5
+http://149.202.85.84:8080/syjkiy-5/counter1/index.m3u8
+BT Sports 1
+http://149.202.207.8:8080/beETy-1/counter1/index.m3u8
+BT Sports 2
+http://149.202.85.84:8080/beETy-2/counter2/index.m3u8
+#EXTINF:-1,Formula 1
+http://191.101.228.168/tp.php/playlist.m3u8?id=1647
+#EXTINF:-1,ESPN
+http://191.101.228.168/tp.php/playlist.m3u8?id=1671
+#EXTINF:-1,ESPN 2
+http://191.101.228.168/tp.php/playlist.m3u8?id=1675
+#EXTINF:-1,ESPN 3
+http://191.101.228.168/tp.php/playlist.m3u8?id=1655
+#EXTINF:-1,ESPN +
+http://191.101.228.168/tp.php/playlist.m3u8?id=1651
+#EXTINF:-1,Fox Sports
+http://191.101.228.168/tp.php/playlist.m3u8?id=1659
+#EXTINF:-1,Fox Sports 2
+http://191.101.228.168/tp.php/playlist.m3u8?id=1663
+#EXTINF:-1,Eurosport 1 
+http://5.149.64.8:9999/udp/239.3.3.1:1237?auth=login:pass
+#EXTINF:-1,Eurosport 2
+http://5.149.64.8:9999/udp/239.3.3.2:1237?auth=login:pass
+#EXTINF:-1,Arenasport 1
+http://5.149.64.8:9999/udp/239.3.4.17:1234?auth=login:pass
+#EXTINF:-1,Arenasport 2
+http://5.149.64.8:9999/udp/239.3.4.18:1234?auth=login:pass
+#EXTINF:-1,Arenasport 3
+http://5.149.64.8:9999/udp/239.3.4.19:1234?auth=login:pass
+#EXTINF:-1,Arenasport 4
+http://5.149.64.8:9999/udp/239.3.4.20:1234?auth=login:pass
+
+#EXTINF:-1,SITEL
+http://fms.zulu.mk:554/zulu/sitel_1/playlist_b125000_w1132785237.m3u8? 
+#EXTINF:-1,TELMA
+http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8? 
+#EXTINF:-1,MPT1
+http://fms.zulu.mk:554/zulu/mtv1_1/playlist_b125000_w1132785237.m3u8? 
+#EXTINF:-1,Jug TV 
+rtmp://84.20.77.50/live/livestream1 
+#EXTINF:-1,Alfa TV BG
+#EXTINF:-1,24 Vesti 
+mms://62.162.58.55/24vesti 
+#EXTINF:0,СИТЕЛ Телевизија
+http://fms.zulu.mk:1935/zulu/sitel_2/playlist.m3u8
+#EXTINF:0,КАНАЛ 5 Телевизија
+http://fms.zulu.mk:1935/zulu/kanal5_2/playlist.m3u8?wowzasessionid=2097540408
+#EXTINF:0,КАНАЛ 5+ Телевизија
+http://fms.zulu.mk:1935/zulu/kanal5plus_2/playlist.m3u8
+#EXTINF:0,АЛФА Телевизија
+http://fms.zulu.mk:1935/zulu/alfa_1/playlist.m3u8
+#EXTINF:0,ТЕЛМА Телевизија
+http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8
+#EXTINF:0,24 ВЕСТИ
+mms://62.162.58.55/24vesti
+#EXTINF:0,ШУТЕЛ Телевизија
+http://fms.zulu.mk:1935/zulu/shutel_2/playlist.m3u8
+#EXTINF:0,НАША ТВ Телевизија
+http://fms.zulu.mk:1935/zulu/nashatv_2/playlist.m3u8
+#EXTINF:0,КАНАЛ 8 Телевизија
+mms://62.162.58.55/TVkanal8
+#EXTINF:0,КАНАЛ21 Телевизија
+mms://62.162.58.55/TVkanal21
+#EXTINF:-1,SITEL
+http://fms.zulu.mk:554/zulu/sitel_1/playlist_b125000_w1132785237.m3u8? 
+#EXTINF:-1,TELMA
+http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8? 
+#EXTINF:-1,MPT1
+http://fms.zulu.mk:554/zulu/mtv1_1/playlist_b125000_w1132785237.m3u8? 
+#EXTINF:-1 group-title="HRVATSKA", SLAVONIJA I BARANJA TV 
+mms://89.201.164.181/stv 
+#EXTINF:-1 group-title="HRVATSKA", TV STUDENT 
+rtmp://213.202.73.202/iskon/studentska_b2.stream 
+#EXTINF:-1 group-title="MAKEDONIJA", 24VESTI 
+mms://62.162.58.55/24vesti 
+rtmp://ataka.tv/live/live 
+#EXTINF:-1 group-title="MAKEDONIJA", TV KANAL 8 
+mms://62.162.58.55/TVKanal8 
+
  #EXTINF:-1 group-title="Sports",Japan:SPORT 2
 http://203.162.235.45:17931
 #EXTINF:-1 group-title="Sports",Japan:SPORT 3
