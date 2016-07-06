@@ -7,6 +7,152 @@ http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 rtmp://46.105.209.61/live/live /vip-hd-tv.sdp
 #EXTINF:1, VIP HD
 http://46.105.209.61/live/live /vip-hd-tv
+#EXTINF:-1,BT Sports ESPN
+http://149.202.85.84:8080/eiSsepn/counter1/index.m3u8
+#EXTINF:-1,Boxnation
+http://149.202.207.8:8080/bxoo-nan/counter1/index.m3u8
+#EXTINF:-1,Racing UK
+http://149.202.207.8:8080/riskgyou0K/counter1/index.m3u8
+#EXTINF:-1,At The Races
+http://149.202.207.8:8080/etyhte-rcs/counter1/index.m3u8
+#EXTINF:-1,Star Sports 1
+http://149.202.85.84:8080/seater-sp-1/counter1/index.m3u8
+#EXTINF:-1,Star Sports 2
+http://149.202.85.84:8080/seater-sp-2/counter1/index.m3u8
+#EXTINF:-1,Star Sports 3
+http://149.202.85.84:8080/seater-sp-3/counter1/index.m3u8
+#EXTINF:-1,Star Sports 4
+http://149.202.85.84:8080/seater-sp-4/counter1/index.m3u8
+#EXTINF:-1,Fox Sports 1
+http://149.202.85.84:8080/f00cs-sp-IT/counter1/index.m3u8
+#EXTINF:-1,Arena Sports 1
+http://149.202.85.84:8080/airoona-1/counter1/index.m3u8
+#EXTINF:-1,Arena Sports 2
+http://149.202.85.84:8080/airoona-2/counter1/index.m3u8
+#EXTINF:-1,Arena Sports 3
+http://149.202.85.84:8080/airoona-3/counter1/index.m3u8
+#EXTINF:-1,Arena Sports 4
+http://149.202.85.84:8080/airoona-3/counter1/index.m3u8
+#EXTINF:-1,Arena Sports 5
+http://149.202.85.84:8080/airoona-5/counter1/index.m3u8
+#EXTINF:-1,Sentanta sports
+http://149.202.207.8:8080/bhensp-11/counter1/index.m3u8
+#EXTINF:-1,Premier Sports
+http://149.202.85.84:8080/peemrie/counter1/index.m3u8
+#EXTINF:-1,Sky Sports News
+http://149.202.85.84:8080/syjkiy-sp-ns/counter1/index.m3u8
+#EXTINF:-1,Sky Sports 1
+http://149.202.207.8:8080/syjkiy-1/counter2/index.m3u8
+#EXTINF:-1,Sky Sports 2
+http://149.202.207.8:8080/syjkiy-2/counter2/index.m3u8
+#EXTINF:-1,Sky Sports 3
+http://149.202.85.84:8080/syjkiy-3/counter1/index.m3u8
+#EXTINF:-1,Sky Sports 4
+http://149.202.85.84:8080/syjkiy-4/counter1/index.m3u8
+#EXTINF:-1,Sky Sports 5
+http://149.202.85.84:8080/syjkiy-5/counter1/index.m3u8
+#EXTINF:-1,BT Sports 1
+http://149.202.207.8:8080/beETy-1/counter1/index.m3u8
+#EXTINF:-1,BT Sports 2
+http://149.202.85.84:8080/beETy-2/counter2/index.m3u8
+#EXTINF:-1,Formula 1
+http://191.101.228.168/tp.php/playlist.m3u8?id=1647
+#EXTINF:-1,ESPN
+http://191.101.228.168/tp.php/playlist.m3u8?id=1671
+#EXTINF:-1,ESPN 2
+http://191.101.228.168/tp.php/playlist.m3u8?id=1675
+#EXTINF:-1,ESPN 3
+http://191.101.228.168/tp.php/playlist.m3u8?id=1655
+#EXTINF:-1,ESPN +
+http://191.101.228.168/tp.php/playlist.m3u8?id=1651
+#EXTINF:-1,Fox Sports
+http://191.101.228.168/tp.php/playlist.m3u8?id=1659
+#EXTINF:-1,Fox Sports 2
+http://191.101.228.168/tp.php/playlist.m3u8?id=1663
+#EXTINF:-1,Eurosport 1
+http://5.149.64.8:9999/udp/239.3.3.1:1237?auth=login:pass
+#EXTINF:-1,Eurosport 2
+http://5.149.64.8:9999/udp/239.3.3.2:1237?auth=login:pass
+#EXTINF:-1,Arenasport 1
+http://5.149.64.8:9999/udp/239.3.4.17:1234?auth=login:pass
+#EXTINF:-1,Arenasport 2
+http://5.149.64.8:9999/udp/239.3.4.18:1234?auth=login:pass
+#EXTINF:-1,Arenasport 3
+http://5.149.64.8:9999/udp/239.3.4.19:1234?auth=login:pass
+#EXTINF:-1,Arenasport 4
+http://5.149.64.8:9999/udp/239.3.4.20:1234?auth=login:pass
+#EXTINF:-1,Canal 9
+http://87.121.34.5:8082/udp/239.100.202.4:1234
+#EXTINF:-1,Viasat Golf
+http://87.121.34.5:8082/udp/239.100.202.8:1234
+#EXTINF:-1,TV3 Sport 1
+http://87.121.34.5:8082/udp/239.100.202.9:1234
+#EXTINF:-1,TV3 +
+http://87.121.34.5:8082/udp/239.100.202.13:1234
+#EXTINF:-1,TV4 Film
+http://87.121.34.5:8082/udp/239.100.202.19:1234
+#EXTINF:-1,TV2 Bliss
+http://87.121.34.5:8082/udp/239.100.202.26:1234
+#EXTINF:-1,NRK2
+http://87.121.34.5:8082/udp/239.100.202.30:1234
+#EXTINF:-1,TV2
+http://87.121.34.5:8082/udp/239.100.202.27:1234
+#EXTINF:-1,Kanal 5 Stockholm
+http://87.121.34.5:8082/udp/239.100.202.34:1234
+#EXTINF:-1,Eurosport Scandinavia
+http://87.121.34.5:8082/udp/239.100.202.36:1234
+#EXTINF:-1,Discovery
+http://87.121.34.5:8082/udp/239.100.202.38:1234
+#EXTINF:-1,SVT24 / B
+http://87.121.34.5:8082/udp/239.100.202.57:1234
+#EXTINF:-1,Ictimai TV
+http://87.121.34.5:8082/udp/239.100.202.202:1234
+#EXTINF:-1,Space TV
+http://87.121.34.5:8082/udp/239.100.202.207:1234
+#EXTINF:-1,TRT 1
+http://87.121.34.5:8082/udp/239.100.202.210:1234
+#EXTINF:-1,TRT 3 Spor
+http://87.121.34.5:8082/udp/239.100.202.211:1234
+#EXTINF:-1,Star TV
+http://87.121.34.5:8082/udp/239.100.202.216:1234
+#EXTINF:-1,TV2
+http://87.121.34.5:8082/udp/239.100.202.220:1234
+#EXTINF:-1,Akilli TV
+http://87.121.34.5:8082/udp/239.100.202.234:1234
+#EXTINF:-1,TV8
+http://87.121.34.5:8082/udp/239.100.202.237:1234
+#EXTINF:-1,RTR Planeta
+http://87.121.34.5:8082/udp/239.100.202.249:1234
+#EXTINF:-1,Sky Movies Action & Adventure
+http://87.121.34.5:8082/udp/239.100.0.109:1234?zgs?
+#EXTINF:-1,Sky Movies Comedy
+http://87.121.34.5:8082/udp/239.100.0.105:1234?zgs?
+#EXTINF:-1,Sky Movies Crime & Thriller
+http://87.121.34.5:8082/udp/239.100.0.107:1234?zgs?
+#EXTINF:-1,Sky Movies Drama & Romance
+http://87.121.34.5:8082/udp/239.100.0.108:1234?zgs?
+#EXTINF:-1,Sky Movies Family
+http://87.121.34.5:8082/udp/239.100.0.110:1234?zgs?
+#EXTINF:-1,Sky Movies Premiere
+http://87.121.34.5:8082/udp/239.100.0.104:1234?zgs?
+#EXTINF:-1,Sky Movies Sci-Fi & Horror
+http://87.121.34.5:8082/udp/239.100.0.106:1234?zgs?
+#EXTINF:-1,Sky News
+http://87.121.34.5:8082/udp/239.100.0.134:1234?zgs?
+#EXTINF:-1,Sky One
+http://87.121.34.5:8082/udp/239.100.0.119:1234?zgs?
+#EXTINF:-1,Sky Sports 1
+http://87.121.34.5:8082/udp/239.100.0.111:1234?zgs?
+#EXTINF:-1,Sky Sports 2
+http://87.121.34.5:8082/udp/239.100.0.135:1234?zgs?
+#EXTINF:-1,Sky Sports 3
+http://87.121.34.5:8082/udp/239.100.0.142:1234?zgs?
+#EXTINF:-1,Sky Sports 4
+http://87.121.34.5:8082/udp/239.100.0.144:1234?zgs?
+#EXTINF:-1,Sky Sports Darts
+http://87.121.34.5:8082/udp/239.100.0.143:1234?zgs?
+#EXTINF:-1,Sky Sports News
+http://87.121.34.5:8082/udp/239.100.0.145:1234?zgs?
 
 -----------------------pink----------------------------
 #EXTINF:0,#EXTINF:-1,Service01
