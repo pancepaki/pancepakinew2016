@@ -330,3 +330,52 @@ http://fra1.ddns.net:97/live/miro/miro/46.m3u8
 http://fra1.ddns.net:97/live/miro/miro/102.m3u8
 #EXTINF:-1,BN BIH
 http://fra1.ddns.net:97/live/miro/miro/6.m3u8
+----SPORT-----
+#EXTINF:-1,BT Sports ESPN
+http://149.202.85.84:8080/eiSsepn/counter1/index.m3u8
+#EXTINF:-1,Boxnation
+http://149.202.207.8:8080/bxoo-nan/counter1/index.m3u8
+#EXTINF:-1,Racing UK
+http://149.202.207.8:8080/riskgyou0K/counter1/index.m3u8
+#EXTINF:-1,At The Races
+http://149.202.207.8:8080/etyhte-rcs/counter1/index.m3u8
+#EXTINF:-1,Star Sports 1
+http://149.202.85.84:8080/seater-sp-1/counter1/index.m3u8
+#EXTINF:-1,Star Sports 2
+http://149.202.85.84:8080/seater-sp-2/counter1/index.m3u8
+#EXTINF:-1,Star Sports 3
+http://149.202.85.84:8080/seater-sp-3/counter1/index.m3u8
+#EXTINF:-1,Star Sports 4
+http://149.202.85.84:8080/seater-sp-4/counter1/index.m3u8
+#EXTINF:-1,Fox Sports 1
+http://149.202.85.84:8080/f00cs-sp-IT/counter1/index.m3u8
+#EXTINF:-1,Arena Sports 1
+http://149.202.85.84:8080/airoona-1/counter1/index.m3u8
+#EXTINF:-1,Arena Sports 2
+http://149.202.85.84:8080/airoona-2/counter1/index.m3u8
+#EXTINF:-1,Arena Sports 3
+http://149.202.85.84:8080/airoona-3/counter1/index.m3u8
+#EXTINF:-1,Arena Sports 4
+http://149.202.85.84:8080/airoona-3/counter1/index.m3u8
+#EXTINF:-1,Arena Sports 5
+http://149.202.85.84:8080/airoona-5/counter1/index.m3u8
+#EXTINF:-1,Sentanta sports
+http://149.202.207.8:8080/bhensp-11/counter1/index.m3u8
+#EXTINF:-1,Premier Sports
+http://149.202.85.84:8080/peemrie/counter1/index.m3u8
+#EXTINF:-1,Sky Sports News
+http://149.202.85.84:8080/syjkiy-sp-ns/counter1/index.m3u8
+#EXTINF:-1,Sky Sports 1
+http://149.202.207.8:8080/syjkiy-1/counter2/index.m3u8
+#EXTINF:-1,Sky Sports 2
+http://149.202.207.8:8080/syjkiy-2/counter2/index.m3u8
+#EXTINF:-1,Sky Sports 3
+http://149.202.85.84:8080/syjkiy-3/counter1/index.m3u8
+#EXTINF:-1,Sky Sports 4
+http://149.202.85.84:8080/syjkiy-4/counter1/index.m3u8
+#EXTINF:-1,Sky Sports 5
+http://149.202.85.84:8080/syjkiy-5/counter1/index.m3u8
+#EXTINF:-1,BT Sports 1
+http://149.202.207.8:8080/beETy-1/counter1/index.m3u8
+#EXTINF:-1,BT Sports 2
+http://149.202.85.84:8080/beETy-2/counter2/index.m3u8
