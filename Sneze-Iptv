@@ -1,0 +1,122 @@
+#EXTM3U
+#EXTINF:-1,JUGOTON TV
+http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/playlist.m3u8
+#EXTINF:-1,CMC
+http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
+#EXTINF:-1,RTL2
+http://fra1.ddns.net:97/live/amir/amir/22.m3u8
+#EXTINF:-1,RTL KOCKICA
+http://fra1.ddns.net:97/live/amir/amir/23.m3u8
+#EXTINF:-1,RTL
+http://fra1.ddns.net:97/live/amir/amir/24.m3u8
+#EXTINF:-1,Prva TV
+http://fra1.ddns.net:97/live/amir/amir/97.m3u8
+#EXTINF:-1,RTRS Plus
+http://fra1.ddns.net:97/live/amir/amir/21.m3u8
+#EXTINF:-1,RTRS
+http://fra1.ddns.net:97/live/amir/amir/2.m3u8
+#EXTINF:-1,RTRS Plus
+http://fra1.ddns.net:97/live/amir/amir/21.m3u8
+#EXTINF:-1,RTRS
+http://fra1.ddns.net:97/live/amir/amir/2.m3u8
+#EXTINF:-1,RTL2
+http://fra1.ddns.net:97/live/amir/amir/22.m3u8
+#EXTINF:-1,RTL
+http://fra1.ddns.net:97/live/amir/amir/24.m3u8
+#EXTINF:-1,Prva TV
+http://fra1.ddns.net:97/live/amir/amir/97.m3u8
+#EXTINF:-1,RTL2
+http://fra1.ddns.net:97/live/amir/amir/22.m3u8
+#EXTINF:-1,OBN
+http://fra1.ddns.net:97/live/josip/josip/46.m3u8
+#EXTINF:-1,B92
+http://fra1.ddns.net:97/live/josip/josip/102.m3u8
+#EXTINF:-1,NAT GEO WILD - K
+http://fra1.ddns.net:97/live/josip/josip/440.m3u8
+#EXTINF:-1,BN BIH
+http://fra1.ddns.net:97/live/josip/josip/6.m3u8
+#EXTINF:-1,DM SAT
+http://fra1.ddns.net:97/live/josip/josip/225.m3u8
+#EXTINF:-1,TV7
+http://fra1.ddns.net:97/live/amir/amir/219.m3u8
+#EXTINF:-1,TV1
+http://fra1.ddns.net:97/live/amir/amir/228.m3u8
+#EXTINF:-1,TV SLON
+http://fra1.ddns.net:97/live/amir/amir/229.m3u8
+#EXTINF:-1,TV MOST
+http://fra1.ddns.net:97/live/amir/amir/253.m3u8
+#EXTINF:-1,TK MI
+http://fra1.ddns.net:97/live/amir/amir/207.m3u8
+#EXTINF:-1,SVET PLUS
+http://fra1.ddns.net:97/live/amir/amir/15.m3u8
+#EXTINF:-1,SREMSKA TV
+http://fra1.ddns.net:97/live/amir/amir/251.m3u8
+#EXTINF:-1,SMART TV
+http://fra1.ddns.net:97/live/amir/amir/226.m3u8
+
+#EXTINF:-1,TV7
+http://fra1.ddns.net:97/live/amir/amir/219.m3u8
+#EXTINF:-1,TV1
+http://fra1.ddns.net:97/live/amir/amir/228.m3u8
+#EXTINF:-1,TV SLON
+http://fra1.ddns.net:97/live/amir/amir/229.m3u8
+#EXTINF:-1,TV MOST
+http://fra1.ddns.net:97/live/amir/amir/253.m3u8
+#EXTINF:-1,TV HEMA
+http://fra1.ddns.net:97/live/amir/amir/224.m3u8
+#EXTINF:-1,TK MI
+http://fra1.ddns.net:97/live/amir/amir/207.m3u8
+#EXTINF:-1,SVET PLUS
+http://fra1.ddns.net:97/live/amir/amir/15.m3u8
+#EXTINF:-1,STV
+http://fra1.ddns.net:97/live/amir/amir/17.m3u8
+#EXTINF:-1,SREMSKA TV
+http://fra1.ddns.net:97/live/amir/amir/251.m3u8
+#EXTINF:-1,SMART TV
+http://fra1.ddns.net:97/live/amir/amir/226.m3u8
+#EXTINF:-1,SANTOS
+http://fra1.ddns.net:97/live/amir/amir/218.m3u8
+#EXTINF:-1,RTV7
+http://fra1.ddns.net:97/live/amir/amir/241.m3u8
+#EXTINF:-1,RTV1
+http://fra1.ddns.net:97/live/amir/amir/255.m3u8
+#EXTINF:-1,RTV ZIVINICE
+http://fra1.ddns.net:97/live/amir/amir/222.m3u8
+#EXTINF:-1,RTV CG
+http://fra1.ddns.net:97/live/amir/amir/239.m3u8
+#EXTINF:-1,RTV 2
+http://fra1.ddns.net:97/live/amir/amir/256.m3u8
+#EXTINF:-1,RTS3
+http://fra1.ddns.net:97/live/amir/amir/257.m3u8
+#EXTINF:-1,RTS2
+http://fra1.ddns.net:97/live/amir/amir/258.m3u8
+#EXTINF:-1,RTS1
+http://fra1.ddns.net:97/live/amir/amir/20.m3u8
+#EXTINF:-1,SANTOS
+http://fra1.ddns.net:97/live/amir/amir/218.m3u8
+#EXTINF:-1,RTV7
+http://fra1.ddns.net:97/live/amir/amir/241.m3u8
+#EXTINF:-1,RTV1
+http://fra1.ddns.net:97/live/amir/amir/255.m3u8
+#EXTINF:-1,RTV ZIVINICE
+http://fra1.ddns.net:97/live/amir/amir/222.m3u8
+#EXTINF:-1,RTV 2
+http://fra1.ddns.net:97/live/amir/amir/256.m3u8
+#EXTINF:-1,RTS3
+http://fra1.ddns.net:97/live/amir/amir/257.m3u8
+#EXTINF:-1,RTS2
+http://fra1.ddns.net:97/live/amir/amir/258.m3u8
+#EXTINF:-1,RTS1
+http://fra1.ddns.net:97/live/amir/amir/20.m3u8
+#EXTINF:-1,SREMSKA TV
+http://fra1.ddns.net:97/live/josip/josip/251.m3u8
+#EXTINF:-1,RTS3
+http://fra1.ddns.net:97/live/josip/josip/257.m3u8
+#EXTINF:-1,BN BIH
+http://fra1.ddns.net:97/live/miro/miro/6.m3u8
+#EXTINF:-1,OBN
+http://fra1.ddns.net:97/live/miro/miro/46.m3u8
+#EXTINF:-1,B92
+http://fra1.ddns.net:97/live/miro/miro/102.m3u8
+#EXTINF:-1,BN BIH
+http://fra1.ddns.net:97/live/miro/miro/6.m3u8
