@@ -7,6 +7,16 @@ http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 rtmp://46.105.209.61/live/live /vip-hd-tv.sdp
 #EXTINF:1, VIP HD
 http://46.105.209.61/live/live /vip-hd-tv
+#EXTINF:0,#EXTINF:-1,Erotic1
+http://5.149.64.8:9999/udp/238.0.64.182:18027?auth=login:pass
+#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18028?auth=login:pass
+http://5.149.64.8:9999/udp/238.0.64.182:18029?auth=login:pass
+#EXTINF:0,#EXTINF:-1,EROTIC 3
+http://5.149.64.8:9999/udp/239.2.105.6:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,EROTIC 2
+http://5.149.64.8:9999/udp/239.2.105.7:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,EROTIC 4
+http://5.149.64.8:9999/udp/239.3.3.19:1237?auth=login:pass
 #EXTINF:-1,BT Sports ESPN
 http://149.202.85.84:8080/eiSsepn/counter1/index.m3u8
 #EXTINF:-1,Boxnation
