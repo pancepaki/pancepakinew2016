@@ -35,7 +35,7 @@ http://fra1.ddns.net:97/live/josip/josip/440.m3u8
 http://fra1.ddns.net:97/live/josip/josip/6.m3u8
 #EXTINF:-1,DM SAT
 http://fra1.ddns.net:97/live/josip/josip/225.m3u8
--------------------------PINK PAKET -----------------------------------
+------------PINK PAKET --------------------
 #EXTINF:0,#EXTINF:-1,HAYAT HD
 http://5.149.64.8:9999/udp/239.3.5.221:1234?auth=login:pass
 #EXTINF:0,#EXTINF:-1,KC3
@@ -379,3 +379,17 @@ http://149.202.85.84:8080/syjkiy-5/counter1/index.m3u8
 http://149.202.207.8:8080/beETy-1/counter1/index.m3u8
 #EXTINF:-1,BT Sports 2
 http://149.202.85.84:8080/beETy-2/counter2/index.m3u8
+#EXTINF:-1,Star Sports 1
+http://149.202.85.84:8080/seater-sp-1/counter1/index.m3u8
+#EXTINF:-1,Star Sports 2
+http://149.202.85.84:8080/seater-sp-2/counter1/index.m3u8
+#EXTINF:-1,Star Sports 3
+http://149.202.85.84:8080/seater-sp-3/counter1/index.m3u8
+#EXTINF:-1,Star Sports 4
+http://149.202.85.84:8080/seater-sp-4/counter1/index.m3u8
+#EXTINF:-1,МАТЧ!ФУТБОЛ 3
+http://151.249.186.101:34040/udp/224.200.246.43:3527
+#EXTINF:-1,МАТЧ!ФУТБОЛ 1
+http://151.249.186.101:34040/udp/224.200.246.45:3527
+#EXTINF:-1,55 Viasat Sport
+http://176.112.96.17:8000/play/a01j
