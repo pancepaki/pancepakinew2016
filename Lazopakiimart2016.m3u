@@ -7,6 +7,217 @@ http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 rtmp://46.105.209.61/live/live /vip-hd-tv.sdp
 #EXTINF:1, VIP HD
 http://46.105.209.61/live/live /vip-hd-tv
+#EXTINF:0,#EXTINF:-1,HAYAT HD
+http://5.149.64.8:9999/udp/239.3.5.221:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,KC3
+http://5.149.64.8:9999/udp/239.2.107.2:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,KC1
+http://5.149.64.8:9999/udp/239.2.107.3:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,BN
+http://5.149.64.8:9999/udp/239.2.107.4:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,DUGA
+http://5.149.64.8:9999/udp/239.2.107.5:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK PARADA
+http://5.149.64.8:9999/udp/239.2.107.10:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,BRAVO MUSIC
+http://5.149.64.8:9999/udp/239.2.107.12:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK STYLE
+http://5.149.64.8:9999/udp/239.2.107.13:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK WESTERN
+http://5.149.64.8:9999/udp/239.2.107.14:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK MUSIC 2
+http://5.149.64.8:9999/udp/239.2.107.15:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK HITS
+http://5.149.64.8:9999/udp/239.2.107.16:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK CLASSIC
+http://5.149.64.8:9999/udp/239.2.107.17:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,EUROSPORT 1
+http://5.149.64.8:9999/udp/239.3.3.1:1237?auth=login:pass
+#EXTINF:0,#EXTINF:-1,EUROSPORT 2
+http://5.149.64.8:9999/udp/239.3.3.2:1237?auth=login:pass
+#EXTINF:0,#EXTINF:-1,FACE TV
+http://5.149.64.8:9999/udp/239.3.3.3:1237?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK 1
+http://5.149.64.8:9999/udp/239.3.3.4:1237?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK 3
+http://5.149.64.8:9999/udp/239.3.3.5:1237?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK 2
+http://5.149.64.8:9999/udp/239.3.3.6:1237?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK THRILLER
+http://5.149.64.8:9999/udp/239.3.3.7:1237?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK MISTERY
+http://5.149.64.8:9999/udp/239.3.3.8:1237?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK ROMANCE
+http://5.149.64.8:9999/udp/239.3.3.9:1237?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK SCI-FI&FANTASY
+http://5.149.64.8:9999/udp/239.3.3.10:1237?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK PLUS
+http://5.149.64.8:9999/udp/239.3.3.11:1237?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK HORROR
+http://5.149.64.8:9999/udp/239.3.3.13:1237?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK SOAP
+http://5.149.64.8:9999/udp/239.3.3.14:1237?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK PEDIA
+http://5.149.64.8:9999/udp/239.3.3.15:1237?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK REALITY
+http://5.149.64.8:9999/udp/239.3.3.16:1237?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK HITS 2
+http://5.149.64.8:9999/udp/239.3.3.17:1237?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK KONCERT
+http://5.149.64.8:9999/udp/239.3.3.18:1237?auth=login:pass
+#EXTINF:0,#EXTINF:-1,BN
+http://5.149.64.8:9999/udp/239.3.3.21:1237?auth=login:pass
+#EXTINF:0,#EXTINF:-1,HAYAT PLUS
+http://5.149.64.8:9999/udp/239.3.5.2:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,HAYAT FOLK
+http://5.149.64.8:9999/udp/239.3.5.3:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,HAYATOVCI
+http://5.149.64.8:9999/udp/239.3.5.4:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,F
+http://5.149.64.8:9999/udp/239.3.5.5:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,DMSAT
+http://5.149.64.8:9999/udp/239.3.5.6:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,ALJEZERA BALKAN
+http://5.149.64.8:9999/udp/239.3.5.7:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,HRT 1
+http://5.149.64.8:9999/udp/239.3.4.2:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,HRT 2
+http://5.149.64.8:9999/udp/239.3.4.3:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK COMEDY
+http://5.149.64.8:9999/udp/239.3.4.4:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK PREMIUM
+http://5.149.64.8:9999/udp/239.3.4.5:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK WORLD
+http://5.149.64.8:9999/udp/239.3.4.6:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK&ROLL
+http://5.149.64.8:9999/udp/239.3.4.7:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,RTS SATELIT
+http://5.149.64.8:9999/udp/239.3.4.8:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,BHT 1
+http://5.149.64.8:9999/udp/239.3.4.9:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,TK
+http://5.149.64.8:9999/udp/239.3.4.10:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,RTS1
+http://5.149.64.8:9999/udp/239.3.4.12:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,RTL
+http://5.149.64.8:9999/udp/239.3.4.14:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,RTL2
+http://5.149.64.8:9999/udp/239.3.4.15:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,ARENA SPORT 1
+http://5.149.64.8:9999/udp/239.3.4.17:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,ARENA SPORT 2
+http://5.149.64.8:9999/udp/239.3.4.18:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,ARENA SPORT 3
+http://5.149.64.8:9999/udp/239.3.4.19:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,ARENA SPORT 4
+http://5.149.64.8:9999/udp/239.3.4.20:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK RS
+http://5.149.64.8:9999/udp/239.3.4.21:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,FIGHT CLUB
+http://5.149.64.8:9999/udp/239.3.4.24:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK KIDS
+http://5.149.64.8:9999/udp/239.3.4.25:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,HRT 1
+http://5.149.64.8:9999/udp/239.3.4.2:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,HRT2
+http://5.149.64.8:9999/udp/239.3.4.3:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK COMEDY
+http://5.149.64.8:9999/udp/239.3.4.4:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK PREMIUM
+http://5.149.64.8:9999/udp/239.3.4.5:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK WORLD
+http://5.149.64.8:9999/udp/239.3.4.6:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK&ROLL
+http://5.149.64.8:9999/udp/239.3.4.7:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,RTS SATELIT
+http://5.149.64.8:9999/udp/239.3.4.8:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,BHT 1
+http://5.149.64.8:9999/udp/239.3.4.9:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,TK
+http://5.149.64.8:9999/udp/239.3.4.10:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,RTS 1
+http://5.149.64.8:9999/udp/239.3.4.12:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,RTL
+http://5.149.64.8:9999/udp/239.3.4.14:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,RTL 2
+http://5.149.64.8:9999/udp/239.3.4.15:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,ARENA SPORT 1
+http://5.149.64.8:9999/udp/239.3.4.17:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,ARENA SPORT 2
+http://5.149.64.8:9999/udp/239.3.4.18:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,ARENA SPORT 3
+http://5.149.64.8:9999/udp/239.3.4.19:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,ARENA SPORT 4
+http://5.149.64.8:9999/udp/239.3.4.20:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,SOS TV
+http://5.149.64.8:9999/udp/239.3.4.21:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,FIGHT CLUB
+http://5.149.64.8:9999/udp/239.3.4.24:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK KIDS
+http://5.149.64.8:9999/udp/239.3.4.25:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,NOVA
+http://5.149.64.8:9999/udp/239.0.157.15:1003?auth=login:pass
+#EXTINF:0,#EXTINF:-1,HAYAT MUSIC
+http://5.149.64.8:9999/udp/239.3.101.27:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,NATIONAL GEOGRAFIC
+http://5.149.64.8:9999/udp/239.3.101.28:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,ALFA TV
+http://5.149.64.8:9999/udp/238.1.200.3:10003?auth=login:pass
+#EXTINF:0,#EXTINF:-1,ALFA TV
+http://5.149.64.8:9999/udp/238.1.200.3:10003?auth=login:pass
+#EXTINF:0,#EXTINF:-1,BN
+http://5.149.64.8:9999/udp/238.1.35.36:1200?auth=login:pass
+#EXTINF:0,#EXTINF:-1,RTL KOCKICA
+http://5.149.64.8:9999/udp/238.1.35.41:1200?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK THRILLER
+http://5.149.64.8:9999/udp/238.1.35.47:1200?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK SERIJE
+http://5.149.64.8:9999/udp/238.1.35.48:1200?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK KUVAR
+http://5.149.64.8:9999/udp/238.1.35.49:1200?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK KIDS
+http://5.149.64.8:9999/udp/238.1.35.50:1200?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK SHOW
+http://5.149.64.8:9999/udp/238.1.35.51:1200?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK ZABAVA
+http://5.149.64.8:9999/udp/239.2.105.1:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK FILM
+http://5.149.64.8:9999/udp/239.2.105.2:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK ACTION
+http://5.149.64.8:9999/udp/239.2.105.3:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK FAMILY
+http://5.149.64.8:9999/udp/239.2.105.4:1234?auth=login:pass
+#EXTINF:0,#EXTINF:-1,PINK FOLK 2
+http://5.149.64.8:9999/udp/239.2.105.8:1234?auth=login:pass
+#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18030?auth=login:pass
+http://5.149.64.8:9999/udp/238.0.64.182:18031?auth=login:pass
+#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18032?auth=login:pass
+http://5.149.64.8:9999/udp/238.0.64.182:18001?auth=login:pass
+#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18002?auth=login:pass
+http://5.149.64.8:9999/udp/238.0.64.182:18003?auth=login:pass
+#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18004?auth=login:pass
+http://5.149.64.8:9999/udp/238.0.64.182:18005?auth=login:pass
+#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18006?auth=login:pass
+http://5.149.64.8:9999/udp/238.0.64.182:18007?auth=login:pass
+#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18008?auth=login:pass
+http://5.149.64.8:9999/udp/238.0.64.182:18009?auth=login:pass
+#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18010?auth=login:pass
+http://5.149.64.8:9999/udp/238.0.64.182:18011?auth=login:pass
+#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18012?auth=login:pass
+http://5.149.64.8:9999/udp/238.0.64.182:18013?auth=login:pass
+#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18014?auth=login:pass
+http://5.149.64.8:9999/udp/238.0.64.182:18015?auth=login:pass
+#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18016?auth=login:pass
+http://5.149.64.8:9999/udp/238.0.64.182:18018?auth=login:pass
+#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18019?auth=login:pass
+http://5.149.64.8:9999/udp/238.0.64.182:18020?auth=login:pass
+#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18021?auth=login:pass
+http://5.149.64.8:9999/udp/238.0.64.182:18022?auth=login:pass
+#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18023?auth=login:pass
+http://5.149.64.8:9999/udp/238.0.64.182:18024?auth=login:pass
+#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18025?auth=login:pass
+http://5.149.64.8:9999/udp/238.0.64.182:18026?auth=login:pass
+
 #EXTINF:0,#EXTINF:-1,Erotic1
 http://5.149.64.8:9999/udp/238.0.64.182:18027?auth=login:pass
 #EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18028?auth=login:pass
@@ -17,49 +228,7 @@ http://5.149.64.8:9999/udp/239.2.105.6:1234?auth=login:pass
 http://5.149.64.8:9999/udp/239.2.105.7:1234?auth=login:pass
 #EXTINF:0,#EXTINF:-1,EROTIC 4
 http://5.149.64.8:9999/udp/239.3.3.19:1237?auth=login:pass
-#EXTINF:-1,PlayBoy
-http://94.230.112.70:81/udp/239.1.6.39:1234
-#EXTINF:-1,xxxx
-http://94.230.112.70:81/udp/239.1.6.32:1234
-#EXTINF:-1,O-la-la
-http://94.230.112.70:81/udp/239.1.6.34:1234
-#EXTINF:-1,Hustler HD
-http://94.230.112.70:81/udp/239.1.6.35:1234
-#EXTINF:-1,xxx
-http://94.230.112.70:81/udp/239.1.6.33:1234
-#EXTINF:-1,Blue Hustler
-http://94.230.112.70:81/udp/239.1.6.36:1234
 
-
-#EXTINF:-1,Hustler HD
-http://37.192.128.59:81/udp/239.1.6.35:1234
-#EXTINF:-1,Ola-la
-http://37.192.128.59:81/udp/239.1.6.34:1234
-#EXTINF:-1,Blue Hustler
-http://37.192.128.59:81/udp/239.1.6.36:1234
-#EXTINF:-1,Playboy TV
-http://37.192.128.59:81/udp/239.1.6.39:1234
-#EXTINF:-1,Brazzers TV
-http://37.192.128.59:81/udp/239.1.6.40:1234
-#EXTINF:-1,xxx
-http://37.192.128.59:81/udp/239.1.6.32:1234
-#EXTINF:-1,xxx
-http://37.192.128.59:81/udp/239.1.6.33:1234
-
-#EXTINF:-1,xxx
-http://37.194.111.196:81/udp/239.1.6.32:1234
-#EXTINF:-1,xxx
-http://37.194.111.196:81/udp/239.1.6.33:1234
-#EXTINF:-1,O-la-la
-http://37.194.111.196:81/udp/239.1.6.34:1234
-#EXTINF:-1,Hustler HD
-http://37.194.111.196:81/udp/239.1.6.35:1234
-#EXTINF:-1,Hustler
-http://37.194.111.196:81/udp/239.1.6.36:1234
-#EXTINF:-1,Playboy TV
-http://37.194.111.196:81/udp/239.1.6.39:1234
-#EXTINF:-1,Brazzers TV
-http://37.194.111.196:81/udp/239.1.6.40:1234
 #EXTINF:-1,BT Sports ESPN
 http://149.202.85.84:8080/eiSsepn/counter1/index.m3u8
 #EXTINF:-1,Boxnation
@@ -134,306 +303,97 @@ http://5.149.64.8:9999/udp/239.3.4.18:1234?auth=login:pass
 http://5.149.64.8:9999/udp/239.3.4.19:1234?auth=login:pass
 #EXTINF:-1,Arenasport 4
 http://5.149.64.8:9999/udp/239.3.4.20:1234?auth=login:pass
-#EXTINF:-1,Canal 9
-http://87.121.34.5:8082/udp/239.100.202.4:1234
-#EXTINF:-1,Viasat Golf
-http://87.121.34.5:8082/udp/239.100.202.8:1234
-#EXTINF:-1,TV3 Sport 1
-http://87.121.34.5:8082/udp/239.100.202.9:1234
-#EXTINF:-1,TV3 +
-http://87.121.34.5:8082/udp/239.100.202.13:1234
-#EXTINF:-1,TV4 Film
-http://87.121.34.5:8082/udp/239.100.202.19:1234
-#EXTINF:-1,TV2 Bliss
-http://87.121.34.5:8082/udp/239.100.202.26:1234
-#EXTINF:-1,NRK2
-http://87.121.34.5:8082/udp/239.100.202.30:1234
-#EXTINF:-1,TV2
-http://87.121.34.5:8082/udp/239.100.202.27:1234
-#EXTINF:-1,Kanal 5 Stockholm
-http://87.121.34.5:8082/udp/239.100.202.34:1234
-#EXTINF:-1,Eurosport Scandinavia
-http://87.121.34.5:8082/udp/239.100.202.36:1234
-#EXTINF:-1,Discovery
-http://87.121.34.5:8082/udp/239.100.202.38:1234
-#EXTINF:-1,SVT24 / B
-http://87.121.34.5:8082/udp/239.100.202.57:1234
-#EXTINF:-1,Ictimai TV
-http://87.121.34.5:8082/udp/239.100.202.202:1234
-#EXTINF:-1,Space TV
-http://87.121.34.5:8082/udp/239.100.202.207:1234
-#EXTINF:-1,TRT 1
-http://87.121.34.5:8082/udp/239.100.202.210:1234
-#EXTINF:-1,TRT 3 Spor
-http://87.121.34.5:8082/udp/239.100.202.211:1234
-#EXTINF:-1,Star TV
-http://87.121.34.5:8082/udp/239.100.202.216:1234
-#EXTINF:-1,TV2
-http://87.121.34.5:8082/udp/239.100.202.220:1234
-#EXTINF:-1,Akilli TV
-http://87.121.34.5:8082/udp/239.100.202.234:1234
-#EXTINF:-1,TV8
-http://87.121.34.5:8082/udp/239.100.202.237:1234
-#EXTINF:-1,RTR Planeta
-http://87.121.34.5:8082/udp/239.100.202.249:1234
-#EXTINF:-1,Sky Movies Action & Adventure
-http://87.121.34.5:8082/udp/239.100.0.109:1234?zgs?
-#EXTINF:-1,Sky Movies Comedy
-http://87.121.34.5:8082/udp/239.100.0.105:1234?zgs?
-#EXTINF:-1,Sky Movies Crime & Thriller
-http://87.121.34.5:8082/udp/239.100.0.107:1234?zgs?
-#EXTINF:-1,Sky Movies Drama & Romance
-http://87.121.34.5:8082/udp/239.100.0.108:1234?zgs?
-#EXTINF:-1,Sky Movies Family
-http://87.121.34.5:8082/udp/239.100.0.110:1234?zgs?
-#EXTINF:-1,Sky Movies Premiere
-http://87.121.34.5:8082/udp/239.100.0.104:1234?zgs?
-#EXTINF:-1,Sky Movies Sci-Fi & Horror
-http://87.121.34.5:8082/udp/239.100.0.106:1234?zgs?
-#EXTINF:-1,Sky News
-http://87.121.34.5:8082/udp/239.100.0.134:1234?zgs?
-#EXTINF:-1,Sky One
-http://87.121.34.5:8082/udp/239.100.0.119:1234?zgs?
-#EXTINF:-1,Sky Sports 1
-http://87.121.34.5:8082/udp/239.100.0.111:1234?zgs?
-#EXTINF:-1,Sky Sports 2
-http://87.121.34.5:8082/udp/239.100.0.135:1234?zgs?
-#EXTINF:-1,Sky Sports 3
-http://87.121.34.5:8082/udp/239.100.0.142:1234?zgs?
-#EXTINF:-1,Sky Sports 4
-http://87.121.34.5:8082/udp/239.100.0.144:1234?zgs?
-#EXTINF:-1,Sky Sports Darts
-http://87.121.34.5:8082/udp/239.100.0.143:1234?zgs?
-#EXTINF:-1,Sky Sports News
-http://87.121.34.5:8082/udp/239.100.0.145:1234?zgs?
+------------pink---------
+#EXTINF:-1,film+
+http://185.44.118.34:40555/udp/239.1.0.80:4000
 
------------------------pink----------------------------
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.5.221:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.2.107.2:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.2.107.3:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.2.107.4:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.2.107.5:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.2.107.10:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.2.107.12:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.2.107.13:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.2.107.14:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.2.107.15:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.2.107.16:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.2.107.17:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.3.1:1237?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.3.2:1237?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.3.3:1237?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.3.4:1237?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.3.5:1237?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.3.6:1237?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.3.7:1237?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.3.8:1237?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.3.9:1237?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.3.10:1237?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.3.11:1237?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.3.13:1237?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.3.14:1237?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.3.15:1237?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.3.16:1237?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.3.17:1237?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.3.18:1237?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.3.19:1237?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.3.21:1237?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.5.2:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.5.3:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.5.4:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.5.5:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.5.6:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.5.7:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.2:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.3:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.4:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.5:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.6:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.7:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.8:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.9:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.10:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.12:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.13:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.14:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.15:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.17:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.18:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.19:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.20:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.21:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.24:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.25:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.2:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.3:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.4:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.5:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.6:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.7:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.8:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.9:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.10:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.12:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.13:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.14:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.15:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.17:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.18:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.19:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.20:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.21:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.24:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.4.25:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Novi kanal 
-http://5.149.64.8:9999/udp/239.0.157.15:1003?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.101.27:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.3.101.28:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Encoder 3
-http://5.149.64.8:9999/udp/238.1.200.3:10003?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Encoder 3
-http://5.149.64.8:9999/udp/238.1.200.3:10003?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/238.1.35.36:1200?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/238.1.35.38:1200?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/238.1.35.41:1200?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/238.1.35.47:1200?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/238.1.35.48:1200?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/238.1.35.49:1200?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/238.1.35.50:1200?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/238.1.35.51:1200?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.2.105.1:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.2.105.2:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.2.105.3:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.2.105.4:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.2.105.6:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.2.105.7:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Service01
-http://5.149.64.8:9999/udp/239.2.105.8:1234?auth=login:pass
-#EXTINF:0,#EXTINF:-1,Erotic1
-http://5.149.64.8:9999/udp/238.0.64.182:18027?auth=login:pass
-#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18028?auth=login:pass
-http://5.149.64.8:9999/udp/238.0.64.182:18029?auth=login:pass
-#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18030?auth=login:pass
-http://5.149.64.8:9999/udp/238.0.64.182:18031?auth=login:pass
-#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18032?auth=login:pass
-http://5.149.64.8:9999/udp/238.0.64.182:18001?auth=login:pass
-#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18002?auth=login:pass
-http://5.149.64.8:9999/udp/238.0.64.182:18003?auth=login:pass
-#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18004?auth=login:pass
-http://5.149.64.8:9999/udp/238.0.64.182:18005?auth=login:pass
-#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18006?auth=login:pass
-http://5.149.64.8:9999/udp/238.0.64.182:18007?auth=login:pass
-#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18008?auth=login:pass
-http://5.149.64.8:9999/udp/238.0.64.182:18009?auth=login:pass
-#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18010?auth=login:pass
-http://5.149.64.8:9999/udp/238.0.64.182:18011?auth=login:pass
-#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18012?auth=login:pass
-http://5.149.64.8:9999/udp/238.0.64.182:18013?auth=login:pass
-#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18014?auth=login:pass
-http://5.149.64.8:9999/udp/238.0.64.182:18015?auth=login:pass
-#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18016?auth=login:pass
-http://5.149.64.8:9999/udp/238.0.64.182:18018?auth=login:pass
-#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18019?auth=login:pass
-http://5.149.64.8:9999/udp/238.0.64.182:18020?auth=login:pass
-#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18021?auth=login:pass
-http://5.149.64.8:9999/udp/238.0.64.182:18022?auth=login:pass
-#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18023?auth=login:pass
-http://5.149.64.8:9999/udp/238.0.64.182:18024?auth=login:pass
-#EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18025?auth=login:pass
-http://5.149.64.8:9999/udp/238.0.64.182:18026?auth=login:pass
+#EXTINF:-1,F+live
+http://185.44.118.34:40555/udp/239.1.0.81:4000
+
+#EXTINF:-1,HBO
+http://185.44.118.34:40555/udp/239.1.0.82:4000
+
+#EXTINF:-1,Cinemax
+http://185.44.118.34:40555/udp/239.1.0.85:4000
+
+#EXTINF:-1,BTV
+http://185.44.118.34:40555/udp/239.1.1.101:4000
+
+#EXTINF:-1,mezzo HD
+http://185.44.118.34:40555/udp/239.1.1.178:4000
+
+#EXTINF:-1,Rai news24
+http://185.44.118.34:40555/udp/239.1.1.224:4000
+
+#EXTINF:-1,Travel
+http://185.44.118.34:40555/udp/239.1.1.233:4000
+
+#EXTINF:-1,kardelen tv
+http://185.44.118.34:40555/udp/239.1.2.48:4000
+
+#EXTINF:-1,Viasat sport HD rus
+http://185.44.118.34:40555/udp/239.1.2.69:4000
+
+#EXTINF:-1,BG musik
+http://185.44.118.34:40555/udp/239.1.3.121:4000
+
+#EXTINF:-1,PINK
+rtmp://tv.gromnet.net/live/pink
+#EXTINF:-1,PRVA
+rtmp://tv.gromnet.net/live/prva
+#EXTINF:-1,RTS1
+rtmp://tv.gromnet.net/live/rts1
+#EXTINF:-1,RTS2
+rtmp://tv.gromnet.net/live/rts2
+#EXTINF:-1,RTS3
+rtmp://tv.gromnet.net/live/rts3
+#EXTINF:-1,STUDIOB
+rtmp://tv.gromnet.net/live/studiob
+#EXTINF:-1,DUGA
+rtmp://tv.gromnet.net/live/duga
+#EXTINF:-1,GEM
+rtmp://tv.gromnet.net/live/gem
+#EXTINF:-1,KRTL
+rtmp://tv.gromnet.net/live/krtl
+#EXTINF:-1,MAG
+rtmp://tv.gromnet.net/live/mag
+#EXTINF:-1,RTV1
+rtmp://tv.gromnet.net/live/rtv1
+#EXTINF:-1,RTV2
+rtmp://tv.gromnet.net/live/rtv2
+#EXTINF:-1,SREMSKA
+rtmp://tv.gromnet.net/live/sremska
+#EXTINF:-1,PANONIJA
+rtmp://tv.gromnet.net/live/panonija
+#EXTINF:-1,SANTOS
+rtmp://tv.gromnet.net/live/santos
+#EXTINF:-1,K9
+rtmp://tv.gromnet.net/live/k9
+#EXTINF:-1,NOVOSADSKA
+rtmp://tv.gromnet.net/live/novosadska
+#EXTINF:-1,RUBIN
+rtmp://tv.gromnet.net/live/rubin
+#EXTINF:-1,DELTAMOZAIK
+rtmp://tv.gromnet.net/live/deltamozaik
+#EXTINF:-1,KANAL25
+rtmp://tv.gromnet.net/live/kanal25
+#EXTINF:-1,VK
+rtmp://tv.gromnet.net/live/vk
+#EXTINF:-1,SABAC
+rtmp://tv.gromnet.net/live/sabac
+#EXTINF:-1,VAPLUS
+rtmp://tv.gromnet.net/live/vaplus
+#EXTINF:-1,PODRINJE
+rtmp://tv.gromnet.net/live/podrinje
+#EXTINF:-1,LOTELPLUS
+rtmp://tv.gromnet.net/live/lotelplus
+#EXTINF:-1,VUJIC
+rtmp://tv.gromnet.net/live/vujic
+#EXTINF:-1,AS
+rtmp://tv.gromnet.net/live/as
+#EXTINF:-1,SABAC1
+rtmp://tv.gromnet.net/live/sabac1
+
 
 #EXTINF:-1,HBO 2
 http://premium.exabytetv.info:8000/live/exabytetv/2oVe2obCrd/108.m3u8
@@ -1054,300 +1014,6 @@ http://fra1.ddns.net:97/live/dzevad/dzevad/95.m3u8
 http://fra1.ddns.net:97/live/dzevad/dzevad/103.m3u8
 #EXTINF:-1,ALFA SARAJEVO MI
 http://fra1.ddns.net:97/live/dzevad/dzevad/205.m3u8
-#EXTINF:-1,SPORT KLUB 3 HD -K
-http://fra1.ddns.net:97/live/josip/josip/452.m3u8
-#EXTINF:-1,SPORT KLUB 2 HD -K
-http://fra1.ddns.net:97/live/josip/josip/451.m3u8
-#EXTINF:-1,SPORT KLUB 2 -K
-http://fra1.ddns.net:97/live/josip/josip/449.m3u8
-#EXTINF:-1,SPORT KLUB 1 HD -K
-http://fra1.ddns.net:97/live/josip/josip/450.m3u8
-#EXTINF:-1,SABUR TV -B
-http://fra1.ddns.net:97/live/josip/josip/421.m3u8
-#EXTINF:-1,RTL POSION -B
-http://fra1.ddns.net:97/live/josip/josip/426.m3u8
-#EXTINF:-1,RTL CRIME -B
-http://fra1.ddns.net:97/live/josip/josip/425.m3u8
-#EXTINF:-1,PALMA PLUS -B
-http://fra1.ddns.net:97/live/josip/josip/428.m3u8
-#EXTINF:-1,NOVA TV -B
-http://fra1.ddns.net:97/live/josip/josip/423.m3u8
-#EXTINF:-1,NOVA RS -B
-http://fra1.ddns.net:97/live/josip/josip/427.m3u8
-#EXTINF:-1,NICKELODEON -B
-http://fra1.ddns.net:97/live/josip/josip/434.m3u8
-#EXTINF:-1,NICK JR - B
-http://fra1.ddns.net:97/live/josip/josip/432.m3u8
-#EXTINF:-1,NAT GEO WILD - K
-http://fra1.ddns.net:97/live/josip/josip/440.m3u8
-#EXTINF:-1,MTV IMAN -B
-http://fra1.ddns.net:97/live/josip/josip/417.m3u8
-#EXTINF:-1,MTV - K
-http://fra1.ddns.net:97/live/josip/josip/443.m3u8
-#EXTINF:-1,MIR TV -B
-http://fra1.ddns.net:97/live/josip/josip/422.m3u8
-#EXTINF:-1,MINI TV -B
-http://fra1.ddns.net:97/live/josip/josip/433.m3u8
-#EXTINF:-1,MEKA TV -B
-http://fra1.ddns.net:97/live/josip/josip/418.m3u8
-#EXTINF:-1,MEDINA TV -B
-http://fra1.ddns.net:97/live/josip/josip/419.m3u8
-#EXTINF:-1,KANAL 5 HD
-http://fra1.ddns.net:97/live/josip/josip/420.m3u8
-#EXTINF:-1,HISTORY - S
-http://fra1.ddns.net:97/live/josip/josip/439.m3u8
-#EXTINF:-1,HAYATOVCI -B
-http://fra1.ddns.net:97/live/josip/josip/430.m3u8
-#EXTINF:-1,GRAND TV- S
-http://fra1.ddns.net:97/live/josip/josip/436.m3u8
-#EXTINF:-1,EKIDS -B
-http://fra1.ddns.net:97/live/josip/josip/431.m3u8
-#EXTINF:-1,E - K
-http://fra1.ddns.net:97/live/josip/josip/442.m3u8
-#EXTINF:-1,DOMA TV -B
-http://fra1.ddns.net:97/live/josip/josip/424.m3u8
-#EXTINF:-1,DISCOVERY - S
-http://fra1.ddns.net:97/live/josip/josip/438.m3u8
-#EXTINF:-1,CINESTAR ACTION -K
-http://fra1.ddns.net:97/live/josip/josip/441.m3u8
-#EXTINF:-1,bosna tv -b
-http://fra1.ddns.net:97/live/josip/josip/416.m3u8
-#EXTINF:-1,BABY TV- B
-http://fra1.ddns.net:97/live/josip/josip/435.m3u8
-#EXTINF:-1,ARENA HD 5 -K
-http://fra1.ddns.net:97/live/josip/josip/447.m3u8
-#EXTINF:-1,ARENA HD 4 -K
-http://fra1.ddns.net:97/live/josip/josip/448.m3u8
-#EXTINF:-1,ARENA HD 3 -K
-http://fra1.ddns.net:97/live/josip/josip/446.m3u8
-#EXTINF:-1,ARENA HD 2 -K
-http://fra1.ddns.net:97/live/josip/josip/445.m3u8
-#EXTINF:-1,ARENA 1 HD -K
-http://fra1.ddns.net:97/live/josip/josip/444.m3u8
-#EXTINF:-1,24 KITCHEN -B
-http://fra1.ddns.net:97/live/josip/josip/437.m3u8
-#EXTINF:-1,VAZNO
-http://fra1.ddns.net:97/live/josip/josip/415.m3u8
-#EXTINF:-1,rtl living sa
-http://fra1.ddns.net:97/live/josip/josip/412.m3u8
-#EXTINF:-1,hit brcko - b
-http://fra1.ddns.net:97/live/josip/josip/411.m3u8
-#EXTINF:-1,hayat plus mah kartica
-http://fra1.ddns.net:97/live/josip/josip/397.m3u8
-#EXTINF:-1,hayat hd mah kartica
-http://fra1.ddns.net:97/live/josip/josip/399.m3u8
-#EXTINF:-1,hayat folk mah kartica
-http://fra1.ddns.net:97/live/josip/josip/400.m3u8
-#EXTINF:-1,tv 1000 -b
-http://fra1.ddns.net:97/live/josip/josip/404.m3u8
-#EXTINF:-1,lov i ribolov -b
-http://fra1.ddns.net:97/live/josip/josip/410.m3u8
-#EXTINF:-1,klasik tv -b
-http://fra1.ddns.net:97/live/josip/josip/409.m3u8
-#EXTINF:-1,hbo 3 - b
-http://fra1.ddns.net:97/live/josip/josip/403.m3u8
-#EXTINF:-1,hbo 2 - b
-http://fra1.ddns.net:97/live/josip/josip/402.m3u8
-#EXTINF:-1,film klib -b
-http://fra1.ddns.net:97/live/josip/josip/408.m3u8
-#EXTINF:-1,cinestar action - b
-http://fra1.ddns.net:97/live/josip/josip/405.m3u8
-#EXTINF:-1,cinemax hd - b
-http://fra1.ddns.net:97/live/josip/josip/406.m3u8
-#EXTINF:-1,cinemax 2 hd - b
-http://fra1.ddns.net:97/live/josip/josip/407.m3u8
-#EXTINF:-1,hob comedy m
-http://fra1.ddns.net:97/live/josip/josip/391.m3u8
-#EXTINF:-1,hbo adria m
-http://fra1.ddns.net:97/live/josip/josip/390.m3u8
-#EXTINF:-1,discovery m
-http://fra1.ddns.net:97/live/josip/josip/392.m3u8
-#EXTINF:-1,cinemax m
-http://fra1.ddns.net:97/live/josip/josip/394.m3u8
-#EXTINF:-1,cinemania m
-http://fra1.ddns.net:97/live/josip/josip/395.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 2 -S
-http://fra1.ddns.net:97/live/josip/josip/297.m3u8
-#EXTINF:-1,CINESTAR PREMIERE 1 -S
-http://fra1.ddns.net:97/live/josip/josip/296.m3u8
-#EXTINF:-1,PINK CRIME & MISTERY -S
-http://fra1.ddns.net:97/live/josip/josip/342.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC -S
-http://fra1.ddns.net:97/live/josip/josip/334.m3u8
-#EXTINF:-1,LOV I RIBOLOV -S
-http://fra1.ddns.net:97/live/josip/josip/332.m3u8
-#EXTINF:-1,FOX MOVIES -S
-http://fra1.ddns.net:97/live/josip/josip/324.m3u8
-#EXTINF:-1,HBO ADRIA -S
-http://fra1.ddns.net:97/live/josip/josip/329.m3u8
-#EXTINF:-1,FOX CRIME -S
-http://fra1.ddns.net:97/live/josip/josip/322.m3u8
-#EXTINF:-1,PINK SCI-FI & FANTASY -S
-http://fra1.ddns.net:97/live/josip/josip/350.m3u8
-#EXTINF:-1,Federalna
-http://fra1.ddns.net:97/live/josip/josip/215.m3u8
-#EXTINF:-1,tv sehara mi
-http://fra1.ddns.net:97/live/josip/josip/401.m3u8
-#EXTINF:-1,tv sarajevo m
-http://fra1.ddns.net:97/live/josip/josip/393.m3u8
-#EXTINF:-1,kis tv
-http://fra1.ddns.net:97/live/josip/josip/396.m3u8
-#EXTINF:-1,BHT
-http://fra1.ddns.net:97/live/josip/josip/216.m3u8
-#EXTINF:-1,HRT3
-http://fra1.ddns.net:97/live/josip/josip/8.m3u8
-#EXTINF:-1,HRT2
-http://fra1.ddns.net:97/live/josip/josip/9.m3u8
-#EXTINF:-1,HRT1
-http://fra1.ddns.net:97/live/josip/josip/10.m3u8
-#EXTINF:-1,BN BIH
-http://fra1.ddns.net:97/live/josip/josip/6.m3u8
-#EXTINF:-1,OTV FOLK
-http://fra1.ddns.net:97/live/josip/josip/389.m3u8
-#EXTINF:-1,OTV ETNO
-http://fra1.ddns.net:97/live/josip/josip/388.m3u8
-#EXTINF:-1,K3
-http://fra1.ddns.net:97/live/josip/josip/387.m3u8
-#EXTINF:-1,PRVA HERCEGOVACKA
-http://fra1.ddns.net:97/live/josip/josip/386.m3u8
-#EXTINF:-1,RTS SAT SRB-MAJEVICA
-http://fra1.ddns.net:97/live/josip/josip/374.m3u8
-#EXTINF:-1,RTL 2 MAJEVICA
-http://fra1.ddns.net:97/live/josip/josip/375.m3u8
-#EXTINF:-1,RTL  MAJEVICA
-http://fra1.ddns.net:97/live/josip/josip/376.m3u8
-#EXTINF:-1,HRT4 MAJEVICA
-http://fra1.ddns.net:97/live/josip/josip/380.m3u8
-#EXTINF:-1,HRT2 MAJEVICA
-http://fra1.ddns.net:97/live/josip/josip/378.m3u8
-#EXTINF:-1,A1 SHQIPTARE MAJEVICA
-http://fra1.ddns.net:97/live/josip/josip/383.m3u8
-#EXTINF:-1,A1 INTERNATION MAJEVICA
-http://fra1.ddns.net:97/live/josip/josip/381.m3u8
-#EXTINF:-1,A1 ESPANJA MAJEVICA
-http://fra1.ddns.net:97/live/josip/josip/382.m3u8
-#EXTINF:-1,RTS SAT
-http://fra1.ddns.net:97/live/josip/josip/373.m3u8
-#EXTINF:-1,UK SKY SPORT 5 -S
-http://fra1.ddns.net:97/live/josip/josip/369.m3u8
-#EXTINF:-1,UK SKY SPORT 4 -S
-http://fra1.ddns.net:97/live/josip/josip/368.m3u8
-#EXTINF:-1,UK SKY SPORT 3 -S
-http://fra1.ddns.net:97/live/josip/josip/367.m3u8
-#EXTINF:-1,UK SKY SPORT 2 -S
-http://fra1.ddns.net:97/live/josip/josip/366.m3u8
-#EXTINF:-1,UK SKY SPORT 1 -S
-http://fra1.ddns.net:97/live/josip/josip/365.m3u8
-#EXTINF:-1,TK -S
-http://fra1.ddns.net:97/live/josip/josip/268.m3u8
-#EXTINF:-1,SPORT KLUB 3 -S
-http://fra1.ddns.net:97/live/josip/josip/353.m3u8
-#EXTINF:-1,SPORT KLUB 2 HR -S
-http://fra1.ddns.net:97/live/josip/josip/364.m3u8
-#EXTINF:-1,RTRS -S
-http://fra1.ddns.net:97/live/josip/josip/358.m3u8
-#EXTINF:-1,RTL2 -S
-http://fra1.ddns.net:97/live/josip/josip/266.m3u8
-#EXTINF:-1,RTL KOCKICA -S
-http://fra1.ddns.net:97/live/josip/josip/356.m3u8
-#EXTINF:-1,RTL -S
-http://fra1.ddns.net:97/live/josip/josip/357.m3u8
-#EXTINF:-1,PINK ROMANCE -S
-http://fra1.ddns.net:97/live/josip/josip/349.m3u8
-#EXTINF:-1,PINK REALITY -S
-http://fra1.ddns.net:97/live/josip/josip/348.m3u8
-#EXTINF:-1,PINK PREMIUM -S
-http://fra1.ddns.net:97/live/josip/josip/347.m3u8
-#EXTINF:-1,PINK HORROR -S
-http://fra1.ddns.net:97/live/josip/josip/345.m3u8
-#EXTINF:-1,PINK FOLK 2 -S
-http://fra1.ddns.net:97/live/josip/josip/344.m3u8
-#EXTINF:-1,PINK FILM -S
-http://fra1.ddns.net:97/live/josip/josip/343.m3u8
-#EXTINF:-1,PINK COMEDY -S
-http://fra1.ddns.net:97/live/josip/josip/341.m3u8
-#EXTINF:-1,OBN -S
-http://fra1.ddns.net:97/live/josip/josip/271.m3u8
-#EXTINF:-1,Nova TV -S
-http://fra1.ddns.net:97/live/josip/josip/262.m3u8
-#EXTINF:-1,NOVA RS -S
-http://fra1.ddns.net:97/live/josip/josip/336.m3u8
-#EXTINF:-1,NICKELODEON -S
-http://fra1.ddns.net:97/live/josip/josip/335.m3u8
-#EXTINF:-1,MTV IGMAN -S
-http://fra1.ddns.net:97/live/josip/josip/333.m3u8
-#EXTINF:-1,Klasik TV -S
-http://fra1.ddns.net:97/live/josip/josip/263.m3u8
-#EXTINF:-1,HRT4 -S
-http://fra1.ddns.net:97/live/josip/josip/371.m3u8
-#EXTINF:-1,HAYAT BIH -S
-http://fra1.ddns.net:97/live/josip/josip/327.m3u8
-#EXTINF:-1,GRAND TV -S
-http://fra1.ddns.net:97/live/josip/josip/325.m3u8
-#EXTINF:-1,Federalna -S
-http://fra1.ddns.net:97/live/josip/josip/265.m3u8
-#EXTINF:-1,FACE TV -S
-http://fra1.ddns.net:97/live/josip/josip/273.m3u8
-#EXTINF:-1,EUROSPORT 2 -S
-http://fra1.ddns.net:97/live/josip/josip/321.m3u8
-#EXTINF:-1,EUROSPORT 1 -S
-http://fra1.ddns.net:97/live/josip/josip/320.m3u8
-#EXTINF:-1,DOMA TV -S
-http://fra1.ddns.net:97/live/josip/josip/267.m3u8
-#EXTINF:-1,DM SAT -S
-http://fra1.ddns.net:97/live/josip/josip/319.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL -S
-http://fra1.ddns.net:97/live/josip/josip/318.m3u8
-#EXTINF:-1,DE SKY SELECT 5 HD -S
-http://fra1.ddns.net:97/live/josip/josip/317.m3u8
-#EXTINF:-1,DE SKY SELECT 4 HD -S
-http://fra1.ddns.net:97/live/josip/josip/316.m3u8
-#EXTINF:-1,DE SKY SELECT 3 HD -S
-http://fra1.ddns.net:97/live/josip/josip/314.m3u8
-#EXTINF:-1,DE SKY SELECT 2 HD -S
-http://fra1.ddns.net:97/live/josip/josip/315.m3u8
-#EXTINF:-1,DE SKY SELECT 1 HD -S
-http://fra1.ddns.net:97/live/josip/josip/313.m3u8
-#EXTINF:-1,DE SKY GERMANY COMEDY HD -S
-http://fra1.ddns.net:97/live/josip/josip/312.m3u8
-#EXTINF:-1,DE SKY GERMANY CINEMA +24 -S
-http://fra1.ddns.net:97/live/josip/josip/311.m3u8
-#EXTINF:-1,DE SKY GERMANY ATLANTIC -S
-http://fra1.ddns.net:97/live/josip/josip/310.m3u8
-#EXTINF:-1,DE SKY GERMANY ACTION HD -S
-http://fra1.ddns.net:97/live/josip/josip/309.m3u8
-#EXTINF:-1,BN MUSIC -S
-http://fra1.ddns.net:97/live/josip/josip/294.m3u8
-#EXTINF:-1,BHT -S
-http://fra1.ddns.net:97/live/josip/josip/293.m3u8
-#EXTINF:-1,ARENA SPORT 5 -S
-http://fra1.ddns.net:97/live/josip/josip/307.m3u8
-#EXTINF:-1,ARENA SPORT 4 HD -S
-http://fra1.ddns.net:97/live/josip/josip/305.m3u8
-#EXTINF:-1,ARENA SPORT 4 -S
-http://fra1.ddns.net:97/live/josip/josip/306.m3u8
-#EXTINF:-1,ARENA SPORT 3 -S
-http://fra1.ddns.net:97/live/josip/josip/304.m3u8
-#EXTINF:-1,ARENA SPORT 2 HD -S
-http://fra1.ddns.net:97/live/josip/josip/372.m3u8
-#EXTINF:-1,ARENA SPORT 2 -S
-http://fra1.ddns.net:97/live/josip/josip/302.m3u8
-#EXTINF:-1,ANIMAL PLANET -S
-http://fra1.ddns.net:97/live/josip/josip/282.m3u8
-#EXTINF:-1,AL SUPER SPORT 4 -S
-http://fra1.ddns.net:97/live/josip/josip/281.m3u8
-#EXTINF:-1,AL SUPER SPORT 3 -S
-http://fra1.ddns.net:97/live/josip/josip/280.m3u8
-#EXTINF:-1,AL SUPER SPORT 1 -S
-http://fra1.ddns.net:97/live/josip/josip/279.m3u8
-#EXTINF:-1,AL FILM NJE -S
-http://fra1.ddns.net:97/live/josip/josip/278.m3u8
-#EXTINF:-1,AL FILM HITS -S
-http://fra1.ddns.net:97/live/josip/josip/277.m3u8
-#EXTINF:-1,Life and Holiday
-http://fra1.ddns.net:97/live/josip/josip/261.m3u8
-#EXTINF:-1,TV1
-http://fra1.ddns.net:97/live/josip/josip/228.m3u8
 #EXTINF:-1,TV SLON
 http://fra1.ddns.net:97/live/josip/josip/229.m3u8
 #EXTINF:-1,TV MOST
