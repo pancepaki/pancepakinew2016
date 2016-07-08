@@ -7,6 +7,8 @@ http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 rtmp://46.105.209.61/live/live /vip-hd-tv.sdp
 #EXTINF:1, VIP HD
 http://46.105.209.61/live/live /vip-hd-tv
+#EXTINF:0,Spice TV
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
 #EXTINF:0,#EXTINF:-1,HAYAT HD
 http://5.149.64.8:9999/udp/239.3.5.221:1234?auth=login:pass
 #EXTINF:0,#EXTINF:-1,KC3
