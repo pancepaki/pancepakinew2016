@@ -40,6 +40,15 @@ http://tinyurl.com/Docs4you-BS12
 http://centurionlukavac.com:80/live?channelId=247&uid=13&deviceUser=daria1141&devicePass=daria1141234
 #EXTINF:-1 tvg-id="BEIN Sports 3" tvg-link="" tvg-name="BEIN Sports 3" tvg-logo="" group-title="Domaci",BEIN Sports 3
 http://centurionlukavac.com:80/live?channelId=249&uid=13&deviceUser=daria1141&devicePass=daria1141234
+#EXTINF:-1,SuperSport 1
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1,SuperSport 2
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1,SuperSport 3
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1,SuperSport 4
+http://81.7.13.162/hls/ss4/index.m3u8
+
 #EXTINF:-1,Arena 1 Srb
 http://s04.platinum-iptv.com:80/live?channelId=671&uid=2199&deviceSn=27997
 #EXTINF:-1,Arena 2 Srb
@@ -4606,3 +4615,8 @@ http://93.82.105.96:9981/stream/channelid/1782512872?ticket=7CCD61DDF22C7250DF18
 http://93.82.105.96:9981/stream/channelid/1704843735?ticket=5669854ABB592E5C92992DBD1B907AED8989F7C7&profile=pass
 #EXTINF:0,ORF Sport+ HD
 http://93.82.105.96:9981/stream/channelid/232557212?ticket=EEC363C98A1148DC2F9530BD16CEF02CE2030266&profile=pass
+---------------------UK---------------------------
+#EXTINF:-1 tvg-id="473" tvg-name="UK Sky Movies Sci-Fi & Horror" tvg-logo="http://nextgen-iptv.com/Logos/mov/sky%20scfi%20horror.png" group-title="Movies",UK Sky Movies Sci-Fi & Horror - UK Sky Movies Sci-Fi & Horror
+http://cms.bossna-caffe.com:80/live?channelId=473&uid=7905&deviceMac=00:1A:79:2E:83:AE
+#EXTINF:-1,UK: Sky Movies Premiere/TS
+http://iptv.cardsharebox.com:8000/live/cardsharing/yg4tdh/469.ts
