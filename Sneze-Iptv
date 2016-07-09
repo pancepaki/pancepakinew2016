@@ -35,6 +35,30 @@ http://fra1.ddns.net:97/live/josip/josip/440.m3u8
 http://fra1.ddns.net:97/live/josip/josip/6.m3u8
 #EXTINF:-1,DM SAT
 http://fra1.ddns.net:97/live/josip/josip/225.m3u8
+#EXTINF:-1,NAT GEO WILD - K
+http://fra1.ddns.net:97/live/miro/miro/440.m3u8
+#EXTINF:-1,SREMSKA TV
+http://fra1.ddns.net:97/live/miro/miro/251.m3u8
+#EXTINF:-1,RTS3
+http://fra1.ddns.net:97/live/miro/miro/257.m3u8
+#EXTINF:-1,RTL
+http://fra1.ddns.net:97/live/miro/miro/24.m3u8
+#EXTINF:-1,DM SAT
+http://fra1.ddns.net:97/live/miro/miro/225.m3u8
+#EXTINF:-1,B92
+http://fra1.ddns.net:97/live/miro/miro/102.m3u8
+#EXTINF:-1,BN BIH
+http://fra1.ddns.net:97/live/miro/miro/6.m3u8
+#EXTINF:-1,OBN
+http://fra1.ddns.net:97/live/miro/miro/46.m3u8
+#EXTINF:-1,HRT4
+http://fra1.ddns.net:97/live/miro/miro/7.m3u8
+#EXTINF:-1,HRT3
+http://fra1.ddns.net:97/live/miro/miro/8.m3u8
+#EXTINF:-1,HRT2
+http://fra1.ddns.net:97/live/miro/miro/9.m3u8
+#EXTINF:-1,HRT1
+http://fra1.ddns.net:97/live/miro/miro/10.m3u8
 ------------PINK PAKET --------------------
 #EXTINF:0,#EXTINF:-1,HAYAT HD
 http://5.149.64.8:9999/udp/239.3.5.221:1234?auth=login:pass
