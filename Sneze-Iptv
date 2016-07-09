@@ -236,14 +236,8 @@ http://92.62.234.204:2222/udp/239.4.0.101:1234
 http://www.xrxs.net/video/live-p12netw-4728.m3u8
 #EXTINF:-1,Encore Sport 6 HD
 http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1,Rom: Digi Sport 1
-http://tinyurl.com/moredocs4you
 #EXTINF:-1,Nova Sport 1
 http://213.81.153.241/live001/channel028_p2.stream/DVR.m3u8
-#EXTINF:-1,Sky Bundesliga HD/TS
-http://178.238.232.191:8000/live/kajgana/kajgana/31.ts
-#EXTINF:-1,Sport1 Racing/ts
-http://178.238.232.191:8000/live/kajgana/kajgana/32.ts
 #EXTINF:-1,MUTV
 http://centurionlukavac.com:80/live?channelId=166&uid=13&deviceUser=daria1141&devicePass=daria1141234
 #EXTINF:-1,Chelsea tv
@@ -258,20 +252,6 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:-1,BT Sports ESPN
 http://149.202.85.84:8080/eiSsepn/counter1/index.m3u8
-#EXTINF:-1,Boxnation
-http://149.202.207.8:8080/bxoo-nan/counter1/index.m3u8
-#EXTINF:-1,Racing UK
-http://149.202.207.8:8080/riskgyou0K/counter1/index.m3u8
-#EXTINF:-1,At The Races
-http://149.202.207.8:8080/etyhte-rcs/counter1/index.m3u8
-#EXTINF:-1,Star Sports 1
-http://149.202.85.84:8080/seater-sp-1/counter1/index.m3u8
-#EXTINF:-1,Star Sports 2
-http://149.202.85.84:8080/seater-sp-2/counter1/index.m3u8
-#EXTINF:-1,Star Sports 3
-http://149.202.85.84:8080/seater-sp-3/counter1/index.m3u8
-#EXTINF:-1,Star Sports 4
-http://149.202.85.84:8080/seater-sp-4/counter1/index.m3u8
 #EXTINF:-1,Fox Sports 1
 http://149.202.85.84:8080/f00cs-sp-IT/counter1/index.m3u8
 #EXTINF:-1,Arena Sports 1
