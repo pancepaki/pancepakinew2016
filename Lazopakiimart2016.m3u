@@ -4620,3 +4620,536 @@ http://93.82.105.96:9981/stream/channelid/232557212?ticket=EEC363C98A1148DC2F953
 http://cms.bossna-caffe.com:80/live?channelId=473&uid=7905&deviceMac=00:1A:79:2E:83:AE
 #EXTINF:-1,UK: Sky Movies Premiere/TS
 http://iptv.cardsharebox.com:8000/live/cardsharing/yg4tdh/469.ts
+---------RUSKI---------
+#EXTINF:-1,30 Русский роман
+http://176.112.96.17:8000/play/a00u
+#EXTINF:-1,26 Радость моя
+http://176.112.96.17:8000/play/a00q
+#EXTINF:-1,24 2х2
+http://176.112.96.17:8000/play/a00o
+#EXTINF:-1,37 Здоровое ТВ
+http://176.112.96.17:8000/play/a011
+#EXTINF:-1,20 Волга
+http://176.112.96.17:8000/play/a00k
+#EXTINF:-1,50 Телекафе
+http://176.112.96.17:8000/play/a01e
+#EXTINF:-1,55 Viasat Sport
+http://176.112.96.17:8000/play/a01j
+#EXTINF:-1,54 Шансон ТВ
+http://176.112.96.17:8000/play/a01i
+#EXTINF:-1,28 Детский
+http://176.112.96.17:8000/play/a00s
+#EXTINF:-1,19 ННТВ
+http://176.112.96.17:8000/play/a00j
+#EXTINF:-1,04 НТВ
+http://176.112.96.17:8000/play/a004
+#EXTINF:-1,49 Наука 2.0
+http://176.112.96.17:8000/play/a01d
+#EXTINF:-1,01 Первый канал
+http://176.112.96.17:8000/play/a001
+#EXTINF:-1,02 Россия 1
+http://176.112.96.17:8000/play/a002
+#EXTINF:-1,16 МИР
+http://176.112.96.17:8000/play/a00g
+#EXTINF:-1,11 СТС
+http://176.112.96.17:8000/play/a00b
+#EXTINF:-1,33 ТДК
+http://176.112.96.17:8000/play/a00x
+#EXTINF:-1,40 Ретро
+http://176.112.96.17:8000/play/a014
+#EXTINF:-1,46 Viasat History
+http://176.112.96.17:8000/play/a01a
+#EXTINF:-1,43 Моя планета
+http://176.112.96.17:8000/play/a017
+#EXTINF:-1,38 Усадьба
+http://176.112.96.17:8000/play/a012
+#EXTINF:-1,08 Карусель
+http://176.112.96.17:8000/play/a008
+#EXTINF:-1,41 Дом кино
+http://176.112.96.17:8000/play/a015
+#EXTINF:-1,29 Парк развлечений
+http://176.112.96.17:8000/play/a00t
+#EXTINF:-1,44 National Geographic
+http://176.112.96.17:8000/play/a018
+#EXTINF:-1,32 Канал Дисней
+http://176.112.96.17:8000/play/a00w
+#EXTINF:-1,47 Viasat Explore
+http://176.112.96.17:8000/play/a01b
+#EXTINF:-1,22 Fenix Kino
+http://176.112.96.17:8000/play/a016
+#EXTINF:-1,23 Союз
+http://176.112.96.17:8000/play/a00n
+#EXTINF:-1,34 Наш спорт
+http://176.112.96.17:8000/play/a00y
+#EXTINF:-1,35 Драйв
+http://176.112.96.17:8000/play/a00z
+#EXTINF:-1,13 ТВ-3
+http://176.112.96.17:8000/play/a00d
+#EXTINF:-1,05 Пятый канал
+http://176.112.96.17:8000/play/001
+#EXTINF:-1,51 TV 1000
+http://176.112.96.17:8000/play/a01f
+#EXTINF:-1,15 Звезда
+http://176.112.96.17:8000/play/a00f
+#EXTINF:-1,17 ТНТ
+http://176.112.96.17:8000/play/a00h
+#EXTINF:-1,27 Zee Russia
+http://176.112.96.17:8000/play/a00r
+#EXTINF:-1,45 Nat Geo Wild
+http://176.112.96.17:8000/play/a019
+#EXTINF:-1,53 Bridge TV
+http://176.112.96.17:8000/play/a01h
+#EXTINF:-1,52 TV 1000 Русское кино
+http://176.112.96.17:8000/play/a01g
+#EXTINF:-1,39 Европа плюс ТВ
+http://176.112.96.17:8000/play/a013
+#EXTINF:-1,42 Живая планета
+http://176.112.96.17:8000/play/a00m
+#EXTINF:-1,10 ТВ Центр
+http://176.112.96.17:8000/play/a00a
+#EXTINF:-1,14 Пятница
+http://176.112.96.17:8000/play/a00e
+#EXTINF:-1,48 Da Vinci Learning
+http://176.112.96.17:8000/play/a01c
+#EXTINF:-1,07 Россия 24
+http://176.112.96.17:8000/play/a007
+#EXTINF:-1,09 ОТР
+http://176.112.96.17:8000/play/a009
+#EXTINF:-1,03 Матч ТВ
+http://176.112.96.17:8000/play/a003
+#EXTINF:-1,18 Муз ТВ
+http://176.112.96.17:8000/play/a00i
+#EXTINF:-1,12 Домашний
+http://176.112.96.17:8000/play/a00c
+#EXTINF:-1,21 ТНТ
+http://176.112.96.17:8000/play/a00l
+#EXTINF:-1,36 Охота и рыбалка
+http://176.112.96.17:8000/play/a010
+#EXTINF:-1,06 Россия К
+http://176.112.96.17:8000/play/a006
+#EXTINF:-1,31 Русский иллюзион
+http://176.112.96.17:8000/play/a00v
+#EXTINF:-1,25 Первый образовательный
+http://176.112.96.17:8000/play/a00p
+#EXTINF:0,GTV Ghana
+http://213.246.39.124:8081/live/gtv/playlist.m3u8
+#EXTINF:0,Joy News
+http://213.246.39.124:8081/live/joy/playlist.m3u8
+#EXTINF:0,GTV Sports Plus
+http://213.246.39.124:8081/live/gtvs/playlist.m3u8
+#EXTINF:0,Adom TV
+http://213.246.39.124:8081/live/adm/playlist.m3u8
+#EXTINF:0,ZTV Live
+http://213.246.39.124:8081/live/ztv/playlist.m3u8
+#EXTINF:0,TV 3 Live
+http://213.246.39.124:8081/live/tv3/playlist.m3u8
+#EXTINF:0,NTA
+http://213.246.39.124:8081/live/ntai/playlist.m3u8
+#EXTINF:0,CinePlus
+http://213.246.39.124:8081/live/cine/playlist.m3u8
+#EXTINF:0,Chosen TV
+http://213.246.39.124:8081/live/chosentv/playlist.m3u8
+#EXTINF:0,Metro TV
+http://213.246.39.124:8081/live/metrotv/playlist.m3u8
+#EXTINF:0,Kedu TV
+http://flash.netcasterusa.com:1935/kedutv/kedutv/playlist.m3u8
+#EXTINF:0,Kedu TV
+http://iphone-streaming.ustream.tv/uhls/19674869/streams/live/ihpone/playlist.m3u8
+
+#EXTINF:-1,Беларусь1
+http://s02.mnogo-tv.by:8000/play/BELARUS1
+#EXTINF:-1,Беларусь2
+http://s02.mnogo-tv.by:8000/play/BELARUS_2
+#EXTINF:-1,Беларусь3
+http://s02.mnogo-tv.by:8000/play/BELARUS3
+#EXTINF:-1,Беларусь5
+http://s02.mnogo-tv.by:8000/play/BELARUS5
+#EXTINF:-1,РТР Беларусь
+http://s02.mnogo-tv.by:8000/play/RTR_BEL
+#EXTINF:-1,НТВ Беларусь
+http://s02.mnogo-tv.by:8000/play/NTV_BEL
+#EXTINF:-1,TV3Minsk
+http://s02.mnogo-tv.by:8000/play/TV3_BY
+#EXTINF:-1,ТНТ International Беларусь
+http://s02.mnogo-tv.by:8000/play/TNT_INT
+#EXTINF:-1,Перецinternational
+http://s02.mnogo-tv.by:8000/play/PEREC_INT
+#EXTINF:-1,BelMuzTV
+http://s02.mnogo-tv.by:8000/play/PLUS_TV
+#EXTINF:-1,1Мистический
+http://s02.mnogo-tv.by:8000/play/1MISTICHESKIY
+#EXTINF:-1,KinoSPACETV
+http://s02.mnogo-tv.by:8000/play/SPACE_TV
+#EXTINF:-1,Союзмультфильм
+http://s02.mnogo-tv.by:8000/play/SOUZMULT
+#EXTINF:-1,СказкаHD
+http://s02.mnogo-tv.by:8000/play/CH_SKAZKAHD
+#EXTINF:-1,Первый канал Россия
+http://s02.mnogo-tv.by:8000/play/1CH_RUS
+#EXTINF:-1,Россия 1
+http://s02.mnogo-tv.by:8000/play/RUS1
+#EXTINF:-1,НТВ
+http://s02.mnogo-tv.by:8000/play/NTV_RUS
+#EXTINF:-1,TV3 Россия
+http://s02.mnogo-tv.by:8000/play/TV3_RUS
+#EXTINF:-1,ТНТ 4
+http://s02.mnogo-tv.by:8000/play/TNT_4
+#EXTINF:-1,Сарафан тв
+http://s02.mnogo-tv.by:8000/play/SARAFAN
+#EXTINF:-1,RTVi
+http://s02.mnogo-tv.by:8000/play/RTVI_TV
+#EXTINF:-1,ТВЦ
+http://s02.mnogo-tv.by:8000/play/TVC
+#EXTINF:-1,5 Питер
+http://s02.mnogo-tv.by:8000/play/5_RUS
+#EXTINF:-1,Звезда
+http://s02.mnogo-tv.by:8000/play/ZVEZDA_TV
+#EXTINF:-1,Пятница
+http://s02.mnogo-tv.by:8000/play/Piaytnica_tv
+#EXTINF:-1,EURONEWS
+http://s02.mnogo-tv.by:8000/play/EURO_NEWS
+#EXTINF:-1,Россия 24
+http://s02.mnogo-tv.by:8000/play/RUS_24
+#EXTINF:-1,LIFENEWS
+http://s02.mnogo-tv.by:8000/play/LIFE_NEWS
+#EXTINF:-1,CartoonNetwork
+http://s02.mnogo-tv.by:8000/play/CartoonNetwork
+#EXTINF:-1,Nickelodeon
+http://s02.mnogo-tv.by:8000/play/Kidszon
+#EXTINF:-1,JIMJAM
+http://s02.mnogo-tv.by:8000/play/JIMJAM
+#EXTINF:-1,Disney
+http://s02.mnogo-tv.by:8000/play/Disney
+#EXTINF:-1,Мульт
+http://s02.mnogo-tv.by:8000/play/MULT
+#EXTINF:-1,NICJR
+http://s02.mnogo-tv.by:8000/play/NIC_JR
+#EXTINF:-1,Матч тв
+http://s02.mnogo-tv.by:8000/play/MATCH_TV
+#EXTINF:-1,Матч Боец
+http://s02.mnogo-tv.by:8000/play/BOEC
+#EXTINF:-1,Матч арена
+http://s02.mnogo-tv.by:8000/play/ARENA
+#EXTINF:-1,МАТЧ ИГРА
+http://s02.mnogo-tv.by:8000/play/IGRA
+#EXTINF:-1,матч наш спорт
+http://s02.mnogo-tv.by:8000/play/NASH_SPORT
+#EXTINF:-1,Матч Планета
+http://s02.mnogo-tv.by:8000/play/MS
+#EXTINF:-1,Матч футбол
+http://s02.mnogo-tv.by:8000/play/FUTBOLL_1
+#EXTINF:-1,Матч футбол2
+http://s02.mnogo-tv.by:8000/play/FUTBOLL_2
+#EXTINF:-1,Матч футбол3
+http://s02.mnogo-tv.by:8000/play/FUTBOLL_3
+#EXTINF:-1,Наш футбол
+http://s02.mnogo-tv.by:8000/play/NASH_FUTBOLS
+#EXTINF:-1,KHLTV
+http://s02.mnogo-tv.by:8000/play/KHL_TV
+#EXTINF:-1,Бокс
+http://s02.mnogo-tv.by:8000/play/BOKSTV
+#EXTINF:-1,Eurosport RU
+http://s02.mnogo-tv.by:8000/play/ESP
+#EXTINF:-1,Eurosport 2 RU
+http://s02.mnogo-tv.by:8000/play/ESP2
+#EXTINF:-1,SETANTA SPORT
+http://s02.mnogo-tv.by:8000/play/SETANTASPORT
+#EXTINF:-1,SETANTA SPORT PLUS
+http://s02.mnogo-tv.by:8000/play/SETANTASPORTPLUS
+#EXTINF:-1,Домкино
+http://s02.mnogo-tv.by:8000/play/DOM_KINO
+#EXTINF:-1,TV1000
+http://s02.mnogo-tv.by:8000/play/TV_1000
+#EXTINF:-1,TV1000 русское кино
+http://s02.mnogo-tv.by:8000/play/TV_1000RKINO
+#EXTINF:-1,TV1000 ACTION
+http://s02.mnogo-tv.by:8000/play/TV_1000ACTION
+#EXTINF:-1,НСТ
+http://s02.mnogo-tv.by:8000/play/NSTV
+#EXTINF:-1,Sony SCIFI
+http://s02.mnogo-tv.by:8000/play/SCI_FI
+#EXTINF:-1,Мужское кино
+http://s02.mnogo-tv.by:8000/play/M_KINO
+#EXTINF:-1,Комедия
+http://s02.mnogo-tv.by:8000/play/KOMEDIJA
+#EXTINF:-1,History
+http://s02.mnogo-tv.by:8000/play/History
+#EXTINF:-1,DiscoveryScience
+http://s02.mnogo-tv.by:8000/play/DiscoverySc
+#EXTINF:-1,IDXtra
+http://s02.mnogo-tv.by:8000/play/IDXTRA
+#EXTINF:-1,наука
+http://s02.mnogo-tv.by:8000/play/NAUKA
+#EXTINF:-1,365Dney
+http://s02.mnogo-tv.by:8000/play/365Dney
+#EXTINF:-1,охота и рыбалка
+http://s02.mnogo-tv.by:8000/play/OHOTA
+#EXTINF:-1,ViasatHistory
+http://s02.mnogo-tv.by:8000/play/Viasat_History
+#EXTINF:-1,ля минор
+http://s02.mnogo-tv.by:8000/play/MINOR
+#EXTINF:-1,музыкапервого
+http://s02.mnogo-tv.by:8000/play/MUZ_1
+#EXTINF:-1,Кинопремиум HD
+http://s02.mnogo-tv.by:8000/play/KINOPREMIUM_HD
+#EXTINF:-1,HD Кино
+http://s02.mnogo-tv.by:8000/play/HD_KINO
+#EXTINF:-1,Discovery HD
+http://s02.mnogo-tv.by:8000/play/Discovery
+#EXTINF:-1,Animal Famili HD
+http://s02.mnogo-tv.by:8000/play/FAMALI_HD720
+
+#EXTM3U
+#EXTINF:-1,ĐśĐ¸Ń€
+http://213.80.192.255:34040/udp/226.100.10.31:2000
+#EXTINF:-1,ĐźĐµŃ€Đ˛Ń‹Đą ĐşĐ°Đ˝Đ°Đ»
+http://213.80.192.255:34040/udp/226.100.10.42:2000
+#EXTINF:-1,ĐśĐ°Ń‚Ń‡ Đ˘Đ’
+http://213.80.192.255:34040/udp/226.100.10.44:2000
+#EXTINF:-1,Đ ĐľŃŃĐ¸ŃŹ Đš
+http://213.80.192.255:34040/udp/226.100.10.46:2000
+#EXTINF:-1,ĐťĐ˘Đ’
+http://213.80.192.255:34040/udp/226.100.10.47:2000
+#EXTINF:-1,ĐˇĐ˘Đˇ
+http://213.80.192.255:34040/udp/226.100.10.51:2000
+#EXTINF:-1,Đ˘Đ’Đ¦
+http://213.80.192.255:34040/udp/226.100.10.52:2000
+#EXTINF:-1,Đ ĐµĐ˝ Đ˘Đ’
+http://213.80.192.255:34040/udp/226.100.10.54:2000
+#EXTINF:-1,Đ§Đµ
+http://213.80.192.255:34040/udp/226.100.10.55:2000
+#EXTINF:-1,Top Shop TV
+http://213.80.192.255:34040/udp/226.100.10.59:2000
+#EXTINF:-1,TV Mall
+http://213.80.192.255:34040/udp/226.100.10.60:2000
+#EXTINF:-1,Đ Đ–Đ” HD
+http://213.80.192.255:34040/udp/226.100.10.67:2000
+#EXTINF:-1,Đ¨Đ°Đ˝ŃĐľĐ˝
+http://213.80.192.255:34040/udp/226.100.10.71:2000
+#EXTINF:-1,ĐˇĐľŃŽĐ·
+http://213.80.192.255:34040/udp/226.100.10.77:2000
+#EXTINF:-1,ĐśŃĐ»ŃŚŃ‚
+http://213.80.192.255:34040/udp/226.100.10.86:2000
+#EXTINF:-1,Đ ŃŃŃĐşĐ¸Đą Đ´ĐµŃ‚ĐµĐşŃ‚Đ¸Đ˛
+http://213.80.192.255:34040/udp/226.100.10.87:2000
+#EXTINF:-1,SET
+http://213.80.192.255:34040/udp/226.100.10.91:2000
+#EXTINF:-1,Đ–Đ¸Đ˛Đ°ŃŹ ĐżĐ»Đ°Đ˝ĐµŃ‚Đ°
+http://213.80.192.255:34040/udp/226.100.10.95:2000
+#EXTINF:-1,Travel + adventure
+http://213.80.192.255:34040/udp/226.100.10.210:2000
+#EXTINF:-1,Đ–Đ¸Đ˛Đ¸ HD
+http://213.80.192.255:34040/udp/226.100.10.211:2000
+#EXTINF:-1,ĐźĐľĐ´ĐĽĐľŃĐşĐľĐ˛ŃŚĐµ HD
+http://213.80.192.255:34040/udp/226.100.10.217:2000
+#EXTINF:-1,IQ HD
+http://213.80.192.255:34040/udp/226.100.10.218:2000
+#EXTINF:-1,ĐźĐµŃ€Đ˛Ń‹Đą ĐĽĐµŃŃ‚Đ˝Ń‹Đą
+http://213.80.192.255:34040/udp/239.1.7.1:1234
+#EXTINF:-1,Đ ĐľŃŃĐ¸ŃŹ 1 ĐśĐµŃŃ‚Đ˝Ń‹Đą
+http://213.80.192.255:34040/udp/239.1.7.2:1234
+#EXTINF:-1,Đ ĐľŃŃĐ¸ŃŹ 24
+http://213.80.192.255:34040/udp/239.1.7.4:1234
+#EXTINF:-1,Đ Đ•Đť ĐĽĐµŃŃ‚Đ˝Ń‹Đą
+http://213.80.192.255:34040/udp/239.1.7.5:1234
+#EXTINF:-1,Đ ĐľŃŃĐ¸ŃŹ 1
+http://213.80.192.255:34040/udp/239.1.7.6:1234
+#EXTINF:-1,ĐťĐ˘Đ’ ĐĽĐµŃŃ‚Đ˝Ń‹Đą
+http://213.80.192.255:34040/udp/239.1.7.7:1234
+#EXTINF:-1,Đ ĐľŃŃĐ¸ŃŹ 1
+http://213.80.192.255:34040/udp/239.1.7.8:1234
+#EXTINF:-1,Đ˘ĐťĐ˘-ĐˇĐ°Ń€Đ°Ń‚ĐľĐ˛
+http://213.80.192.255:34040/udp/239.1.7.9:1234
+#EXTINF:-1,https://iptv.zone Đ˘Đ’Đ¦
+http://213.80.192.255:34040/udp/239.1.7.11:1234
+#EXTINF:-1,Đ˘ĐťĐ˘-ĐˇĐ°Ń€Đ°Ń‚ĐľĐ˛
+http://213.80.192.255:34040/udp/239.1.7.12:1234
+#EXTINF:-1,ĐˇĐ°Ń€Đ°Ń‚ĐľĐ˛ 24
+http://213.80.192.255:34040/udp/239.1.7.100:1234
+#EXTINF:-1,Đ˘24
+http://213.80.192.255:34040/udp/233.12.144.1:5050
+#EXTINF:-1,2Ń…2
+http://213.80.192.255:34040/udp/233.12.144.2:5050
+#EXTINF:-1,A One Hip-hop
+http://213.80.192.255:34040/udp/233.12.144.3:5050
+#EXTINF:-1,Bridge TV
+http://213.80.192.255:34040/udp/233.12.144.4:5050
+#EXTINF:-1,ĐśŃĐ¶ŃĐşĐľĐą
+http://213.80.192.255:34040/udp/233.12.144.5:5050
+#EXTINF:-1,Nat Geo Wild
+http://213.80.192.255:34040/udp/233.12.144.9:5050
+#EXTINF:-1,National Geographic
+http://213.80.192.255:34040/udp/233.12.144.10:5050
+#EXTINF:-1,Nautical
+http://213.80.192.255:34040/udp/233.12.144.11:5050
+#EXTINF:-1,Nickelodeon
+http://213.80.192.255:34040/udp/233.12.144.12:5050
+#EXTINF:-1,ĐźĐ°Ń€Đş Ń€Đ°Đ·Đ˛Đ»ĐµŃ‡ĐµĐ˝Đ¸Đą
+http://213.80.192.255:34040/udp/233.12.144.13:5050
+#EXTINF:-1,RU TV
+http://213.80.192.255:34040/udp/233.12.144.14:5050
+#EXTINF:-1,Sony Turbo
+http://213.80.192.255:34040/udp/233.12.144.16:5050
+#EXTINF:-1,Sony Sci-Fi
+http://213.80.192.255:34040/udp/233.12.144.17:5050
+#EXTINF:-1,Đ Đ•Đť
+http://213.80.192.255:34040/udp/233.12.144.18:5050
+#EXTINF:-1,Đ ĐľŃŃĐ¸ŃŹ 1
+http://213.80.192.255:34040/udp/233.12.144.19:5050
+#EXTINF:-1,Đ ĐľŃŃĐ¸ŃŹ 2
+http://213.80.192.255:34040/udp/233.12.144.20:5050
+#EXTINF:-1,ĐˇĐżĐ°Ń
+http://213.80.192.255:34040/udp/233.12.144.21:5050
+#EXTINF:-1,RT HD
+http://213.80.192.255:34040/udp/233.12.144.22:5050
+#EXTINF:-1,Travel channel HD
+http://213.80.192.255:34040/udp/233.12.144.23:5050
+#EXTINF:-1,ĐťĐ˘Đ’
+http://213.80.192.255:34040/udp/233.12.144.24:5050
+#EXTINF:-1,ĐźĐµŃ€ĐµŃ†
+http://213.80.192.255:34040/udp/233.12.144.25:5050
+#EXTINF:-1,World Fashion HD
+http://213.80.192.255:34040/udp/233.12.144.26:5050
+#EXTINF:-1,Zee TV
+http://213.80.192.255:34040/udp/233.12.144.27:5050
+#EXTINF:-1,Đ‘ĐľĐąŃ†ĐľĐ˛ŃĐşĐ¸Đą ĐşĐ»ŃĐ±
+http://213.80.192.255:34040/udp/233.12.144.28:5050
+#EXTINF:-1,Đ’Ń€ĐµĐĽŃŹ
+http://213.80.192.255:34040/udp/233.12.144.29:5050
+#EXTINF:-1,Đ”ĐµŃ‚ŃĐşĐ¸Đą
+http://213.80.192.255:34040/udp/233.12.144.30:5050
+#EXTINF:-1,Đ”ĐµŃ‚ŃĐşĐ¸Đą ĐĽĐ¸Ń€
+http://213.80.192.255:34040/udp/233.12.144.31:5050
+#EXTINF:-1,Disney
+http://213.80.192.255:34040/udp/233.12.144.32:5050
+#EXTINF:-1,Đ”ĐľĐĽ ĐşĐ¸Đ˝Đľ
+http://213.80.192.255:34040/udp/233.12.144.33:5050
+#EXTINF:-1,Đ”ĐľĐĽĐ°ŃĐ˝Đ¸Đą
+http://213.80.192.255:34040/udp/233.12.144.34:5050
+#EXTINF:-1,Đ”Ń€Đ°ĐąĐ˛
+http://213.80.192.255:34040/udp/233.12.144.35:5050
+#EXTINF:-1,Đ—Đ˛ĐµĐ·Đ´Đ°
+http://213.80.192.255:34040/udp/233.12.144.36:5050
+#EXTINF:-1,ĐŃŃ‚ĐľŃ€Đ¸ŃŹ
+http://213.80.192.255:34040/udp/233.12.144.37:5050
+#EXTINF:-1,ĐĐ»Đ»ŃŽĐ·Đ¸ĐľĐ˝+
+http://213.80.192.255:34040/udp/233.12.144.38:5050
+#EXTINF:-1,ĐšĐ°Ń€ŃŃĐµĐ»ŃŚ
+http://213.80.192.255:34040/udp/233.12.144.39:5050
+#EXTINF:-1,HD ĐˇĐżĐľŃ€Ń‚
+http://213.80.192.255:34040/udp/233.12.144.40:5050
+#EXTINF:-1,ĐšŃŃ…Đ˝ŃŹ Đ˘Đ’
+http://213.80.192.255:34040/udp/233.12.144.41:5050
+#EXTINF:-1,ĐšĐĄĐ›
+http://213.80.192.255:34040/udp/233.12.144.42:5050
+#EXTINF:-1,ĐśĐ°ĐĽĐ°
+http://213.80.192.255:34040/udp/233.12.144.43:5050
+#EXTINF:-1,ĐśĐ¸Ń€ 24
+http://213.80.192.255:34040/udp/233.12.144.44:5050
+#EXTINF:-1,ĐśĐľŃŹ ĐżĐ»Đ°Đ˝ĐµŃ‚Đ°
+http://213.80.192.255:34040/udp/233.12.144.45:5050
+#EXTINF:-1,ĐśŃĐ· Đ˘Đ’
+http://213.80.192.255:34040/udp/233.12.144.46:5050
+#EXTINF:-1,ĐśŃĐ·Ń‹ĐşĐ° ĐżĐµŃ€Đ˛ĐľĐłĐľ
+http://213.80.192.255:34040/udp/233.12.144.47:5050
+#EXTINF:-1,ĐťĐˇĐ˘
+http://213.80.192.255:34040/udp/233.12.144.48:5050
+#EXTINF:-1,ĐťĐ°ŃĐşĐ° 2.0
+http://213.80.192.255:34040/udp/233.12.144.49:5050
+#EXTINF:-1,ĐšĐ¸Đ˝Đľ ĐżĐ»ŃŽŃ
+http://213.80.192.255:34040/udp/233.12.144.51:5050
+#EXTINF:-1,ĐˇĐżĐľŃ€Ń‚ ĐżĐ»ŃŽŃ
+http://213.80.192.255:34040/udp/233.12.144.52:5050
+#EXTINF:-1,ĐžĐ˘Đ 
+http://213.80.192.255:34040/udp/233.12.144.53:5050
+#EXTINF:-1,ĐžŃ…ĐľŃ‚Đ° Đ¸ Ń€Ń‹Đ±Đ°Đ»ĐşĐ°
+http://213.80.192.255:34040/udp/233.12.144.54:5050
+#EXTINF:-1,ĐźĐµŃ€Đ˛Ń‹Đą HD
+http://213.80.192.255:34040/udp/233.12.144.56:5050
+#EXTINF:-1,ĐźŃŹŃ‚Đ˝Đ¸Ń†Đ°
+http://213.80.192.255:34040/udp/233.12.144.58:5050
+#EXTINF:-1,Đ Đ°Đ´ĐľŃŃ‚ŃŚ ĐĽĐľŃŹ
+http://213.80.192.255:34040/udp/233.12.144.59:5050
+#EXTINF:-1,Đ Đ‘Đš
+http://213.80.192.255:34040/udp/233.12.144.60:5050
+#EXTINF:-1,Đ ĐµŃ‚Ń€Đľ
+http://213.80.192.255:34040/udp/233.12.144.61:5050
+#EXTINF:-1,Đ ĐľŃŃĐ¸ŃŹ 24
+http://213.80.192.255:34040/udp/233.12.144.63:5050
+#EXTINF:-1,Đ ĐľŃŃĐ¸ŃŹ HD
+http://213.80.192.255:34040/udp/233.12.144.64:5050
+#EXTINF:-1,Đ ŃŃŃĐşĐ¸Đą Đ±ĐµŃŃ‚ŃĐµĐ»Đ»ĐµŃ€
+http://213.80.192.255:34040/udp/233.12.144.66:5050
+#EXTINF:-1,.Đ ŃŃŃĐşĐ¸Đą Đ¸Đ»Đ»ŃŽĐ·Đ¸ĐľĐ˝
+http://213.80.192.255:34040/udp/233.12.144.67:5050
+#EXTINF:-1,Đ ŃŃŃĐşĐ¸Đą Ń€ĐľĐĽĐ°Đ˝
+http://213.80.192.255:34040/udp/233.12.144.68:5050
+#EXTINF:-1,ĐˇĐ°Ń€Đ°Ń„Đ°Đ˝
+http://213.80.192.255:34040/udp/233.12.144.69:5050
+#EXTINF:-1,5 ĐşĐ°Đ˝Đ°Đ»
+http://213.80.192.255:34040/udp/233.12.144.70:5050
+#EXTINF:-1,ĐˇĐżĐľŃ€Ń‚ 1 HD
+http://213.80.192.255:34040/udp/233.12.144.71:5050
+#EXTINF:-1,ĐˇĐżĐľŃ€Ń‚
+http://213.80.192.255:34040/udp/233.12.144.72:5050
+#EXTINF:-1,Đ˘Đ’ 3
+http://213.80.192.255:34040/udp/233.12.144.74:5050
+#EXTINF:-1,Đ˘ĐµĐ»ĐµĐşĐ°Ń„Đµ
+http://213.80.192.255:34040/udp/233.12.144.76:5050
+#EXTINF:-1,Đ˘ĐťĐ’-ĐźĐ»Đ°Đ˝ĐµŃ‚Đ°
+http://213.80.192.255:34040/udp/233.12.144.77:5050
+#EXTINF:-1,Đ˘ĐťĐ˘
+http://213.80.192.255:34040/udp/233.12.144.78:5050
+#EXTINF:-1,ĐŁŃĐ°Đ´ŃŚĐ±Đ°
+http://213.80.192.255:34040/udp/233.12.144.79:5050
+#EXTINF:-1,Đ®
+http://213.80.192.255:34040/udp/233.12.144.80:5050
+#EXTINF:-1,Đ˘Đ’ 8
+http://213.80.192.255:34040/udp/233.12.144.81:5050
+#EXTINF:-1,Animal Planet
+http://213.80.192.255:34040/udp/233.12.144.82:5050
+#EXTINF:-1,Paramount Comedy HD
+http://213.80.192.255:34040/udp/233.12.144.83:5050
+#EXTINF:-1,MTV HD
+http://213.80.192.255:34040/udp/233.12.144.84:5050
+#EXTINF:-1,Nick Jr
+http://213.80.192.255:34040/udp/233.12.144.85:5050
+#EXTINF:-1,MTV Rocks
+http://213.80.192.255:34040/udp/233.12.144.86:5050
+#EXTINF:-1,Vh1 Classic
+http://213.80.192.255:34040/udp/233.12.144.87:5050
+#EXTINF:-1,ĐšĐ¸Đ˝Đľ Đ˘Đ’
+http://213.80.192.255:34040/udp/233.12.144.88:5050
+#EXTINF:-1,24 Đ”ĐľĐş
+http://213.80.192.255:34040/udp/233.12.144.89:5050
+#EXTINF:-1,ĐśĐĐ  HD
+http://213.80.192.255:34040/udp/233.12.144.90:5050
+#EXTINF:-1,ĐźŃ€Đľ Đ±Đ¸Đ·Đ˝ĐµŃ
+http://213.80.192.255:34040/udp/233.12.144.91:5050
+#EXTINF:-1,ĐˇĐ˘Đˇ Love
+http://213.80.192.255:34040/udp/233.12.144.92:5050
+#EXTINF:-1,FOX
+http://213.80.192.255:34040/udp/233.12.144.105:5050
+#EXTINF:-1,Fox Life
+http://213.80.192.255:34040/udp/233.12.144.106:5050
+#EXTINF:-1,History
+http://213.80.192.255:34040/udp/233.12.144.108:5050
+#EXTINF:-1,RT Doc HD
+http://213.80.192.255:34040/udp/233.12.144.109:5050
+#EXTINF:-1,Gulli
+http://213.80.192.255:34040/udp/233.12.144.110:5050
+#EXTINF:-1,History HD
+http://213.80.192.255:34040/udp/233.12.144.111:5050
+#EXTINF:-1,Tiji
+http://213.80.192.255:34040/udp/233.12.144.118:5050
+#EXTINF:-1,WBC HD
+http://213.80.192.255:34040/udp/233.12.144.120:5050
+#EXTINF:-1,ĐšĐ¸Đ˝ĐľŃ…Đ¸Ń‚
+http://213.80.192.255:34040/udp/233.12.144.123:5050
+#EXTINF:-1,Đ ŃŃŃĐşĐ¸Đą ŃŤĐşŃŃ‚Ń€Đ¸ĐĽ
+http://213.80.192.255:34040/udp/233.12.144.127:5050
+#EXTINF:-1,Đ ŃŃŃĐşĐ¸Đą Đ¸Đ»Đ»ŃŽĐ·Đ¸ĐľĐ˝ HD
+http://213.80.192.255:34040/udp/226.100.11.2:2001
+#EXTINF:-1,ĐĐ»Đ»ŃŽĐ·Đ¸ĐľĐ˝+ HD
+http://213.80.192.255:34040/udp/226.100.11.4:2001
+   	
