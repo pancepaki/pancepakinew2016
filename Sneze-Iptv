@@ -964,5 +964,25 @@ http://185.44.118.34:40555/udp/239.1.5.59:4000
 http://185.44.118.34:40555/udp/239.1.5.60:4000
 #EXTINF:-1,TVP INFO
 http://185.44.118.34:40555/udp/239.1.5.80:4000
+#EXTINF: -1, Match TV
+http://s02.mnogo-tv.by:8000/play/MATCH_TV
+#EXTINF: -1, Match Fighter
+http://s02.mnogo-tv.by:8000/play/BOEC
+#EXTINF: -1, Match arena
+http://s02.mnogo-tv.by:8000/play/ARENA
+#EXTINF: -1, MATCH GAME
+http://s02.mnogo-tv.by:8000/play/IGRA
+#EXTINF: -1, Match our sport
+http://s02.mnogo-tv.by:8000/play/NASH_SPORT
+#EXTINF: -1, Match Planet
+http://s02.mnogo-tv.by:8000/play/MS
+#EXTINF: -1, Soccer match
+http://s02.mnogo-tv.by:8000/play/FUTBOLL_1
+#EXTINF: -1, Match futbol2
+http://s02.mnogo-tv.by:8000/play/FUTBOLL_2
+#EXTINF: -1, Match futbol3
+http://s02.mnogo-tv.by:8000/play/FUTBOLL_3
+#EXTINF: -1, Our football
+http://s02.mnogo-tv.by:8000/play/NASH_FUTBOLS
    	
  	
