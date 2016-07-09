@@ -114,6 +114,8 @@ http://5.149.64.8:9999/udp/239.2.105.6:1234?auth=login:pass
 http://5.149.64.8:9999/udp/239.2.105.7:1234?auth=login:pass
 #EXTINF:0,#EXTINF:-1,EROTIC 4
 http://5.149.64.8:9999/udp/239.3.3.19:1237?auth=login:pass
+#EXTINF:-1,XXX Stars
+http://185.44.118.34:40555/udp/239.1.0.112:400022
 #EXTINF:0,Spice TV
 rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
 #EXTINF:-1,BT Sports ESPN
