@@ -67,7 +67,7 @@ http://fra1.ddns.net:97/live/dzevad/dzevad/9.m3u8
 http://fra1.ddns.net:97/live/dzevad/dzevad/10.m3u8
 #EXTINF:-1,RTL
 http://fra1.ddns.net:97/live/dzevad/dzevad/24.m3u8
-
+-----MAKEDONSKI-----
 #EXTINF:-1,SITEL
 http://fms.zulu.mk:554/zulu/sitel_1/playlist_b125000_w1132785237.m3u8? 
 #EXTINF:-1,TELMA
@@ -76,7 +76,6 @@ http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8?
 http://fms.zulu.mk:554/zulu/mtv1_1/playlist_b125000_w1132785237.m3u8? 
 #EXTINF:-1,24 Vesti 
 mms://62.162.58.55/24vesti
-
 #EXTINF:0,Alfa TV Makedonija
 http://89.212.246.73:8888/udp/239.13.2.233:5000
 #EXTINF:0,Nasa tv
@@ -161,7 +160,9 @@ http://92.53.27.201:10000
 http://fms.zulu.mk:1935/zulu/sitel_1/playlist.m3u8
    #EXTINF:0,КАНАЛ 8 Телевизија
    mms://62.162.58.55/TVkanal8
-   
+   #EXTINF:0,Alfa_2
+http://fms.zulu.mk:554/zulu/alfa_2/playlist_b125000_w1132785237.m3u8
+
 #EXTINF:-1,RTRS
 http://fra1.ddns.net:97/live/amir/amir/2.m3u8
 #EXTINF:-1,RTL2
@@ -311,6 +312,10 @@ http://fra1.ddns.net:97/live/miro/miro/6.m3u8
 ----SPORT-----
 #EXTINF:-1,Fight Sports
 http://118.97.183.222:1935/discover/fight/playlist.m3u8
+#EXTINF:0,TURK-BURSASPOR TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
+#EXTINF:-1, Sport TV  [COLOR lime]FTA[/COLOR]
+http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u
 
 #EXTINF:0,Fox sport 2
 http://motorsport.hopto.org:8080/
