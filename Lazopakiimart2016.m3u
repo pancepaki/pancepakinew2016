@@ -2562,6 +2562,30 @@ http://s02.mnogo-tv.by:8000/play/FUTBOLL_2
 http://s02.mnogo-tv.by:8000/play/FUTBOLL_3
 #EXTINF: -1, Our football
 http://s02.mnogo-tv.by:8000/play/NASH_FUTBOLS
-   	
+  -----proba----
+  #EXTINF:-1,Arenasport 1
+http://31.47.9.48:14759/ipvt_006
+#EXTINF:-1,Fight Network
+http://31.47.9.48:14759/ipvt_010
+#EXTINF:-1,Kanal A
+http://31.47.9.48:14759/ipvt_005
+#EXTINF:-1,Arenasport 2
+http://31.47.9.48:14759/ipvt_007
+#EXTINF:-1,Arenasport 3
+http://31.47.9.48:14759/ipvt_008
+#EXTINF:-1,Arenasport 4
+http://31.47.9.48:14759/ipvt_009
+#EXTINF:-1,pink bh
+http://31.47.9.48:14759/ipvt_004
+#EXTINF:-1,Federalna TV
+http://31.47.9.48:14759/ipvt_003
+#EXTINF:-1,hayat hd
+http://31.47.9.48:14759/ipvt_002
+#EXTINF:-1,bht 1
+http://31.47.9.48:14759/ipvt_001
+#EXTINF:-1,pink action
+http://31.47.9.48:14759/ipvt_012
+#EXTINF:-1,N/A
+http://31.47.9.48:14759/ipvt_022
  
 
