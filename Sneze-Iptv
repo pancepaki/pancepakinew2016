@@ -7,6 +7,11 @@ http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u8
 http://89.212.246.73:8888/udp/239.13.2.253:5000
 #EXTINF:0,Pink Kids
 http://89.212.246.73:8888/udp/239.17.2.80:5000
+#EXTINF:-1,Pink Western
+http://fra1.ddns.net:97/live/amir/amir/28.m3u8
+#EXTINF:-1,PINK FREE
+http://fra1.ddns.net:97/live/amir/amir/250.m3u8
+
 #EXTINF:-1,CMC
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 #EXTINF:-1,RTL2
