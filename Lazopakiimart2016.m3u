@@ -102,6 +102,59 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1,MLS / NBA HD
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 ------XXXXX------
+#EXTINF:-1,Egoist tv
+http://46.19.118.49:3030/udp/239.195.6.32:1234
+#EXTINF:-1,Nuart
+http://46.19.118.49:3030/udp/239.195.6.33:1234
+#EXTINF:-1,xxx
+http://46.19.118.49:3030/udp/239.195.2.3:1234
+#EXTINF:-1,Brazzers tv
+http://46.19.118.49:3030/udp/239.195.2.4:1234
+#EXTINF:-1,Play boy
+http://46.19.118.49:3030/udp/239.195.2.5:1234
+
+#EXTINF:-1,Blue Hustler
+http://109.237.146.139:81/udp/239.1.6.36:1234
+#EXTINF:-1,Playboy TV
+http://109.237.146.139:81/udp/239.1.6.39:1234
+#EXTINF:-1,xxx
+http://109.237.146.139:81/udp/239.1.6.32:1234
+#EXTINF:-1,O-LA-LA
+http://109.237.146.139:81/udp/239.1.6.34:1234
+#EXTINF:-1,Hustler HD
+http://109.237.146.139:81/udp/239.1.6.35:1234
+#EXTINF:-1,xxx
+http://109.237.146.139:81/udp/239.1.6.33:1234
+
+#EXTINF:-1,xxx
+http://178.49.175.51:81/udp/239.1.6.32:1234
+#EXTINF:-1,xxx
+http://178.49.175.51:81/udp/239.1.6.33:1234
+#EXTINF:-1,O-la-la
+http://178.49.175.51:81/udp/239.1.6.34:1234
+#EXTINF:-1,Hustler HD
+http://178.49.175.51:81/udp/239.1.6.35:1234
+#EXTINF:-1,Hustler
+http://178.49.175.51:81/udp/239.1.6.36:1234
+#EXTINF:-1,Playboy TV
+http://178.49.175.51:81/udp/239.1.6.39:1234
+#EXTINF:-1,Brazzers TV
+http://178.49.175.51:81/udp/239.1.6.40:1234
+
+#EXTINF:-1,xxx
+http://178.49.65.90:81/udp/239.1.6.32:1234
+#EXTINF:-1,xxx
+http://178.49.65.90:81/udp/239.1.6.33:1234
+#EXTINF:-1,O-la-la
+http://178.49.65.90:81/udp/239.1.6.34:1234
+#EXTINF:-1,Hustler HD
+http://178.49.65.90:81/udp/239.1.6.35:1234
+#EXTINF:-1,Hustler
+http://178.49.65.90:81/udp/239.1.6.36:1234
+#EXTINF:-1,Playboy TV
+http://178.49.65.90:81/udp/239.1.6.39:1234
+#EXTINF:-1,Brazzers TV
+http://178.49.65.90:81/udp/239.1.6.40:1234
 #EXTINF:0,#EXTINF:-1,Erotic1
 http://5.149.64.8:9999/udp/238.0.64.182:18027?auth=login:pass
 #EXTINF:0,http://5.149.64.8:9999/udp/238.0.64.182:18028?auth=login:pass
