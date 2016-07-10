@@ -216,18 +216,10 @@ http://185.44.118.34:40555/udp/239.1.1.224:4000
 http://185.44.118.34:40555/udp/239.1.1.233:4000
 #EXTINF:-1,kardelen tv
 http://185.44.118.34:40555/udp/239.1.2.48:4000
-#EXTINF:-1,Viasat sport HD rus
-http://185.44.118.34:40555/udp/239.1.2.69:4000
-
-
 BT Sports ESPN
 http://149.202.85.84:8080/eiSsepn/counter1/index.m3u8
 Boxnation
 http://149.202.207.8:8080/bxoo-nan/counter1/index.m3u8
-Racing UK
-http://149.202.207.8:8080/riskgyou0K/counter1/index.m3u8
-At The Races
-http://149.202.207.8:8080/etyhte-rcs/counter1/index.m3u8
 Star Sports 1
 http://149.202.85.84:8080/seater-sp-1/counter1/index.m3u8
 Star Sports 2
@@ -268,33 +260,6 @@ BT Sports 1
 http://149.202.207.8:8080/beETy-1/counter1/index.m3u8
 BT Sports 2
 http://149.202.85.84:8080/beETy-2/counter2/index.m3u8
-#EXTINF:-1,Formula 1
-http://191.101.228.168/tp.php/playlist.m3u8?id=1647
-#EXTINF:-1,ESPN
-http://191.101.228.168/tp.php/playlist.m3u8?id=1671
-#EXTINF:-1,ESPN 2
-http://191.101.228.168/tp.php/playlist.m3u8?id=1675
-#EXTINF:-1,ESPN 3
-http://191.101.228.168/tp.php/playlist.m3u8?id=1655
-#EXTINF:-1,ESPN +
-http://191.101.228.168/tp.php/playlist.m3u8?id=1651
-#EXTINF:-1,Fox Sports
-http://191.101.228.168/tp.php/playlist.m3u8?id=1659
-#EXTINF:-1,Fox Sports 2
-http://191.101.228.168/tp.php/playlist.m3u8?id=1663
-#EXTINF:-1,Eurosport 1 
-http://5.149.64.8:9999/udp/239.3.3.1:1237?auth=login:pass
-#EXTINF:-1,Eurosport 2
-http://5.149.64.8:9999/udp/239.3.3.2:1237?auth=login:pass
-#EXTINF:-1,Arenasport 1
-http://5.149.64.8:9999/udp/239.3.4.17:1234?auth=login:pass
-#EXTINF:-1,Arenasport 2
-http://5.149.64.8:9999/udp/239.3.4.18:1234?auth=login:pass
-#EXTINF:-1,Arenasport 3
-http://5.149.64.8:9999/udp/239.3.4.19:1234?auth=login:pass
-#EXTINF:-1,Arenasport 4
-http://5.149.64.8:9999/udp/239.3.4.20:1234?auth=login:pass
-
 #EXTINF:-1,SITEL
 http://fms.zulu.mk:554/zulu/sitel_1/playlist_b125000_w1132785237.m3u8? 
 #EXTINF:-1,TELMA
