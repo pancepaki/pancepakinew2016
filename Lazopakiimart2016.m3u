@@ -223,68 +223,7 @@ http://185.44.118.34:40555/udp/239.1.2.48:4000
 #EXTINF:-1,Viasat sport HD rus
 http://185.44.118.34:40555/udp/239.1.2.69:4000
 
-#EXTINF:-1,BG musik
-http://185.44.118.34:40555/udp/239.1.3.121:400
-#EXTINF:-1,HBO 2
-http://premium.exabytetv.info:8000/live/exabytetv/2oVe2obCrd/108.m3u8
-#EXTINF:-1,HBO Plus
-http://premium.exabytetv.info:8000/live/exabytetv/2oVe2obCrd/109.m3u8
-#EXTINF:-1,MAX
-http://premium.exabytetv.info:8000/live/exabytetv/2oVe2obCrd/114.m3u8
-#EXTINF:-1,Max Prime Oeste
-http://premium.exabytetv.info:8000/live/exabytetv/2oVe2obCrd/112.m3u8
-#EXTINF:-1,Arena 1
-http://50.97.49.87:1935/aqq/arhd1lsh58/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNi8yMDE2IDk6MTY6MzQgUE0maGFzaF92YWx1ZT1Ra2crblB6bndaaXE0WSsrNkZOeS93PT0mdmFsaWRtaW51dGVzPTM2MA==
-#EXTINF:-1,Arena 3
-http://50.97.49.87:1935/aqq/arhd3lsh58/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNi8yMDE2IDk6MTY6MzQgUE0maGFzaF92YWx1ZT1Ra2crblB6bndaaXE0WSsrNkZOeS93PT0mdmFsaWRtaW51dGVzPTM2MA==
- #EXTINF:-1, RTL
-http://83.218.223.86/live/_definst_/smil:RTL.smil/playlist.m3u8
-#EXTINF:-1, CNN International
-http://83.218.223.86/live/_definst_/smil:CNN_International.smil/playlist.m3u8
-#EXTINF:-1,Paramount Comedy
-http://83.218.223.86/live/_definst_/smil:PR_Comedy.smil/playlist.m3u8
-#EXTINF:-1,C Music
-http://83.218.223.86/live/_definst_/smil:Cmusic.smil/playlist.m3u8
-#EXTINF:-1,Viasat Golf
-http://83.218.223.86/live/_definst_/smil:GolfTV.smil/playlist.m3u8
-#EXTINF:-1, Fine Living
-http://83.218.223.86/live/_definst_/smil:FNL.smil/playlist.m3u8
-#EXTINF:-1, TV5 Monde
-http://83.218.223.86/live/_definst_/smil:TV-5_Monde.smil/playlist.m3u8
-#EXTINF:-1, English Club TV
-http://83.218.223.86/live/_definst_/smil:English_Club_TV.smil/playlist.m3u8
-#EXTINF:-1, Boomerang En
-http://83.218.223.86/live/_definst_/smil:KidsCo.smil/playlist.m3u8
-#EXTINF:-1, Nickelodeon En
-http://83.218.223.86/live/_definst_/smil:NickelodeonEn.smil/playlist.m3u8
-#EXTINF:-1, Cartoon Network En
-http://83.218.223.86/live/_definst_/smil:CartoonetworkEN.smil/playlist.m3u8
-#EXTINF:-1, Disney Channel En
-http://83.218.223.86/live/_definst_/smil:DisneyEn.smil/playlist.m3u8
-#EXTINF:-1, Eurosport En
-http://83.218.223.86/live/_definst_/smil:Eurosport_en.smil/playlist.m3u8
-#EXTINF:-1, Eurosport 2 En
-http://83.218.223.86/live/_definst_/smil:Eurosport2_en.smil/playlist.m3u8
-#EXTINF:-1, TV 1000 Action En
-http://83.218.223.86/live/_definst_/smil:TV1000actionEn.smil/playlist.m3u8
-#EXTINF:-1, TV 1000 English
-http://83.218.223.86/live/_definst_/smil:TV1000En.smil/playlist.m3u8
-#EXTINF:-1, AXN Black
-http://83.218.223.86/live/_definst_/smil:AXN_SciFi.smil/playlist.m3u8
-#EXTINF:-1, AXN White
-http://83.218.223.86/live/_definst_/smil:AXN_Crime.smil/playlist.m3u8
-#EXTINF:-1, AMC
-http://83.218.223.86/live/_definst_/smil:MGMen.smil/playlist.m3u8
-#EXTINF:-1,Fox 
-http://83.218.223.86/live/_definst_/smil:Fox_Life.smil/playlist.m3u8
-#EXTINF:-1,HBO Comedy
-http://83.218.223.86/live/_definst_/smil:HBO_Comedy.smil/playlist.m3u8
-#EXTINF:-1,HBO
-http://83.218.223.86/live/_definst_/smil:HBO.smil/playlist.m3u8
-#EXTINF:-1,Cinemax 2
-http://83.218.223.86/live/_definst_/smil:Cinemax_2.smil/playlist.m3u8
-#EXTINF:-1,Cinemax
-http://83.218.223.86/live/_definst_/smil:Cinemax_.smil/playlist.m3u8
+
 BT Sports ESPN
 http://149.202.85.84:8080/eiSsepn/counter1/index.m3u8
 Boxnation
