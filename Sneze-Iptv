@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1,JUGOTON TV
 http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/playlist.m3u8
+#EXTINF:0,Jugoton TV
+http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u8
+
 #EXTINF:-1,CMC
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 #EXTINF:-1,RTL2
@@ -87,7 +90,8 @@ http://92.53.27.201:10000
    http://fms.zulu.mk:1935/zulu/shutel_2/playlist.m3u8
     #EXTINF:0,НАША ТВ Телевизија
    http://fms.zulu.mk:1935/zulu/nashatv_2/playlist.m3u8
- 
+ #EXTINF:0,SITEL
+http://fms.zulu.mk:1935/zulu/sitel_1/playlist.m3u8
    #EXTINF:0,КАНАЛ 8 Телевизија
    mms://62.162.58.55/TVkanal8
    
@@ -238,10 +242,35 @@ http://fra1.ddns.net:97/live/miro/miro/102.m3u8
 #EXTINF:-1,BN BIH
 http://fra1.ddns.net:97/live/miro/miro/6.m3u8
 ----SPORT-----
+#EXTINF:-1,Fight Sports
+http://118.97.183.222:1935/discover/fight/playlist.m3u8
+
 #EXTINF:0,Fox sport 2
 http://motorsport.hopto.org:8080/
 #EXTINF:0,TURK-BURSASPOR TV
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
+#EXTINF:0, : REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:0, NBA
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:0, NFL NOW 
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_e.m3u8
+#EXTINF:0, TV REAL MADRID
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0, VERSUS HD EUA
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:0, PAC 12  Arizona  HD
+http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/master.m3u8
+#EXTINF:0, PAC 12  Bay Area HD
+http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/master.m3u8
+#EXTINF:0, PAC 12  Los Angeles HD
+http://pac12hd2-lh.akamaihd.net/i/p12losa_delivery@132838/master.m3u8
+#EXTINF:0, PAC 12  Oregon HD
+http://pac12hd2-lh.akamaihd.net/i/p12oreg_delivery@132835/master.m3u8
+#EXTINF:0, PAC 12 Mountain HD
+http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/master.m3u8
+#EXTINF:0, PAC 12 Washington HD
+http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/master.m3u8
 
 #EXTINF:-1 channelId="4" , МАТЧ ТВ
 http://95.27.185.85:4022/udp/233.33.210.93:5050
