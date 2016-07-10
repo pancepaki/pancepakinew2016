@@ -17,6 +17,80 @@ http://fra1.ddns.net:97/live/amir/amir/21.m3u8
 http://fra1.ddns.net:97/live/amir/amir/2.m3u8
 #EXTINF:-1,RTRS Plus
 http://fra1.ddns.net:97/live/amir/amir/21.m3u8
+#EXTINF:-1,SITEL
+http://fms.zulu.mk:554/zulu/sitel_1/playlist_b125000_w1132785237.m3u8? 
+#EXTINF:-1,TELMA
+http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8? 
+#EXTINF:-1,MPT1
+http://fms.zulu.mk:554/zulu/mtv1_1/playlist_b125000_w1132785237.m3u8? 
+#EXTINF:-1,24 Vesti 
+mms://62.162.58.55/24vesti 
+#EXTINF:0,СИТЕЛ Телевизија
+http://fms.zulu.mk:1935/zulu/sitel_2/playlist.m3u8
+#EXTINF:0,КАНАЛ 5 Телевизија
+http://fms.zulu.mk:1935/zulu/kanal5_2/playlist.m3u8?wowzasessionid=2097540408
+#EXTINF:0,КАНАЛ 5+ Телевизија
+http://fms.zulu.mk:1935/zulu/kanal5plus_2/playlist.m3u8
+#EXTINF:0,АЛФА Телевизија
+http://fms.zulu.mk:1935/zulu/alfa_1/playlist.m3u8
+#EXTINF:0,ТЕЛМА Телевизија
+http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8
+#EXTINF:0,24 ВЕСТИ
+mms://62.162.58.55/24vesti
+#EXTINF:0,ШУТЕЛ Телевизија
+http://fms.zulu.mk:1935/zulu/shutel_2/playlist.m3u8
+#EXTINF:0,НАША ТВ Телевизија
+http://fms.zulu.mk:1935/zulu/nashatv_2/playlist.m3u8
+#EXTINF:0,КАНАЛ 8 Телевизија
+mms://62.162.58.55/TVkanal8
+#EXTINF:0,КАНАЛ21 Телевизија
+mms://62.162.58.55/TVkanal21
+#EXTINF:-1,SITEL
+http://fms.zulu.mk:554/zulu/sitel_1/playlist_b125000_w1132785237.m3u8? 
+#EXTINF:-1,TELMA
+http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8? 
+#EXTINF:-1,MPT1
+http://fms.zulu.mk:554/zulu/mtv1_1/playlist_b125000_w1132785237.m3u8? 
+#EXTINF:-1 group-title="MAKEDONIJA", 24VESTI 
+mms://62.162.58.55/24vesti 
+#EXTINF:-1 group-title="MAKEDONIJA", TV KANAL 8 
+mms://62.162.58.55/TVKanal8 
+#EXTINF:0,Alfa_mk
+http://fms.zulu.mk:554/zulu/alfa_2/playlist_b125000_w1132785237.m3u8
+#EXTINF:0,KANAL 5
+http://217.16.82.6:554/zulu/kanal5_1/playlist.m3u8
+#EXTINF:0,KANAL 8 (Kocani)
+mms://62.162.58.55/TVkanal8
+#EXTINF:0,MPT1
+http://217.16.82.6:554/zulu/mtv1_1/playlist.m3u8
+#EXTINF:0,SITEL
+http://217.16.82.6:554/zulu/sitel_1/playlist.m3u8
+#EXTINF:0,TELMA
+http://217.16.82.6:554/zulu/telma_1/playlist.m3u8
+#EXTINF:0,Вести 24(Македония)
+mmsh://62.162.58.55/24vesti
+#EXTINF:0,ТВ СОНЦЕ
+http://92.53.27.201:10000
+#EXTINF:0,СИТЕЛ Телевизија
+  http://fms.zulu.mk:1935/zulu/sitel_2/playlist.m3u8
+ #EXTINF:0,КАНАЛ 5 Телевизија
+   http://fms.zulu.mk:1935/zulu/kanal5_2/playlist.m3u8?wowzasessionid=2097540408
+   #EXTINF:0,КАНАЛ 5+ Телевизија
+   http://fms.zulu.mk:1935/zulu/kanal5plus_2/playlist.m3u8
+    #EXTINF:0,АЛФА Телевизија
+     http://fms.zulu.mk:1935/zulu/alfa_1/playlist.m3u8
+   #EXTINF:0,ТЕЛМА Телевизија
+   http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8
+   #EXTINF:0,24 ВЕСТИ
+    mms://62.162.58.55/24vesti
+   #EXTINF:0,ШУТЕЛ Телевизија
+   http://fms.zulu.mk:1935/zulu/shutel_2/playlist.m3u8
+    #EXTINF:0,НАША ТВ Телевизија
+   http://fms.zulu.mk:1935/zulu/nashatv_2/playlist.m3u8
+ 
+   #EXTINF:0,КАНАЛ 8 Телевизија
+   mms://62.162.58.55/TVkanal8
+   
 #EXTINF:-1,RTRS
 http://fra1.ddns.net:97/live/amir/amir/2.m3u8
 #EXTINF:-1,RTL2
@@ -164,6 +238,13 @@ http://fra1.ddns.net:97/live/miro/miro/102.m3u8
 #EXTINF:-1,BN BIH
 http://fra1.ddns.net:97/live/miro/miro/6.m3u8
 ----SPORT-----
+#EXTINF:0,Fox sport 2
+http://motorsport.hopto.org:8080/
+#EXTINF:0,TURK-BURSASPOR TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
+
+#EXTINF:-1 channelId="4" , МАТЧ ТВ
+http://95.27.185.85:4022/udp/233.33.210.93:5050
 #EXTINF:-1,55 Viasat Sport
 http://176.112.96.17:8000/play/a01j
 #EXTINF:-1,34 Наш спорт
