@@ -11,7 +11,26 @@ http://89.212.246.73:8888/udp/239.17.2.80:5000
 http://fra1.ddns.net:97/live/amir/amir/28.m3u8
 #EXTINF:-1,PINK FREE
 http://fra1.ddns.net:97/live/amir/amir/250.m3u8
-
+#EXTINF:-1,OTV Valentino
+http://fra1.ddns.net:97/live/amir/amir/44.m3u8
+#EXTINF:-1,KANAL 6
+http://fra1.ddns.net:97/live/amir/amir/242.m3u8
+#EXTINF:-1,HAYAT TV
+http://fra1.ddns.net:97/live/amir/amir/244.m3u8
+#EXTINF:-1,HAPPY
+http://fra1.ddns.net:97/live/amir/amir/217.m3u8
+#EXTINF:-1,Federalna MI
+http://fra1.ddns.net:97/live/amir/amir/202.m3u8
+#EXTINF:-1,Federalna
+http://fra1.ddns.net:97/live/amir/amir/215.m3u8
+#EXTINF:-1,FACE TV
+http://fra1.ddns.net:97/live/amir/amir/5.m3u8
+#EXTINF:-1,Duga TV
+http://fra1.ddns.net:97/live/amir/amir/53.m3u8
+#EXTINF:-1,DM SAT
+http://fra1.ddns.net:97/live/amir/amir/225.m3u8
+#EXTINF:-1,CMC
+http://fra1.ddns.net:97/live/amir/amir/55.m3u8
 #EXTINF:-1,CMC
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 #EXTINF:-1,RTL2
