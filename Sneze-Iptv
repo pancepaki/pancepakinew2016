@@ -27,7 +27,26 @@ http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8?
 #EXTINF:-1,MPT1
 http://fms.zulu.mk:554/zulu/mtv1_1/playlist_b125000_w1132785237.m3u8? 
 #EXTINF:-1,24 Vesti 
-mms://62.162.58.55/24vesti 
+mms://62.162.58.55/24vesti
+
+#EXTINF:0,Alfa TV Makedonija
+http://89.212.246.73:8888/udp/239.13.2.233:5000
+#EXTINF:0,Nasa tv
+http://89.212.246.73:8888/udp/239.13.2.240:5000
+#EXTINF:0,Sitel 3
+http://89.212.246.73:8888/udp/239.13.2.241:5000
+#EXTINF:0,Telma TV
+http://89.212.246.73:8888/udp/239.13.2.242:5000
+#EXTINF:0,TV Sitel
+http://89.212.246.73:8888/udp/239.13.2.243:5000
+#EXTINF:0,MRT 1
+http://89.212.246.73:8888/udp/239.13.2.237:5000
+#EXTINF:0,MRT 2
+http://89.212.246.73:8888/udp/239.13.2.238:5000
+#EXTINF:0,MRT Sobrani
+http://89.212.246.73:8888/udp/239.13.2.239:5000
+#EXTINF:0,Kanal 5
+http://89.212.246.73:8888/udp/239.13.2.235:5000
 #EXTINF:0,СИТЕЛ Телевизија
 http://fms.zulu.mk:1935/zulu/sitel_2/playlist.m3u8
 #EXTINF:0,КАНАЛ 5 Телевизија
