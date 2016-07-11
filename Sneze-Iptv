@@ -3,18 +3,12 @@
 http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/playlist.m3u8
 #EXTINF:0,Jugoton TV
 http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u8
-#EXTINF:-1,BRAVOMUSIC
-http://fra1.ddns.net:97/live/amir/amir/235.m3u8
 #EXTINF:-1,ATV
 http://fra1.ddns.net:97/live/amir/amir/245.m3u8
 #EXTINF:-1,ATLAS TV
 http://fra1.ddns.net:97/live/amir/amir/60.m3u8
 #EXTINF:-1,RTL
 http://fra1.ddns.net:97/live/josip/josip/24.m3u8
-#EXTINF:0,RTL Kockica
-http://89.212.246.73:8888/udp/239.13.2.253:5000
-#EXTINF:0,Pink Kids
-http://89.212.246.73:8888/udp/239.17.2.80:5000
 #EXTINF:-1,Pink Western
 http://fra1.ddns.net:97/live/amir/amir/28.m3u8
 #EXTINF:-1,PINK FREE
@@ -76,43 +70,25 @@ http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8?
 http://fms.zulu.mk:554/zulu/mtv1_1/playlist_b125000_w1132785237.m3u8? 
 #EXTINF:-1,24 Vesti 
 mms://62.162.58.55/24vesti
-#EXTINF:0,Alfa TV Makedonija
-http://89.212.246.73:8888/udp/239.13.2.233:5000
-#EXTINF:0,Nasa tv
-http://89.212.246.73:8888/udp/239.13.2.240:5000
-#EXTINF:0,Sitel 3
-http://89.212.246.73:8888/udp/239.13.2.241:5000
-#EXTINF:0,Telma TV
-http://89.212.246.73:8888/udp/239.13.2.242:5000
-#EXTINF:0,TV Sitel
-http://89.212.246.73:8888/udp/239.13.2.243:5000
-#EXTINF:0,MRT 1
-http://89.212.246.73:8888/udp/239.13.2.237:5000
-#EXTINF:0,MRT 2
-http://89.212.246.73:8888/udp/239.13.2.238:5000
-#EXTINF:0,MRT Sobrani
-http://89.212.246.73:8888/udp/239.13.2.239:5000
-#EXTINF:0,Kanal 5
-http://89.212.246.73:8888/udp/239.13.2.235:5000
-#EXTINF:0,СИТЕЛ Телевизија
+#EXTINF:0,SITEL
 http://fms.zulu.mk:1935/zulu/sitel_2/playlist.m3u8
-#EXTINF:0,КАНАЛ 5 Телевизија
+#EXTINF:0,KANAL 5
 http://fms.zulu.mk:1935/zulu/kanal5_2/playlist.m3u8?wowzasessionid=2097540408
-#EXTINF:0,КАНАЛ 5+ Телевизија
+#EXTINF:0,KANAL 5+
 http://fms.zulu.mk:1935/zulu/kanal5plus_2/playlist.m3u8
-#EXTINF:0,АЛФА Телевизија
+#EXTINF:0,ALFA
 http://fms.zulu.mk:1935/zulu/alfa_1/playlist.m3u8
-#EXTINF:0,ТЕЛМА Телевизија
+#EXTINF:0,ТELMA
 http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8
-#EXTINF:0,24 ВЕСТИ
+#EXTINF:0,24 VESTI
 mms://62.162.58.55/24vesti
-#EXTINF:0,ШУТЕЛ Телевизија
+#EXTINF:0,SUTEL
 http://fms.zulu.mk:1935/zulu/shutel_2/playlist.m3u8
-#EXTINF:0,НАША ТВ Телевизија
+#EXTINF:0,NASA TV
 http://fms.zulu.mk:1935/zulu/nashatv_2/playlist.m3u8
-#EXTINF:0,КАНАЛ 8 Телевизија
+#EXTINF:0,KANAL 8
 mms://62.162.58.55/TVkanal8
-#EXTINF:0,КАНАЛ21 Телевизија
+#EXTINF:0,KANAL 21
 mms://62.162.58.55/TVkanal21
 #EXTINF:-1,SITEL
 http://fms.zulu.mk:554/zulu/sitel_1/playlist_b125000_w1132785237.m3u8? 
@@ -136,33 +112,32 @@ http://217.16.82.6:554/zulu/mtv1_1/playlist.m3u8
 http://217.16.82.6:554/zulu/sitel_1/playlist.m3u8
 #EXTINF:0,TELMA
 http://217.16.82.6:554/zulu/telma_1/playlist.m3u8
-#EXTINF:0,Вести 24(Македония)
+#EXTINF:0,24 VESTI
 mmsh://62.162.58.55/24vesti
-#EXTINF:0,ТВ СОНЦЕ
+#EXTINF:0,TV SONCE
 http://92.53.27.201:10000
-#EXTINF:0,СИТЕЛ Телевизија
+#EXTINF:0,SITEL
   http://fms.zulu.mk:1935/zulu/sitel_2/playlist.m3u8
- #EXTINF:0,КАНАЛ 5 Телевизија
+ #EXTINF:0,KANAL5
    http://fms.zulu.mk:1935/zulu/kanal5_2/playlist.m3u8?wowzasessionid=2097540408
-   #EXTINF:0,КАНАЛ 5+ Телевизија
+   #EXTINF:0,KANAL-5+
    http://fms.zulu.mk:1935/zulu/kanal5plus_2/playlist.m3u8
-    #EXTINF:0,АЛФА Телевизија
+    #EXTINF:0,ALFA
      http://fms.zulu.mk:1935/zulu/alfa_1/playlist.m3u8
-   #EXTINF:0,ТЕЛМА Телевизија
+   #EXTINF:0,TELMA
    http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8
-   #EXTINF:0,24 ВЕСТИ
+   #EXTINF:0,24-VESTI
     mms://62.162.58.55/24vesti
-   #EXTINF:0,ШУТЕЛ Телевизија
+   #EXTINF:0,SUTEL
    http://fms.zulu.mk:1935/zulu/shutel_2/playlist.m3u8
-    #EXTINF:0,НАША ТВ Телевизија
+    #EXTINF:0,NASA TV
    http://fms.zulu.mk:1935/zulu/nashatv_2/playlist.m3u8
  #EXTINF:0,SITEL
 http://fms.zulu.mk:1935/zulu/sitel_1/playlist.m3u8
-   #EXTINF:0,КАНАЛ 8 Телевизија
+   #EXTINF:0,KANAL 8
    mms://62.162.58.55/TVkanal8
-   #EXTINF:0,Alfa_2
+   #EXTINF:0,Alfa
 http://fms.zulu.mk:554/zulu/alfa_2/playlist_b125000_w1132785237.m3u8
-
 #EXTINF:-1,RTRS
 http://fra1.ddns.net:97/live/amir/amir/2.m3u8
 #EXTINF:-1,RTL2
