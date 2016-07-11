@@ -180,27 +180,6 @@ http://fra1.ddns.net:97/live/miro/miro/8.m3u8
 http://fra1.ddns.net:97/live/miro/miro/9.m3u8
 #EXTINF:-1,HRT1
 http://fra1.ddns.net:97/live/miro/miro/10.m3u8
--------BUGARSKI----------
-#EXTINF:-1,film+
-http://185.44.118.34:40555/udp/239.1.0.80:4000
-#EXTINF:-1,F+live
-http://185.44.118.34:40555/udp/239.1.0.81:4000
-#EXTINF:-1,HBO
-http://185.44.118.34:40555/udp/239.1.0.82:4000
-#EXTINF:-1,Cinemax
-http://185.44.118.34:40555/udp/239.1.0.85:4000
-#EXTINF:-1,BTV
-http://185.44.118.34:40555/udp/239.1.1.101:4000
-#EXTINF:-1,mezzo HD
-http://185.44.118.34:40555/udp/239.1.1.178:4000
-#EXTINF:-1,Rai news24
-http://185.44.118.34:40555/udp/239.1.1.224:4000
-#EXTINF:-1,Travel
-http://185.44.118.34:40555/udp/239.1.1.233:4000
-#EXTINF:-1,kardelen tv
-http://185.44.118.34:40555/udp/239.1.2.48:4000
-#EXTINF:-1,BG musik
-http://185.44.118.34:40555/udp/239.1.3.121:4000
 #EXTINF:-1,TV7
 http://fra1.ddns.net:97/live/amir/amir/219.m3u8
 #EXTINF:-1,TV1
@@ -216,8 +195,7 @@ http://fra1.ddns.net:97/live/amir/amir/15.m3u8
 #EXTINF:-1,SREMSKA TV
 http://fra1.ddns.net:97/live/amir/amir/251.m3u8
 #EXTINF:-1,SMART TV
-http://fra1.ddns.net:97/live/amir/amir/226.m3u8
-
+http://fra1.ddns.net:97/live/amir/amir/226.m3u
 #EXTINF:-1,TV7
 http://fra1.ddns.net:97/live/amir/amir/219.m3u8
 #EXTINF:-1,TV1
@@ -225,9 +203,7 @@ http://fra1.ddns.net:97/live/amir/amir/228.m3u8
 #EXTINF:-1,TV SLON
 http://fra1.ddns.net:97/live/amir/amir/229.m3u8
 #EXTINF:-1,TV MOST
-http://fra1.ddns.net:97/live/amir/amir/253.m3u8
-#EXTINF:-1,TV HEMA
-http://fra1.ddns.net:97/live/amir/amir/224.m3u8
+http://fra1.ddns.net:97/live/amir/amir/253.m3u
 #EXTINF:-1,TK MI
 http://fra1.ddns.net:97/live/amir/amir/207.m3u8
 #EXTINF:-1,SVET PLUS
@@ -262,8 +238,6 @@ http://fra1.ddns.net:97/live/amir/amir/218.m3u8
 http://fra1.ddns.net:97/live/amir/amir/241.m3u8
 #EXTINF:-1,RTV1
 http://fra1.ddns.net:97/live/amir/amir/255.m3u8
-#EXTINF:-1,RTV ZIVINICE
-http://fra1.ddns.net:97/live/amir/amir/222.m3u8
 #EXTINF:-1,RTV 2
 http://fra1.ddns.net:97/live/amir/amir/256.m3u8
 #EXTINF:-1,RTS3
