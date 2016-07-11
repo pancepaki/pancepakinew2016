@@ -265,6 +265,18 @@ http://118.97.183.222:1935/discover/fight/playlist.m3u8
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
 #EXTINF:-1, Sport TV  [COLOR lime]FTA[/COLOR]
 http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u
+#EXTINF:-1,Боец
+http://msk3.peers.tv/streaming/boets/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Бокс ТВ
+http://msk3.peers.tv/streaming/boks_tv/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Матч ТВ
+http://msk3.peers.tv/streaming/sport/126/tvrecw/playlist.m3u8
+#EXTINF:-1,Матч! Арена
+http://msk3.peers.tv/streaming/sport1/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Наш Футбол
+http://msk3.peers.tv/streaming/nash_futbol/16/tvrec/playlist.m3u8
+#EXTINF:-1,Футбол
+http://msk3.peers.tv/streaming/futbol/16/tvrec/playlist.m3u8
 
 #EXTINF:0,Fox sport 2
 http://motorsport.hopto.org:8080/
