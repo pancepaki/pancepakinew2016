@@ -3,8 +3,18 @@
 http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/playlist.m3u8
 #EXTINF:0,Jugoton TV
 http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u8
+#EXTINF:-1,CMC
+http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
+#EXTINF:-1,Lov i ribolov HD
+http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&session=5488c6087e1ea6.57082302
+#EXTINF:-1,Safari Live
+http://206.190.152.218:1935/rtsp-distribution/mp4:wil-safari-01.stream/playlist.m3u8
+#EXTINF:-1,TV+MKD
+http://141.136.14.18/kanal1/kanal1.m3u8
 #EXTINF:-1,1HD muzika
 http://msk3.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
+#EXTINF:-1,1HD/music
+http://80.250.191.10:1935/live/hlsstream343/playlist.m3u8
 #EXTINF:-1,ATV
 http://fra1.ddns.net:97/live/amir/amir/245.m3u8
 #EXTINF:-1,ATLAS TV
@@ -261,6 +271,20 @@ http://fra1.ddns.net:97/live/miro/miro/102.m3u8
 #EXTINF:-1,BN BIH
 http://fra1.ddns.net:97/live/miro/miro/6.m3u8
 ----SPORT-----
+#EXTINF:-1,ESPN HD
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1,NBA
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:-1,NovaSport1 (CZ)
+http://213.81.153.241/live001/channel028_p2.stream/DVR.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1,Rai Sport 1 HD
+http://b2.httpstream1.rai.it/raisport1.isml/QualityLevels(1296000)/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1,SportBG
+http://t.co/0LvQuvp6q1
+#EXTINF:-1,DigiSport3 (CZ)
+http://213.81.153.241/live001/channel026_p2.stream/DVR.m3u8
 #EXTINF:-1,Fight Sports
 http://118.97.183.222:1935/discover/fight/playlist.m3u8
 #EXTINF:0,TURK-BURSASPOR TV
@@ -279,6 +303,13 @@ http://msk3.peers.tv/streaming/sport1/16/tvrecw/playlist.m3u8
 http://msk3.peers.tv/streaming/nash_futbol/16/tvrec/playlist.m3u8
 #EXTINF:-1,Футбол
 http://msk3.peers.tv/streaming/futbol/16/tvrec/playlist.m3u8
+#EXTINF:-1,Sports Centrs TV
+http://dvb.gpsystems.lv:4242/bynumber/5
+#EXTINF:-1,Sports TV
+http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w708638919_b800000.m3u8
+#EXTINF:-1,Super Tennis
+http://94.100.31.242:8183/hls/xz3125/index.m3u8
+
 
 #EXTINF:0,Fox sport 2
 http://motorsport.hopto.org:8080/
@@ -306,7 +337,8 @@ http://pac12hd2-lh.akamaihd.net/i/p12oreg_delivery@132835/master.m3u8
 http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/master.m3u8
 #EXTINF:0, PAC 12 Washington HD
 http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/master.m3u8
-
+#EXTINF:-1,Bursaspor TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8
 #EXTINF:-1 channelId="4" , МАТЧ ТВ
 http://95.27.185.85:4022/udp/233.33.210.93:5050
 #EXTINF:-1,55 Viasat Sport
@@ -459,5 +491,16 @@ http://s02.mnogo-tv.by:8000/play/FUTBOLL_2
 http://s02.mnogo-tv.by:8000/play/FUTBOLL_3
 #EXTINF: -1, Our football
 http://s02.mnogo-tv.by:8000/play/NASH_FUTBOLS
- ----------UTRE NOVI--------  	
- 	
+ ----------MUZIKA-------- 
+ 
+#EXTINF:-1,1Music Channel Hungary
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1,CITY TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
+#EXTINF:-1,DSTV BG
+rtmp://46.249.95.140/live/livestream
+#EXTINF:-1,For Music
+http://wowza1.top-ix.org/quartaretetv1/formusicweb/index.m3u8
+#EXTINF:-1,Magic TV
+http://31.13.217.76:1935/magictv/magictv_live.stream/playlist.m3u8
+
