@@ -1,13 +1,43 @@
 #EXTM3U
 #EXTINF:-1,JUGOTON TV
 http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/playlist.m3u8
+#EXTINF:0,Jugoton TV
+http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u8
 #EXTINF:-1,CMC
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
+#EXTINF:-1,1HD
+http://80.250.191.10:1935/live/hlsstream343/playlist.m3u8
+#EXTINF:-1,CITY TV
+http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
+#EXTINF:-1,DSTV BG
+rtmp://46.249.95.140/live/livestream
+#EXTINF:-1,Russia Today Doc HD (English)
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+#EXTINF:-1,Safari Live
+http://206.190.152.218:1935/rtsp-distribution/mp4:wil-safari-01.stream/playlist.m3u8
+#EXTINF:-1,TV+
+http://141.136.14.18/kanal1/kanal1.m3u8
+
+#EXTINF:-1,Lov i ribolov HD
+http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&session=5488c6087e1ea6.57082302
 #‎EXTINF‬:1, VIP HD
 rtmp://46.105.209.61/live/live /vip-hd-tv.sdp
 #EXTINF:1, VIP HD
 http://46.105.209.61/live/live /vip-hd-tv
 -------------SPORT------------
+#EXTINF:-1,DigiSport3 (CZ)
+http://213.81.153.241/live001/channel026_p2.stream/DVR.m3u8
+#EXTINF:-1,ESPN HD
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1,SportBG 720p Bulgarian
+http://t.co/0LvQuvp6q1
+#EXTINF:-1,Sports Centrs TV
+http://dvb.gpsystems.lv:4242/bynumber/5
+#EXTINF:-1,Sports TV
+http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w708638919_b800000.m3u8
+#EXTINF:-1,Super Tennis
+http://94.100.31.242:8183/hls/xz3125/index.m3u8
+
 #EXTINF:-1,Sky Sports HD – Bein Sports HD – BT Sports HD (Stream Switches Channels)
 http://92.222.205.40:8085/lighd
 #EXTINF:-1,Setanta Sports Ireland
@@ -266,32 +296,18 @@ http://5.149.64.8:9999/udp/239.3.4.18:1234?auth=login:pass
 http://5.149.64.8:9999/udp/239.3.4.19:1234?auth=login:pass
 #EXTINF:-1,Arenasport 4
 http://5.149.64.8:9999/udp/239.3.4.20:1234?auth=login:pass
-------------BG---------
-#EXTINF:-1,film+
-http://185.44.118.34:40555/udp/239.1.0.80:4000
+#EXTINF:-1,NBA
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 
-#EXTINF:-1,F+live
-http://185.44.118.34:40555/udp/239.1.0.81:4000
+--------SPORT 2----------
+#EXTINF:-1,Rai Sport 1 HD
+http://b2.httpstream1.rai.it/raisport1.isml/QualityLevels(1296000)/manifest(format=m3u8-aapl).m3u8
 
-#EXTINF:-1,HBO
-http://185.44.118.34:40555/udp/239.1.0.82:4000
+#EXTINF:-1,NovaSport1 (CZ)
+http://213.81.153.241/live001/channel028_p2.stream/DVR.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 
-#EXTINF:-1,Cinemax
-http://185.44.118.34:40555/udp/239.1.0.85:4000
-
-#EXTINF:-1,BTV
-http://185.44.118.34:40555/udp/239.1.1.101:4000
-
-#EXTINF:-1,mezzo HD
-http://185.44.118.34:40555/udp/239.1.1.178:4000
-
-#EXTINF:-1,Rai news24
-http://185.44.118.34:40555/udp/239.1.1.224:4000
-
-#EXTINF:-1,Travel
-http://185.44.118.34:40555/udp/239.1.1.233:4000
-#EXTINF:-1,kardelen tv
-http://185.44.118.34:40555/udp/239.1.2.48:4000
 BT Sports ESPN
 http://149.202.85.84:8080/eiSsepn/counter1/index.m3u8
 Boxnation
@@ -336,6 +352,7 @@ BT Sports 1
 http://149.202.207.8:8080/beETy-1/counter1/index.m3u8
 BT Sports 2
 http://149.202.85.84:8080/beETy-2/counter2/index.m3u8
+----------------MKD--------
 #EXTINF:-1,SITEL
 http://fms.zulu.mk:554/zulu/sitel_1/playlist_b125000_w1132785237.m3u8? 
 #EXTINF:-1,TELMA
@@ -490,7 +507,8 @@ http://fra1.ddns.net:97/live/amir/amir/24.m3u8
 http://fra1.ddns.net:97/live/amir/amir/97.m3u8
 #EXTINF:-1,RTL2
 http://fra1.ddns.net:97/live/amir/amir/22.m3u8
-
+#EXTINF:-1,For Music
+http://wowza1.top-ix.org/quartaretetv1/formusicweb/index.m3u8
 #EXTINF:-1,OBN
 http://fra1.ddns.net:97/live/josip/josip/46.m3u8
 #EXTINF:-1,B92
@@ -654,6 +672,8 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:1400
 #EXTINF:-1,Hit Tv
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1,Magic TV
+http://31.13.217.76:1935/magictv/magictv_live.stream/playlist.m3u8
 #EXTINF:-1,Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Miami tv music
