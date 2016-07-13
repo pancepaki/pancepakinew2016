@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1,=== ПЛЕЙЛИСТ FreeSlyNet (ex_ZabavaSlyUkraine) ===
-http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
-#EXTINF:-1,=== v2.0
-http://j.mp/startslynetiptv?.m3u8
-#EXTINF:-1,=== Последнее обновление 10.07.16 ===
-http://j.mp/startslynetiptv?.m3u8
-#EXTINF:-1,1+1
-http://46.149.185.219:8781?slynet.tv FreeSlyNet IPTV
 #EXTINF:-1,1+1
 http://213.174.2.135:4000
 #EXTINF:-1,100% News UA
