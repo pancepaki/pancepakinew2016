@@ -91,16 +91,6 @@ http://fms.zulu.mk:1935/zulu/sitel_1/playlist.m3u8
    mms://62.162.58.55/TVkanal8
    #EXTINF:0,Alfa
 http://fms.zulu.mk:554/zulu/alfa_2/playlist_b125000_w1132785237.m3u8
-#EXTINF:-1,RTRS
-http://fra1.ddns.net:97/live/amir/amir/2.m3u8
-#EXTINF:-1,RTL2
-http://fra1.ddns.net:97/live/amir/amir/22.m3u8
-#EXTINF:-1,RTL
-http://fra1.ddns.net:97/live/amir/amir/24.m3u8
-#EXTINF:-1,Prva TV
-http://fra1.ddns.net:97/live/amir/amir/97.m3u8
-#EXTINF:-1,RTL2
-http://fra1.ddns.net:97/live/amir/amir/22.m3u8
 #EXTINF:-1,OBN
 http://fra1.ddns.net:97/live/josip/josip/46.m3u8
 #EXTINF:-1,B92
@@ -132,73 +122,7 @@ http://fra1.ddns.net:97/live/miro/miro/8.m3u8
 #EXTINF:-1,HRT2
 http://fra1.ddns.net:97/live/miro/miro/9.m3u8
 #EXTINF:-1,HRT1
-http://fra1.ddns.net:97/live/miro/miro/10.m3u8
-#EXTINF:-1,TV7
-http://fra1.ddns.net:97/live/amir/amir/219.m3u8
-#EXTINF:-1,TV1
-http://fra1.ddns.net:97/live/amir/amir/228.m3u8
-#EXTINF:-1,TV SLON
-http://fra1.ddns.net:97/live/amir/amir/229.m3u8
-#EXTINF:-1,TV MOST
-http://fra1.ddns.net:97/live/amir/amir/253.m3u8
-#EXTINF:-1,TK MI
-http://fra1.ddns.net:97/live/amir/amir/207.m3u8
-#EXTINF:-1,SVET PLUS
-http://fra1.ddns.net:97/live/amir/amir/15.m3u8
-#EXTINF:-1,SREMSKA TV
-http://fra1.ddns.net:97/live/amir/amir/251.m3u8
-#EXTINF:-1,SMART TV
-http://fra1.ddns.net:97/live/amir/amir/226.m3u
-#EXTINF:-1,TV7
-http://fra1.ddns.net:97/live/amir/amir/219.m3u8
-#EXTINF:-1,TV1
-http://fra1.ddns.net:97/live/amir/amir/228.m3u8
-#EXTINF:-1,TV SLON
-http://fra1.ddns.net:97/live/amir/amir/229.m3u8
-#EXTINF:-1,TV MOST
-http://fra1.ddns.net:97/live/amir/amir/253.m3u
-#EXTINF:-1,TK MI
-http://fra1.ddns.net:97/live/amir/amir/207.m3u8
-#EXTINF:-1,SVET PLUS
-http://fra1.ddns.net:97/live/amir/amir/15.m3u8
-#EXTINF:-1,STV
-http://fra1.ddns.net:97/live/amir/amir/17.m3u8
-#EXTINF:-1,SREMSKA TV
-http://fra1.ddns.net:97/live/amir/amir/251.m3u8
-#EXTINF:-1,SMART TV
-http://fra1.ddns.net:97/live/amir/amir/226.m3u8
-#EXTINF:-1,SANTOS
-http://fra1.ddns.net:97/live/amir/amir/218.m3u8
-#EXTINF:-1,RTV7
-http://fra1.ddns.net:97/live/amir/amir/241.m3u8
-#EXTINF:-1,RTV1
-http://fra1.ddns.net:97/live/amir/amir/255.m3u8
-#EXTINF:-1,RTV ZIVINICE
-http://fra1.ddns.net:97/live/amir/amir/222.m3u8
-#EXTINF:-1,RTV CG
-http://fra1.ddns.net:97/live/amir/amir/239.m3u8
-#EXTINF:-1,RTV 2
-http://fra1.ddns.net:97/live/amir/amir/256.m3u8
-#EXTINF:-1,RTS3
-http://fra1.ddns.net:97/live/amir/amir/257.m3u8
-#EXTINF:-1,RTS2
-http://fra1.ddns.net:97/live/amir/amir/258.m3u8
-#EXTINF:-1,RTS1
-http://fra1.ddns.net:97/live/amir/amir/20.m3u8
-#EXTINF:-1,SANTOS
-http://fra1.ddns.net:97/live/amir/amir/218.m3u8
-#EXTINF:-1,RTV7
-http://fra1.ddns.net:97/live/amir/amir/241.m3u8
-#EXTINF:-1,RTV1
-http://fra1.ddns.net:97/live/amir/amir/255.m3u8
-#EXTINF:-1,RTV 2
-http://fra1.ddns.net:97/live/amir/amir/256.m3u8
-#EXTINF:-1,RTS3
-http://fra1.ddns.net:97/live/amir/amir/257.m3u8
-#EXTINF:-1,RTS2
-http://fra1.ddns.net:97/live/amir/amir/258.m3u8
-#EXTINF:-1,RTS1
-http://fra1.ddns.net:97/live/amir/amir/20.m3u8
+http://fra1.ddns.net:97/live/miro/miro/10.m3u
 #EXTINF:-1,SREMSKA TV
 http://fra1.ddns.net:97/live/josip/josip/251.m3u8
 #EXTINF:-1,RTS3
