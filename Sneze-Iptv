@@ -9,6 +9,14 @@ http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 http://fra1.ddns.net:97/live/test/test/28.m3u8
 #EXTINF:-1,PINK FREE
 http://fra1.ddns.net:97/live/test/test/250.m3u8
+#EXTINF:-1,FACE TV
+http://fra1.ddns.net:97/live/test/test/5.m3u8
+#EXTINF:-1,BRAVOMUSIC
+http://fra1.ddns.net:97/live/test/test/235.m3u8
+#EXTINF:-1,ATV
+http://fra1.ddns.net:97/live/test/test/245.m3u8
+#EXTINF:-1,ATLAS TV
+http://fra1.ddns.net:97/live/test/test/60.m3u8
 #EXTINF:-1,RTRS Plus
 http://fra1.ddns.net:97/live/test/test/21.m3u8
 #EXTINF:-1,RTRS
