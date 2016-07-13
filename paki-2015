@@ -1,37 +1,14 @@
 #EXTM3U
-#EXTINF:635,How to Installing KODI 14.2 with All TVAddons Full guide
-https://r3---sn-cap1vvh3-n32e.googlevideo.com/videoplayback?mime=video%2Fmp4&sver=3&sparams=dur%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Cratebypass%2Crequiressl%2Csource%2Cupn%2Cexpire&upn=0n5yCVEmQLY&expire=1445466793&initcwndbps=1295000&ipbits=0&ratebypass=yes&itag=22&lmt=1443275358231600&requiressl=yes&ip=78.157.18.149&fexp=9408511%2C9408710%2C9412840%2C9413122%2C9414764%2C9416126%2C9417707%2C9419801%2C9420311%2C9421097%2C9421254%2C9421292%2C9421940%2C9422764&source=youtube&pcm2cms=yes&dur=635.297&id=o-APx49xVC8372zD3_TIUA3rnehNw81VcbK7qNLzveCVUR&mn=sn-cap1vvh3-n32e&mm=31&key=yt6&signature=44F3E411DCA14E2464E5B2C9E7BDB43C3ED9FD49.AC533B12553BBD0E1A2B4B080D35BF26308087AF&mv=m&pl=22&mt=1445445141&ms=au
-#EXTINF:0,[COLOR green]3.30 e 
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/12.00%20atletica%20PECHINO%20MONDIALI%205th%20day%5B%2FCOLOR%5D
-http://weblinks.altervista.org/LSTV.htm
 #EXTINF:0,eurosport uk
 rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=39 
 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 #EXTINF:0,eurosport de
 http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/%5BCOLOR%20green%5D16.00%20cycling%20VUELTA%20A%20ESPANA%20%E2%80%93%20etapa%205%20%E2%80%93%20Rota-Alcala%20de%20Guadaira%5B%2FCOLOR%5D
-http://streameo.altervista.org/forum/index.php
-#EXTINF:0,https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/%E2%80%9C%2Ceurosport%20uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=39 
-pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:0,https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/%E2%80%9C%2Ceurosport%20de
-http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,tve1 
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/es
-http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8
-#EXTINF:0,[COLOR green]20.45 ch.lea 
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/BAYER%20LEVERKUSEN%20%E2%80%93%20LAZIO%20%280-1%29%5B%2FCOLOR%5D
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
 #EXTINF:0,sport tv 3 pt
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx 
 swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
 #EXTINF:0,ntv+futbol 3 ru
 http://fe-nw.svc.iptv.rt.ru/hls/CH_C04_FOOTBALL3/variant.m3u8?version=2
-#EXTINF:0,aztv az
-http://bak01-edge03.itdc.ge/aztv/index.m3u8?token=hC9DvBIKvuN2GXbOhtwiyaWMIAGKyhe-
-#EXTINF:0,YBSG8lYg_4nve9744Bxp1PARbILC_InBe8DzsmKz2GraLEBb2T-lBg**
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/YBSG8lYg_4nve9744Bxp1PARbILC_InBe8DzsmKz2GraLEBb2T-lBg%2A%2A
 #EXTINF:0,irib varzesh ir
 http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
 #EXTINF:0,arena sport 3 sr
@@ -44,12 +21,8 @@ http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
 http://www.nasatv.eu:80/live?channelId=3&uid=18&deviceUser=zine&devicePass=zine
 #EXTINF:0,2 tv georgia
 http://ams01-edge01.itdc.ge/meore/index.m3u8?
-#EXTINF:0,token=yvs4CAMckLhWtIXEzMqb7sjdu_Scaavp1oVFulXaccgIR55EMpiv8-A9Jw8hobcGJweRm5en1M2A4OluB7peJA**
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/token%3Dyvs4CAMckLhWtIXEzMqb7sjdu_Scaavp1oVFulXaccgIR55EMpiv8-A9Jw8hobcGJweRm5en1M2A4OluB7peJA%2A%2A
 #EXTINF:0,s@y sports 2 de
 http://balkanstream.com/stream/skysport02/hospa140/adis0234
-#EXTINF:0,[COLOR green]20.45 ch.lea 
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/BAYER%20LEVERKUSEN%20%E2%80%93%20LAZIO%20%280-1%29%5B%2FCOLOR%5D
 http://weblinks.altervista.org/LSTV.htm
 #EXTINF:0,zdf de
 http://streaming-hub.com/tv/i/zdf_1@97483/index_1300_av-b.m3u8?sd=10&rebase=on
@@ -61,13 +34,9 @@ acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10
 http://80.77.52.6:3719/udp/226.0.0.8:12345
 #EXTINF:0,tsn 3 ca ace
 acestream://ae8feca3c1bdc419d264cd7cabea26b3d797fa13
-#EXTINF:0,[COLOR green]20.45 
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/ch.lea%20CLUB%20BRUGGE%20%E2%80%93%20MANCHESTER%20UTD%20%281-3%29%5B%2FCOLOR%5D
 http://streameo.altervista.org/forum/index.php
 #EXTINF:0,sport 1 voetbal nl
-http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest
-#EXTINF:0,(format=m3u8-aapl).m3u8
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/%28format%3Dm3u8-aapl%29.m3u8
+http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifes
 #EXTINF:0,arena sport 1 sr
 http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=zine&devicePass=zine
 #EXTINF:0,ntv+futbol 2 ru
@@ -77,30 +46,15 @@ rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=14
 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 #EXTINF:0,1 tv georgia
 http://ams01-edge01.itdc.ge/gpb/index.m3u8?token=q3m3-
-#EXTINF:0,L9XR5r9R05w8pOjwGIL2GHL6jYmdEW3L4gbaEGn4s2o9p-X-4pJMbwBC515HANtmMe-oArl7caccmG15Q**
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/L9XR5r9R05w8pOjwGIL2GHL6jYmdEW3L4gbaEGn4s2o9p-X-4pJMbwBC515HANtmMe-oArl7caccmG15Q%2A%2A
 #EXTINF:0,sport tv 2 pt
 rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr 
 swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 #EXTINF:0,silk sport 1 ge
 http://80.77.52.6:3719/udp/226.0.0.7:12345
-#EXTINF:0,tsn 1 ca ace
-acestream://f0be1dcc62ce52be176e96006ba2527e52707806
-#EXTINF:0,tsn 4 ca ace
-acestream://ef9a0e10a92678c29edf812a00d1db38f7ff6d70
-#EXTINF:0,[COLOR green]20.45 ch.lea 
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/APOEL%20NICOSIA%20%E2%80%93%20ASTANA%20%280-1%29%5B%2FCOLOR%5D
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
 #EXTINF:0,arena sport 5 sr
 http://balkanstream.com/stream/arenasport5sr/hospa140/adis0234
-#EXTINF:0,[COLOR green]20.45 
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/ch.lea%20CSKA%20MOSCOW%20%E2%80%93%20SPORTING%20LISBON%20%281-2%29%5B%2FCOLOR%5D
-http://weblinks.altervista.org/LSTV.htm
 #EXTINF:0,rtp1 pt
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
-#EXTINF:0,sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c 
-swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 #EXTINF:0,arena sport 4 sr
 http://www.nasatv.eu:80/live?channelId=19&uid=18&deviceUser=zine&devicePass=zine
 #EXTINF:0,idman tv Az
@@ -114,64 +68,32 @@ http://fe-nw.svc.iptv.rt.ru/hls/CH_C03_FOOTBALL1/variant.m3u8?version=2
 #EXTINF:0,tv3 sport 2 ace
 acestream://cdec8b65314f3e83ca5f6f6f1fe89e48721fd496
 #EXTINF:0,rtp1 pt_opz 2
-http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
-#EXTINF:0,[COLOR green]20.45 
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/ch.lea%20PARTIZAN%20BELGRADE%20%E2%80%93%20BATE%20BORISOV%20%280-1%29%5B%2FCOLOR%5D
-http://streameo.altervista.org/forum/index.php
+http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3
 #EXTINF:0,rts1 serbia
 http://www.nasatv.eu:80/live?channelId=12&uid=18&deviceUser=zine&devicePass=zine
 #EXTINF:0,obn
 http://www.nasatv.eu:80/live?channelId=54&uid=18&deviceUser=zine&devicePass=zine
-#EXTINF:0,[COLOR green]20.45 eng.lea.cup 
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/BARNSLEY%20%E2%80%93%20EVERTON%5B%2FCOLOR%5D
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
 #EXTINF:0,gazzetta tv it (geo)
 http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
 #EXTINF:0,gazzetta tv it_opz 2 (geo)
-http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?
-#EXTINF:0,sd=10&rebase=on
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/sd%3D10%26rebase%3Don
+http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8
 #EXTINF:0,arena sport 2 sr
 http://www.nasatv.eu:80/live?channelId=17&uid=18&deviceUser=zine&devicePass=zine
 #EXTINF:0,digi sport 2 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
-#EXTINF:0,sky sports 1 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 
-pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-#EXTINF:0,[COLOR green]23.30 arg.cup 
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/ATL.RAFAELA%20%E2%80%93%20SAN%20LORENZO%5B%2FCOLOR%5D
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/1326
 #EXTINF:0,tv publica ar
 rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
 #EXTINF:0,tv publica ar_opz 2
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
 #EXTINF:0,tv publica ar_opz 3
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
-#EXTINF:0,[COLOR 
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/green%5D0.00%20cop.sudam%20ARSENAL%20SARANDI%20%28Arg%29%20%E2%80%93%20INDEPENDIENTE%20%28Arg%29%5B%2FCOLOR%5D
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:0,sport tv 2 
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr 
-swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=zine&devicePass=zine
-#EXTINF:0,[COLOR green]2.00 arg.cup 
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/RACING%20CLUB%20%E2%80%93%20ATL.ATLANTA%5B%2FCOLOR%5D
-http://weblinks.altervista.org/LSTV.htm
 #EXTINF:0,tv publica ar
 rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
 #EXTINF:0,tv publica ar_opz 2
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
 #EXTINF:0,tv publica ar_opz 3
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
-#EXTINF:0,arena sport 
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/3%20sr
-#EXTINF:0,[COLOR green]3.00 bra.cup 
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/CORINTHIANS%20%E2%80%93%20SANTOS%20FC%5B%2FCOLOR%5D
-http://streameo.altervista.org/forum/index.php
-#EXTINF:0,sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c 
-swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
 #EXTINF:0,arena sport 3 sr
 http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=zine&devicePass=zine
 #EXTINF:0,[COLOR red]****************Sport****************[/COLOR]
@@ -182,9 +104,6 @@ http://lihattv.toh.info/jhos/beib1.m3u8
 http://lihattv.toh.info/jhos/beib2.m3u8
 #EXTINF:0,BEIN USA 3
 http://lihattv.toh.info/jhos/beib3.m3u8
-#EXTINF:0,EXTINF:0,beINSport1 FR
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/EXTINF%3A0%2CbeINSport1%20FR
-http://178.33.88.129:888/udp/239.102.0.15:1234
 #EXTINF:0,beINSport2 FR
 http://178.33.88.129:888/udp/239.102.0.16:1234
 #EXTINF:0,beINSport3 FR
@@ -205,70 +124,6 @@ http://178.33.88.129:888/udp/239.102.0.11:1234
 http://178.33.88.129:888/udp/239.102.0.2:1234
 #EXTINF:0,bein sport 5hd
 http://178.33.88.129:888/udp/239.102.0.6:1234
-#EXTINF:0,[COLOR red]******Latino & Tuga Channel******[/COLOR]
-https://www.youtube.com/watch?v=C9x--FZq5oQ
-#EXTINF:0,[COLOR green][I][B]TELECINCO [/B][/I]
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/%5B%2FCOLOR%5D
-http://mdsios2-lh.akamaihd.net/i/mitele/esmediaset_21@168473/index_0_av-b.m3u8
-#EXTINF:0,[COLOR green][I][B]ANTENA 3 [/B][/I]
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/%5B%2FCOLOR%5D
-http://antena3-aos1-apple-
-#EXTINF:0,live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/live.adaptive.level3.net%2Fapple%2Fantena3%2Fchannel01%2Fantena_3_hd_1548K_1280x720_main.m3u8
-#EXTINF:0,[COLOR green][I][B]LA SEXTA [/B][/I]
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/%5B%2FCOLOR%5D
-http://antena3-aos1-apple-
-#EXTINF:0,live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/live.adaptive.level3.net%2Fapple%2Fantena3%2Fchannel02%2Fla_sexta_hd_1548K_1280x720_main.m3u8
-#EXTINF:0,[COLOR green][I][B]MEGA [/B][/I][/COLOR]
-http://a3live-lh.akamaihd.net/i/mega/megageo_1@328914/master.m3u8
-#EXTINF:0,[COLOR green][I][B]CANAL SUR [/B][/I]
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/%5B%2FCOLOR%5D
-http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-
-#EXTINF:0,multi/main.m3u8
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/multi%2Fmain.m3u8
-#EXTINF:0,[COLOR green][I][B]13 TV [/B][/I]
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/%5B%2FCOLOR%5D%20
-http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8 
-#EXTINF:0,[COLOR green][I][B]DISCOVERY [/B][/I]
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/%5B%2FCOLOR%5D%20
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:0,[COLOR green][I][B]GALIZA TV [/B]
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/%5B%2FI%5D%5B%2FCOLOR%5D
-http://media3.crtvg.es/live/tvge/vcx7.m3u8
-#EXTINF:0,[COLOR green][I][B]RTP ASTURIAS 
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/%5B%2FB%5D%5B%2FI%5D%5B%2FCOLOR%5D
-http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
-#EXTINF:0,[COLOR green][I][B]EXTREMADURA TV 
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/%5B%2FB%5D%5B%2FI%5D%5B%2FCOLOR%5D
-http://corporacionextremena-live.hls.adaptive.level3.net/hls-live/corporacionextremena-
-#EXTINF:0,channel02/_definst_/live.m3u8
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/channel02%2F_definst_%2Flive.m3u8
-#EXTINF:0,[COLOR green][I][B]ANDORRA TV [/B][/I]
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/%5B%2FCOLOR%5D
-http://194.158.80.31:443/live/rtva/playlist.m3u8
-#EXTINF:0,[COLOR green][I][B]NOVA [/B][/I]
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/%5B%2FCOLOR%5D
-http://antena3-aos1-apple-
-#EXTINF:0,live.adaptive.level3.net/apple/antena3/channel11/eventos_6_700K_640x368_baseline.m3u8
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/live.adaptive.level3.net%2Fapple%2Fantena3%2Fchannel11%2Feventos_6_700K_640x368_baseline.m3u8
-#EXTINF:0,[COLOR green][I][B]CASTILLA LA 
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/MANCHA%20TV%20%5B%2FB%5D%5B%2FI%5D%5B%2FCOLOR%5D
-http://live-hls.rtvcm.stream.flumotion.com/rtvcm/hls-multi/main.m3u8
-#EXTINF:0,[COLOR green][I][B]TV MELILLA [/B]
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/%5B%2FI%5D%5B%2FCOLOR%5D
-rtmp://stream.tvmelilla.es:1935/tvmelilla playpath=live 
-swfUrl=http://tvmelilla.es/jwplayer/player.swf live=1 pageUrl=http://tvmelilla.es/directo.html
-#EXTINF:0,[COLOR green][I][B]TV CANARIAS [/B][/I]
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/%5B%2FCOLOR%5D
-rtmp://streamrtvcdrb.mad.idec.net/rtvcnet/rtvcnet.drb.stream 
-swfUrl=http://www2.rtvc.es/swf/flowplayer.rtmp-3.1.3.swf 
-pageUrl=http://www2.rtvc.es/television/Directo.aspx
-#EXTINF:0,[COLOR green][I][B]RT SPAIN [/B][/I]
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/%5B%2FCOLOR%5D
-http://odna.octoshape.net/f3f5m2v4/cds/ch2_720p/SAT_TOTAL.m3u8
-#EXTINF:0,[COLOR green][I][B]TV MIAMI LIFE ESPAŃA [/B][/I]
-https://raw.githubusercontent.com/pancepaki/srbijasvekanali/master/%5B%2FCOLOR%5D
 http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8 
 #EXTINF:0,[COLOR green][I][B]ULTRACINE [/B][/I][/COLOR]
 http://vemoxhlslive-
