@@ -13,6 +13,16 @@ http://141.136.14.18/kanal1/kanal1.m3u8
 http://fra1.ddns.net:97/live/josip/josip/24.m3u8
 #EXTINF:-1,CMC
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
+#EXTINF:-1,TV7
+http://fra1.ddns.net:97/live/test/test/219.m3u8
+#EXTINF:-1,TV1
+http://fra1.ddns.net:97/live/test/test/228.m3u8
+#EXTINF:-1,TV SLON
+http://fra1.ddns.net:97/live/test/test/229.m3u8
+#EXTINF:-1,TV MOST
+http://fra1.ddns.net:97/live/test/test/253.m3u8
+#EXTINF:-1,TK MI
+http://fra1.ddns.net:97/live/test/test/207.m3u8
 #EXTINF:-1,OBN
 http://fra1.ddns.net:97/live/josip/josip/46.m3u8
 #EXTINF:-1,B92
