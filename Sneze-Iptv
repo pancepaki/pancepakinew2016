@@ -13,7 +13,50 @@ http://141.136.14.18/kanal1/kanal1.m3u8
 http://fra1.ddns.net:97/live/josip/josip/24.m3u8
 #EXTINF:-1,CMC
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
-
+#EXTINF:-1,OBN
+http://fra1.ddns.net:97/live/josip/josip/46.m3u8
+#EXTINF:-1,B92
+http://fra1.ddns.net:97/live/josip/josip/440.m3u8
+#EXTINF:-1,BN BIH
+http://fra1.ddns.net:97/live/josip/josip/6.m3u8
+#EXTINF:-1,DM SAT
+http://fra1.ddns.net:97/live/josip/josip/225.m3u8
+#EXTINF:-1,NAT GEO WILD - K
+http://fra1.ddns.net:97/live/miro/miro/440.m3u8
+#EXTINF:-1,SREMSKA TV
+http://fra1.ddns.net:97/live/miro/miro/251.m3u8
+#EXTINF:-1,RTS3
+http://fra1.ddns.net:97/live/miro/miro/257.m3u8
+#EXTINF:-1,RTL
+http://fra1.ddns.net:97/live/miro/miro/24.m3u8
+#EXTINF:-1,DM SAT
+http://fra1.ddns.net:97/live/miro/miro/225.m3u8
+#EXTINF:-1,B92
+http://fra1.ddns.net:97/live/miro/miro/102.m3u8
+#EXTINF:-1,BN BIH
+http://fra1.ddns.net:97/live/miro/miro/6.m3u8
+#EXTINF:-1,OBN
+http://fra1.ddns.net:97/live/miro/miro/46.m3u8
+#EXTINF:-1,HRT4
+http://fra1.ddns.net:97/live/miro/miro/7.m3u8
+#EXTINF:-1,HRT3
+http://fra1.ddns.net:97/live/miro/miro/8.m3u8
+#EXTINF:-1,HRT2
+http://fra1.ddns.net:97/live/miro/miro/9.m3u8
+#EXTINF:-1,HRT1
+http://fra1.ddns.net:97/live/miro/miro/10.m3u
+#EXTINF:-1,SREMSKA TV
+http://fra1.ddns.net:97/live/josip/josip/251.m3u8
+#EXTINF:-1,RTS3
+http://fra1.ddns.net:97/live/josip/josip/257.m3u8
+#EXTINF:-1,BN BIH
+http://fra1.ddns.net:97/live/miro/miro/6.m3u8
+#EXTINF:-1,OBN
+http://fra1.ddns.net:97/live/miro/miro/46.m3u8
+#EXTINF:-1,B92
+http://fra1.ddns.net:97/live/miro/miro/102.m3u8
+#EXTINF:-1,BN BIH
+http://fra1.ddns.net:97/live/miro/miro/6.m3u8
 -----MAKEDONSKI-----
 #EXTINF:-1,SITEL
 http://fms.zulu.mk:554/zulu/sitel_1/playlist_b125000_w1132785237.m3u8? 
@@ -91,50 +134,7 @@ http://fms.zulu.mk:1935/zulu/sitel_1/playlist.m3u8
    mms://62.162.58.55/TVkanal8
    #EXTINF:0,Alfa
 http://fms.zulu.mk:554/zulu/alfa_2/playlist_b125000_w1132785237.m3u8
-#EXTINF:-1,OBN
-http://fra1.ddns.net:97/live/josip/josip/46.m3u8
-#EXTINF:-1,B92
-http://fra1.ddns.net:97/live/josip/josip/440.m3u8
-#EXTINF:-1,BN BIH
-http://fra1.ddns.net:97/live/josip/josip/6.m3u8
-#EXTINF:-1,DM SAT
-http://fra1.ddns.net:97/live/josip/josip/225.m3u8
-#EXTINF:-1,NAT GEO WILD - K
-http://fra1.ddns.net:97/live/miro/miro/440.m3u8
-#EXTINF:-1,SREMSKA TV
-http://fra1.ddns.net:97/live/miro/miro/251.m3u8
-#EXTINF:-1,RTS3
-http://fra1.ddns.net:97/live/miro/miro/257.m3u8
-#EXTINF:-1,RTL
-http://fra1.ddns.net:97/live/miro/miro/24.m3u8
-#EXTINF:-1,DM SAT
-http://fra1.ddns.net:97/live/miro/miro/225.m3u8
-#EXTINF:-1,B92
-http://fra1.ddns.net:97/live/miro/miro/102.m3u8
-#EXTINF:-1,BN BIH
-http://fra1.ddns.net:97/live/miro/miro/6.m3u8
-#EXTINF:-1,OBN
-http://fra1.ddns.net:97/live/miro/miro/46.m3u8
-#EXTINF:-1,HRT4
-http://fra1.ddns.net:97/live/miro/miro/7.m3u8
-#EXTINF:-1,HRT3
-http://fra1.ddns.net:97/live/miro/miro/8.m3u8
-#EXTINF:-1,HRT2
-http://fra1.ddns.net:97/live/miro/miro/9.m3u8
-#EXTINF:-1,HRT1
-http://fra1.ddns.net:97/live/miro/miro/10.m3u
-#EXTINF:-1,SREMSKA TV
-http://fra1.ddns.net:97/live/josip/josip/251.m3u8
-#EXTINF:-1,RTS3
-http://fra1.ddns.net:97/live/josip/josip/257.m3u8
-#EXTINF:-1,BN BIH
-http://fra1.ddns.net:97/live/miro/miro/6.m3u8
-#EXTINF:-1,OBN
-http://fra1.ddns.net:97/live/miro/miro/46.m3u8
-#EXTINF:-1,B92
-http://fra1.ddns.net:97/live/miro/miro/102.m3u8
-#EXTINF:-1,BN BIH
-http://fra1.ddns.net:97/live/miro/miro/6.m3u8
+
 ----SPORT-----
 #EXTINF:-1,ESPN HD
 http://80.80.160.168/live/6/live.m3u8
