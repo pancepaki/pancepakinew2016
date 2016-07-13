@@ -11,10 +11,164 @@ http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id
 http://206.190.152.218:1935/rtsp-distribution/mp4:wil-safari-01.stream/playlist.m3u8
 #EXTINF:-1,TV+MKD
 http://141.136.14.18/kanal1/kanal1.m3u8
-#EXTINF:-1,1HD muzika
-http://msk3.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
-#EXTINF:-1,1HD/music
-http://80.250.191.10:1935/live/hlsstream343/playlist.m3u8
+---EXYU-13JULI
+#EXTINF:-1,SPORT KLUB 3 HD -K
+http://fra1.ddns.net:97/live/ale/ale/452.m3u8
+#EXTINF:-1,SPORT KLUB 2 HD -K
+http://fra1.ddns.net:97/live/ale/ale/451.m3u8
+#EXTINF:-1,SPORT KLUB 1 HD -K
+http://fra1.ddns.net:97/live/ale/ale/450.m3u8
+#EXTINF:-1,PALMA PLUS -B
+http://fra1.ddns.net:97/live/ale/ale/428.m3u8
+#EXTINF:-1,SABUR TV -B
+http://fra1.ddns.net:97/live/ale/ale/421.m3u8
+#EXTINF:-1,NOVA TV -B
+http://fra1.ddns.net:97/live/ale/ale/423.m3u8
+#EXTINF:-1,NOVA RS -B
+http://fra1.ddns.net:97/live/ale/ale/427.m3u8
+#EXTINF:-1,MIR TV -B
+http://fra1.ddns.net:97/live/ale/ale/422.m3u8
+#EXTINF:-1,GRAND TV- S
+http://fra1.ddns.net:97/live/ale/ale/436.m3u8
+#EXTINF:-1,DOMA TV -B
+http://fra1.ddns.net:97/live/ale/ale/424.m3u8
+#EXTINF:-1,CINESTAR ACTION -K
+http://fra1.ddns.net:97/live/ale/ale/441.m3u8
+#EXTINF:-1,cinestar action - b
+http://fra1.ddns.net:97/live/ale/ale/405.m3u8
+#EXTINF:-1,cinemax hd - b
+http://fra1.ddns.net:97/live/ale/ale/406.m3u8
+#EXTINF:-1,cinemax 2 hd - b
+http://fra1.ddns.net:97/live/ale/ale/407.m3u8
+#EXTINF:-1,hob comedy m
+http://fra1.ddns.net:97/live/ale/ale/391.m3u8
+#EXTINF:-1,hbo adria m
+http://fra1.ddns.net:97/live/ale/ale/390.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 2 -S
+http://fra1.ddns.net:97/live/ale/ale/297.m3u8
+#EXTINF:-1,CINESTAR PREMIERE 1 -S
+http://fra1.ddns.net:97/live/ale/ale/296.m3u8
+#EXTINF:-1,PINK CRIME & MISTERY -S
+http://fra1.ddns.net:97/live/ale/ale/342.m3u8
+#EXTINF:-1,FOX MOVIES -S
+http://fra1.ddns.net:97/live/ale/ale/324.m3u8
+#EXTINF:-1,HBO ADRIA -S
+http://fra1.ddns.net:97/live/ale/ale/329.m3u8
+#EXTINF:-1,FOX CRIME -S
+http://fra1.ddns.net:97/live/ale/ale/322.m3u8
+#EXTINF:-1,HRT3
+http://fra1.ddns.net:97/live/ale/ale/8.m3u8
+#EXTINF:-1,HRT2
+http://fra1.ddns.net:97/live/ale/ale/9.m3u8
+#EXTINF:-1,HRT1
+http://fra1.ddns.net:97/live/ale/ale/10.m3u8
+#EXTINF:-1,BN BIH
+http://fra1.ddns.net:97/live/ale/ale/6.m3u8
+#EXTINF:-1,K3
+http://fra1.ddns.net:97/live/ale/ale/387.m3u8
+#EXTINF:-1,PRVA HERCEGOVACKA
+http://fra1.ddns.net:97/live/ale/ale/386.m3u8
+#EXTINF:-1,RTL 2 MAJEVICA
+http://fra1.ddns.net:97/live/ale/ale/375.m3u8
+#EXTINF:-1,RTL  MAJEVICA
+http://fra1.ddns.net:97/live/ale/ale/376.m3u8
+#EXTINF:-1,HRT4 MAJEVICA
+http://fra1.ddns.net:97/live/ale/ale/380.m3u8
+#EXTINF:-1,HRT2 MAJEVICA
+http://fra1.ddns.net:97/live/ale/ale/378.m3u8
+#EXTINF:-1,RTRS -S
+http://fra1.ddns.net:97/live/ale/ale/358.m3u8
+#EXTINF:-1,RTL2 -S
+http://fra1.ddns.net:97/live/ale/ale/266.m3u8
+#EXTINF:-1,RTL KOCKICA -S
+http://fra1.ddns.net:97/live/ale/ale/356.m3u8
+#EXTINF:-1,RTL -S
+http://fra1.ddns.net:97/live/ale/ale/357.m3u8
+#EXTINF:-1,PINK HORROR -S
+http://fra1.ddns.net:97/live/ale/ale/345.m3u8
+#EXTINF:-1,Pink Western
+http://fra1.ddns.net:97/live/ale/ale/28.m3u8
+#EXTINF:-1,PINK FOLK 2 -S
+http://fra1.ddns.net:97/live/ale/ale/344.m3u8
+#EXTINF:-1,PINK FILM -S
+http://fra1.ddns.net:97/live/ale/ale/343.m3u8
+#EXTINF:-1,PINK COMEDY -S
+http://fra1.ddns.net:97/live/ale/ale/341.m3u8
+#EXTINF:-1,OBN -S
+http://fra1.ddns.net:97/live/ale/ale/271.m3u8
+#EXTINF:-1,Nova TV -S
+http://fra1.ddns.net:97/live/ale/ale/262.m3u8
+#EXTINF:-1,NOVA RS -S
+http://fra1.ddns.net:97/live/ale/ale/336.m3u8
+#EXTINF:-1,DOMA TV -S
+http://fra1.ddns.net:97/live/ale/ale/267.m3u8
+#EXTINF:-1,PINK FREE
+http://fra1.ddns.net:97/live/ale/ale/250.m3u8
+#EXTINF:-1,Pink 3 Info
+http://fra1.ddns.net:97/live/ale/ale/260.m3u8
+#EXTINF:-1,PANONIJA
+http://fra1.ddns.net:97/live/ale/ale/249.m3u8
+#EXTINF:-1,NOVOSADSKA TV
+http://fra1.ddns.net:97/live/ale/ale/248.m3u8
+#EXTINF:-1,NEON TV
+http://fra1.ddns.net:97/live/ale/ale/237.m3u8
+#EXTINF:-1,N24
+http://fra1.ddns.net:97/live/ale/ale/220.m3u8
+#EXTINF:-1,BRAVOMUSIC
+http://fra1.ddns.net:97/live/ale/ale/235.m3u8
+#EXTINF:-1,RTRS Plus
+http://fra1.ddns.net:97/live/ale/ale/21.m3u8
+#EXTINF:-1,RTRS
+http://fra1.ddns.net:97/live/ale/ale/2.m3u8
+#EXTINF:-1,RTL2
+http://fra1.ddns.net:97/live/ale/ale/22.m3u8
+#EXTINF:-1,RTL KOCKICA
+http://fra1.ddns.net:97/live/ale/ale/23.m3u8
+#EXTINF:-1,RTL
+http://fra1.ddns.net:97/live/ale/ale/24.m3u8
+#EXTINF:-1,Prva TV
+http://fra1.ddns.net:97/live/ale/ale/97.m3u8
+#EXTINF:-1,Posavina TV
+http://fra1.ddns.net:97/live/ale/ale/25.m3u8
+#EXTINF:-1,OTV Valentino
+http://fra1.ddns.net:97/live/ale/ale/44.m3u8
+#EXTINF:-1,OSJECKA TV
+http://fra1.ddns.net:97/live/ale/ale/11.m3u8
+#EXTINF:-1,FACE TV
+http://fra1.ddns.net:97/live/ale/ale/5.m3u8
+#EXTINF:-1,Duga TV
+http://fra1.ddns.net:97/live/ale/ale/53.m3u8
+#EXTINF:-1,CMC
+http://fra1.ddns.net:97/live/ale/ale/55.m3u8
+#EXTINF:-1,ATLAS TV
+http://fra1.ddns.net:97/live/ale/ale/60.m3u8
+#EXTINF:-1,ALFA SARAJEVO MI
+http://fra1.ddns.net:97/live/ale/ale/205.m3u8
+#EXTINF:-1,bosna tv -b
+http://fra1.ddns.net:97/live/ale/ale/416.m3u8
+#EXTINF:-1,ARENA HD 5 -K
+http://fra1.ddns.net:97/live/ale/ale/447.m3u8
+#EXTINF:-1,ARENA HD 4 -K
+http://fra1.ddns.net:97/live/ale/ale/448.m3u8
+#EXTINF:-1,ARENA HD 3 -K
+http://fra1.ddns.net:97/live/ale/ale/446.m3u8
+#EXTINF:-1,ARENA HD 2 -K
+http://fra1.ddns.net:97/live/ale/ale/445.m3u8
+#EXTINF:-1,ARENA 1 HD -K
+http://fra1.ddns.net:97/live/ale/ale/444.m3u8
+#EXTINF:-1,24 KITCHEN -B
+http://fra1.ddns.net:97/live/ale/ale/437.m3u8
+#EXTINF:-1,rtl living sa
+http://fra1.ddns.net:97/live/ale/ale/412.m3u8
+#EXTINF:-1,hit brcko - b
+http://fra1.ddns.net:97/live/ale/ale/411.m3u8
+#EXTINF:-1,lov i ribolov -b
+http://fra1.ddns.net:97/live/ale/ale/410.m3u8
+#EXTINF:-1,film klib -b
+http://fra1.ddns.net:97/live/ale/ale/408.m3u8
+-------KRAJ LISTA-13JULI------
+
+
 #EXTINF:-1,ATV
 http://fra1.ddns.net:97/live/amir/amir/245.m3u8
 #EXTINF:-1,ATLAS TV
@@ -492,7 +646,10 @@ http://s02.mnogo-tv.by:8000/play/FUTBOLL_3
 #EXTINF: -1, Our football
 http://s02.mnogo-tv.by:8000/play/NASH_FUTBOLS
  ----------MUZIKA-------- 
- 
+ #EXTINF:-1,1HD muzika
+http://msk3.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
+#EXTINF:-1,1HD/music
+http://80.250.191.10:1935/live/hlsstream343/playlist.m3u8
 #EXTINF:-1,1Music Channel Hungary
 http://stream.1music.hu/stream/1music.m3u8
 #EXTINF:-1,CITY TV
