@@ -5,6 +5,18 @@ http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/playlist.m3u8
 http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u8
 #EXTINF:-1,CMC
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
+#EXTINF:-1,RTRS Plus
+http://fra1.ddns.net:97/live/test/test/21.m3u8
+#EXTINF:-1,RTRS
+http://fra1.ddns.net:97/live/test/test/2.m3u8
+#EXTINF:-1,RTL2
+http://fra1.ddns.net:97/live/test/test/22.m3u8
+#EXTINF:-1,RTL KOCKICA
+http://fra1.ddns.net:97/live/test/test/23.m3u8
+#EXTINF:-1,RTL
+http://fra1.ddns.net:97/live/test/test/24.m3u8
+#EXTINF:-1,Prva TV
+http://fra1.ddns.net:97/live/test/test/97.m3u8
 #EXTINF:-1,Lov i ribolov HD
 http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&session=5488c6087e1ea6.57082302
 #EXTINF:-1,TV+MKD
@@ -13,6 +25,13 @@ http://141.136.14.18/kanal1/kanal1.m3u8
 http://fra1.ddns.net:97/live/josip/josip/24.m3u8
 #EXTINF:-1,CMC
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
+#EXTINF:-1,SMART TV
+http://fra1.ddns.net:97/live/test/test/226.m3u8
+#EXTINF:-1,SANTOS
+http://fra1.ddns.net:97/live/test/test/218.m3u8
+#EXTINF:-1,RUBIN
+http://fra1.ddns.net:97/live/test/test/254.m3u8
+
 #EXTINF:-1,TV7
 http://fra1.ddns.net:97/live/test/test/219.m3u8
 #EXTINF:-1,TV1
