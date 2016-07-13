@@ -1,0 +1,1667 @@
+#EXTM3U
+#EXTINF:-1,=== ПЛЕЙЛИСТ FreeSlyNet (ex_ZabavaSlyUkraine) ===
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
+#EXTINF:-1,=== v2.0
+http://j.mp/startslynetiptv?.m3u8
+#EXTINF:-1,=== Последнее обновление 10.07.16 ===
+http://j.mp/startslynetiptv?.m3u8
+#EXTINF:-1,1+1
+http://46.149.185.219:8781?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,1+1
+http://213.174.2.135:4000
+#EXTINF:-1,100% News UA
+http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,112
+http://46.149.185.219:8806?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,112 UA
+http://app.live.112.events/hls/112hd_mid/index.m3u8
+#EXTINF:-1,112 UA HD
+http://213.174.2.135:4015
+#EXTINF:-1,112 UA SD
+http://213.174.2.135:4014
+#EXTINF:-1,12 / ТНТ4(работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/ocean?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,12 Канал (Омск)
+http://win.cdn.bonus-tv.ru/TVB7/gtrkomsk/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,12 Канал (Омск)
+http://android.cdn.bonus-tv.ru/TVB7/gtrkomsk/playlist.m3u8
+#EXTINF:-1,12 канал (Красноярск)
+http://iptv.multi-net.ru:80/udp/239.255.1.7:1234
+#EXTINF:-1,1HD
+http://msk3.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,2+2
+http://213.174.2.135:4034
+#EXTINF:-1,24 Doc
+http://msk3.peers.tv/streaming/24doc/16/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,24 Doc
+http://193.23.58.156:4025/udp/234.1.20.2:1234
+#EXTINF:-1,2x2
+http://msk3.peers.tv/streaming/2x2tv/126/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,2x2 (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/2×2?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,2x2 +2
+http://msk3.peers.tv/streaming/2x2tv/16/tvrec/playlist.m3u8
+#EXTINF:-1,2x2 +2
+http://hls.novotelecom.ru/streaming/2x2tv/tvrec/playlist.m3u8
+#EXTINF:-1,34 канал
+http://213.174.2.135:4069
+#EXTINF:-1,365
+http://msk3.peers.tv/streaming/365_days/16/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,365
+http://hls.novotelecom.ru/streaming/365_days/tvrec/playlist.m3u8
+#EXTINF:-1,3S
+http://play.lanet.tv/live/9086.m3u8
+#EXTINF:-1,3S.TV
+http://213.174.2.135:4018
+#EXTINF:-1,43 HD
+http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,43 канал HD
+http://msk3.peers.tv/streaming/43_kanal/126/copy/playlist.m3u8
+#EXTINF:-1,49 канал
+http://msk3.peers.tv/streaming/49kanal/16/tvrec/playlist.m3u8
+#EXTINF:-1,49 канал
+http://hls.novotelecom.ru/streaming/49kanal/tvrec/playlist.m3u8
+#EXTINF:-1,5 канал (UA)
+http://213.174.2.135:4046
+#EXTINF:-1,8 Канал (Красноярск)
+http://iptv.multi-net.ru:80/udp/239.255.1.22:1234?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,8 Канал (Красноярск)
+http://msk3.peers.tv/streaming/ya1pm/90/copy/playlist.m3u8
+#EXTINF:-1,8 Канал (Новосибирск)
+http://hlstv.kuz.211.ru/239.211.211.77/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,8 Канал (Новосибирск)
+http://hls.novotelecom.ru/streaming/8_kanal/tvrec/playlist.m3u8
+#EXTINF:-1,9 Волна
+http://bal.bonus-tv.ru/btv/9volna/type/user/devname/LG-SmartTV/devid/LG-1466490474/eol/20200101T0000/hash/706a3fe43fbf28dbe6f25d303072235c4a94ef86/playlist.m3u8
+#EXTINF:-1,9 волна
+http://win.cdn.bonus-tv.ru/TVB7/9volna/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,9 волна
+http://android.cdn.bonus-tv.ru:8080/9volna/index.m3u8
+#EXTINF:-1,AMC
+http://193.23.58.156:4025/udp/234.1.20.50:1234
+#EXTINF:-1,AMC[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,AMEDIA Hit HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,AMEDIA PREMIUM HD [PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,ANI
+http://hlstv.kuz.211.ru/239.211.211.98/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ATR
+http://213.174.2.135:4059
+#EXTINF:-1,Amedia 1
+http://msk3.peers.tv/streaming/amedia1/16/tvrecw/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Amedia 1 HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Amedia 2
+http://193.23.58.156:4025/udp/234.1.20.32:1234
+#EXTINF:-1,Animal Family HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Animal Planet
+http://149.255.152.110/animalplanet/index.m3u8
+#EXTINF:-1,Animal Planet HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Aone UA
+http://213.174.2.135:4035
+#EXTINF:-1,Bein Sport[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Bollywood HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Bridge
+rtmp://217.10.32.43:80/bridgetv//stream
+#EXTINF:-1,Bridge TV
+http://hls.novotelecom.ru/streaming/brigge/tvrec/playlist.m3u8
+#EXTINF:-1,Brodilo HD
+http://brodilo.tv/channel.php
+#EXTINF:-1,Business
+http://213.174.2.135:4036
+#EXTINF:-1,CBC AZ
+http://149.255.152.110/cbcaz/index.m3u8
+#EXTINF:-1,CLASSICS HD
+rtmp://91.201.78.3:1935/live/classicshd?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,CNN International
+http://149.255.152.110/cnn/index.m3u8
+#EXTINF:-1,Canal 2 (Mold)
+http://cdn.magictvbox.eu:8080/2plus/720p.m3u8
+#EXTINF:-1,Canal 3 (Mold)
+http://cdn.magictvbox.eu:8080/canal3/720p.m3u8
+#EXTINF:-1,Cartoon Network
+http://msk3.peers.tv/streaming/cartoonnetwork/16/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Cartoon Network
+http://vs8.cdn.ott.otautv.kz:80/dtv/id33_KTR_SG--CartoonNetwork/03/plst.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,DANCE HD
+rtmp://91.201.78.3:1935/live/dancehd?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,DTX HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Da Vinci Learning
+http://149.255.152.110/davinci/index.m3u8
+#EXTINF:-1,Discovery
+http://vs7.cdn.ott.otautv.kz:80/dtv/id50_KTR_SG--DiscoveryChannel/03/plst.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Discovery
+http://193.23.58.156:4025/udp/234.1.20.18:1234
+#EXTINF:-1,Discovery
+http://185.37.194.10:82/discovery-channel
+#EXTINF:-1,Discovery
+http://149.255.152.110/discovery/index.m3u8
+#EXTINF:-1,Discovery Channel HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Discovery Science HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Discovery Showcase Europe HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,ENTER Фильм
+http://213.174.2.135:4002
+#EXTINF:-1,EURONEWS UA
+http://213.174.2.135:4071
+#EXTINF:-1,EUROSPORT 1 HD
+http://213.174.2.135:4102
+#EXTINF:-1,EXTREME SPORTS
+http://213.174.2.135:4120
+#EXTINF:-1,Eureka HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,EuroNews
+http://msk3.peers.tv/streaming/euronews/126/tvrecw/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Europa Plus TV (Mold)
+http://cdn.magictvbox.eu:8080/europ/720p.m3u8
+#EXTINF:-1,Eurosport 1
+http://vs8.cdn.ott.otautv.kz/dtv/id107_KTR_SG--Eurosport/03/plst.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Eurosport 1
+http://86.57.178.105:8000/udp/225.2.1.1:1234
+#EXTINF:-1,Eurosport 1
+http://193.23.58.156:4025/udp/234.1.20.19:1234
+#EXTINF:-1,Eurosport 1
+http://www.sport24.pw/hls/Eurosport.m3u8
+#EXTINF:-1,Eurosport 1 HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Eurosport 2
+http://www.sport24.pw/hls/Eurosport2.m3u8
+#EXTINF:-1,Eurosport 2 HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,FOX
+http://213.174.2.135:4119
+#EXTINF:-1,FOX HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,FOX Life HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,FOX Sports2 HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Fashion TV
+http://msk3.peers.tv/streaming/fashion/16/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Fashion TV
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+#EXTINF:-1,Food Network[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,For Music
+http://wowza1.top-ix.org/quartaretetv1/formusicweb/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Fox
+http://vs7.cdn.ott.otautv.kz:80/dtv/id108_KTR_SG--Fox/03/plst.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Fox Kids
+http://46.182.25.34:1935/tv/1749/playlist.m3u8
+#EXTINF:-1,Fox Life
+http://86.57.178.105:8000/udp/225.8.1.1:1234
+#EXTINF:-1,France 24
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8?Wse=4577tr?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,France 24
+http://193.23.58.156:4025/udp/234.1.20.20:1234
+#EXTINF:-1,Gameshow
+http://cdn-01.bonus-tv.ru:9090/btv/gameshow/type/user/devname/LG-SmartTV/devid/LG-1465295888/eol/20200101T0000/hash/87f43f0ab86fbdef780f16689b6318d079ae8d46/playlist.m3u8
+#EXTINF:-1,Ginger HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Gulli
+http://193.23.58.156:4025/udp/234.1.20.47:1234
+#EXTINF:-1,HD LIFE[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,HD Media 3D
+http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
+#EXTINF:-1,HD Кино[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,HISTORY HD
+http://213.174.2.135:4092
+#EXTINF:-1,HISTORY HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,HardLife
+rtmp://stream.hardlife.tv/live/hl?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Heavy Metal Television
+http://70.166.98.130:1935/hmtv/myStream/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Hello TV HD
+http://live.tvhello.ru/live/Stream1/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Hope TV
+http://msk3.peers.tv/streaming/hopetv/126/copy/playlist.m3u8
+#EXTINF:-1,ICTV
+http://46.149.185.219:8783?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ICTV
+http://213.174.2.135:4003
+#EXTINF:-1,Inva Media
+http://bal.bonus-tv.ru/btv/invatv/type/user/devname/LG-SmartTV/devid/LG-1443615282/eol/20200101T000000/hash/10bb259a80d9c7546a14972f47fee8536ba24ea2/playlist.m3u8
+#EXTINF:-1,Inva Media TV
+http://btv-net.mediacdn.ru/TVB8/invatv/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,IНТЕР
+http://46.149.185.219:8788?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,JAZZ HD
+rtmp://91.201.78.3:1935/live/jazzhd?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Jetix
+http://46.182.25.34:1935/tv/1767/playlist.m3u8
+#EXTINF:-1,JimJam
+http://hls.novotelecom.ru/streaming/jim_jam/tvrec/playlist.m3u8
+#EXTINF:-1,JuCeTV HD
+http://109.68.190.192:1935/WEB_JuceTV/JuceTV.stream/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,K1
+http://213.174.2.135:4019
+#EXTINF:-1,K2
+http://213.174.2.135:4004
+#EXTINF:-1,KATV 1
+http://149.255.152.110/ktv1/index.m3u8
+#EXTINF:-1,Kanal 402
+http://213.174.2.135:4075
+#EXTINF:-1,LALE
+http://213.174.2.135:4062
+#EXTINF:-1,LIDA TV
+http://86.57.178.105:8000/udp/225.32.1.1:1234
+#EXTINF:-1,LIFE
+http://btv-net.mediacdn.ru/TVB7/lifenews/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,LIFE
+http://msk3.peers.tv/streaming/lifenews/16/tvrecw/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,LIFE
+http://bal.bonus-tv.ru/btv/lifenews/type/user/devname/LG-SmartTV/devid/LG-1433367804/eol/20200101T000000/hash/963ba2b65d79e4bd01c0ba00930d1b5a09379d09/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,LIFE (480p)
+http://tv.life.ru:80/lifetv/480p/index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,LIFE (720p)
+http://tv.life.ru/lifetv/720p/index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,LIFE78 (480p)
+http://tv78.life.ru/lifetv/480p/index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,LIFE78 (720p)
+http://tv78.life.ru/lifetv/720p/index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Lale
+http://46.149.185.219:8804?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Life
+http://193.23.58.156:4025/udp/234.1.10.23:1234
+#EXTINF:-1,Life78
+http://cdn-03.bonus-tv.ru/btv/life78/type/user/devname/LG-SmartTV/devid/LG-1466700070/eol/20200101T0000/hash/8efbe6fc0e06cb447c62e902030f2424da0c24ca/playlist.m3u8
+#EXTINF:-1,Luxury
+http://nano.teleservice.su:8080/hls/luxury.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,M1
+http://213.174.2.135:4020
+#EXTINF:-1,M2
+http://213.174.2.135:4005
+#EXTINF:-1,MGM HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,MIAMI MUSIC
+http://74.208.152.93/music/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,MILADY
+http://213.174.2.135:4055
+#EXTINF:-1,MOTORS TV[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,MTV AM HD
+http://94.125.187.18/hlsam/hd/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,MTV Dance
+http://193.23.58.156:4025/udp/234.1.20.37:1234
+#EXTINF:-1,MTV Hits
+http://193.23.58.156:4025/udp/234.1.20.36:1234
+#EXTINF:-1,MTV Live HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,MTV RU
+http://msk3.peers.tv/streaming/mtv_russia/16/tvrecw/playlist.m3u8
+#EXTINF:-1,MTV Rocks
+http://193.23.58.156:4025/udp/234.1.20.38:1234
+#EXTINF:-1,MTV Ru
+http://95.140.197.69:8000/channel-26
+#EXTINF:-1,MUSIC BOX UA
+http://213.174.2.135:4022
+#EXTINF:-1,Magazin (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/magazin ?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Mezzo
+http://193.23.58.156:4025/udp/234.1.20.48:1234
+#EXTINF:-1,Mezzo Live HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,MostVideo HD
+http://wow.stib.com.ua:1935/tv/ch1/playlist_b125000.m3u8
+#EXTINF:-1,Music box
+http://msk3.peers.tv/streaming/musboxtv/16/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Musicbox
+http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8
+#EXTINF:-1,Muzzone
+http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,NBA HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,NEWS 24
+http://213.174.2.135:4007
+#EXTINF:-1,NEWS NETWORK
+http://213.174.2.135:4050
+#EXTINF:-1,NEWS ONE
+http://46.149.185.219:8801?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,NEWS ONE
+http://213.174.2.135:4047
+#EXTINF:-1,Nano TV
+http://nano.teleservice.su:8080/hls/nano.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Nat Geo
+http://vs7.cdn.ott.otautv.kz:80/dtv/id106_KTR_SG--NationalGeographic/03/plst.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Nat Geo
+http://86.57.178.105:8000/udp/225.2.1.2:1234
+#EXTINF:-1,Nat Geo Wild
+http://vs7.cdn.ott.otautv.kz:80/dtv/id77_KTR_SG--NatGeoWild/03/plst.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Nat Geo Wild HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,National Geographic HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Nebiset
+http://hls.nebiset.tv/nebiset.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Nebiset
+http://msk3.peers.tv/streaming/nebiset/126/tvrec/playlist.m3u8
+#EXTINF:-1,News 24
+http://46.149.185.219:8786?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,News one HD
+http://77.120.104.64/hls/newsone-hd/stream.m3u8
+#EXTINF:-1,Nick jr
+http://193.23.58.156:4025/udp/234.1.20.33:1234
+#EXTINF:-1,Nickelodeon
+http://msk3.peers.tv/streaming/nickelodeon/126/tvrecw/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Nickelodeon
+http://vs7.cdn.ott.otautv.kz:80/dtv/id104_KTR_SG--Nickelodeon/03/plst.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Nickelodeon
+http://193.23.58.156:4025/udp/234.1.20.7:1234
+#EXTINF:-1,Nickelodeon HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,OH
+http://213.174.2.135:4076
+#EXTINF:-1,OTV
+http://213.174.2.135:4008
+#EXTINF:-1,One HD
+http://rtmp.one.by:1300?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,One UHD
+http://rtmp.one.by:1400?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,OneRUS HD
+http://rtmp.one.by:2300?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Outdoor channel HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,POP HD
+rtmp://91.201.78.3:1935/live/pophd?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Paramount Channel HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Paramount Comedy HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Pro BCE
+http://213.174.2.135:4038
+#EXTINF:-1,QTV
+http://46.149.185.219:8797?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,QTV
+http://213.174.2.135:4025
+#EXTINF:-1,ROCK HD
+rtmp://91.201.78.3:1935/live/rockhd?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,RT Doc
+http://android.cdn.bonus-tv.ru/TVB7/rtdoc/playlist.m3u8
+#EXTINF:-1,RT Doc HD
+http://win.cdn.bonus-tv.ru/TVB7/rtdoc/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,RT HD
+http://win.cdn.bonus-tv.ru/TVB7/rttv/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,RT HD
+http://cdn-01.bonus-tv.ru/TVB7/rttv/playlist.m3u8
+#EXTINF:-1,RTG
+http://hls.novotelecom.ru/streaming/rustravel/tvrec/playlist.m3u8
+#EXTINF:-1,RTG
+http://193.23.58.156:4025/udp/234.1.20.23:1234
+#EXTINF:-1,RTI HD
+http://cdn.vsnw.net:8081/interradio/720i.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,RTi
+http://213.174.2.135:4045
+#EXTINF:-1,RU TV (Moldova)
+http://cdn.magictvbox.eu:8080/rutv/720p.m3u8
+#EXTINF:-1,Renome
+http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Ru.TV
+http://hls.novotelecom.ru/streaming/rutv/tvrec/playlist.m3u8
+#EXTINF:-1,Russian Music Box
+http://msk3.peers.tv/streaming/musboxru/16/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Russian Musicbox
+http://hls.novotelecom.ru/streaming/musboxru/tvrec/playlist.m3u8
+#EXTINF:-1,SHOPPING TV
+http://213.174.2.135:4072
+#EXTINF:-1,STV
+http://193.23.58.156:4025/udp/234.1.10.46:1234
+#EXTINF:-1,Setanta Sports HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Setanta Sports+ HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Shop24
+http://cdn-01.bonus-tv.ru/TVB7/shop24/playlist.m3u8
+#EXTINF:-1,Shop24
+http://msk3.peers.tv/streaming/shop24/126/tvrecw/playlist.m3u8
+#EXTINF:-1,Shopping Live
+http://msk3.peers.tv/streaming/shopping_live/16/tvrecw/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Sky Sports F1[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Sony ET HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Sony-Scifi
+http://86.57.178.105:8000/udp/225.5.1.2:1234
+#EXTINF:-1,Sport 1 UA
+http://178.172.245.155:8121/sport1
+#EXTINF:-1,TET
+http://213.174.2.135:4041
+#EXTINF:-1,TLC
+http://iptv.multi-net.ru:80/udp/239.255.1.27:1234
+#EXTINF:-1,TLC HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,TONIS
+http://213.174.2.135:4026
+#EXTINF:-1,TONIS HD
+http://213.174.2.135:4027
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://213.174.2.135:4091
+#EXTINF:-1,TV 1000
+http://86.57.178.105:8000/udp/225.15.1.1:1234
+#EXTINF:-1,TV 1000
+http://193.23.58.156:4025/udp/234.1.20.15:1234
+#EXTINF:-1,TV 1000 Action
+http://86.57.178.105:8000/udp/225.15.1.2:1234
+#EXTINF:-1,TV 1000 Comedy HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,TV 1000 Megahit HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,TV 1000 Premium HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,TV 1000 Русское Кино
+http://86.57.178.105:8000/udp/225.6.1.1:1234
+#EXTINF:-1,TV1000
+http://vs7.cdn.ott.otautv.kz:80/dtv/id48_KTR_SG--TV1000/03/plst.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,TV1000
+http://213.174.2.135:4113
+#EXTINF:-1,TV1000 ACTION
+http://213.174.2.135:4112
+#EXTINF:-1,TV1000 Action
+http://vs7.cdn.ott.otautv.kz:80/dtv/id49_KTR_SG--TV1000Action/03/plst.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,TV1000 Action
+http://193.23.58.156:4025/udp/234.1.20.14:1234
+#EXTINF:-1,TV1000 Русское кино
+http://vs7.cdn.ott.otautv.kz:80/dtv/id70_KTR_SG--TV1000Rus/03/plst.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,TV1000 Русское кино
+http://193.23.58.156:4025/udp/234.1.20.13:1234
+#EXTINF:-1,TV1000 Русское кино
+http://213.174.2.135:4114
+#EXTINF:-1,TVM
+http://android.cdn.bonus-tv.ru/TVB7/tvm/playlist.m3u8
+#EXTINF:-1,TVM Channel
+http://btv-net.mediacdn.ru/TVB7/tvm/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,TVMChannel
+http://msk3.peers.tv/streaming/tvmchannel/126/tvrecw/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Teletravel HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Tiji
+http://hls.novotelecom.ru/streaming/tiji/tvrec/playlist.m3u8
+#EXTINF:-1,TopShop
+http://tv-topshop.netrack.ru/hls/topshop.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Travel channel HD [PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,TvK (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/tvk ?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,TvSale (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/tvsale ?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,UA TV
+http://213.174.2.135:4032
+#EXTINF:-1,UBR
+http://213.174.2.135:4028
+#EXTINF:-1,VEVO 01
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/01/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,VEVO 02
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/01/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,VEVO 03
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/01/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,VEVO 04
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/02/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,VEVO 05
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/02/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,VEVO 06
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/02/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,VEVO 07
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/03/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,VEVO 08
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/03/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,VEVO 09
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/03/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,VEVO 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,VEVO 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,VEVO 10
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,VEVO 11
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,VEVO 12
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,VEVO 13
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,VEVO 14
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,VEVO 15
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,VEVO 16
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,VEVO 17
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,VEVO 18
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,VEVO 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,VEVO 3
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,VH1 Classic
+http://hls.novotelecom.ru/streaming/vh1/tvrec/playlist.m3u8
+#EXTINF:-1,VH1 Classic
+http://193.23.58.156:4025/udp/234.1.20.35:1234
+#EXTINF:-1,VH1 Classic[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,VIASAT EXPLORE HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,VIASAT NATURE
+http://213.174.2.135:4088
+#EXTINF:-1,VIASAT SPORT HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Vevo TV 1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Vevo TV 2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Vevo TV 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Viasat Explore
+http://193.23.58.156:4025/udp/234.1.20.9:1234
+#EXTINF:-1,Viasat History
+http://vs7.cdn.ott.otautv.kz:80/dtv/id51_KTR_SG--ViasatHistory/03/plst.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Viasat History
+http://46.241.108.46:81/udp/239.54.5.93:1234
+#EXTINF:-1,Viasat History
+http://193.23.58.156:4025/udp/234.1.20.10:1234
+#EXTINF:-1,Viasat Hockey[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Viasat Nature
+http://193.23.58.156:4025/udp/234.1.20.12:1234
+#EXTINF:-1,Viasat Nature/History HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Viasat Sport
+http://vs8.cdn.ott.otautv.kz:80/dtv/id73_KTR_SG--ViasatSport/03/plst.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Viasat Sport
+http://193.23.58.156:4025/udp/234.1.20.11:1234
+#EXTINF:-1,Viasat Sport Baltic[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Viasat football HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,WBC
+http://hlstv.kuz.211.ru/239.211.4.11/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,WBC HD
+http://bal.bonus-tv.ru/btv/wbc/type/user/devname/LG-SmartTV/devid/LG-1443193138/eol/20200101T000000/hash/82b80acb7e43f78456d3029a3a23e9c086b2e018/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,WBC HD
+http://btv-net.mediacdn.ru/TVB7/wbc/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,World Fashion
+http://android.cdn.bonus-tv.ru/TVB7/wfhdeu/playlist.m3u8
+#EXTINF:-1,World Fashion Europe HD
+http://win.cdn.bonus-tv.ru/TVB7/wfhdeu/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,World Fashion RU
+http://android.cdn.bonus-tv.ru/TVB8/wfhd/playlist.m3u8
+#EXTINF:-1,World Fashion Россия HD
+http://win.cdn.bonus-tv.ru/TVB8/wfhd/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,XXI
+http://msk3.peers.tv/streaming/tv21/16/tvrecw/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,XXI
+http://193.23.58.156:4025/udp/234.1.20.43:1234
+#EXTINF:-1,ZIK
+http://46.149.185.219:8798?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ZIK
+http://213.174.2.135:4029
+#EXTINF:-1,ZOOM
+http://46.149.185.219:8799?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ZOOM
+http://213.174.2.135:4030
+#EXTINF:-1,Zee TV
+http://193.23.58.156:4025/udp/234.1.10.54:1234
+#EXTINF:-1,ZooПарк
+http://win.cdn.bonus-tv.ru/TVB7/zoopark/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Zooпарк
+http://msk3.peers.tv/streaming/zoopark/126/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Zooпарк
+http://iptv.multi-net.ru:80/udp/239.255.1.31:1234
+#EXTINF:-1,Zooпарк
+http://android.cdn.bonus-tv.ru/TVB7/zoopark/playlist.m3u8
+#EXTINF:-1,Авто 24
+http://btv-net.mediacdn.ru/TVB7/auto24/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Авто 24
+http://msk3.peers.tv/streaming/avto_24/16/tvrecw/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Авто 24
+http://android.cdn.bonus-tv.ru/TVB7/auto24/playlist.m3u8
+#EXTINF:-1,Авто 24 HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Авто плюс
+http://msk3.peers.tv/streaming/auto_plus/16/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Авто плюс
+http://86.57.178.105:8000/udp/225.5.1.1:1234
+#EXTINF:-1,Авто плюс
+http://hls.novotelecom.ru/streaming/auto_plus/tvrec/playlist.m3u8
+#EXTINF:-1,Астрахань 24
+http://cdn-01.bonus-tv.ru:9090/astrakhan/astrakhan24/type/user/devname/LG-SmartTV/devid/LG-1462523553/eol/20200101T000000/hash/6e03328c523da2fa9031f82301e3c56c69702a8f/hls.m3u8
+#EXTINF:-1,Астрахань 24 HD
+http://win.cdn.bonus-tv.ru/TVB7/astrakhan/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Афонтово
+http://iptv.multi-net.ru:80/udp/239.255.1.19:1234
+#EXTINF:-1,Баланс ТВ
+http://msk3.peers.tv/streaming/balance/126/copy/playlist.m3u8
+#EXTINF:-1,Беларусь 1
+http://live.streaming.hoster.by:1935/belarus1/live/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Беларусь 1
+http://86.57.178.105:8000/udp/225.11.1.1:1234
+#EXTINF:-1,Беларусь 2
+http://86.57.178.105:8000/udp/225.11.1.7:1234
+#EXTINF:-1,Беларусь 24
+http://video.tvr.by:1935/belarus24/live/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Беларусь 3
+http://86.57.178.105:8000/udp/225.11.1.8:1234
+#EXTINF:-1,Беларусь 5
+http://86.57.178.105:8000/udp/225.18.1.1:1234
+#EXTINF:-1,Бигуди
+http://213.174.2.135:4031
+#EXTINF:-1,Боец
+http://msk3.peers.tv/streaming/boets/16/tvrecw/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Боец
+http://193.23.58.156:4025/udp/234.1.20.21:1234
+#EXTINF:-1,Бокс ТВ
+http://msk3.peers.tv/streaming/boks_tv/16/tvrecw/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ВМЕСТЕ-РФ
+http://msk3.peers.tv/streaming/vmeste_rf/126/copy/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ВМЕСТЕ-РФ HD
+http://cdn-01.bonus-tv.ru/TVB7/vmesterf/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Война и Мир
+http://msk3.peers.tv/streaming/wap/126/copy/playlist.m3u8
+#EXTINF:-1,Время
+http://iptv.multi-net.ru:80/udp/239.255.1.24:1234
+#EXTINF:-1,Время
+http://hls.novotelecom.ru/streaming/time/tvrec/playlist.m3u8
+#EXTINF:-1,Гамма
+http://gamma.tv:1935/live/1_gamma/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Глас
+http://213.174.2.135:4058
+#EXTINF:-1,Горная страна (Таштагол)
+http://msk3.peers.tv/streaming/gornaya_strana/16/copy/playlist.m3u8
+#EXTINF:-1,ДАЧА
+http://46.149.185.219:8800?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Дача
+http://213.174.2.135:4033
+#EXTINF:-1,Детский
+http://win.cdn.bonus-tv.ru/TVB7/detsky/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Детский
+http://msk3.peers.tv/streaming/forkids/16/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Детский
+http://android.cdn.bonus-tv.ru/TVB7/detsky/playlist.m3u8
+#EXTINF:-1,Детский
+http://hls.novotelecom.ru/streaming/forkids/tvrec/playlist.m3u8
+#EXTINF:-1,Детский Мир
+http://hls.novotelecom.ru/streaming/detskij_mir/tvrec/playlist.m3u8
+#EXTINF:-1,ДжусTV
+http://msk3.peers.tv/streaming/juce/126/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Дисней
+http://86.57.178.105:8000/udp/225.19.1.1:1234
+#EXTINF:-1,Дисней
+http://193.23.58.156:4025/udp/234.1.10.33:1234
+#EXTINF:-1,Дисней +2
+http://hlstv.kuz.211.ru/239.211.211.24/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Дисней +2
+http://hls.novotelecom.ru/streaming/disney/tvrec/playlist.m3u8
+#EXTINF:-1,Добро
+http://213.174.2.135:4057
+#EXTINF:-1,Дождь
+http://msk3.peers.tv/streaming/rain/16/tvrecw/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Дом Кино
+http://86.57.178.105:8000/udp/225.3.1.3:1234
+#EXTINF:-1,Дом Кино Премиум HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Дом кино
+http://iptv.multi-net.ru:80/udp/239.255.1.23:1234
+#EXTINF:-1,Дом кино
+http://hls.novotelecom.ru/streaming/dom_kino/tvrec/playlist.m3u8
+#EXTINF:-1,Домашние животные
+http://193.23.58.156:4025/udp/234.1.20.40:1234
+#EXTINF:-1,Домашний
+http://msk3.peers.tv/streaming/domashny/126/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Домашний
+http://86.57.178.105:8000/udp/225.4.1.2:1234
+#EXTINF:-1,Домашний
+http://193.23.58.156:4025/udp/234.1.10.15:1234
+#EXTINF:-1,Домашний (Новосибирск)
+http://hls.novotelecom.ru/streaming/domashny/tvrec/playlist.m3u8
+#EXTINF:-1,Домашний +3
+http://msk3.peers.tv/streaming/domashny/16/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Домашний +4
+http://hlstv.kuz.211.ru/239.211.4.29/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Домашний +4
+http://iptv.multi-net.ru:80/udp/239.255.1.3:1234
+#EXTINF:-1,Дон 24
+http://cdn-03.bonus-tv.ru/donmedia/don24/type/user/devname/LG-SmartTV/devid/LG-1459881171/eol/20200101T000000/hash/6e8b2a0e99ac2f16bf9ce37f8b114a62bc712c7d/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Драйв
+http://hls.novotelecom.ru/streaming/drive/tvrec/playlist.m3u8
+#EXTINF:-1,Драйв
+http://msk3.peers.tv/streaming/drive/16/tvrec/playlist.m3u8
+#EXTINF:-1,ЕКО
+http://46.149.185.219:8808?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Еврокино
+http://msk3.peers.tv/streaming/eurokino/16/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Еврокино
+http://bal.bonus-tv.ru/btv/eurokino/type/user/devname/LG-SmartTV/devid/LG-1458502634/eol/20200101T0000/hash/f62307be8e22c5352b374bce643777c23e879bd1/playlist.m3u8
+#EXTINF:-1,Еда HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Еко
+http://213.174.2.135:4006
+#EXTINF:-1,Енисей
+http://62.76.26.81:8081/enisey/enisey.m3u8
+#EXTINF:-1,Енисей
+http://iptv.multi-net.ru:80/udp/239.255.1.10:1234
+#EXTINF:-1,Енисей (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/enisei ?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Еспрессо
+http://213.174.2.135:4042
+#EXTINF:-1,Живи
+http://msk3.peers.tv/streaming/jv/16/tvrecw/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Загородная жизнь
+http://msk3.peers.tv/streaming/zagorod_zh/16/tvrec/playlist.m3u8
+#EXTINF:-1,Звезда
+http://win.cdn.bonus-tv.ru/TVB8/zvezda/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Звезда
+http://android.cdn.bonus-tv.ru/TVB8/zv/zvezda.m3u8
+#EXTINF:-1,Звезда
+http://msk3.peers.tv/streaming/zvezda/126/tvrecw/playlist.m3u8
+#EXTINF:-1,Звезда
+http://86.57.178.105:8000/udp/225.1.1.4:1234
+#EXTINF:-1,Звезда
+http://193.23.58.156:4025/udp/234.1.10.18:1234
+#EXTINF:-1,Звезда (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/zvezda ?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Звезда +2
+http://hlstv.kuz.211.ru/239.211.211.31/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Звезда +3
+http://msk3.peers.tv/streaming/zvezda/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Иллюзион+
+http://bal.bonus-tv.ru/btv/illuzionplus/type/user/devname/LG-SmartTV/devid/LG-1445619284/eol/20200101T000000/hash/cfbc4cad5fb9330b23f4c07681e73a159c56e8c0/playlist.m3u8
+#EXTINF:-1,Иллюзион+
+http://msk3.peers.tv/streaming/illyuzion/16/tvrec/playlist.m3u8
+#EXTINF:-1,Индиго
+http://213.174.2.135:4054
+#EXTINF:-1,Индия
+http://hls.novotelecom.ru/streaming/indiatv/tvrec/playlist.m3u8
+#EXTINF:-1,Индия
+http://95.140.197.69:8000/channel-76
+#EXTINF:-1,Индия ТВ
+http://vs7.cdn.ott.otautv.kz:80/dtv/id40_KTR_SG--ZeeTV/03/plst.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Интер
+http://213.174.2.135:4012
+#EXTINF:-1,К1
+http://46.149.185.219:8792?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,К2
+http://46.149.185.219:8784?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,КРТ
+http://213.174.2.135:4037
+#EXTINF:-1,КХЛ
+http://193.23.58.156:4025/udp/234.1.20.24:1234
+#EXTINF:-1,КХЛ
+http://www.sport24.pw/hls/KHL.m3u8
+#EXTINF:-1,КХЛ
+http://serv24.vintera.tv:8081/newsport/khl/playlist.m3u8
+#EXTINF:-1,КХЛ HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Калейдоскоп
+http://bal.bonus-tv.ru/btv/kaleidoskop/type/user/devname/LG-SmartTV/devid/LG-1462037961/eol/20200101T000000/hash/23791547a72fbaf9206cbfbb3aa689bbd72d4c8c/playlist.m3u8
+#EXTINF:-1,Карапуз ТВ
+http://46.182.25.34:1935/tv/1370/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Карусель
+http://bal.bonus-tv.ru/btv/carousel/type/user/devname/LG-SmartTV/devid/LG-1444499273/eol/20200101T000000/hash/75f06451a6bcdee761765c7e203358d529988463/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Карусель
+http://hlstv.kuz.211.ru/239.211.211.66/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Карусель
+http://cdn-01.bonus-tv.ru:8080/carousel/index.m3u8?token=null
+#EXTINF:-1,Карусель
+http://msk3.peers.tv/streaming/karusel/16/tvrec/playlist.m3u8
+#EXTINF:-1,Карусель
+http://86.57.178.105:8000/udp/225.3.1.1:1234
+#EXTINF:-1,Карусель
+http://hls.novotelecom.ru/streaming/karusel/tvrec/playlist.m3u8
+#EXTINF:-1,Карусель
+http://193.23.58.156:4025/udp/234.1.10.9:1234
+#EXTINF:-1,Карусель (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/karusel ?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Карусель +3
+http://iptv.multi-net.ru:80/udp/239.255.1.18:1234
+#EXTINF:-1,Киев
+http://213.174.2.135:4056
+#EXTINF:-1,Кино
+http://46.182.25.34:1935/tv/1703/playlist.m3u8
+#EXTINF:-1,Кино ТВ HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Кино плюс
+http://msk3.peers.tv/streaming/ntv_kino_plyus/16/tvrec/playlist.m3u8
+#EXTINF:-1,КиноМеню HD
+http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
+#EXTINF:-1,КиноПремиум HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Киноклуб
+http://193.23.58.156:4025/udp/234.1.20.30:1234
+#EXTINF:-1,Киноплюс
+http://193.23.58.156:4025/udp/234.1.20.25:1234
+#EXTINF:-1,Кинопоказ HD1[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Кинопоказ HD2[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Комедия
+http://hls.novotelecom.ru/streaming/comedytv/tvrec/playlist.m3u8
+#EXTINF:-1,Конный Мир HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Красная Линия
+http://kprf-live.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Красная Линия
+http://msk3.peers.tv/streaming/red_line/126/copy/playlist.m3u8
+#EXTINF:-1,Крик ТВ
+http://cdn-03.bonus-tv.ru/btv/kriktv/type/user/devname/LG-SmartTV/devid/LG-1459265093/eol/20200101T000000/hash/d4bd759a20e4fdfaaa965ca02458790407e6d8b1/playlist.m3u8
+#EXTINF:-1,Крик ТВ
+http://msk3.peers.tv/streaming/krik_tv/16/tvrec/playlist.m3u8
+#EXTINF:-1,Кубань 24 ОРБИТА
+http://msk3.peers.tv/streaming/kuban24/126/copy/playlist.m3u8
+#EXTINF:-1,Кухня
+http://86.57.178.105:8000/udp/225.9.1.2:1234
+#EXTINF:-1,Кухня
+http://hls.novotelecom.ru/streaming/kitchentv/tvrec/playlist.m3u8
+#EXTINF:-1,Кухня ТВ
+http://msk3.peers.tv/streaming/kitchentv/16/tvrec/playlist.m3u8
+#EXTINF:-1,ЛДПР ТВ
+http://msk3.peers.tv/streaming/ldpr_tv/16/tvrec/playlist.m3u8
+#EXTINF:-1,Липецкое Время
+http://serv24.vintera.tv:8081/liptime/liptime/playlist.m3u8
+#EXTINF:-1,Львов ТВ
+http://213.174.2.135:4052
+#EXTINF:-1,Любимое кино
+http://185.37.194.10:82/nashe-kino
+#EXTINF:-1,Ля Минор
+http://hls.novotelecom.ru/streaming/la_minor/tvrec/playlist.m3u8
+#EXTINF:-1,М1
+http://46.149.185.219:8793?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,М2
+http://46.149.185.219:8785?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,МАЛЯТКО
+http://46.149.185.219:8790?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,МАТЧ ТВ
+http://86.57.178.105:8000/udp/225.1.1.5:1234
+#EXTINF:-1,МЕГА
+http://46.149.185.219:8794?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,МИР +4
+http://iptv.multi-net.ru:80/udp/239.255.1.25:1234
+#EXTINF:-1,МУЗ ТВ
+http://176.96.19.79:8001/udp/238.100.1.20:1234
+#EXTINF:-1,Макси TV
+http://213.174.2.135:4040
+#EXTINF:-1,Малятко
+http://193.23.58.156:4025/udp/234.1.10.59:1234
+#EXTINF:-1,Малятко
+http://213.174.2.135:4016
+#EXTINF:-1,Мама
+http://msk3.peers.tv/streaming/motherchi/16/tvrec/playlist.m3u8
+#EXTINF:-1,Мама
+http://hls.novotelecom.ru/streaming/motherchi/tvrec/playlist.m3u8
+#EXTINF:-1,Матч
+http://193.23.58.156:4025/udp/234.1.10.3:1234
+#EXTINF:-1,Матч Планета
+http://193.23.58.156:4025/udp/234.1.20.42:1234
+#EXTINF:-1,Матч ТВ
+http://iptv.multi-net.ru:80/udp/239.255.1.12:1234
+#EXTINF:-1,Матч ТВ
+http://cdn-01.bonus-tv.ru:8080/matchtv/index.m3u8?token=null
+#EXTINF:-1,Матч ТВ
+http://msk3.peers.tv/streaming/sport/126/tvrecw/playlist.m3u8
+#EXTINF:-1,Матч ТВ
+http://www.sport24.pw/hls/MatchTV.m3u8
+#EXTINF:-1,Матч ТВ (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/sport ?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Матч ТВ[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Матч! Арена
+http://msk3.peers.tv/streaming/sport1/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Матч! Арена
+http://www.sport24.pw/hls/MatchArena.m3u8
+#EXTINF:-1,Матч! Арена HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Матч! Игра
+http://www.sport24.pw/hls/MatchIgra.m3u8
+#EXTINF:-1,Матч! Игра HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Матч! Наш Спорт
+http://www.sport24.pw/hls/MatchNashSport.m3u8
+#EXTINF:-1,Матч! Планета
+http://vs7.cdn.ott.otautv.kz:80/dtv/id34_KTR_SG--boec/03/plst.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Матч! Планета
+http://www.sport24.pw/hls/MatchPlaneta.m3u8
+#EXTINF:-1,Матч! Футбол 1
+http://www.sport24.pw/hls/MatchFutbol1.m3u8
+#EXTINF:-1,Матч! Футбол 1 HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Матч! Футбол 2
+http://www.sport24.pw/hls/MatchFutbol2.m3u8
+#EXTINF:-1,Матч! Футбол 2 HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Матч! Футбол 3
+http://www.sport24.pw/hls/MatchFutbol3.m3u8
+#EXTINF:-1,Матч! Футбол 3 HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Мега
+http://213.174.2.135:4021
+#EXTINF:-1,Мир
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Мир
+http://86.57.178.105:8000/udp/225.11.1.4:1234
+#EXTINF:-1,Мир (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/mir ?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Мир +3
+http://hlstv.kuz.211.ru/239.211.211.52/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Мир +3
+http://mirtv.cdnvideo.ru/mirtv-paramlive/mirtv3_800/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Мир 24
+http://msk3.peers.tv/streaming/mir24/16/tvrecw/playlist.m3u8
+#EXTINF:-1,Мир 24
+http://193.23.58.156:4025/udp/234.1.10.22:1234
+#EXTINF:-1,Мир 24 (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/mir24 ?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Мир HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Много TV
+http://86.57.178.105:8000/udp/225.9.1.1:1234
+#EXTINF:-1,Мой город (Кемерово)
+http://hlstv.kuz.211.ru/239.211.4.30/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Морской
+http://193.23.58.156:4025/udp/234.1.20.39:1234
+#EXTINF:-1,Москва 24
+http://testlivestream.rfn.ru/live/_definst_/smil:m24.smil/chunklist_b1600000.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Москва 24
+http://193.23.58.156:4025/udp/234.1.10.25:1234
+#EXTINF:-1,Московский Образовательный
+http://msk3.peers.tv/streaming/dogm/126/tvrecw/playlist.m3u8
+#EXTINF:-1,Моя Планета
+http://hls.novotelecom.ru/streaming/my_planet/tvrec/playlist.m3u8
+#EXTINF:-1,Моя Планета
+http://193.23.58.156:4025/udp/234.1.20.3:1234
+#EXTINF:-1,Моя Планета
+http://testlivestream.rfn.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1,Моя планета
+http://iptv.multi-net.ru:80/udp/239.255.1.28:1234
+#EXTINF:-1,Моя планета HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Мужское кино HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Мужской
+http://msk3.peers.tv/streaming/muzhskoj/126/tvrec/playlist.m3u8
+#EXTINF:-1,Мужской
+http://193.23.58.156:4025/udp/234.1.20.27:1234
+#EXTINF:-1,Мужской[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Муз
+http://193.23.58.156:4025/udp/234.1.10.21:1234
+#EXTINF:-1,Муз ТВ
+http://hlstv.kuz.211.ru/239.211.211.5/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Муз ТВ
+http://hls.novotelecom.ru/streaming/muz_tvnew/tvrec/playlist.m3u8
+#EXTINF:-1,Музыка первого
+http://86.57.178.105:8000/udp/225.3.1.2:1234
+#EXTINF:-1,Мульт
+http://hlstv.kuz.211.ru/239.211.211.6/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Мульт
+http://msk3.peers.tv/streaming/mult/16/tvrec/playlist.m3u8
+#EXTINF:-1,Мультики
+http://46.182.25.34:1935/tv/1771/playlist.m3u8
+#EXTINF:-1,Мультимания
+http://msk3.peers.tv/streaming/multimania/16/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Мультимания
+http://193.23.58.156:4025/udp/234.1.10.39:1234
+#EXTINF:-1,НАШЕ ТВ
+http://nashetv01.hostingradio.ru:8081/hls/nashetv/nashelive.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,НЛО
+http://213.174.2.135:4043
+#EXTINF:-1,НСТ
+http://msk3.peers.tv/streaming/nstv/16/tvrec/playlist.m3u8
+#EXTINF:-1,НСТ
+http://hls.novotelecom.ru/streaming/nstv/tvrec/playlist.m3u8
+#EXTINF:-1,НСТ
+http://193.23.58.156:4025/udp/234.1.20.4:1234
+#EXTINF:-1,НТВ
+http://msk3.peers.tv/streaming/ntv/126/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,НТВ
+http://bal.bonus-tv.ru/btv/ntv/type/user/devname/LG-SmartTV/devid/LG-1443476459/eol/20200101T000000/hash/07e5d115938e1cca996a05faf0b60c22fadea89c/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,НТВ
+http://cdn-01.bonus-tv.ru:8080/ntv/index.m3u8?token=null
+#EXTINF:-1,НТВ
+http://95.140.197.69:8000/channel-1
+#EXTINF:-1,НТВ
+http://149.255.152.110/ntv/index.m3u8
+#EXTINF:-1,НТВ (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/ntv ?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,НТВ +4
+http://msk3.peers.tv/streaming/ntv/16/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,НТВ +4
+http://hlstv.kuz.211.ru/239.211.4.4/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,НТВ +4
+http://iptv.multi-net.ru:80/udp/239.255.1.9:1234
+#EXTINF:-1,НТВ +4
+http://hls.novotelecom.ru/streaming/ntv/tvrec/playlist.m3u8
+#EXTINF:-1,НТВ HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,НТВ Беларусь
+http://86.57.178.105:8000/udp/225.11.1.6:1234
+#EXTINF:-1,НТВ Мир[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,НТВ+ Кино плюс[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,НТВ+ Киноклуб[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,НТВ+ Кинохит[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,НТВ+ НТВ+ Премьера[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,НТВ+ Наш Футбол HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,НТВ+ Наш Футбол[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,НТВ+ Наше кино[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,НТВ+ Наше новое кино[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,НТВ/ТВ7 (Mold)
+http://cdn.magictvbox.eu:8080/tv7/720p.m3u8
+#EXTINF:-1,НТН
+http://46.149.185.219:8796?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,НТН
+http://213.174.2.135:4024
+#EXTINF:-1,Надия
+http://213.174.2.135:4070
+#EXTINF:-1,Наука 2.0
+http://hls.novotelecom.ru/streaming/nauka_20/tvrec/playlist.m3u8
+#EXTINF:-1,Наука 2.0
+http://193.23.58.156:4025/udp/234.1.20.5:1234
+#EXTINF:-1,Наш Футбол
+http://www.sport24.pw/hls/NashFutbol.m3u8
+#EXTINF:-1,Наш Футбол
+http://msk3.peers.tv/streaming/nash_futbol/16/tvrec/playlist.m3u8
+#EXTINF:-1,Наш спорт
+http://serv24.vintera.tv:8081/newsport/sportplus/playlist.m3u8
+#EXTINF:-1,Наша Сибирь
+http://serv24.vintera.tv:8081/siberia/siberia/playlist.m3u8
+#EXTINF:-1,Наше HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Новое Телевидение
+http://hls.novoetv.cdnvideo.ru/novoetv/novoetv.sdp/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Новое кино
+http://193.23.58.156:4025/udp/234.1.20.26:1234
+#EXTINF:-1,Новое телевидение
+http://msk3.peers.tv/streaming/novoe_televidenie/318/tvrecw/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Новороссия
+http://193.23.58.156:4025/udp/234.1.10.29:1234
+#EXTINF:-1,Новый
+http://46.149.185.219:8795?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Новый
+http://213.174.2.135:4023
+#EXTINF:-1,Ностальгия
+http://hls.novotelecom.ru/streaming/nostalgy/tvrec/playlist.m3u8
+#EXTINF:-1,ОНТ
+http://93.125.31.151:1935/live/ont.stream/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ОНТ (Беларусь)
+http://86.57.178.105:8000/udp/225.11.1.2:1234
+#EXTINF:-1,ОТВ (Челябинск)
+http://win.cdn.bonus-tv.ru/TVB4/otv/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ОТВ (Челябинск)
+http://cdn-03.bonus-tv.ru:8448/1obltv/otv/type/user/devname/LG-SmartTV/devid/LG-1462456547/eol/20200101T000000/hash/22a3b974276c661c089a15ae48364997fbcd60cc/playlist.m3u8
+#EXTINF:-1,ОТР
+http://hlstv.kuz.211.ru/239.211.211.1/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ОТР
+http://iptv.multi-net.ru:80/udp/239.255.1.20:1234
+#EXTINF:-1,ОТР
+http://msk3.peers.tv/streaming/otvrus/16/tvrecw/playlist.m3u8
+#EXTINF:-1,ОТР
+http://86.57.178.105:8000/udp/225.14.1.1:1234
+#EXTINF:-1,ОТР
+http://193.23.58.156:4025/udp/234.1.10.10:1234
+#EXTINF:-1,ОТР (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/otr ?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ОТС
+http://msk3.peers.tv/streaming/ots/16/tvrec/playlist.m3u8
+#EXTINF:-1,ОТС
+http://hls.novotelecom.ru/streaming/ots/tvrec/playlist.m3u8
+#EXTINF:-1,ОХОТНИК И РЫБОЛОВ HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Общественное ТВ
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Оплот
+http://193.23.58.156:4025/udp/234.1.10.28:1234
+#EXTINF:-1,Оплот 2
+http://193.23.58.156:4025/udp/234.1.10.27:1234
+#EXTINF:-1,Оружие
+http://win.cdn.bonus-tv.ru/TVB7/orujie/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Оружие
+http://android.cdn.bonus-tv.ru/TVB7/orujie/playlist.m3u8
+#EXTINF:-1,Оружие
+http://hls.novotelecom.ru/streaming/oruzhie/tvrec/playlist.m3u8
+#EXTINF:-1,Осинники ТВ
+http://hlstv.kuz.211.ru/239.211.4.41/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Остросюжетное HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Охота и Рыбалка
+http://hls.novotelecom.ru/streaming/hafi/tvrec/playlist.m3u8
+#EXTINF:-1,Охота и рыбалка
+http://86.57.178.105:8000/udp/225.19.1.2:1234
+#EXTINF:-1,Охота и рыбалка
+http://193.23.58.156:4025/udp/234.1.20.44:1234
+#EXTINF:-1,ПЕРВЫЙ КАНАЛ +8[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,ПЕРВЫЙ КАНАЛ HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,ПИК ТВ
+http://phone.pik-tv.com/live/piktv2pik2tv/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ПИК ТВ HD
+http://phone.pik-tv.com/live/piktv3pik3tv/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ПИКСЕЛЬ
+http://46.149.185.219:8791?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ПЛЮС ПЛЮС
+http://46.149.185.219:8782?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ПЯТНИЦА
+http://86.57.178.105:8000/udp/225.1.1.2:1234
+#EXTINF:-1,Парк Развлечений
+http://193.23.58.156:4025/udp/234.1.10.38:1234
+#EXTINF:-1,Парк развлечений
+http://msk3.peers.tv/streaming/ipark/16/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Первый
+http://msk3.peers.tv/streaming/1kanal/126/tvrecw/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Первый (Mold)
+http://cdn.magictvbox.eu:8080/prime/720p.m3u8
+#EXTINF:-1,Первый (Казахстан)
+http://streams.almaata.kcell.lfstrm.tv/perviy_evrasia/1/index.m3u8
+#EXTINF:-1,Первый +2
+http://193.23.58.156:4025/udp/234.1.10.4:1234
+#EXTINF:-1,Первый +4
+http://msk3.peers.tv/streaming/1kanal/16/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Первый +4
+http://hlstv.kuz.211.ru/239.211.4.1/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Первый +4
+http://hls.novotelecom.ru/streaming/1kanal/tvrec/playlist.m3u8
+#EXTINF:-1,Первый деловой
+http://213.174.2.135:4009
+#EXTINF:-1,Первый канал +4
+http://iptv.multi-net.ru:80/udp/239.255.1.1:1234
+#EXTINF:-1,Первый образовательный
+http://msk3.peers.tv/streaming/1_obraz/16/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Первый образовательный
+http://hls.novotelecom.ru/streaming/1_obraz/tvrec/playlist.m3u8
+#EXTINF:-1,Первый преднестровский
+rtmp://hdpmr.tv:1935/1tv/live
+#EXTINF:-1,Первый республиканский
+http://193.23.58.156:4025/udp/234.1.10.26:1234
+#EXTINF:-1,Перец int.[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Перший
+http://46.149.185.219:8789?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Перший
+http://213.174.2.135:4013
+#EXTINF:-1,Пиксель
+http://213.174.2.135:4017
+#EXTINF:-1,ПлюсПлюс
+http://213.174.2.135:4001
+#EXTINF:-1,Подсекай ТВ
+rtmp://176.32.32.36/podsekaiTV/chanelHD?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Премьера
+http://193.23.58.156:4025/udp/234.1.20.31:1234
+#EXTINF:-1,Продвижение (Омск)
+http://cdn-03.bonus-tv.ru/btv/omsk_prodvizhenie/type/user/devname/LG-SmartTV/devid/LG-1466689845/eol/20200101T0000/hash/cd6b4ce0c2530527fba99c54c8357321d8e08504/playlist.m3u8
+#EXTINF:-1,Просвещение
+http://btv-net.mediacdn.ru/TVB4/prosvewenie/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Просвещение
+http://android.cdn.bonus-tv.ru/TVB4/prosvewenie/playlist.m3u8
+#EXTINF:-1,Просвещение
+http://cdn-01.bonus-tv.ru:9090/btv/prosveschenie/type/user/devname/LG-SmartTV/devid/LG-1466153612/eol/20200101T0000/hash/d377979a39ddf0341bc0e4543c4665bc7c5b0d81/playlist.m3u8
+#EXTINF:-1,Психология 21
+http://hls.novotelecom.ru/streaming/psych_21/tvrec/playlist.m3u8
+#EXTINF:-1,Пятница
+http://msk3.peers.tv/streaming/friday/126/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Пятница (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/mtv ?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Пятница +2
+http://hlstv.kuz.211.ru/239.211.211.21/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Пятница +3
+http://msk3.peers.tv/streaming/friday/16/tvrec/playlist.m3u8
+#EXTINF:-1,Пятница +3
+http://hls.novotelecom.ru/streaming/friday/tvrec/playlist.m3u8
+#EXTINF:-1,Пятница +4
+http://iptv.multi-net.ru:80/udp/239.255.1.11:1234
+#EXTINF:-1,Пятница 2 (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/mtvair ?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Пятый канал
+http://bal.bonus-tv.ru/btv/5channel/type/user/devname/LG-SmartTV/devid/LG-1443966307/eol/20200101T000000/hash/c5002628938b4e7cdb45caaf34092a01fcf65c86/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Пятый канал (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/5?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Пятый канал +2
+http://hls.novotelecom.ru/streaming/5kanal/tvrec/playlist.m3u8
+#EXTINF:-1,Пятый канал +2
+http://193.23.58.156:4025/udp/234.1.10.6:1234
+#EXTINF:-1,Пятый канал +4
+http://hlstv.kuz.211.ru/239.211.4.5/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Пятый канал +4
+http://iptv.multi-net.ru:80/udp/239.255.1.17:1234
+#EXTINF:-1,Пятый канал Россия
+http://msk3.peers.tv/streaming/5kanal/126/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Пятый канал Россия +2
+http://msk3.peers.tv/streaming/5kanal/16/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Пятый канал Россия +4
+http://iptv.multi-net.ru:80/udp/239.255.1.17:1234?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,РБК
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,РБК
+http://hlstv.kuz.211.ru/239.211.211.76/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,РБК
+http://msk3.peers.tv/streaming/rbk/126/tvrecw/playlist.m3u8
+#EXTINF:-1,РБК (Новосибирск)
+http://msk3.peers.tv/streaming/rbk/16/tvrecw/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,РЕН (Mold)
+http://cdn.magictvbox.eu:8080/rentv/720p.m3u8
+#EXTINF:-1,РЖД (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/rzd ?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,РЖД ТВ
+http://tva-htlive.cdn.ngenix.net/live/_definst_/Streamhd/chunklist.m3u8?wowzasessionid=1138218986?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,РЖД ТВ
+rtmp://tva.cdnvideo.ru/tva/tva.sdp?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,РИА Новости
+http://rian.cdnvideo.ru/rr/stream20/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,РТР (Mold)
+http://cdn.magictvbox.eu:8080/rtrp/720p.m3u8
+#EXTINF:-1,РТР Беларусь
+http://86.57.178.105:8000/udp/225.11.1.5:1234
+#EXTINF:-1,Рада
+http://213.174.2.135:4048
+#EXTINF:-1,Радость Моя
+http://win.cdn.bonus-tv.ru/TVB8/radostmoya/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Радость моя
+http://android.cdn.bonus-tv.ru/TVB8/radostmoya/playlist.m3u8
+#EXTINF:-1,Рен (Новокузнецк)
+http://hlstv.kuz.211.ru/239.211.4.20/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Рен +3
+http://msk3.peers.tv/streaming/rentv/16/tvrec/playlist.m3u8
+#EXTINF:-1,Рен +3
+http://hls.novotelecom.ru/streaming/rentv/tvrec/playlist.m3u8
+#EXTINF:-1,Рен ТВ
+http://msk3.peers.tv/streaming/rentv/126/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Рен ТВ (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/rentv ?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Рен ТВ +4
+http://iptv.multi-net.ru:80/udp/239.255.1.4:1234?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Рен ТВ +4
+http://hlstv.kuz.211.ru/239.211.4.31/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Россия 1
+http://bal.bonus-tv.ru/btv/russia1/type/user/devname/LG-SmartTV/devid/LG-1428492206/eol/20200101T000000/hash/f76ed72038a9af7f7284e32cb467460ccbdce956/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Россия 1
+http://testlivestream.rfn.ru/live/smil:r1.smil/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Россия 1
+http://msk3.peers.tv/streaming/rossija/126/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Россия 1
+http://bal.bonus-tv.ru/btv/russia1/type/user/devname/LG-SmartTV/devid/LG-1446137959/eol/20200101T000000/hash/86ca396736cabb8770c56e8619b4b16404399c58/playlist.m3u8?token=null
+#EXTINF:-1,Россия 1
+http://149.255.152.110/russia1/index.m3u8
+#EXTINF:-1,Россия 1 (Калуга)
+http://testlivestream.rfn.ru/vgtrkrtmp/smil:kaluga_r1.smil/chunklist_b1200000.m3u8
+#EXTINF:-1,Россия 1 +2
+http://msk3.peers.tv/streaming/rossija/16/tvrec/playlist.m3u8
+#EXTINF:-1,Россия 1 +2
+http://hls.novotelecom.ru/streaming/rossija/tvrec/playlist.m3u8
+#EXTINF:-1,Россия 1 +2
+http://193.23.58.156:4025/udp/234.1.10.2:1234
+#EXTINF:-1,Россия 1 +2 (Новосибирск)
+rtmp://hosting.nsktv.ru:1935/live/rossia1?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Россия 1 +4
+http://hlstv.kuz.211.ru/239.211.4.2/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Россия 1 +4
+http://iptv.multi-net.ru:80/udp/239.255.1.2:1234
+#EXTINF:-1,Россия 1 HD
+http://testlivestream.rfn.ru/live/smil:rhd.smil/chunklist_b1600000.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Россия 1 HD
+http://android.cdn.bonus-tv.ru:8080/russiahd/index.m3u8?token=null
+#EXTINF:-1,Россия 24
+http://testlivestream.rfn.ru/live/smil:r24.smil/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Россия 24
+http://testlivestream.rfn.ru/live/smil:r24.smil/chunklist_b800000.m3u8?auth=vh&cast_id=21?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Россия 24
+http://msk3.peers.tv/streaming/vesti/126/tvrecw/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Россия 24
+http://iptv.multi-net.ru:80/udp/239.255.1.13:1234
+#EXTINF:-1,Россия 24
+http://cdn-01.bonus-tv.ru:8080/russia24/index.m3u8?token=null
+#EXTINF:-1,Россия 24
+http://193.23.58.156:4025/udp/234.1.10.8:1234
+#EXTINF:-1,Россия 24 (Новосибирск)
+rtmp://hosting.nsktv.ru/live//rik
+#EXTINF:-1,Россия 24 (Регион.)
+http://hlstv.kuz.211.ru/239.211.4.3/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Россия 24 (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/rus24 ?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Россия К
+http://bal.bonus-tv.ru/btv/russiak/type/user/devname/LG-SmartTV/devid/LG-1444679786/eol/20200101T000000/hash/4c075ba9500d2e5d3404cb620185f4605e7e3a87/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Россия К
+http://msk3.peers.tv/streaming/kultura/126/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Россия К
+http://grifon.info:84/rossia_k?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Россия К
+http://btv-net.mediacdn.ru/TVB7/russiak/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Россия К (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/kultura ?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Россия К +2
+http://msk3.peers.tv/streaming/kultura/16/tvrec/playlist.m3u8
+#EXTINF:-1,Россия К +2
+http://hls.novotelecom.ru/streaming/kultura/tvrec/playlist.m3u8
+#EXTINF:-1,Россия К +2
+http://193.23.58.156:4025/udp/234.1.10.7:1234
+#EXTINF:-1,Россия К +4
+http://hlstv.kuz.211.ru/239.211.4.6/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Россия К +4
+http://iptv.multi-net.ru:80/udp/239.255.1.15:1234
+#EXTINF:-1,Россия РТР
+http://testlivestream.rfn.ru/live/smil:rtrp.smil/playlist.m3u8?auth=vh&cast_id=4941?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Россия РТР
+http://vs7.cdn.ott.otautv.kz:80/dtv/id78_KTR_SG--RTRPlaneta/03/plst.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Россия РТР
+http://testlivestream.rfn.ru/live/smil:rtrp.smil/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Русский Иллюзион
+http://btv-net.mediacdn.ru/TVB7/illuzionrus/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Русский Иллюзион
+http://msk3.peers.tv/streaming/russian_illusion/16/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Русский Иллюзион
+http://hls.novotelecom.ru/streaming/russian_illusion/tvrec/playlist.m3u8
+#EXTINF:-1,Русский Роман
+http://msk3.peers.tv/streaming/russian_roman/16/tvrec/playlist.m3u8
+#EXTINF:-1,Русский Роман
+http://hls.novotelecom.ru/streaming/russian_roman/tvrec/playlist.m3u8
+#EXTINF:-1,Русский бестселлер
+http://hls.novotelecom.ru/streaming/russia_best/tvrec/playlist.m3u8
+#EXTINF:-1,Русский иллюзион
+http://android.cdn.bonus-tv.ru/TVB7/illuzionrus/playlist.m3u8
+#EXTINF:-1,Русский экстрим
+http://win.cdn.bonus-tv.ru/TVB8/russkiyextrim/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Русский экстрим
+http://android.cdn.bonus-tv.ru/TVB8/russkiyextrim/playlist.m3u8
+#EXTINF:-1,Рыжий
+http://msk3.peers.tv/streaming/red/16/tvrecw/playlist.m3u8
+#EXTINF:-1,СОНЦЕ
+http://46.149.185.219:8805?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,СТБ
+http://46.149.185.219:8787?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,СТБ
+http://213.174.2.135:4010
+#EXTINF:-1,СТВ (Беларусь)
+http://86.57.178.105:8000/udp/225.11.1.3:1234
+#EXTINF:-1,СТРК HD
+http://sochi-strk.ru:1936/strk/strk.stream/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,СТРК HD
+http://msk3.peers.tv/streaming/strk/126/copy/playlist.m3u8
+#EXTINF:-1,СТС
+http://grifon.info:84/sts?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,СТС
+http://86.57.178.105:8000/udp/225.1.1.3:1234
+#EXTINF:-1,СТС
+http://149.255.152.110/ctctv/index.m3u8
+#EXTINF:-1,СТС (Mold)
+http://cdn.magictvbox.eu:8080/sts/720p.m3u8
+#EXTINF:-1,СТС (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/sts ?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,СТС +2
+http://193.23.58.156:4025/udp/234.1.10.14:1234
+#EXTINF:-1,СТС +4
+http://hlstv.kuz.211.ru/239.211.4.9/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,СТС +4
+http://iptv.multi-net.ru:80/udp/239.255.1.6:1234
+#EXTINF:-1,СТС Love
+http://hlstv.kuz.211.ru/239.211.211.99/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,СТС Love
+http://193.23.58.156:4025/udp/234.1.10.34:1234
+#EXTINF:-1,СТС Мир
+http://msk3.peers.tv/streaming/sts/16/tvrec/playlist.m3u8
+#EXTINF:-1,СТС Мир
+http://hls.novotelecom.ru/streaming/sts/tvrec/playlist.m3u8
+#EXTINF:-1,СТС Прима (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/prima ?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Санкт-Петербург
+http://msk3.peers.tv/streaming/topspb/126/tvrec/playlist.m3u8
+#EXTINF:-1,Сарафан
+http://hls.novotelecom.ru/streaming/sarafan/tvrec/playlist.m3u8
+#EXTINF:-1,Семейное HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Смайлик ТВ
+http://msk3.peers.tv/streaming/smayliktv/126/vm2w/playlist.m3u8
+#EXTINF:-1,СовСек
+http://193.23.58.156:4025/udp/234.1.20.8:1234
+#EXTINF:-1,Совершенно секретно
+http://serv23.vintera.tv:8081/secret/sovsec1/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Сонце (UA)
+http://213.174.2.135:4060
+#EXTINF:-1,Союз
+http://hlstv.kuz.211.ru/239.211.211.56/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Союз
+http://hls.novotelecom.ru/streaming/soyuz/tvrec/playlist.m3u8
+#EXTINF:-1,Спас
+http://spastv.cdnvideo.ru/spastv-live/spastv.sdp/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Спас
+http://hlstv.kuz.211.ru/239.211.211.102/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Спас
+http://193.23.58.156:4025/udp/234.1.10.13:1234
+#EXTINF:-1,Спорт 1 Украина
+http://live1.pvplus.tv/sport1l.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Спорт 2 Украина
+http://live1.pvplus.tv/sport2l.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Страна
+http://testlivestream.rfn.ru/live/smil:strana.smil/chunklist_b1600000.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Страна
+http://hls.novotelecom.ru/streaming/strana/tvrec/playlist.m3u8
+#EXTINF:-1,Страшное HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,ТБН
+http://msk3.peers.tv/streaming/tbn/126/tvrecw/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ТВ 3
+http://149.255.152.110/tv3/index.m3u8
+#EXTINF:-1,ТВ-3
+http://86.57.178.105:8000/udp/225.1.1.1:1234
+#EXTINF:-1,ТВ-ТРЕЙЛЕР
+http://msk3.peers.tv/streaming/tvtrailer/16/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ТВ-ТРЕЙЛЕР 2
+http://wse.planeta-online.tv:1935/live/channel_5/chunklist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ТВ3
+http://msk3.peers.tv/streaming/tv3/126/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ТВ3 (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/tv3 ?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ТВ3 +2
+http://193.23.58.156:4025/udp/234.1.10.16:1234
+#EXTINF:-1,ТВ3 +3
+http://msk3.peers.tv/streaming/tv3/16/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ТВ3 +3
+http://hlstv.kuz.211.ru/239.211.211.150/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ТВ3 +3
+http://hls.novotelecom.ru/streaming/tv3/tvrec/playlist.m3u8
+#EXTINF:-1,ТВ3 +4
+http://iptv.multi-net.ru:80/udp/239.255.1.5:1234
+#EXTINF:-1,ТВ7 (Мариуполь)[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,ТВЦ
+http://msk3.peers.tv/streaming/tvc/126/tvrecw/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ТВЦ (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/tvcenter ?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ТВЦ +2
+http://msk3.peers.tv/streaming/tvc/16/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ТВЦ +2
+http://hls.novotelecom.ru/streaming/tvc/tvrec/playlist.m3u8
+#EXTINF:-1,ТВЦ +4
+http://iptv.multi-net.ru:80/udp/239.255.1.16:1234?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ТВЦ/ТВН (Новокузнецк)
+http://hlstv.kuz.211.ru/239.211.4.12/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ТДК
+http://live.tdktv.cdnvideo.ru/tdktv/tdktv.sdp/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ТМВ ru
+http://msk3.peers.tv/streaming/tmb_ru/16/tvrecw/playlist.m3u8
+#EXTINF:-1,ТНВ Планета
+http://btv-net.mediacdn.ru/TVB4/tnv/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ТНВ Планета
+http://nv.vintera.tv:8081/nv/nov_vek/playlist.m3u8
+#EXTINF:-1,ТНВ Планета
+http://android.cdn.bonus-tv.ru/TVB4/tnv/playlist.m3u8
+#EXTINF:-1,ТНВ Планета
+http://cdn-04.bonus-tv.ru/btv/tnv/type/user/devname/LG-SmartTV/devid/LG-1466001454/eol/20200101T0000/hash/466b0e95f9dcf6afeb751391412cccb3a464cf8d/playlist.m3u8
+#EXTINF:-1,ТНТ
+http://msk3.peers.tv/streaming/tnt/126/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ТНТ
+http://86.57.178.105:8000/udp/225.10.1.1:1234
+#EXTINF:-1,ТНТ
+http://95.140.197.69:8000/channel-2
+#EXTINF:-1,ТНТ (Mold)
+http://cdn.magictvbox.eu:8080/tnt/720p.m3u8
+#EXTINF:-1,ТНТ (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/tnt ?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ТНТ +2
+http://193.23.58.156:4025/udp/234.1.10.20:1234
+#EXTINF:-1,ТНТ +3
+http://msk3.peers.tv/streaming/tnt/16/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ТНТ +4
+http://hlstv.kuz.211.ru/239.211.4.8/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ТНТ +4
+http://iptv.multi-net.ru:80/udp/239.255.1.14:1234
+#EXTINF:-1,ТНТ +7[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,ТНТ Air (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/tntair ?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ТНТ Music
+http://hls.tntmusic.cdnvideo.ru/tntmusic/tntmusic2.smil/playlist.m3u8
+#EXTINF:-1,ТНТ Music
+http://cdn-04.bonus-tv.ru/btv/aone/type/user/devname/LG-SmartTV/devid/LG-1458663925/eol/20200101T0000/hash/98f3a18c5e57ddd985381dfcb6c923194907cb47/playlist.m3u8
+#EXTINF:-1,ТНТ Music
+http://msk3.peers.tv/streaming/tnt_music/126/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ТНТ Music (Резерв)
+http://hls.tntmusic.cdnvideo.ru.ru2.gsr.awhoer.net/tntmusic/tntmusic2.smil/playlist.m3u8
+#EXTINF:-1,ТНТ/27 канал
+http://hlstv.kuz.211.ru/239.211.4.51/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ТРО
+http://iptv.multi-net.ru:80/udp/239.255.1.26:1234
+#EXTINF:-1,ТРОФЕЙ
+http://46.149.185.219:8803?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Теледом
+http://btv-net.mediacdn.ru/TVB7/teledom/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Теледом
+http://bal.bonus-tv.ru/btv/teledom/type/user/devname/LG-SmartTV/devid/LG-1449432412/eol/20200101T000000/hash/e9b84f5441a92e411f81ccb44daebe8a5ae7d16c/playlist.m3u8
+#EXTINF:-1,Теледом HD
+http://194.190.78.214:1935/output/teledom/index.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Техно 24
+http://msk3.peers.tv/streaming/24techno/16/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Техно 24
+http://iptv.multi-net.ru:80/udp/239.255.1.30:1234
+#EXTINF:-1,Техно 24
+http://hls.novotelecom.ru/streaming/24techno/tvrec/playlist.m3u8
+#EXTINF:-1,Точка
+http://cdn-03.bonus-tv.ru/btv/tochkatv/type/user/devname/LG-SmartTV/devid/LG-1458069587/eol/20200101T000000/hash/6f2618b6bf87cb6adb6c888aff31f912a8807c1a/playlist.m3u8
+#EXTINF:-1,Точка ТВ
+http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8
+#EXTINF:-1,Трофей
+http://213.174.2.135:4067
+#EXTINF:-1,Туапсе 24
+http://msk3.peers.tv/streaming/tuapse24/126/vm2w/playlist.m3u8
+#EXTINF:-1,Украина
+http://213.174.2.135:4049
+#EXTINF:-1,Улыбка Ребенка
+http://msk3.peers.tv/streaming/smile/126/tvrecw/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Униан
+http://46.149.185.219:8807?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Униан
+http://213.174.2.135:4011
+#EXTINF:-1,Усадьба
+http://hls.novotelecom.ru/streaming/usadba/tvrec/playlist.m3u8
+#EXTINF:-1,Успех
+http://msk3.peers.tv/streaming/uspex/16/tvrec/playlist.m3u8
+#EXTINF:-1,Успех
+http://hls.novotelecom.ru/streaming/uspex/tvrec/playlist.m3u8
+#EXTINF:-1,Феникс Плюс Кино
+http://win.cdn.bonus-tv.ru/TVB7/fenixikino/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Феникс Плюс Кино
+http://bal.bonus-tv.ru/btv/fenixikino/type/user/devname/LG-SmartTV/devid/LG-1445617990/eol/20200101T000000/hash/6c73af80a8160022573f45223a277bfb59ef2325/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Футбол
+http://msk3.peers.tv/streaming/futbol/126/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Футбол
+http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
+#EXTINF:-1,Футбол
+http://serv24.vintera.tv:8081/sport/futbol_09/playlist.m3u8
+#EXTINF:-1,Футбол 1 UA
+http://193.23.58.156:4025/udp/234.1.20.16:1234
+#EXTINF:-1,Футбол 1 Украина HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Футбол 2 UA
+http://193.23.58.156:4025/udp/234.1.20.17:1234
+#EXTINF:-1,Футбол 2 Украина HD[PremiumSlyNet]
+http://hls2.slynet.pw/sorrypremiumslynet?.m3u8
+#EXTINF:-1,Хамелеон ТВ
+http://msk3.peers.tv/streaming/hameleon_tv/126/tvrecw/playlist.m3u8
+#EXTINF:-1,ЧП Инфо
+http://46.149.185.219:8802?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,ЧП инфо
+http://213.174.2.135:4053
+#EXTINF:-1,Че
+http://msk3.peers.tv/streaming/perec/126/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Че
+http://86.57.178.105:8000/udp/225.4.1.4:1234
+#EXTINF:-1,Че
+http://193.23.58.156:4025/udp/234.1.10.24:1234
+#EXTINF:-1,Че (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/perez ?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Че +2
+http://msk3.peers.tv/streaming/perec/16/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Че +2
+http://hls.novotelecom.ru/streaming/perec/tvrec/playlist.m3u8
+#EXTINF:-1,Че +4
+http://iptv.multi-net.ru:80/udp/239.255.1.8:1234
+#EXTINF:-1,Че Air (работает не на всех устройствах)
+http://4BA9EBDB07C05883:@5.159.96.170:8000/perezair ?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Шансон
+http://86.57.178.105:8000/udp/225.10.1.2:1234
+#EXTINF:-1,Шансон
+http://hls.novotelecom.ru/streaming/shanson/tvrec/playlist.m3u8
+#EXTINF:-1,Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Щелково
+http://193.23.58.156:4025/udp/234.1.10.36:1234
+#EXTINF:-1,Эфир-24
+http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Ю
+http://msk3.peers.tv/streaming/utv/126/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Ю
+http://86.57.178.105:8000/udp/225.7.1.1:1234
+#EXTINF:-1,Ю
+http://hls.novotelecom.ru/streaming/utv/tvrec/playlist.m3u8
+#EXTINF:-1,Ю
+http://193.23.58.156:4025/udp/234.1.10.31:1234
+#EXTINF:-1,Ю +3
+http://hlstv.kuz.211.ru/239.211.211.29/stream.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Юмор
+http://46.241.108.46:81/udp/239.54.5.5:1224
+#EXTINF:-1,Юмор Box
+http://msk3.peers.tv/streaming/yumor_tv/16/tvrec/playlist.m3u8?slynet.tv FreeSlyNet IPTV
+#EXTINF:-1,Юнион
+http://193.23.58.156:4025/udp/234.1.10.30:1234
+#EXTINF:-1,Юрган
+http://urgan.vintera.tv:8081/urgan/urgan/playlist.m3u8
+#EXTINF:-1,=== ИНФОРМАЦИЯ ===
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
+#EXTINF:-1,=== sly & oknijb234
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
+#EXTINF:-1,=== Последнее обновление 10.07.16
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
+#EXTINF:-1,=== Самообновляемый плейлист FreeSlyNet
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
+#EXTINF:-1,=== v2.0
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
+#EXTINF:-1,= Наша группа ВКонтакте http://vk.com/clubSlyNet
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
+#EXTINF:-1,== http://vk.com/clubSlyNet
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
+#EXTINF:-1,= Наш сайт http://slynet.tv
+http://j.mp/startslynetiptv?.m3u8
+#EXTINF:-1,== http://slynet.tv
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
+#EXTINF:-1,== У нас появился Premium Playlist ==
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
+#EXTINF:-1,== вопросы на slynetiptv@gmail.com ==
+http://hls2.slynet.pw/slynetfreestartpromo?.m3u8
