@@ -13,30 +13,7 @@ http://141.136.14.18/kanal1/kanal1.m3u8
 http://fra1.ddns.net:97/live/josip/josip/24.m3u8
 #EXTINF:-1,CMC
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
-#EXTINF:-1,RTL2
-http://fra1.ddns.net:97/live/amir/amir/22.m3u8
-#EXTINF:-1,RTL KOCKICA
-http://fra1.ddns.net:97/live/amir/amir/23.m3u8
-#EXTINF:-1,RTL
-http://fra1.ddns.net:97/live/amir/amir/24.m3u8
-#EXTINF:-1,Prva TV
-http://fra1.ddns.net:97/live/amir/amir/97.m3u8
-#EXTINF:-1,RTRS Plus
-http://fra1.ddns.net:97/live/amir/amir/21.m3u8
-#EXTINF:-1,RTRS
-http://fra1.ddns.net:97/live/amir/amir/2.m3u8
-#EXTINF:-1,RTRS Plus
-http://fra1.ddns.net:97/live/amir/amir/21.m3u8
-#EXTINF:-1,HRT4
-http://fra1.ddns.net:97/live/dzevad/dzevad/7.m3u8
-#EXTINF:-1,HRT3
-http://fra1.ddns.net:97/live/dzevad/dzevad/8.m3u8
-#EXTINF:-1,HRT2
-http://fra1.ddns.net:97/live/dzevad/dzevad/9.m3u8
-#EXTINF:-1,HRT1
-http://fra1.ddns.net:97/live/dzevad/dzevad/10.m3u8
-#EXTINF:-1,RTL
-http://fra1.ddns.net:97/live/dzevad/dzevad/24.m3u8
+
 -----MAKEDONSKI-----
 #EXTINF:-1,SITEL
 http://fms.zulu.mk:554/zulu/sitel_1/playlist_b125000_w1132785237.m3u8? 
