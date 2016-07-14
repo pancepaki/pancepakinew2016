@@ -5,10 +5,26 @@ http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/playlist.m3u8
 http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u8
 #EXTINF:-1,CMC
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
+#EXTINF:-1,CMC hr
+http://fra1.ddns.net:97/live/test/test/55.m3u8
+
 #EXTINF:-1,Pink Western
 http://fra1.ddns.net:97/live/test/test/28.m3u8
 #EXTINF:-1,PINK FREE
 http://fra1.ddns.net:97/live/test/test/250.m3u8
+#EXTINF:-1,HRT4
+http://fra1.ddns.net:97/live/test/test/7.m3u8
+#EXTINF:-1,HRT3
+http://fra1.ddns.net:97/live/test/test/8.m3u8
+#EXTINF:-1,HRT2
+http://fra1.ddns.net:97/live/test/test/9.m3u8
+#EXTINF:-1,HRT1
+http://fra1.ddns.net:97/live/test/test/10.m3u8
+#EXTINF:-1,HIT TV
+http://fra1.ddns.net:97/live/test/test/243.m3u8
+#EXTINF:-1,HAPPY
+http://fra1.ddns.net:97/live/test/test/217.m3u8
+
 #EXTINF:-1,FACE TV
 http://fra1.ddns.net:97/live/test/test/5.m3u8
 #EXTINF:-1,BRAVOMUSIC
@@ -43,7 +59,26 @@ http://fra1.ddns.net:97/live/test/test/226.m3u8
 http://fra1.ddns.net:97/live/test/test/218.m3u8
 #EXTINF:-1,RUBIN
 http://fra1.ddns.net:97/live/test/test/254.m3u8
-
+#EXTINF:-1,NTVJATA
+http://fra1.ddns.net:97/live/test/test/96.m3u8
+#EXTINF:-1,NOVOSADSKA TV
+http://fra1.ddns.net:97/live/test/test/248.m3u8
+#EXTINF:-1,NEON TV
+http://fra1.ddns.net:97/live/test/test/237.m3u8
+#EXTINF:-1,KOPERNIKUS 2
+http://fra1.ddns.net:97/live/test/test/231.m3u8
+#EXTINF:-1,KOPERNIKUS 1
+http://fra1.ddns.net:97/live/test/test/48.m3u8
+#EXTINF:-1,HAYAT TV
+http://fra1.ddns.net:97/live/test/test/244.m3u8
+#EXTINF:-1,Hayat Music
+http://fra1.ddns.net:97/live/test/test/51.m3u8
+#EXTINF:-1,Hayat Folk TV
+http://fra1.ddns.net:97/live/test/test/12.m3u8
+#EXTINF:-1,ALJAZEERA IZ
+http://fra1.ddns.net:97/live/test/test/95.m3u8
+#EXTINF:-1,ALJAZEERA BALKANS
+http://fra1.ddns.net:97/live/test/test/103.m3u8
 #EXTINF:-1,TV7
 http://fra1.ddns.net:97/live/test/test/219.m3u8
 #EXTINF:-1,TV1
