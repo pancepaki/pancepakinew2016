@@ -215,10 +215,6 @@ http://dvb.gpsystems.lv:4242/bynumber/5
 http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w708638919_b800000.m3u8
 #EXTINF:-1,Super Tennis
 http://94.100.31.242:8183/hls/xz3125/index.m3u8
-
-
-#EXTINF:0,Fox sport 2
-http://motorsport.hopto.org:8080/
 #EXTINF:0,TURK-BURSASPOR TV
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
 #EXTINF:0, : REAL MADRID TV HD
@@ -248,9 +244,7 @@ http://stream.yayindayiz.biz/Bursaspor/bursaspor/radyodelisi.m3u8
 #EXTINF:-1 channelId="4" , МАТЧ ТВ
 http://95.27.185.85:4022/udp/233.33.210.93:5050
 #EXTINF:-1,55 Viasat Sport
-http://176.112.96.17:8000/play/a01j
-#EXTINF:-1,34 Наш спорт
-http://176.112.96.17:8000/play/a00y
+http://176.112.96.17:8000/play/a01
 #EXTINF:-1,03 Матч ТВ
 http://176.112.96.17:8000/play/a003
 #EXTINF:-1,Sky Sports HD – Bein Sports HD – BT Sports HD (Stream Switches Channels)
