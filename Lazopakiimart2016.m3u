@@ -25,18 +25,6 @@ rtmp://46.105.209.61/live/live /vip-hd-tv.sdp
 #EXTINF:1, VIP HD
 http://46.105.209.61/live/live /vip-hd-tv
 -------------SPORT------------
-#EXTINF:0,SK- 1 sr
-http://91.134.217.235:1557/live/SPARK/y0Q836XYyh/1718.m3u8
-#EXTINF:0,SK- 2 sr
-http://91.134.217.235:1557/live/SPARK/y0Q836XYyh/1719.m3u8
-#EXTINF:0,SK- 3 sr
-http://91.134.217.235:1557/live/SPARK/y0Q836XYyh/1720.m3u8
-#EXTINF:0,SK- 1 hr
-http://91.134.217.235:1557/live/SPARK/y0Q836XYyh/1132.m3u8
-#EXTINF:0,SK- 2 hr
-http://91.134.217.235:1557/live/SPARK/y0Q836XYyh/1133.m3u8
-#EXTINF:0,SK- 3 hr
-http://91.134.217.235:1557/live/SPARK/y0Q836XYyh/1134.m3u8
 #EXTINF:-1,DigiSport3 (CZ)
 http://213.81.153.241/live001/channel026_p2.stream/DVR.m3u8
 #EXTINF:-1,ESPN HD
@@ -56,26 +44,6 @@ http://92.222.205.40:8085/lighd
 http://centurionlukavac.com:80/live?channelId=164&uid=13&deviceUser=daria1141&devicePass=daria1141234
 #EXTINF:-1,PREMIER SPORT
 http://centurionlukavac.com:80/live?channelId=173&uid=13&deviceUser=daria1141&devicePass=daria1141234
-#EXTINF:-1,Bein Sport 1
-http://tinyurl.com/hnmkebz
-#EXTINF:-1,Bein Sport 2
-http://tinyurl.com/jfnpbq6
-#EXTINF:-1,Bein Sport 3
-http://tinyurl.com/heh7gg6
-#EXTINF:-1,Bein Sport 4
-http://tinyurl.com/zqoo8eb
-#EXTINF:-1,Bein Sport 6
-http://tinyurl.com/jkenln5
-#EXTINF:-1,Bein Sport 10
-http://tinyurl.com/gmrb5ft
-#EXTINF:-1,Bein Sport 11
-http://tinyurl.com/Docs4you-BS11
-#EXTINF:-1,Bein Sport 12
-http://tinyurl.com/Docs4you-BS12
-#EXTINF:-1 tvg-id="BEIN Sports 1" tvg-link="" tvg-name="BEIN Sports 1" tvg-logo="" group-title="Domaci",BEIN Sports 1
-http://centurionlukavac.com:80/live?channelId=247&uid=13&deviceUser=daria1141&devicePass=daria1141234
-#EXTINF:-1 tvg-id="BEIN Sports 3" tvg-link="" tvg-name="BEIN Sports 3" tvg-logo="" group-title="Domaci",BEIN Sports 3
-http://centurionlukavac.com:80/live?channelId=249&uid=13&deviceUser=daria1141&devicePass=daria1141234
 #EXTINF:-1,SuperSport 1
 http://81.7.13.162/hls/ss1/index.m3u8
 #EXTINF:-1,SuperSport 2
