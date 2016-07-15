@@ -424,6 +424,57 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 
 -----RAZNI TV------
+#EXTINF:-1,Argentina 6  [COLOR lime]FTA[/COLOR]
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:-1,Argentina 8  [COLOR lime]FTA[/COLOR]
+#EXTINF:-1,Korea 1  [COLOR lime]FTA[/COLOR]
+rtmp://124.139.232.61:1935/live/livestream
+#EXTINF:-1,Korea 2  [COLOR lime]FTA[/COLOR]
+rtmp://live.chosun.gscdn.com/live//tvchosun1.stream
+#EXTINF:-1,L1 LIFE  [COLOR lime]FTA[/COLOR]
+http://tv.life.ru/lifetv/360p/index.m3u8
+#EXTINF:-1,Spas tv ru  [COLOR lime]FTA[/COLOR]
+rtmp://spastv.cdnvideo.ru/spastv-live/spastv.sdp
+#EXTINF:-1,Russia 4  [COLOR lime]FTA[/COLOR]
+http://193.107.103.42:81/mystream.m3u8
+#EXTINF:-1,France LCN TV  [COLOR lime]FTA[/COLOR]
+http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1,Arte  [COLOR lime]FTA[/COLOR]
+http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
+#EXTINF:-1,France-WEO TV  [COLOR lime]FTA[/COLOR]
+rtmp://str81.creacast.com:80/weo/high
+#EXTINF:-1,France 24  [COLOR lime]FTA[/COLOR]
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8?Wse=4577tr
+#EXTINF:-1,France TV7 LIVE  [COLOR lime]FTA[/COLOR]
+rtmp://62.210.204.108/livtv7vo/mystream700.sdp
+#EXTINF:-1,France-Alsace 20  [COLOR lime]FTA[/COLOR]
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1,Canada-TVA  [COLOR lime]FTA[/COLOR]
+http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
+#EXTINF:-1,Germany-ALEX LIVE TV   [COLOR lime]FTA[/COLOR]
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
+#EXTINF:-1,Germany-BADEN TV  [COLOR lime]FTA[/COLOR]
+rtmp://badentv-stream2.siebnich.info/rtplive/btv.stream
+#EXTINF:-1,Germany-NDR HD  [COLOR lime]FTA[/COLOR]
+http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8
+#EXTINF:-1,Germany-1ERSTEN  [COLOR lime]FTA[/COLOR]
+http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/index_2692_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Germany-tvaktuellr  [COLOR lime]FTA[/COLOR]
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w639935191.m3u8
+#EXTINF:-1,Germany-TVO  [COLOR lime]FTA[/COLOR]
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w1654226206.m3u8
+#EXTINF:-1,Germany-Tagesschau_1  [COLOR lime]FTA[/COLOR]
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Germany-WDW  [COLOR lime]FTA[/COLOR]
+http://mf.weltderwunder.c.nmdn.net/wdwlive/WDW-HQ.stream/chunklist.m3u8?wowzasessionid=1817564159
+#EXTINF:-1,Romania-1tvambra  [COLOR lime]FTA[/COLOR]
+http://1tv.ambra.ro
+#EXTINF:-1,Austria 24tv  [COLOR lime]FTA[/COLOR]
+rtmp://streaming.austria24.tv/live/stream_720p
+#EXTINF:-1,China Movie  [COLOR lime]FTA[/COLOR]
+http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8
+#EXTINF:-1,China-CCTV 14  [COLOR lime]FTA[/COLOR]
+http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/hyds2/as/live/hyds2_4.m3u8
 #EXTINF:0, ALEX BERLIN (Urban Music)
 http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
 #EXTINF:-1, :Tele Basel
@@ -487,57 +538,7 @@ rtmp://213.202.73.202/iskon/studentska_b3.stream
 
 
 
-#EXTINF:-1,Argentina 6  [COLOR lime]FTA[/COLOR]
-http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
-#EXTINF:-1,Argentina 8  [COLOR lime]FTA[/COLOR]
-#EXTINF:-1,Korea 1  [COLOR lime]FTA[/COLOR]
-rtmp://124.139.232.61:1935/live/livestream
-#EXTINF:-1,Korea 2  [COLOR lime]FTA[/COLOR]
-rtmp://live.chosun.gscdn.com/live//tvchosun1.stream
-#EXTINF:-1,Russia 1  [COLOR lime]FTA[/COLOR]
-http://tv.life.ru/lifetv/360p/index.m3u8
-#EXTINF:-1,Russia 3  [COLOR lime]FTA[/COLOR]
-rtmp://spastv.cdnvideo.ru/spastv-live/spastv.sdp
-#EXTINF:-1,Russia 4  [COLOR lime]FTA[/COLOR]
-http://193.107.103.42:81/mystream.m3u8
-#EXTINF:-1,France 2  [COLOR lime]FTA[/COLOR]
-http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1,France 3  [COLOR lime]FTA[/COLOR]
-http://frlive.artestras.cshls.lldns.net/artestras/contrib/frlive/frlive_925.m3u8
-#EXTINF:-1,France 4  [COLOR lime]FTA[/COLOR]
-rtmp://str81.creacast.com:80/weo/high
-#EXTINF:-1,France 5  [COLOR lime]FTA[/COLOR]
-http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8?Wse=4577tr
-#EXTINF:-1,France 7  [COLOR lime]FTA[/COLOR]
-rtmp://62.210.204.108/livtv7vo/mystream700.sdp
-#EXTINF:-1,France 10  [COLOR lime]FTA[/COLOR]
-http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
-#EXTINF:-1,Canada 6  [COLOR lime]FTA[/COLOR]
-http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
-#EXTINF:-1,Germany 3  [COLOR lime]FTA[/COLOR]
-http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
-#EXTINF:-1,Germany 4  [COLOR lime]FTA[/COLOR]
-rtmp://badentv-stream2.siebnich.info/rtplive/btv.stream
-#EXTINF:-1,Germany 5  [COLOR lime]FTA[/COLOR]
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8
-#EXTINF:-1,Germany 6  [COLOR lime]FTA[/COLOR]
-http://daserste_live-lh.akamaihd.net/i/daserste_int@91203/index_2692_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1,Germany 7  [COLOR lime]FTA[/COLOR]
-http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w639935191.m3u8
-#EXTINF:-1,Germany 8  [COLOR lime]FTA[/COLOR]
-http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w1654226206.m3u8
-#EXTINF:-1,Germany 9  [COLOR lime]FTA[/COLOR]
-http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Germany 10  [COLOR lime]FTA[/COLOR]
-http://mf.weltderwunder.c.nmdn.net/wdwlive/WDW-HQ.stream/chunklist.m3u8?wowzasessionid=1817564159
-#EXTINF:-1,Romania 8  [COLOR lime]FTA[/COLOR]
-http://1tv.ambra.ro
-#EXTINF:-1,Austria 1  [COLOR lime]FTA[/COLOR]
-rtmp://streaming.austria24.tv/live/stream_720p
-#EXTINF:-1,China 4  [COLOR lime]FTA[/COLOR]
-http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/chinamovie/as/live/chinamovie_4.m3u8
-#EXTINF:-1,China 5  [COLOR lime]FTA[/COLOR]
-http://ktv008.cdnak.ds.kylintv.net/nlds/kylin/hyds2/as/live/hyds2_4.m3u8
+
 #EXTINF:0, Rai Sport 1
 mmsh://212.162.68.163:80/raisport+
 EXTINF:-1, Buraspor TV
