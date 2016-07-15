@@ -37,7 +37,8 @@ http://dvb.gpsystems.lv:4242/bynumber/5
 http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w708638919_b800000.m3u8
 #EXTINF:-1,Super Tennis
 http://94.100.31.242:8183/hls/xz3125/index.m3u8
-
+#EXTINF:-1 channelId="4" , МАТЧ ТВ
+http://95.27.185.85:4022/udp/233.33.210.93:5050
 #EXTINF:-1,Sky Sports HD – Bein Sports HD – BT Sports HD (Stream Switches Channels)
 http://92.222.205.40:8085/lighd
 #EXTINF:-1,Setanta Sports Ireland
@@ -74,7 +75,10 @@ http://centurionlukavac.com:80/live?channelId=74&uid=13&deviceUser=daria1141&dev
 http://centurionlukavac.com:80/live?channelId=75&uid=13&deviceUser=daria1141&devicePass=daria1141234
 #EXTINF:-1 tvg-id="SPORT KLUB 3 SR" tvg-link="" tvg-name="SPORT KLUB 3 SR" tvg-logo="" group-title="Domaci",SPORT KLUB 3 SR
 http://centurionlukavac.com:80/live?channelId=76&uid=13&deviceUser=daria1141&devicePass=daria1141234
-
+#EXTINF:-1,NovaSport1 (CZ)
+http://213.81.153.241/live001/channel028_p2.stream/DVR.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1,Superport 1
 http://81.7.13.162/hls/ss1/index.m3u8
 #EXTINF:-1,Superport 2
@@ -105,6 +109,23 @@ http://centurionlukavac.com:80/live?channelId=171&uid=13&deviceUser=daria1141&de
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1,MLS / NBA HD
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:0,Eurosport (French)
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
+#EXTINF:0,Eurosport 1 ENG
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:0,EUROSPORT 1 FR
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:0,Eurosport 1 Fransa
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
+#EXTINF:0,TURK-BURSASPOR TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
+#EXTINF:-1,Авто 24
+http://win.cdn.bonus-tv.ru/TVB7/auto24/playlist.m3u8
+#EXTINF:-1, Sports TV  [COLOR lime]FTA[/COLOR]
+http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u
+#EXTINF:-1, Fox Sport   [COLOR lime]FTA[/COLOR]
+http://motorsport.hopto.org:8080/
+
 ------XXXXX------
 #EXTINF:-1,Egoist tv
 http://46.19.118.49:3030/udp/239.195.6.32:1234
@@ -200,63 +221,26 @@ http://185.44.118.34:40555/udp/239.1.2.80:4000
 rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
 #EXTINF:-1,NBA
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
---------SPORT 2----------
-#EXTINF:-1,Rai Sport 1 HD
-http://b2.httpstream1.rai.it/raisport1.isml/QualityLevels(1296000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,NovaSport1 (CZ)
-http://213.81.153.241/live001/channel028_p2.stream/DVR.m3u8
-#EXTINF:-1,REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-BT Sports ESPN
-http://149.202.85.84:8080/eiSsepn/counter1/index.m3u8
-Boxnation
-http://149.202.207.8:8080/bxoo-nan/counter1/index.m3u8
-Star Sports 1
-http://149.202.85.84:8080/seater-sp-1/counter1/index.m3u8
-Star Sports 2
-http://149.202.85.84:8080/seater-sp-2/counter1/index.m3u8
-Star Sports 3
-http://149.202.85.84:8080/seater-sp-3/counter1/index.m3u8
-Star Sports 4
-http://149.202.85.84:8080/seater-sp-4/counter1/index.m3u8
-Fox Sports 1
-http://149.202.85.84:8080/f00cs-sp-IT/counter1/index.m3u8
-Arena Sports 1
-http://149.202.85.84:8080/airoona-1/counter1/index.m3u8
-Arena Sports 2
-http://149.202.85.84:8080/airoona-2/counter1/index.m3u8
-Arena Sports 3
-http://149.202.85.84:8080/airoona-3/counter1/index.m3u8
-Arena Sports 4
-http://149.202.85.84:8080/airoona-3/counter1/index.m3u8
-Arena Sports 5
-http://149.202.85.84:8080/airoona-5/counter1/index.m3u8
-Sentanta sports
-http://149.202.207.8:8080/bhensp-11/counter1/index.m3u8
-Premier Sports
-http://149.202.85.84:8080/peemrie/counter1/index.m3u8
-Sky Sports News
-http://149.202.85.84:8080/syjkiy-sp-ns/counter1/index.m3u8
-Sky Sports 1
-http://149.202.207.8:8080/syjkiy-1/counter2/index.m3u8
-Sky Sports 2
-http://149.202.207.8:8080/syjkiy-2/counter2/index.m3u8
-Sky Sports 3
-http://149.202.85.84:8080/syjkiy-3/counter1/index.m3u8
-Sky Sports 4
-http://149.202.85.84:8080/syjkiy-4/counter1/index.m3u8
-Sky Sports 5
-http://149.202.85.84:8080/syjkiy-5/counter1/index.m3u8
-BT Sports 1
-http://149.202.207.8:8080/beETy-1/counter1/index.m3u8
-BT Sports 2
-http://149.202.85.84:8080/beETy-2/counter2/index.m3u8
+
 ----------------MKD--------
 #EXTINF:-1,SITEL
 http://fms.zulu.mk:554/zulu/sitel_1/playlist_b125000_w1132785237.m3u8? 
 #EXTINF:-1,TELMA
 http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8? 
-#EXTINF:-1,Alfa TV BG
+#EXTINF:0,Alfa_2
+http://fms.zulu.mk:554/zulu/alfa_2/playlist_b125000_w1132785237.m3u8
+#EXTINF:0,KANAL 5
+http://217.16.82.6:554/zulu/kanal5_1/playlist.m3u8
+#EXTINF:0,SITEL
+http://217.16.82.6:554/zulu/sitel_1/playlist.m3u8
+#EXTINF:0,MPT1
+http://217.16.82.6:554/zulu/mtv1_1/playlist.m3u8
+#EXTINF:0,TELMA
+http://217.16.82.6:554/zulu/telma_1/playlist.m3u8
+#EXTINF:0,Вести 24(Македония)
+mmsh://62.162.58.55/24vesti
+#EXTINF:0,ТВ СОНЦЕ
+http://92.53.27.201:10000
 #EXTINF:-1,24 Vesti 
 mms://62.162.58.55/24vesti 
 #EXTINF:0,СИТЕЛ Телевизија
@@ -275,8 +259,6 @@ mms://62.162.58.55/24vesti
 http://fms.zulu.mk:1935/zulu/shutel_2/playlist.m3u8
 #EXTINF:0,НАША ТВ Телевизија
 http://fms.zulu.mk:1935/zulu/nashatv_2/playlist.m3u8
-#EXTINF:0,КАНАЛ 8 Телевизија
-mms://62.162.58.55/TVkanal8
 #EXTINF:0,КАНАЛ21 Телевизија
 mms://62.162.58.55/TVkanal21
 #EXTINF:-1,SITEL
@@ -287,280 +269,19 @@ http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8?
 http://fms.zulu.mk:554/zulu/mtv1_1/playlist_b125000_w1132785237.m3u8? 
 #EXTINF:-1 group-title="HRVATSKA", SLAVONIJA I BARANJA TV 
 mms://89.201.164.181/stv 
-#EXTINF:-1 group-title="HRVATSKA", TV STUDENT 
-rtmp://213.202.73.202/iskon/studentska_b2.stream 
 #EXTINF:-1 group-title="MAKEDONIJA", 24VESTI 
 mms://62.162.58.55/24vesti 
-rtmp://ataka.tv/live/live 
-#EXTINF:-1 group-title="MAKEDONIJA", TV KANAL 8 
-mms://62.162.58.55/TVKanal8 
  #EXTINF:-1 group-title="Sports",Japan:SPORT 2
 http://203.162.235.45:17931
 #EXTINF:-1 group-title="Sports",Japan:SPORT 3
 http://203.162.235.45:17932
 #EXTINF:-1 group-title="Sports",Japan:SPORT 4
 http://203.162.235.45:17933 	
-#EXTINF:0,RTL
-http://fra1.ddns.net:97/live/dzevad/dzevad/24.m3u8
-#EXTINF:0,OBN
-http://fra1.ddns.net:97/live/dzevad/dzevad/46.m3u8
-#EXTINF:0,B92
-http://fra1.ddns.net:97/live/dzevad/dzevad/102.m3u8
-#EXTINF:-1,DM SAT
-http://fra1.ddns.net:97/live/josip/josip/225.m3u8
-#EXTINF:-1,TV7
-http://fra1.ddns.net:97/live/amir/amir/219.m3u8
-#EXTINF:-1,TV1
-http://fra1.ddns.net:97/live/amir/amir/228.m3u8
-#EXTINF:-1,TV SLON
-http://fra1.ddns.net:97/live/amir/amir/229.m3u8
-#EXTINF:-1,TV MOST
-http://fra1.ddns.net:97/live/amir/amir/253.m3u8
-#EXTINF:-1,TK MI
-http://fra1.ddns.net:97/live/amir/amir/207.m3u8
-#EXTINF:-1,SVET PLUS
-http://fra1.ddns.net:97/live/amir/amir/15.m3u8
-#EXTINF:-1,SREMSKA TV
-http://fra1.ddns.net:97/live/amir/amir/251.m3u8
-#EXTINF:-1,HRT4
-http://fra1.ddns.net:97/live/amir/amir/7.m3u8
-#EXTINF:-1,HRT3
-http://fra1.ddns.net:97/live/amir/amir/8.m3u8
-#EXTINF:-1,HRT2
-http://fra1.ddns.net:97/live/amir/amir/9.m3u8
-#EXTINF:-1,HRT1
-http://fra1.ddns.net:97/live/amir/amir/10.m3u8
-#EXTINF:-1,TV7
-http://fra1.ddns.net:97/live/amir/amir/219.m3u8
-#EXTINF:-1,TV1
-http://fra1.ddns.net:97/live/amir/amir/228.m3u8
-#EXTINF:-1,TV SLON
-http://fra1.ddns.net:97/live/amir/amir/229.m3u8
-#EXTINF:-1,TV MOST
-http://fra1.ddns.net:97/live/amir/amir/253.m3u8
-#EXTINF:-1,TK MI
-http://fra1.ddns.net:97/live/amir/amir/207.m3u8
-#EXTINF:-1,SVET PLUS
-http://fra1.ddns.net:97/live/amir/amir/15.m3u8
-#EXTINF:-1,STV
-http://fra1.ddns.net:97/live/amir/amir/17.m3u8
-#EXTINF:-1,SREMSKA TV
-http://fra1.ddns.net:97/live/amir/amir/251.m3u8
-#EXTINF:-1,SANTOS
-http://fra1.ddns.net:97/live/amir/amir/218.m3u8
-#EXTINF:-1,RUBIN
-http://fra1.ddns.net:97/live/amir/amir/254.m3u8
-#EXTINF:-1,RTV7
-http://fra1.ddns.net:97/live/amir/amir/241.m3u8
-#EXTINF:-1,RTV1
-http://fra1.ddns.net:97/live/amir/amir/255.m3u8
-#EXTINF:-1,RTV ZIVINICE
-http://fra1.ddns.net:97/live/amir/amir/222.m3u8
-#EXTINF:-1,RTV PAZAR MI
-http://fra1.ddns.net:97/live/amir/amir/208.m3u8
-#EXTINF:-1,RTV CG
-http://fra1.ddns.net:97/live/amir/amir/239.m3u8
-#EXTINF:-1,RTV 2
-http://fra1.ddns.net:97/live/amir/amir/256.m3u8
-#EXTINF:-1,RTS3
-http://fra1.ddns.net:97/live/amir/amir/257.m3u8
-#EXTINF:-1,RTS2
-http://fra1.ddns.net:97/live/amir/amir/258.m3u8
-#EXTINF:-1,RTS1
-http://fra1.ddns.net:97/live/amir/amir/20.m3u8
-#EXTINF:-1,RTRS Plus
-http://fra1.ddns.net:97/live/amir/amir/21.m3u8
-#EXTINF:-1,RTL2
-http://fra1.ddns.net:97/live/amir/amir/22.m3u8
-#EXTINF:-1,RTL KOCKICA
-http://fra1.ddns.net:97/live/amir/amir/23.m3u8
-#EXTINF:-1,RTL
-http://fra1.ddns.net:97/live/amir/amir/24.m3u8
-#EXTINF:-1,Prva TV
-http://fra1.ddns.net:97/live/amir/amir/97.m3u8
-#EXTINF:-1,SANTOS
-http://fra1.ddns.net:97/live/amir/amir/218.m3u8
-#EXTINF:-1,RUBIN
-http://fra1.ddns.net:97/live/amir/amir/254.m3u8
-#EXTINF:-1,RTV7
-http://fra1.ddns.net:97/live/amir/amir/241.m3u8
-#EXTINF:-1,RTV1
-http://fra1.ddns.net:97/live/amir/amir/255.m3u8
-#EXTINF:-1,RTV ZIVINICE
-http://fra1.ddns.net:97/live/amir/amir/222.m3u8
-#EXTINF:-1,RTV 2
-http://fra1.ddns.net:97/live/amir/amir/256.m3u8
-#EXTINF:-1,RTS3
-http://fra1.ddns.net:97/live/amir/amir/257.m3u8
-#EXTINF:-1,RTS2
-http://fra1.ddns.net:97/live/amir/amir/258.m3u8
-#EXTINF:-1,RTS1
-http://fra1.ddns.net:97/live/amir/amir/20.m3u8
-#EXTINF:-1,RTRS Plus
-http://fra1.ddns.net:97/live/amir/amir/21.m3u8
-#EXTINF:-1,RTL2
-http://fra1.ddns.net:97/live/amir/amir/22.m3u8
-#EXTINF:-1,RTL
-http://fra1.ddns.net:97/live/amir/amir/24.m3u8
-#EXTINF:-1,Prva TV
-http://fra1.ddns.net:97/live/amir/amir/97.m3u8
-#EXTINF:-1,RTL2
-http://fra1.ddns.net:97/live/amir/amir/22.m3u8
-#EXTINF:-1,For Music
-http://wowza1.top-ix.org/quartaretetv1/formusicweb/index.m3u8
-#EXTINF:-1,OBN
-http://fra1.ddns.net:97/live/josip/josip/46.m3u8
-#EXTINF:-1,B92
-http://fra1.ddns.net:97/live/josip/josip/102.m3u8
-#EXTINF:-1,NAT GEO WILD - K
-http://fra1.ddns.net:97/live/josip/josip/440.m3u8
-#EXTINF:-1,BN BIH
-http://fra1.ddns.net:97/live/josip/josip/6.m3u8
-#EXTINF:-1,SREMSKA TV
-http://fra1.ddns.net:97/live/josip/josip/251.m3u8
-#EXTINF:-1,RTS3
-http://fra1.ddns.net:97/live/josip/josip/257.m3u8
-#EXTINF:-1,BN BIH
-http://fra1.ddns.net:97/live/miro/miro/6.m3u8
-#EXTINF:-1,OBN
-http://fra1.ddns.net:97/live/miro/miro/46.m3u8
-#EXTINF:-1,B92
-http://fra1.ddns.net:97/live/miro/miro/102.m3u8
-#EXTINF:-1,BN BIH
-http://fra1.ddns.net:97/live/miro/miro/6.m3u8
-
-#EXTINF:-1,PROSIEBEN
-http://fra1.ddns.net:97/live/amir/amir/221.m3u8
-#EXTINF:-1,Posavina TV
-http://fra1.ddns.net:97/live/amir/amir/25.m3u8
-#EXTINF:-1,Pink Western
-http://fra1.ddns.net:97/live/amir/amir/28.m3u8
-#EXTINF:-1,PINK FREE
-http://fra1.ddns.net:97/live/amir/amir/250.m3u8
-#EXTINF:-1,PANONIJA
-http://fra1.ddns.net:97/live/amir/amir/249.m3u8
-#EXTINF:-1,OTV Valentino
-http://fra1.ddns.net:97/live/amir/amir/44.m3u8
-#EXTINF:-1,OSJECKA TV
-http://fra1.ddns.net:97/live/amir/amir/11.m3u8
-#EXTINF:-1,OBN MI
-http://fra1.ddns.net:97/live/amir/amir/209.m3u8
-#EXTINF:-1,OBN
-http://fra1.ddns.net:97/live/amir/amir/46.m3u8
-#EXTINF:-1,NTVJATA
-http://fra1.ddns.net:97/live/amir/amir/96.m3u8
-#EXTINF:-1,NOVOSADSKA TV
-http://fra1.ddns.net:97/live/amir/amir/248.m3u8
-#EXTINF:-1,NEON TV
-http://fra1.ddns.net:97/live/amir/amir/237.m3u8
-#EXTINF:-1,N24
-http://fra1.ddns.net:97/live/amir/amir/220.m3u8
-#EXTINF:-1,KOPERNIKUS
-http://fra1.ddns.net:97/live/amir/amir/231.m3u8
-#EXTINF:-1,KCN
-http://fra1.ddns.net:97/live/amir/amir/48.m3u8
-#EXTINF:-1,KANAL 6
-http://fra1.ddns.net:97/live/amir/amir/242.m3u8
-#EXTINF:-1,IZVORNA TV
-http://fra1.ddns.net:97/live/amir/amir/210.m3u8
-#EXTINF:-1,HIT TV
-http://fra1.ddns.net:97/live/amir/amir/243.m3u8
-#EXTINF:-1,Hayatovci
-http://fra1.ddns.net:97/live/amir/amir/50.m3u8
-#EXTINF:-1,HAYAT TV
-http://fra1.ddns.net:97/live/amir/amir/244.m3u8
-#EXTINF:-1,Hayat Music
-http://fra1.ddns.net:97/live/amir/amir/51.m3u8
-#EXTINF:-1,Hayat Folk TV
-http://fra1.ddns.net:97/live/amir/amir/12.m3u8
-#EXTINF:-1,HAPPY
-http://fra1.ddns.net:97/live/amir/amir/217.m3u8
-#EXTINF:-1,Federalna MI
-http://fra1.ddns.net:97/live/amir/amir/202.m3u8
-#EXTINF:-1,Federalna
-http://fra1.ddns.net:97/live/amir/amir/215.m3u8
-#EXTINF:-1,FACE TV
-http://fra1.ddns.net:97/live/amir/amir/5.m3u8
-#EXTINF:-1,Duga TV
-http://fra1.ddns.net:97/live/amir/amir/53.m3u8
-#EXTINF:-1,DM SAT
-http://fra1.ddns.net:97/live/amir/amir/225.m3u8
-#EXTINF:-1,CMC
-http://fra1.ddns.net:97/live/amir/amir/55.m3u8
-#EXTINF:-1,Chasse et Peche
-http://fra1.ddns.net:97/live/amir/amir/56.m3u8
-#EXTINF:-1,Cartoon Network
-http://fra1.ddns.net:97/live/amir/amir/57.m3u8
-#EXTINF:-1,BRAVOMUSIC
-http://fra1.ddns.net:97/live/amir/amir/235.m3u8
-#EXTINF:-1,Bommerang
-http://fra1.ddns.net:97/live/amir/amir/58.m3u8
-#EXTINF:-1,BNT
-http://fra1.ddns.net:97/live/amir/amir/238.m3u8
-#EXTINF:-1,BN Music
-http://fra1.ddns.net:97/live/amir/amir/59.m3u8
-#EXTINF:-1,BN BIH
-http://fra1.ddns.net:97/live/amir/amir/6.m3u8
-#EXTINF:-1,BHT
-http://fra1.ddns.net:97/live/amir/amir/216.m3u8
-#EXTINF:-1,BEL TV
-http://fra1.ddns.net:97/live/amir/amir/227.m3u8
-#EXTINF:-1,B92
-http://fra1.ddns.net:97/live/amir/amir/102.m3u8
-#EXTINF:-1,ATV
-http://fra1.ddns.net:97/live/amir/amir/245.m3u8
-#EXTINF:-1,ATLAS TV
-http://fra1.ddns.net:97/live/amir/amir/60.m3u8
-#EXTINF:-1,ALJEZEERA BALKAN MI
-http://fra1.ddns.net:97/live/amir/amir/204.m3u8
-#EXTINF:-1,ALJAZEERA IZ
-http://fra1.ddns.net:97/live/amir/amir/95.m3u8
-#EXTINF:-1,ALJAZEERA BALKANS
-http://fra1.ddns.net:97/live/amir/amir/103.m3u8
-#EXTINF:-1,ALFA SARAJEVO MI
-http://fra1.ddns.net:97/live/amir/amir/205.m3u8
-#EXTINF:-1,HRT4
-http://fra1.ddns.net:97/live/dzevad/dzevad/7.m3u8
-#EXTINF:-1,HRT3
-http://fra1.ddns.net:97/live/dzevad/dzevad/8.m3u8
-#EXTINF:-1,HRT2
-http://fra1.ddns.net:97/live/dzevad/dzevad/9.m3u8
-#EXTINF:-1,HRT1
-http://fra1.ddns.net:97/live/dzevad/dzevad/10.m3u8
-#EXTINF:-1,SREMSKA TV
-http://fra1.ddns.net:97/live/dzevad/dzevad/251.m3u8
-#EXTINF:-1,RTS3
-http://fra1.ddns.net:97/live/dzevad/dzevad/257.m3u8
-#EXTINF:-1,RTL
-http://fra1.ddns.net:97/live/dzevad/dzevad/24.m3u8
-#EXTINF:-1,OBN
-http://fra1.ddns.net:97/live/dzevad/dzevad/46.m3u8
-#EXTINF:-1,DM SAT
-http://fra1.ddns.net:97/live/dzevad/dzevad/225.m3u8
-#EXTINF:-1,BN BIH
-http://fra1.ddns.net:97/live/dzevad/dzevad/6.m3u8
-#EXTINF:-1,B92
-http://fra1.ddns.net:97/live/dzevad/dzevad/102.m3u8
-#EXTINF:-1,SREMSKA TV
-http://fra1.ddns.net:97/live/josip/josip/251.m3u8
-#EXTINF:-1,RTS3
-http://fra1.ddns.net:97/live/josip/josip/257.m3u8
-#EXTINF:-1,DM SAT
-http://fra1.ddns.net:97/live/josip/josip/225.m3u8
-#EXTINF:-1,HRT4
-http://fra1.ddns.net:97/live/josip/josip/7.m3u8
-#EXTINF:-1,RTL
-http://fra1.ddns.net:97/live/josip/josip/24.m3u8
-#EXTINF:-1,OBN
-http://fra1.ddns.net:97/live/josip/josip/46.m3u8
-#EXTINF:-1,B92
-http://fra1.ddns.net:97/live/josip/josip/102.m3u8
+-----MUZIKA--------
 #EXTINF:0,Virgin 2
 http://wow01.105.net/live/virgin1/chunklist.m3u8
 #EXTINF:-1 tvg-id="Total_Kiss tv" tvg-name="Kiss_tv" tvg-logo="guiatv-prueba.png",Kiss TV - España
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
-#EXTINF:-1,VEVO 1
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:-1,VEVO 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:-1,VEVO 3
@@ -575,8 +296,6 @@ rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 http://31.13.217.76:1935/magictv/magictv_live.stream/playlist.m3u8
 #EXTINF:-1,Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1,Miami tv music
-http://74.208.152.93/music/stream3/stream.m3u8
 #EXTINF:-1,Vevo 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:-1,Vevo 2
@@ -601,68 +320,16 @@ http://80.250.191.10:1935/live/livestream3/playlist.m3u8
 rtmp://5.154.185.153/live/live.flv
 #EXTINF:0, DREAM TV
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
-#EXTINF:-1 channelId="4" , МАТЧ ТВ
-http://95.27.185.85:4022/udp/233.33.210.93:5050
-#EXTINF:-1, :Tele Basel
-http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/.m3u8
-#EXTINF:-1, :TELE X
-http://rtmp.infomaniak.ch/livecast/latele/.m3u8
-#EXTINF:-1, :TELEZURI Suisse
-http://rtmp.infomaniak.ch/livecast/telebielinguech/.m3u8
-#EXTINF:-1, :LA TELE
-http://rtmp.infomaniak.ch/livecast/latele/.m3u8
-#EXTINF:-1,1 Georgian
-http://94.43.239.178:8080/CHANNEL826/BITRATE0/playlist.m3u8
-#EXTINF:0,Eurosport (French)
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
-#EXTINF:0,Eurosport 1 ENG
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:0,EUROSPORT 1 FR
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-#EXTINF:0,Eurosport 1 Fransa
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
-#EXTINF:0,TURK-BURSASPOR TV
-http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
-#EXTINF:0,AUSTRIA 24
-rtmp://streaming.austria24.tv/live/stream_360p
-#EXTINF:0,Alfa_2
-http://fms.zulu.mk:554/zulu/alfa_2/playlist_b125000_w1132785237.m3u8
 #EXTINF:0,CITY TV
 http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
 #EXTINF:0,ESKA TV
 http://stream.smcloud.net/live/eskatv/playlist.m3u8
-#EXTINF:0,KANAL 5
-http://217.16.82.6:554/zulu/kanal5_1/playlist.m3u8
-#EXTINF:0,KANAL 8 (Kocani)
-mms://62.162.58.55/TVkanal8
-#EXTINF:0,MPT1
-http://217.16.82.6:554/zulu/mtv1_1/playlist.m3u8
-#EXTINF:0,Miami TV Music
-mmsh://74.208.69.207:1755/music44?MSWMExt=.asf
-#EXTINF:0,SITEL
-http://217.16.82.6:554/zulu/sitel_1/playlist.m3u8
-#EXTINF:0,STV Osijek
-mms://89.201.164.181/stv
-#EXTINF:0,Studentska TV
-rtmp://213.202.73.202/iskon/studentska_b3.stream
-#EXTINF:0,TELMA
-http://217.16.82.6:554/zulu/telma_1/playlist.m3u8
 #EXTINF:0,VEVO 1
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:0,VEVO 2
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:0,VEVO 3
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:0,VH1 CLASSIC
-http://212.79.96.134:8024
-#EXTINF:0,VH1 Classic
-http://212.79.96.134:8024/
-#EXTINF:0,Вести 24(Македония)
-mmsh://62.162.58.55/24vesti
-#EXTINF:0,ТВ СОНЦЕ
-http://92.53.27.201:10000
-#EXTINF:0, ALEX BERLIN (Urban Music)
-http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
 #EXTINF:0, Amazing
 http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
 #EXTINF:0, Capital TV
@@ -701,8 +368,8 @@ rtmp://stream.smcloud.net/live/polotv
 mms://streamqm.uigc.net/qmusica
 #EXTINF:0,ROUGE TV
 rtmp://rtmp.infomaniak.ch/livecast/rougetv
-#EXTINF:0,Super Sonic TV
-http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
+#EXTINF:-1,Eska TV
+http://stream.smcloud.net/live/eskatv/playlist.m3u8
 #EXTINF:0,Vevo TV 1 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 #EXTINF:0,Vevo TV 2 HD
@@ -717,24 +384,64 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:1400 
 #EXTINF:-1, One.by Россия 
 http://rtmp.one.by:2200 
-#EXTINF:-1, One.by Россия HD 
-http://rtmp.one.by:2300
-#EXTINF:-1,Оружие
-http://212.19.7.91:8888/udp/239.191.254.150:13343
+#EXTINF:-1,Vevo HD 1
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1,Vevo HD 2
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1,Vevo HD 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:-1,1Music Channel TV
 http://santhoratv.zecast.net/santhoratv/santhoratv/chunklist.m3u8
+#EXTINF:-1,VEVO HD 1  [COLOR lime]FTA[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1,VEVO HD 2  [COLOR lime]FTA[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1,VEVO HD 3  [COLOR lime]FTA[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1,Beats  music  [COLOR lime]FTA[/COLOR]
+http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
+#EXTINF:-1,Djing hd  [COLOR lime]FTA[/COLOR]
+http://djing.com/tv/underground.m3u8
+#EXTINF:-1,Djing1 [COLOR lime]FTA[/COLOR]
+http://djing.com/tv/dancefloor.m3u8
+#EXTINF:-1,Monte Carlo Music [COLOR lime]FTA[/COLOR]
+rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:-1,Hit tv  [COLOR lime]FTA[/COLOR]
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1,Amazing  [COLOR lime]FTA[/COLOR]
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
+#EXTINF:-1,VEVO HD 2  [COLOR lime]FTA[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1,VEVO HD 1  [COLOR lime]FTA[/COLOR]
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1,Music Vox tv  [COLOR lime]FTA[/COLOR]
+rtmp://stream.smcloud.net/live/vox2/stream1
+#EXTINF:-1,One by hd  [COLOR lime]FTA[/COLOR]
+http://rtmp.one.by:2300/
+#EXTINF:-1,Music SI TV  [COLOR lime]FTA[/COLOR]
+http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
+1
+-----RAZNI TV------
+#EXTINF:0, ALEX BERLIN (Urban Music)
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
+#EXTINF:-1, :Tele Basel
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/.m3u8
+#EXTINF:-1, :TELE X
+http://rtmp.infomaniak.ch/livecast/latele/.m3u8
+#EXTINF:-1, :TELEZURI Suisse
+http://rtmp.infomaniak.ch/livecast/telebielinguech/.m3u8
+#EXTINF:-1, :LA TELE
+http://rtmp.infomaniak.ch/livecast/latele/.m3u8
+#EXTINF:-1,1 Georgian
+http://94.43.239.178:8080/CHANNEL826/BITRATE0/playlist.m3u8
 #EXTINF:-1,Russia Today
 http://rt-lh.akamaihd.net/i/ch_06@325610/index_720p.m3u8
 #EXTINF:-1,Москва 24
 http://testlivestream.rfn.ru/live/smil:m24.smil/playlist.m3u8?auth=vh&cast_id=1661
-#EXTINF:-1,Eska TV
-http://stream.smcloud.net/live/eskatv/playlist.m3u8
+#EXTINF:0,AUSTRIA 24
+rtmp://streaming.austria24.tv/live/stream_360p
 #EXTINF:-1,Public TV
 http://win.cdn.bonus-tv.ru/TVB7/publictv/index.m3u8
-#EXTINF:-1,Футбол
-http://bal.bonus-tv.ru/btv/football/type/user/devname/LG-SmartTV/devid/LG-1445619362/eol/20200101T000000/hash/0113bb2b44d9523d6c998b820901b5b080996f5d/playlist.m3u8
-#EXTINF:-1,Авто 24
-http://win.cdn.bonus-tv.ru/TVB7/auto24/playlist.m3u8
 #EXTINF:-1,World Fashion Россия HD
 http://win.cdn.bonus-tv.ru/TVB8/wfhd/playlist.m3u8
 #EXTINF:-1,World Fashion Europe HD
@@ -743,62 +450,28 @@ http://win.cdn.bonus-tv.ru/TVB7/wfhdeu/playlist.m3u8
 http://bal.bonus-tv.ru/btv/lifenews/type/user/devname/LG-SmartTV/devid/LG-1433367804/eol/20200101T000000/hash/963ba2b65d79e4bd01c0ba00930d1b5a09379d09/playlist.m3u8
 #EXTINF:-1,Оружие
 http://win.cdn.bonus-tv.ru/TVB7/orujie/playlist.m3u8
-#EXTINF:-1,Vevo HD 1
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1,Vevo HD 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:-1,Vevo HD 
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:0 tvg-id="Argentina_269.dtv.la" tvg-name="Quiero_Música_en_mi_Idioma_(269)269" tvg-logo="Q Musica.png",Q Musica - Argentina
-mms://streamqm.uigc.net/qmusica
-#EXTINF:0 tvg-id="Argentina_717.dtv.la" tvg-name="C5N_(717)717" tvg-logo="C5N.png",C5N - Argentina Mega 
-rtmp://c5n.stweb.tv:1935/c5n/live
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Colosal TV - Costa Rica
-rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
-#EXTINF:0 tvg-logo="guiatv-prueba.png",CB Televisión - Costa Rica
-http://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp/playlist.m3u8?
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",SMO TV - Costa Rica
-rtmp://199.217.118.90:1935/smotv/stream
-#EXTINF:-1 tvg-logo="guiatv-prueba.png",Tele Uno TV - Costa Rica
-rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
-#EXTINF:-1 tvg-id="Total_Galicia TV" tvg-name="Galicia_TV" tvg-logo="tvgalicia.png",TV Galicia - España
-http://media3.crtvg.es/live/tvge/hasbahca.m3u8
-#EXTINF:-1 tvg-id="CVMX_I715.44563133.microsoft.com" tvg-name="EURONEWS715_EURONEWS715euronewsCable" tvg-logo="euronews-logo.png",Euronews - España
-http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
-#EXTINF:-1,RT Documentary  [COLOR lime]FTA[/COLOR]
-http://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
-#EXTINF:-1,Music Videos 1  [COLOR lime]FTA[/COLOR]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1,Music Videos 2  [COLOR lime]FTA[/COLOR]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1,Music Videos 3  [COLOR lime]FTA[/COLOR]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:-1,Music Videos 5  [COLOR lime]FTA[/COLOR]
-http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
-#EXTINF:-1,Music Videos 7  [COLOR lime]FTA[/COLOR]
-http://djing.com/tv/underground.m3u8
-#EXTINF:-1,Music Videos 8  [COLOR lime]FTA[/COLOR]
-http://djing.com/tv/dancefloor.m3u8
-#EXTINF:-1,Music Videos 9  [COLOR lime]FTA[/COLOR]
-rtmp://fms.105.net:1935/live/rmc1
-#EXTINF:-1,Music Videos 10  [COLOR lime]FTA[/COLOR]
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:-1,Music Videos 11  [COLOR lime]FTA[/COLOR]
-http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId=ABA74CBC0702307FF0B559F938FC9B21.node1&stream=2
-#EXTINF:-1,Music Videos 14  [COLOR lime]FTA[/COLOR]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:-1,Music Videos 18  [COLOR lime]FTA[/COLOR]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1,Music Videos 20  [COLOR lime]FTA[/COLOR]
-rtmp://stream.smcloud.net/live/vox2/stream1
-#EXTINF:-1,Music Videos 28  [COLOR lime]FTA[/COLOR]
-http://rtmp.one.by:2300/
-#EXTINF:-1,Music Videos 29  [COLOR lime]FTA[/COLOR]
-http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
-#EXTINF:-1, Sport TV  [COLOR lime]FTA[/COLOR]
-http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u
-#EXTINF:-1, Sport 20  [COLOR lime]FTA[/COLOR]
-http://motorsport.hopto.org:8080/
+
+------EX YU TV--------
+
+#EXTINF:0,STV Osijek
+mms://89.201.164.181/stv
+#EXTINF:0,Studentska TV
+rtmp://213.202.73.202/iskon/studentska_b3.stream
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-------do tuka sredeno--------
 #EXTINF:-1,España 8  [COLOR lime]FTA[/COLOR]
 http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
 #EXTINF:-1,España 10  [COLOR lime]FTA[/COLOR]
