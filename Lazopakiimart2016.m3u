@@ -11,8 +11,7 @@ http://80.250.191.10:1935/live/hlsstream343/playlist.m3u8
 http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
 #EXTINF:-1,DSTV BG
 rtmp://46.249.95.140/live/livestream
-#EXTINF:-1,Russia Today Doc HD (English)
-http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+
 #EXTINF:-1,Safari Live
 http://206.190.152.218:1935/rtsp-distribution/mp4:wil-safari-01.stream/playlist.m3u8
 #EXTINF:-1,TV+
@@ -420,7 +419,10 @@ rtmp://stream.smcloud.net/live/vox2/stream1
 http://rtmp.one.by:2300/
 #EXTINF:-1,Music SI TV  [COLOR lime]FTA[/COLOR]
 http://hd.worldkast.com:1935/8436/8436/playlist.m3u8
-1
+#EXTINF:-1,TLX HD MUSIC  [COLOR lime]FTA[/COLOR]
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+
 -----RAZNI TV------
 #EXTINF:0, ALEX BERLIN (Urban Music)
 http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
@@ -450,7 +452,18 @@ http://win.cdn.bonus-tv.ru/TVB7/wfhdeu/playlist.m3u8
 http://bal.bonus-tv.ru/btv/lifenews/type/user/devname/LG-SmartTV/devid/LG-1433367804/eol/20200101T000000/hash/963ba2b65d79e4bd01c0ba00930d1b5a09379d09/playlist.m3u8
 #EXTINF:-1,Оружие
 http://win.cdn.bonus-tv.ru/TVB7/orujie/playlist.m3u8
-
+#EXTINF:-1,Russia Today Doc HD (English)
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+#EXTINF:-1,Onda Azul Malaga  [COLOR lime]FTA[/COLOR]
+http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
+#EXTINF:-1,Lancelot tv  [COLOR lime]FTA[/COLOR]
+rtmp://62.210.141.18:1935/directo/lancelot.television
+#EXTINF:-1,Rtve ES  [COLOR lime]FTA[/COLOR]
+http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
+#EXTINF:-1,Colosal  [COLOR lime]FTA[/COLOR]
+rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
+#EXTINF:-1,Trace  [COLOR lime]FTA[/COLOR]
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
 ------EX YU TV--------
 
 #EXTINF:0,STV Osijek
@@ -471,21 +484,9 @@ rtmp://213.202.73.202/iskon/studentska_b3.stream
 
 
 
--------do tuka sredeno--------
-#EXTINF:-1,España 8  [COLOR lime]FTA[/COLOR]
-http://dsn6jqegjeixj.cloudfront.net/ondaazul-live/video/playlist.m3u8
-#EXTINF:-1,España 10  [COLOR lime]FTA[/COLOR]
-rtmp://62.210.141.18:1935/directo/lancelot.television
-#EXTINF:-1,España 15  [COLOR lime]FTA[/COLOR]
-http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
-#EXTINF:-1,Costa Rica 4  [COLOR lime]FTA[/COLOR]
-rtmp://k3.usastreams.com:1935/colosaltv1/colosaltv1
-#EXTINF:-1,Costa Rica 5  [COLOR lime]FTA[/COLOR]
-rtmp://k3.usastreams.com:1935/cana6/cana6
-#EXTINF:-1,Mexico 1  [COLOR lime]FTA[/COLOR]
-http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
-#EXTINF:-1,Argentina 2  [COLOR lime]FTA[/COLOR]
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+
+
 #EXTINF:-1,Argentina 6  [COLOR lime]FTA[/COLOR]
 http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
 #EXTINF:-1,Argentina 8  [COLOR lime]FTA[/COLOR]
