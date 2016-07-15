@@ -24,6 +24,26 @@ rtmp://46.105.209.61/live/live /vip-hd-tv.sdp
 #EXTINF:1, VIP HD
 http://46.105.209.61/live/live /vip-hd-tv
 -------------SPORT------------
+#EXTINF: -1, Match TV
+http://s02.mnogo-tv.by:8000/play/MATCH_TV
+#EXTINF: -1, Match Fighter
+http://s02.mnogo-tv.by:8000/play/BOEC
+#EXTINF: -1, Match arena
+http://s02.mnogo-tv.by:8000/play/ARENA
+#EXTINF: -1, MATCH GAME
+http://s02.mnogo-tv.by:8000/play/IGRA
+#EXTINF: -1, Match our sport
+http://s02.mnogo-tv.by:8000/play/NASH_SPORT
+#EXTINF: -1, Match Planet
+http://s02.mnogo-tv.by:8000/play/MS
+#EXTINF: -1, Soccer match
+http://s02.mnogo-tv.by:8000/play/FUTBOLL_1
+#EXTINF: -1, Match futbol2
+http://s02.mnogo-tv.by:8000/play/FUTBOLL_2
+#EXTINF: -1, Match futbol3
+http://s02.mnogo-tv.by:8000/play/FUTBOLL_3
+#EXTINF: -1, Our football
+http://s02.mnogo-tv.by:8000/play/NASH_FUTBOLS
 #EXTINF:-1,DigiSport3 (CZ)
 http://213.81.153.241/live001/channel026_p2.stream/DVR.m3u8
 #EXTINF:-1,ESPN HD
@@ -134,15 +154,12 @@ http://pac12hd2-lh.akamaihd.net/i/p12oreg_delivery@132835/master.m3u8
 http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/master.m3u8
 #EXTINF:0, PAC 12 Washington HD
 http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/master.m3u8
-
 #EXTINF:0, Canal del Deporte Olimpico - CDO
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 #EXTINF:0, Dubai Sports
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:0, Rete Sport 8 ITALIA
 http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
-
-
 #EXTINF:-1,Encore Sport 5 HD
 http://www.xrxs.net/video/live-p12netw-4728.m3u8
 #EXTINF:-1,Encore Sport 6 HD
@@ -181,9 +198,10 @@ http://motorsport.hopto.org:8080/
 http://118.97.183.222:1935/discover/fight/playlist.m3u8
 #EXTINF:-1,Poker Central HD
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_2528_av-p.m3u8
-
-
 ------XXXXX------
+#EXTINF:-1,xxx-RABOTI OLALA
+http://178.49.175.51:81/udp/239.1.6.33:1234
+
 #EXTINF:-1,Egoist tv
 http://46.19.118.49:3030/udp/239.195.6.32:1234
 #EXTINF:-1,Nuart
@@ -194,7 +212,6 @@ http://46.19.118.49:3030/udp/239.195.2.3:1234
 http://46.19.118.49:3030/udp/239.195.2.4:1234
 #EXTINF:-1,Play boy
 http://46.19.118.49:3030/udp/239.195.2.5:1234
-
 #EXTINF:-1,Blue Hustler
 http://109.237.146.139:81/udp/239.1.6.36:1234
 #EXTINF:-1,Playboy TV
@@ -221,8 +238,6 @@ http://37.193.253.250:81/udp/239.1.6.36:1234
 http://37.193.253.250:81/udp/239.1.6.39:1234
 #EXTINF:-1,Brazzers TV
 http://37.193.253.250:81/udp/239.1.6.40:1234
-
-
 #EXTINF:-1,Русская ночь
 http://37.193.141.93:81/udp/239.1.6.32:1234
 #EXTINF:-1,xxx
@@ -656,17 +671,14 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 #EXTINF:-1, Rock TV
 mmsh://mediatv2.topix.it/24RockOne66
-
 #EXTINF:0,CAPITAL TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,Capital TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,CITY TV
 http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
-
 #EXTINF:0,Djind DJS HD
 http://www.djing.com/tv/tmp/Hedonist_April_2015_DjingMedium/stream-5-2600000/index.m3u8
-
 #EXTINF:0,DJING Classic HD
 http://www.djing.com/tv/i-05.m3u8
 #EXTINF:0,Djing Classic HD
@@ -709,7 +721,6 @@ http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
 #EXTINF:0,M2O Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
-
 #EXTINF:0,MONTECARLO MUSIC
 rtmp://fms.105.net/live/rmc1
 #EXTINF:0,Music Channel Hungary
@@ -986,56 +997,6 @@ rtmp://video.radio-banovina.hr/live/myStream
 #EXTINF:0,Jugoton TV
 http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 -----------sultanovic.net------------------
 #EXTINF:0,RTV Atlas
 http://89.212.246.73:8888/udp/239.13.2.244:5000
@@ -1093,8 +1054,6 @@ http://178.124.183.11/hls/CH_SETANTASPORT/variant.m3u8?version=2
 http://178.124.183.11/hls/CH_SETANTASPORTPLUS/variant.m3u8?version=2
 #EXTINF:-1,Nash Football ru
 http://178.124.183.11/hls/CH_NASHFUTBOL/variant.m3u8?version=2
-
-
 ---------RUSKI---------
 #EXTINF:-1,30 Русский роман
 http://176.112.96.17:8000/play/a00u
@@ -1626,27 +1585,8 @@ http://213.80.192.255:34040/udp/226.100.11.2:2001
 #EXTINF:-1,ĐĐ»Đ»ŃŽĐ·Đ¸ĐľĐ˝+ HD
 http://213.80.192.255:34040/udp/226.100.11.4:2001
 
- ----RUSKI SPORTSKI-------
-#EXTINF: -1, Match TV
-http://s02.mnogo-tv.by:8000/play/MATCH_TV
-#EXTINF: -1, Match Fighter
-http://s02.mnogo-tv.by:8000/play/BOEC
-#EXTINF: -1, Match arena
-http://s02.mnogo-tv.by:8000/play/ARENA
-#EXTINF: -1, MATCH GAME
-http://s02.mnogo-tv.by:8000/play/IGRA
-#EXTINF: -1, Match our sport
-http://s02.mnogo-tv.by:8000/play/NASH_SPORT
-#EXTINF: -1, Match Planet
-http://s02.mnogo-tv.by:8000/play/MS
-#EXTINF: -1, Soccer match
-http://s02.mnogo-tv.by:8000/play/FUTBOLL_1
-#EXTINF: -1, Match futbol2
-http://s02.mnogo-tv.by:8000/play/FUTBOLL_2
-#EXTINF: -1, Match futbol3
-http://s02.mnogo-tv.by:8000/play/FUTBOLL_3
-#EXTINF: -1, Our football
-http://s02.mnogo-tv.by:8000/play/NASH_FUTBOLS
+ 
+
   -----proba----
   #EXTINF:-1,Arenasport 1
 http://31.47.9.48:14759/ipvt_006
@@ -1698,8 +1638,7 @@ http://109.237.146.139:81/udp/239.1.6.33:1234
 
 #EXTINF:-1,xxx
 http://178.49.175.51:81/udp/239.1.6.32:1234
-#EXTINF:-1,xxx
-http://178.49.175.51:81/udp/239.1.6.33:1234
+
 #EXTINF:-1,O-la-la
 http://178.49.175.51:81/udp/239.1.6.34:1234
 #EXTINF:-1,Hustler HD
@@ -1721,155 +1660,8 @@ http://178.49.65.90:81/udp/239.1.6.34:1234
 http://178.49.65.90:81/udp/239.1.6.35:1234
 #EXTINF:-1,Hustler
 http://178.49.65.90:81/udp/239.1.6.36:1234
-#EXTINF:-1,Playboy TV
-http://178.49.65.90:81/udp/239.1.6.39:1234
-#EXTINF:-1,Brazzers TV
-http://178.49.65.90:81/udp/239.1.6.40:1234 
-------TURSKI------
-#EXTINF:-1,TR:SİNETV ADRENALİN HD
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/66.m3u8
-#EXTINF:-1,TR:SİNETV ADRENALİN 2 HD
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/67.m3u8
-#EXTINF:-1,TR:SİNETV 2 HD
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/65.m3u8
-#EXTINF:-1,TR:STAR TV YEDEK
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/25.m3u8
-#EXTINF:-1,TR:STAR TV
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/24.m3u8
-#EXTINF:-1,TR:sports tv
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/17.m3u8
-#EXTINF:-1,TR:SMARTSPOR HD
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/8.m3u8
-#EXTINF:-1,TR:SMARTSPOR 2 HD
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/9.m3u8
-#EXTINF:-1,TR:SINEMAX FEAR
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/68.m3u8
-#EXTINF:-1,TR:SiNEMA TV 1
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/70.m3u8
-#EXTINF:-1,TR:SHOW TV HD (2)
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/23.m3u8
-#EXTINF:-1,TR:SHOW TV HD
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/22.m3u8
-#EXTINF:-1,TR:SALON 3
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/63.m3u8
-#EXTINF:-1,TR:SALON 2
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/62.m3u8
-#EXTINF:-1,TR:SALON 1
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/61.m3u8
-#EXTINF:-1,TR:PLANET TURK
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/80.m3u8
-#EXTINF:-1,TR:NUMBER ONE TURK
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/94.m3u8
-#EXTINF:-1,TR:NUMBER ONE
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/93.m3u8
-#EXTINF:-1,https://iptv.zone TR:LIG_TV 7
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/7.m3u8
-#EXTINF:-1,TR:LiG_TV 6
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/6.m3u8
-#EXTINF:-1,TR:LIG_TV 4
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/4.m3u8
-#EXTINF:-1,TR:LIG_TV 3
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/3.m3u8
-#EXTINF:-1,TR:LIG_TV 2
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/2.m3u8
-#EXTINF:-1,TR:LiG TV 5
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/5.m3u8
-#EXTINF:-1,TR:KANAL D
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/28.m3u8
-#EXTINF:-1,TR:KANAL B
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/43.m3u8
-#EXTINF:-1,TR:KANAL A
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/42.m3u8
-#EXTINF:-1,TR:KANAL 7
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/47.m3u8
-#EXTINF:-1,TR:IZ TV
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/82.m3u8
-#EXTINF:-1,TR:IDMAN
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/15.m3u8
-#EXTINF:-1,TR:HISTORY
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/83.m3u8
-#EXTINF:-1,TR:HABER TURK
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/38.m3u8
-#EXTINF:-1,TR:GSTV
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/10.m3u8
-#EXTINF:-1,TR:FRM TV
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/81.m3u8
-#EXTINF:-1,TR:FOX TV YEDEK
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/31.m3u8
-#EXTINF:-1,TR:FOX TV
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/30.m3u8
-#EXTINF:-1,TR:FLASH TV
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/44.m3u8
-#EXTINF:-1,TR:FBTV
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/11.m3u8
-#EXTINF:-1,TR:FANATiK TV
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/18.m3u8
-#EXTINF:-1,TR:euronews live
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/98.m3u8
-#EXTINF:-1,TR:EGE TV
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/96.m3u8
-#EXTINF:-1,TR:DREAM TURK
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/92.m3u8
-#EXTINF:-1,TR:CNN TURK
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/37.m3u8
-#EXTINF:-1,TR:CINEMAXTURK HD
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/71.m3u8
-#EXTINF:-1,TR:CINEMAXPREMIER HD
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/72.m3u8
-#EXTINF:-1,TR:CINEMAX HORROR HD
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/73.m3u8
-#EXTINF:-1,TR:BURSASPOR
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/19.m3u8
-#EXTINF:-1,TR:BJK TV
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/12.m3u8
-#EXTINF:-1,TR:BEYAZ TV
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/45.m3u8
-#EXTINF:-1,TR:BENGUTURK
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/46.m3u8
-#EXTINF:-1,TR:ATV YEDEK
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/27.m3u8
-#EXTINF:-1,TR:ATV
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/26.m3u8
-#EXTINF:-1,TR:A SPOR
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/20.m3u8
-#EXTINF:-1,TR:360
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/95.m3u8
-#EXTINF:-1,TR:24 TV
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/50.m3u8
-#EXTINF:-1,TR: TV 8 YEDEK
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/33.m3u8
-#EXTINF:-1,TR: TJK TV
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/21.m3u8
-#EXTINF:-1,TR: TIVIBU SPOR 2
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/14.m3u8
-#EXTINF:-1,TR: SİNETV HD
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/64.m3u8
-#EXTINF:-1,TR: NUHBABA TV
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/84.m3u8
-#EXTINF:-1,TR: NTV HD
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/51.m3u8
-#EXTINF:-1,TR: NATIONAL GEOGRAPHIC HD
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/85.m3u8
-#EXTINF:-1,TR: NATIONAL GEO WILD HD
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/90.m3u8
-#EXTINF:-1,TR: NATIONAL GEO PEOPLE HD
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/86.m3u8
-#EXTINF:-1,TR: moviemaxpremier
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/69.m3u8
-#EXTINF:-1,TR: LiG TV 1
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/1.m3u8
-#EXTINF:-1,TR: KANAL D (2)
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/29.m3u8
-#EXTINF:-1,TR: KANAL 7 HD (2)
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/48.m3u8
-#EXTINF:-1,TR: DISCOVERY
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/87.m3u8
-#EXTINF:-1,TR: DAVINCI LEARING
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/88.m3u8
-#EXTINF:-1,TR: CINESTAR VIZYON 2
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/77.m3u8
-#EXTINF:-1,TR: CINESTAR ANIMASYON
-http://158.69.208.172:8000/live/skype:hurcamiptv/skype:hurcamiptv/79.m3u8
+
+
 -----pink proba-----
 #EXTINF:-1,Arenasport 1
 http://31.47.9.48:14759/ipvt_006
