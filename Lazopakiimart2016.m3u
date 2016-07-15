@@ -87,18 +87,12 @@ http://81.7.13.162/hls/ss4/index.m3u8
 http://203.162.235.45:17930
 #EXTINF:-1,Japan Sports 3 HD
 http://203.162.235.45:17932
-#EXTINF:-1,O Sport SD
-http://92.62.234.204:2222/udp/239.4.0.101:1234
 #EXTINF:-1,Encore Sport 5 HD
 http://www.xrxs.net/video/live-p12netw-4728.m3u8
 #EXTINF:-1,Encore Sport 6 HD
 http://xrxs.net/video/live-p12netw-4728.m3u8
 #EXTINF:-1,Nova Sport 1
 http://213.81.153.241/live001/channel028_p2.stream/DVR.m3u8
-#EXTINF:-1,Sky Bundesliga HD/TS
-http://178.238.232.191:8000/live/kajgana/kajgana/31.ts
-#EXTINF:-1,Sport1 Racing/ts
-http://178.238.232.191:8000/live/kajgana/kajgana/32.ts
 #EXTINF:-1,MUTV
 http://centurionlukavac.com:80/live?channelId=166&uid=13&deviceUser=daria1141&devicePass=daria1141234
 #EXTINF:-1,Chelsea tv
@@ -204,90 +198,15 @@ http://185.44.118.34:40555/udp/239.1.0.112:400022
 http://185.44.118.34:40555/udp/239.1.2.80:4000
 #EXTINF:0,Spice TV
 rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
-#EXTINF:-1,BT Sports ESPN
-http://149.202.85.84:8080/eiSsepn/counter1/index.m3u8
-#EXTINF:-1,Boxnation
-http://149.202.207.8:8080/bxoo-nan/counter1/index.m3u8
-#EXTINF:-1,Racing UK
-http://149.202.207.8:8080/riskgyou0K/counter1/index.m3u8
-#EXTINF:-1,At The Races
-http://149.202.207.8:8080/etyhte-rcs/counter1/index.m3u8
-#EXTINF:-1,Star Sports 1
-http://149.202.85.84:8080/seater-sp-1/counter1/index.m3u8
-#EXTINF:-1,Star Sports 2
-http://149.202.85.84:8080/seater-sp-2/counter1/index.m3u8
-#EXTINF:-1,Star Sports 3
-http://149.202.85.84:8080/seater-sp-3/counter1/index.m3u8
-#EXTINF:-1,Star Sports 4
-http://149.202.85.84:8080/seater-sp-4/counter1/index.m3u8
-#EXTINF:-1,Fox Sports 1
-http://149.202.85.84:8080/f00cs-sp-IT/counter1/index.m3u8
-#EXTINF:-1,Arena Sports 1
-http://149.202.85.84:8080/airoona-1/counter1/index.m3u8
-#EXTINF:-1,Arena Sports 2
-http://149.202.85.84:8080/airoona-2/counter1/index.m3u8
-#EXTINF:-1,Arena Sports 3
-http://149.202.85.84:8080/airoona-3/counter1/index.m3u8
-#EXTINF:-1,Arena Sports 4
-http://149.202.85.84:8080/airoona-3/counter1/index.m3u8
-#EXTINF:-1,Arena Sports 5
-http://149.202.85.84:8080/airoona-5/counter1/index.m3u8
-#EXTINF:-1,Sentanta sports
-http://149.202.207.8:8080/bhensp-11/counter1/index.m3u8
-#EXTINF:-1,Premier Sports
-http://149.202.85.84:8080/peemrie/counter1/index.m3u8
-#EXTINF:-1,Sky Sports News
-http://149.202.85.84:8080/syjkiy-sp-ns/counter1/index.m3u8
-#EXTINF:-1,Sky Sports 1
-http://149.202.207.8:8080/syjkiy-1/counter2/index.m3u8
-#EXTINF:-1,Sky Sports 2
-http://149.202.207.8:8080/syjkiy-2/counter2/index.m3u8
-#EXTINF:-1,Sky Sports 3
-http://149.202.85.84:8080/syjkiy-3/counter1/index.m3u8
-#EXTINF:-1,Sky Sports 4
-http://149.202.85.84:8080/syjkiy-4/counter1/index.m3u8
-#EXTINF:-1,Sky Sports 5
-http://149.202.85.84:8080/syjkiy-5/counter1/index.m3u8
-#EXTINF:-1,BT Sports 1
-http://149.202.207.8:8080/beETy-1/counter1/index.m3u8
-#EXTINF:-1,BT Sports 2
-http://149.202.85.84:8080/beETy-2/counter2/index.m3u8
-#EXTINF:-1,ESPN
-http://191.101.228.168/tp.php/playlist.m3u8?id=1671
-#EXTINF:-1,ESPN 2
-http://191.101.228.168/tp.php/playlist.m3u8?id=1675
-#EXTINF:-1,ESPN 3
-http://191.101.228.168/tp.php/playlist.m3u8?id=1655
-#EXTINF:-1,ESPN +
-http://191.101.228.168/tp.php/playlist.m3u8?id=1651
-#EXTINF:-1,Fox Sports
-http://191.101.228.168/tp.php/playlist.m3u8?id=1659
-#EXTINF:-1,Fox Sports 2
-http://191.101.228.168/tp.php/playlist.m3u8?id=1663
-#EXTINF:-1,Eurosport 1
-http://5.149.64.8:9999/udp/239.3.3.1:1237?auth=login:pass
-#EXTINF:-1,Eurosport 2
-http://5.149.64.8:9999/udp/239.3.3.2:1237?auth=login:pass
-#EXTINF:-1,Arenasport 1
-http://5.149.64.8:9999/udp/239.3.4.17:1234?auth=login:pass
-#EXTINF:-1,Arenasport 2
-http://5.149.64.8:9999/udp/239.3.4.18:1234?auth=login:pass
-#EXTINF:-1,Arenasport 3
-http://5.149.64.8:9999/udp/239.3.4.19:1234?auth=login:pass
-#EXTINF:-1,Arenasport 4
-http://5.149.64.8:9999/udp/239.3.4.20:1234?auth=login:pass
 #EXTINF:-1,NBA
 http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-
 --------SPORT 2----------
 #EXTINF:-1,Rai Sport 1 HD
 http://b2.httpstream1.rai.it/raisport1.isml/QualityLevels(1296000)/manifest(format=m3u8-aapl).m3u8
-
 #EXTINF:-1,NovaSport1 (CZ)
 http://213.81.153.241/live001/channel028_p2.stream/DVR.m3u8
 #EXTINF:-1,REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-
 BT Sports ESPN
 http://149.202.85.84:8080/eiSsepn/counter1/index.m3u8
 Boxnation
