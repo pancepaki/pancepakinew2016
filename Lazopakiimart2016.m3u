@@ -201,6 +201,9 @@ http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_2528_av-p.m3u8
 ------XXXXX------
 #EXTINF:-1,xxx-RABOTI OLALA
 http://178.49.175.51:81/udp/239.1.6.33:1234
+#EXTINF:0,Spice TV-OK RABOTI
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
+
 #EXTINF:-1,Blue Hustler
 http://109.237.146.139:81/udp/239.1.6.36:1234
 #EXTINF:-1,Playboy TV
@@ -1622,176 +1625,21 @@ http://213.80.192.255:34040/udp/226.100.11.2:2001
 #EXTINF:-1,ĐĐ»Đ»ŃŽĐ·Đ¸ĐľĐ˝+ HD
 http://213.80.192.255:34040/udp/226.100.11.4:2001
 
- 
-
-  -----proba----
-  #EXTINF:-1,Arenasport 1
-http://31.47.9.48:14759/ipvt_006
-#EXTINF:-1,Fight Network
-http://31.47.9.48:14759/ipvt_010
-#EXTINF:-1,Kanal A
-http://31.47.9.48:14759/ipvt_005
-#EXTINF:-1,Arenasport 2
-http://31.47.9.48:14759/ipvt_007
-#EXTINF:-1,Arenasport 3
-http://31.47.9.48:14759/ipvt_008
-#EXTINF:-1,Arenasport 4
-http://31.47.9.48:14759/ipvt_009
-#EXTINF:-1,pink bh
-http://31.47.9.48:14759/ipvt_004
-#EXTINF:-1,Federalna TV
-http://31.47.9.48:14759/ipvt_003
-#EXTINF:-1,hayat hd
-http://31.47.9.48:14759/ipvt_002
-#EXTINF:-1,bht 1
-http://31.47.9.48:14759/ipvt_001
-#EXTINF:-1,pink action
-http://31.47.9.48:14759/ipvt_012
 
 
 
-
------pink proba-----
-#EXTINF:-1,Arenasport 1
-http://31.47.9.48:14759/ipvt_006
-#EXTINF:-1,Fight Network
-http://31.47.9.48:14759/ipvt_010
-#EXTINF:-1,Kanal 
-http://31.47.9.48:14759/ipvt_005
-#EXTINF:-1,Arenasport 2
-http://31.47.9.48:14759/ipvt_007
-#EXTINF:-1,Arenasport 3
-http://31.47.9.48:14759/ipvt_008
-#EXTINF:-1,Arenasport 4
-http://31.47.9.48:14759/ipvt_009
-#EXTINF:-1,pink bh
-http://31.47.9.48:14759/ipvt_004
-#EXTINF:-1,Federalna TV
-http://31.47.9.48:14759/ipvt_003
-#EXTINF:-1,hayat hd
-http://31.47.9.48:14759/ipvt_002
-#EXTINF:-1,bht 1
-http://31.47.9.48:14759/ipvt_001
-#EXTINF:-1,pink action
-http://31.47.9.48:14759/ipvt_012
-#EXTINF:-1,noime
-http://31.47.9.48:14759/ipvt_022
-#EXTINF:-1,РОССИЯ-24
-http://213.178.52.97:1234/udp/232.0.1.1:1234
-#EXTINF:-1,Русская ночь
-http://37.194.91.129:81/udp/239.1.6.32:1234
-#EXTINF:-1,Первый канал
-http://92.38.137.66:5050/udp/224.0.42.1:5000
-#EXTINF:-1,Sunlife-fm
-http://stream.sunlife-fm.org:8000/live
-#EXTINF:-1,RTP 1
-http://188.82.238.63:9981/stream/channelid/2062794372?ticket=5A46A3B37EF5B0771A517068ECFCA6C969AD0656&profile=matroska
-#EXTINF:-1,Первый канал
-http://89.23.179.67:81/udp/239.1.8.1:1234
-#EXTINF:-1,КАРУСЕЛЬ
-http://31.128.132.111:4022/udp/239.1.8.3:1234
-#EXTINF:-1,Общественное ТВ России
-http://46.19.66.155:34040/udp/239.1.8.1:5555
-#EXTINF:-1,Общественное ТВ России
-http://46.19.70.100:62184/udp/239.1.8.1:5555
-#EXTINF:-1,Первый канал
-http://178.167.23.61:7777/udp/234.5.2.1:1234
-#EXTINF:-1,Первый канал
-http://81.200.153.240:4022/udp/239.1.1.9:5555
-#EXTINF:-1,PlayBoy
-http://109.237.156.46:81/udp/239.1.6.39:1234
-#EXTINF:-1,Первый канал HD
-http://37.21.150.157:5566/udp/225.54.41.1:5000
 #EXTINF:-1,Домашний
 http://94.124.246.139:81/udp/239.195.0.4:1234
-#EXTINF:-1,РБК
-http://109.237.156.46:81/udp/239.1.1.2:1234
-#EXTINF:-1,Первый канал
-http://109.196.69.73:1234/udp/224.0.44.1:1234
-#EXTINF:-1,Первый ДНР
-http://193.110.72.93:4022/udp/239.192.0.26:2121
-#EXTINF:-1,Первый
-http://81.1.182.153:54321/udp/234.5.2.1:1234
-#EXTINF:-1,Eurosport 1 HD
-http://79.105.111.253:7781/udp/239.4.1.193:2020
-#EXTINF:-1,Первый канал
-http://46.148.136.110:1234/udp/224.0.44.1:1234
-#EXTINF:-1,НТВ
-http://151.249.128.93:7781/udp/224.200.246.1:3527
 #EXTINF:-1,Animal Planet
 http://5.100.92.35:4022/udp/224.3.20.2:1234
-#EXTINF:-1,superSport 4HD
-http://iptv.re:80/live/iptv-free/iptv-free/3134.m3u8
-#EXTINF:-1,beIN-Sports-1HD
-http://xiptv.dyndns.tv:8000/live/mo/mo/2.m3u8
-#EXTINF:-1,|VIP UK| SKY SPORTS 1 HD
-http://biloiptv.eu.com:8000/live/zYLQfMhLI4/lvwm5YIlAi/2319.m3u8
 #EXTINF:-1,ZIP FM Kamera
 http://stream.kava.lt:1935/as1214XX/cam.stream/chunklist_w1921423132.m3u8
 #EXTINF:-1,1 ОРТ
 http://85.114.187.44:4022/udp/232.0.1.28:1234
-#EXTINF:-1,1 ОРТ
-http://85.114.183.115:4022/udp/232.0.1.28:1234
-#EXTINF:-1,Домашний
-http://185.11.150.193:81/udp/239.195.0.4:1234
-#EXTINF:-1,AMEDIA
-http://46.249.17.187:7782/udp/224.1.1.29:1111
-#EXTINF:-1,Playboy TV
-http://94.230.126.152:81/udp/239.1.6.39:1234
-#EXTINF:-1,Discovery
-http://94.230.126.152:81/udp/239.1.5.1:1234
-#EXTINF:-1,ADULTI LIVE HD3
-http://work.myvisio.me:9889/live/WfTBc6UQ0v/xpPwp2fe5M/215.ts
-#EXTINF:-1,GR: Astra Supersport 2
-http://ipsatpro.com:8000/live/19618936575612/19618936575612/844.ts
-#EXTINF:-1,Egoist tv
-http://134.19.148.241:3030/udp/239.195.6.32:1234
-#EXTINF:-1,mister-deejay
-http://stream.mister-deejay.com:9000/
-#EXTINF:-1,МТВ
-http://178.209.85.12:1234/udp/239.0.0.1:1234
-#EXTINF:-1,РОССИЯ-24
-http://213.178.52.97:1234/udp/232.0.1.1:1234
-#EXTINF:-1,Русская ночь
-http://37.194.91.129:81/udp/239.1.6.32:1234
 #EXTINF:-1,Общественное ТВ России
 http://46.19.66.155:34040/udp/239.1.8.1:5555
-#EXTINF:-1,superSport 4HD
-http://iptv.re:80/live/iptv-free/iptv-free/3134.m3u8
-#EXTINF:-1,beIN-Sports-1HD
-http://xiptv.dyndns.tv:8000/live/mo/mo/2.m3u8
-#EXTINF:-1,|VIP UK| SKY SPORTS 1 HD
-http://biloiptv.eu.com:8000/live/zYLQfMhLI4/lvwm5YIlAi/2319.m3u8
-#EXTINF:-1,TV 4 KARAMEL
-http://mn-l.mncdn.com/karamel/karamel/playlist.m3u8
-#EXTINF:-1,Egoist tv
-http://134.19.148.241:3030/udp/239.195.6.32:1234
-#EXTINF:-1,Москва 24
-http://77.51.134.108:4022/udp/233.3.1.130:5000
-#EXTINF:-1,PlayBoy
-http://46.23.147.82:81/udp/239.1.6.39:1234
-#EXTINF:-1,РБК
-http://46.23.147.82:81/udp/239.1.1.2:1234
-#EXTINF:-1,Беларусь 1
-http://92.38.56.227:81/udp/231.1.1.1:1234
-#EXTINF:-1,NLO TV
-http://109.200.252.76:7781/udp/224.5.1.1:1234
-#EXTINF:-1,NLO TV
-http://46.250.8.5:81/udp/224.5.1.1:1234
-#EXTINF:-1,Живи
-http://176.100.83.169:81/udp/239.1.1.3:1234
-#EXTINF:-1,КРЫМ 24
-http://46.249.17.187:7782/udp/239.195.0.58:1234
 #EXTINF:-1,УКРАЇНА
 http://81.25.227.54:7788/udp/238.39.40.13:5000
-#EXTINF:-1,Россия 24
-http://85.114.175.5:4022/udp/232.0.1.1:1234
-#EXTINF:-1,PERVIY KANAL HD
-http://188.122.253.144:4022/udp/232.1.20.4:1234
-#EXTINF:-1,MTV
-http://178.209.81.99:1234/udp/239.0.0.1:1234
-#EXTINF:-1,1HD
-http://109.226.66.188:4022/udp/232.0.1.26:1234
 #EXTINF:-1,1HD
 http://109.226.65.29:4022/udp/232.0.1.26:1234
 #EXTINF:-1,1HD
@@ -1804,518 +1652,64 @@ http://s2.live14.com/stream/5195e80fe1ed0/playlist.m3u8
 http://77.72.196.214:8554/live/mp4:AltoAdigeTV/chunklist.m3u8
 #EXTINF:-1,Active Channel
 http://activechannel-live.hls.adaptive.level3.net/sc09/activechannel/76568433/hls/stream.m3u8
-#EXTINF:-1,LiG TV 1 HD
-http://biloiptv.eu.com:8000/live/zYLQfMhLI4/lvwm5YIlAi/2488.m3u8
 #EXTINF:-1,耀才财经台
 rtmp://202.69.69.180:443/webcast/bshdlive-pc
-#EXTINF:-1,Звезда
-http://176.102.166.53:81/udp/239.192.10.1:1234
-#EXTINF:-1,ГУМОР\БАБАЙ TV
-http://31.43.17.181:1234/udp/239.0.0.70:1234
 #EXTINF:-1,Sport Tonight
 rtmp://freeview.fms.visionip.tv/live//sports_tonight-sports_tonight-live-25f-16x9-SD
 #EXTINF:-1,Raxa Anime TV
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist6.m3u8
--------12 juli-----
-#EXTINF:-1,AXN
-http://zial.dyndns.tv:8000/italo/italo/7.ch
-#EXTINF:-1,CANAL 13 HD
-http://zial.dyndns.tv:8000/italo/italo/3.ch
-#EXTINF:-1,CDF
-http://zial.dyndns.tv:8000/italo/italo/5.ch
-#EXTINF:-1,CHV HD
-http://zial.dyndns.tv:8000/italo/italo/2.ch
-#EXTINF:-1,DISCOVERY KIDS
-http://zial.dyndns.tv:8000/italo/italo/6.ch
-#EXTINF:-1,DISNEY JUNIOR
-http://zial.dyndns.tv:8000/italo/italo/8.ch
-#EXTINF:-1,TVN HD
-http://zial.dyndns.tv:8000/italo/italo/4.ch
-#EXTINF:-1,SPN BR
-http://zial.dyndns.tv:8000/italo/italo/10.ch
-#EXTINF:-1,AXN BR
-http://zial.dyndns.tv:8000/italo/italo/16.ch
-#EXTINF:-1,BAN BR
-http://zial.dyndns.tv:8000/italo/italo/28.ch
-#EXTINF:-1,BANDSPORT BR
-http://zial.dyndns.tv:8000/italo/italo/21.ch
-#EXTINF:-1,FOX SPORT 2 BR
-http://zial.dyndns.tv:8000/italo/italo/15.ch
-#EXTINF:-1,GLOBO BR
-http://zial.dyndns.tv:8000/italo/italo/11.ch
-#EXTINF:-1,GLOBO RBS BR
-http://zial.dyndns.tv:8000/italo/italo/23.ch
-#EXTINF:-1,HBO 2 BR
-http://zial.dyndns.tv:8000/italo/italo/24.ch
-#EXTINF:-1,HBO ASIGNATURE BR
-http://zial.dyndns.tv:8000/italo/italo/17.ch
-#EXTINF:-1,PFC 2 BR
-http://zial.dyndns.tv:8000/italo/italo/26.ch
-#EXTINF:-1,PFC BR
-http://zial.dyndns.tv:8000/italo/italo/25.ch
-#EXTINF:-1,PREMIERE 5 BR
-http://zial.dyndns.tv:8000/italo/italo/18.ch
-#EXTINF:-1,RECORD BR
-http://zial.dyndns.tv:8000/italo/italo/12.ch
-#EXTINF:-1,SPN BRASIL BR
-http://zial.dyndns.tv:8000/italo/italo/22.ch
-#EXTINF:-1,SPORTV BR
-http://zial.dyndns.tv:8000/italo/italo/13.ch
-#EXTINF:-1,STB BR
-http://zial.dyndns.tv:8000/italo/italo/27.ch
-#EXTINF:-1,UNIVERSAL CHANNEL BR
-http://zial.dyndns.tv:8000/italo/italo/19.ch
-#EXTINF:-1,El club de la pelea
-http://zial.dyndns.tv:8000/italo/italo/31.ch
-#EXTINF:-1,La oreja de van gogh
-http://zial.dyndns.tv:8000/italo/italo/30.ch
-#EXTINF:-1,David Guetta Concierto Brasil
-http://zial.dyndns.tv:8000/italo/italo/43.ch
-#EXTINF:-1,El gran robo
-http://zial.dyndns.tv:8000/italo/italo/41.ch
-#EXTINF:-1,El protector
-http://zial.dyndns.tv:8000/italo/italo/35.ch
-#EXTINF:-1,A&E
-http://zial.dyndns.tv:8000/italo/italo/62.ch
-#EXTINF:-1,AXN SP
-http://zial.dyndns.tv:8000/italo/italo/61.ch
-#EXTINF:-1,BANDAMAX MX
-http://zial.dyndns.tv:8000/italo/italo/45.ch
-#EXTINF:-1,DISNEY SP
-http://zial.dyndns.tv:8000/italo/italo/60.ch
-#EXTINF:-1,FOX SPORT MX
-http://zial.dyndns.tv:8000/italo/italo/47.ch
-#EXTINF:-1,HISTORIA
-http://zial.dyndns.tv:8000/italo/italo/59.ch
-#EXTINF:-1,LA SEXTA SP
-http://zial.dyndns.tv:8000/italo/italo/57.ch
-#EXTINF:-1,MOVISTARF1 SP
-http://zial.dyndns.tv:8000/italo/italo/56.ch
-#EXTINF:-1,MTV SP
-http://zial.dyndns.tv:8000/italo/italo/55.ch
-#EXTINF:-1,NATGEOGRAPH SP
-http://zial.dyndns.tv:8000/italo/italo/54.ch
-#EXTINF:-1,SPN 2
-http://zial.dyndns.tv:8000/italo/italo/49.ch
-#EXTINF:-1,SPN 3
-http://zial.dyndns.tv:8000/italo/italo/48.ch
-#EXTINF:-1,SYFY SP
-http://zial.dyndns.tv:8000/italo/italo/53.ch
-#EXTINF:-1,TCM SPN
-http://zial.dyndns.tv:8000/italo/italo/52.ch
-#EXTINF:-1,TELEHITS
-http://zial.dyndns.tv:8000/italo/italo/46.ch
-#EXTINF:-1,TNT SP
-http://zial.dyndns.tv:8000/italo/italo/50.ch
-#EXTINF:-1,C DEPORTES SP
-http://zial.dyndns.tv:8000/italo/italo/64.ch
-#EXTINF:-1,CABLE NOTICIAS CL
-http://zial.dyndns.tv:8000/italo/italo/71.ch
-#EXTINF:-1,CANAL 7 CR
-http://zial.dyndns.tv:8000/italo/italo/68.ch
-#EXTINF:-1,CANAL ANTIESTRES CL
-http://zial.dyndns.tv:8000/italo/italo/70.ch
-#EXTINF:-1,CANAL DE LAS ESTRELLAS MX
-http://zial.dyndns.tv:8000/italo/italo/63.ch
-#EXTINF:-1,COLOSAL CR
-http://zial.dyndns.tv:8000/italo/italo/67.ch
-#EXTINF:-1,CRIMEN INVEST SP
-http://zial.dyndns.tv:8000/italo/italo/65.ch
-#EXTINF:-1,LATINA PR
-http://zial.dyndns.tv:8000/italo/italo/72.ch
-#EXTINF:-1,TV CR
-http://zial.dyndns.tv:8000/italo/italo/69.ch
-#EXTINF:-1,Nightfall
-http://zial.dyndns.tv:8000/italo/italo/66.ch
-#EXTINF:-1,CDO
-http://zial.dyndns.tv:8000/italo/italo/76.ch
-#EXTINF:-1,TV MAS MX
-http://zial.dyndns.tv:8000/italo/italo/75.ch
-#EXTINF:-1,VEVO 1
-http://zial.dyndns.tv:8000/italo/italo/77.ch
-#EXTINF:-1,VEVO 2
-http://zial.dyndns.tv:8000/italo/italo/78.ch
-#EXTINF:-1,HEAVY METAL
-http://zial.dyndns.tv:8000/italo/italo/79.ch
-#EXTINF:-1,IBIZA
-http://zial.dyndns.tv:8000/italo/italo/81.ch
-#EXTINF:-1,VIRGIN
-http://zial.dyndns.tv:8000/italo/italo/80.ch
-#EXTINF:-1,101 Dalmatas
-http://zial.dyndns.tv:8000/italo/italo/82.ch
-----12juli albanski vo ts------
-#EXTINF:-1,Kujtesa Sport 4
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/233.ts
-#EXTINF:-1,Kujtesa Sport 3
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/232.ts
-#EXTINF:-1,Kujtesa Sport 2
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/231.ts
-#EXTINF:-1,Kujtesa Sport 1
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/230.ts
-#EXTINF:-1,VIZION PLUS
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/100.ts
-#EXTINF:-1,TVSH
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/3.ts
-#EXTINF:-1,TV SYRI VIZION
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/23.ts
-#EXTINF:-1,TRING WORLD
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/140.ts
-#EXTINF:-1,TRING TRING SD
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/87.ts
-#EXTINF:-1,TRING SUPER
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/59.ts
-#EXTINF:-1,TRING SPORT 4 HQ
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/216.ts
-#EXTINF:-1,TRING SPORT 3 HQ
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/215.ts
-#EXTINF:-1,TRING SPORT 2 HQ
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/214.ts
-#EXTINF:-1,TRING SPORT 1
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/152.ts
-#EXTINF:-1,TRING SHQIP
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/49.ts
-#EXTINF:-1,TRING PLANET
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/138.ts
-#EXTINF:-1,TRING MAX
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/57.ts
-#EXTINF:-1,TRING HISTORI
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/142.ts
-#EXTINF:-1,TRING FANTASY
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/55.ts
-#EXTINF:-1,TRING COMEDY
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/53.ts
-#EXTINF:-1,TRING 3 Plus
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/51.ts
-#EXTINF:-1,TOP NEWS
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/109.ts
-#EXTINF:-1,Top Channel
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/2.ts
-#EXTINF:-1,TIP TV
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/95.ts
-#EXTINF:-1,THRILER
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/72.ts
-#EXTINF:-1,T
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/66.ts
-#EXTINF:-1,SuperSport Kosova 2
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/11.ts
-#EXTINF:-1,SuperSport Kosova 1
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/10.ts
-#EXTINF:-1,SUPER SPORT 4 HD
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/156.ts
-#EXTINF:-1,SUPER SPORT 4
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/160.ts
-#EXTINF:-1,SUPER SPORT 3 HD
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/155.ts
-#EXTINF:-1,SUPER SPORT 3
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/159.ts
-#EXTINF:-1,SUPER SPORT 2 HD
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/154.ts
-#EXTINF:-1,SUPER SPORT 2
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/158.ts
-#EXTINF:-1,SUPER SPORT 1 HD
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/153.ts
-#EXTINF:-1,SUPER SPORT 1
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/157.ts
-#EXTINF:-1,Stinet
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/65.ts
-#EXTINF:-1,SKY SPORT DE 2 HD
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/168.ts
-#EXTINF:-1,SKY SPORT DE 1 HD
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/167.ts
-#EXTINF:-1,RTV 21
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/7.ts
-#EXTINF:-1,RTK
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/1.ts
-#EXTINF:-1,ORA NEWS
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/108.ts
-#EXTINF:-1,NEWS 24
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/106.ts
-#EXTINF:-1,KTV
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/6.ts
-#EXTINF:-1,Klan TV
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/4.ts
-#EXTINF:-1,Klan Kosova
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/5.ts
-#EXTINF:-1,KANALI 7 NEWS
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/105.ts
-#EXTINF:-1,JOLLY HQ
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/61.ts
-#EXTINF:-1,FOLK
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/121.ts
-#EXTINF:-1,FILM NJE
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/68.ts
-#EXTINF:-1,FILM KOMEDI
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/82.ts
-#EXTINF:-1,FILM HITS
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/74.ts
-#EXTINF:-1,FILM DY
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/70.ts
-#EXTINF:-1,FILM DRAME
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/78.ts
-#EXTINF:-1,FILM AUTOR
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/76.ts
-#EXTINF:-1,FILM AKSION
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/80.ts
-#EXTINF:-1,EXPLORER SHKENCA
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/144.ts
-#EXTINF:-1,EXPLORER NATYRA
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/146.ts
-#EXTINF:-1,EURO SPORT
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/177.ts
-#EXTINF:-1,CUFO
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/90.ts
-#EXTINF:-1,CARTON NETWORK
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/96.ts
-#EXTINF:-1,BEIN 2 HD
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/173.ts
-#EXTINF:-1,BEIN 1 HD
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/172.ts
-#EXTINF:-1,BBF MUSIC
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/128.ts
-#EXTINF:-1,BANG BANG
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/92.ts
-#EXTINF:-1,ARENA SPORT 4 HD
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/201.ts
-#EXTINF:-1,ARENA SPORT 3 HD
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/200.ts
-#EXTINF:-1,ARENA SPORT 2 HD
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/199.ts
-#EXTINF:-1,ARENA SPORT 1 HD
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/198.ts
-#EXTINF:-1,Alsat M
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/8.ts
-#EXTINF:-1,ALB HUMOR
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/85.ts
-#EXTINF:-1,ALB HITS
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/123.ts
-#EXTINF:-1,ALB FILM
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/84.ts
-#EXTINF:-1,ABC NEWS
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/107.ts
-#EXTINF:-1,A1 REPORT
-http://163.172.42.109:8000/live/iosandroid/e5cfa20e3a/104.ts
-------AMIS LISTA------
-#EXTINF:0,HRT 1
-http://cdn.iptv.amis.net/LIVE/HRT1/stream_wifi_840k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,HRT 2
-http://cdn.iptv.amis.net/LIVE/HRT2/stream_wifi_840k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,HRT 3
-http://cdn.iptv.amis.net/LIVE/HRT3/stream_wifi_840k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,RTL Televizija
-http://cdn.iptv.amis.net/LIVE/RTLHrvatska/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,RTL 2
-http://cdn.iptv.amis.net/LIVE/RTL2Hrvatska/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,RTL Living
-http://cdn.iptv.amis.net/ts/RTLLIVING/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Sportska Televizija
-http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
+----EXYU AMIS-----
+
 #EXTINF:0, TV Student
 rtmp://213.202.73.202/iskon/studentska_b2.stream
 #EXTINF:0,RTV Banovina
 rtmp://video.radio-banovina.hr/live/myStream
 #EXTINF:0,STV Osijek
 mms://89.201.164.181/stv
-#EXTINF:-1,RTS Sat
-http://cdn.iptv.amis.net/ts/RTSrbije/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Hayat Plus
-http://cdn.iptv.amis.net/ts/Hayat/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,CMC
-http://cdn.iptv.amis.net/LIVE/CMC/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:0,Jugoton TV
-http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u8
-#EXTINF:0,MTV Adria
-http://cdn.iptv.amis.net/LIVE/MTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,VH1
-http://cdn.iptv.amis.net/ts/VH1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,ICONCERTS
-http://cdn.iptv.amis.net/ts/ICONCERTS/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,VEVO 1 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:0,VEVO 2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:0,VEVO 3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:0,Klasik TV
-http://cdn.iptv.amis.net/LIVE/KlasikTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Universal Channel
-http://cdn.iptv.amis.net/ts/UniversalChannelCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,FOX Life
-http://cdn.iptv.amis.net/LIVE/FOXLIFEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,FOX Crime
-http://cdn.iptv.amis.net/LIVE/FOXCRIMEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u
 #EXTINF:0, Animal Planet
 http://80.80.160.168/live/1/live.m3u8
-#EXTINF:0,Discovery Channel
-http://cdn.iptv.amis.net/ts/Discovery/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:0,Discovery ID
 http://80.80.160.168/live/5/live.m3u8
-#EXTINF:0,National Geographic
-http://cdn.iptv.amis.net/LIVE/NGCCroatia/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Nat Geo Wild
-http://cdn.iptv.amis.net/LIVE/NGCWildCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Viasat Explorer
-http://cdn.iptv.amis.net/LIVE/CROEXPLORER/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Viasat History
-http://cdn.iptv.amis.net/LIVE/CROHISTORY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,History Channel
-http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Travel Channel
-http://cdn.iptv.amis.net/LIVE/CROTRAVEL/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:0,TLC
 http://80.80.160.168/live/2/live.m3u8
 #EXTINF:0,Hunting & Fishing
 http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&session=5488c6087e1ea6.57082302
-#EXTINF:0,Russia Today Documentary
-http://rt.ashttp6.visionip.tv/live/RT_Doc-SD/playlist.m3u8
-#EXTINF:0,24 Kitchen
-http://cdn.iptv.amis.net/LIVE/CRODOQ/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,CBS Reality
-http://cdn.iptv.amis.net/LIVE/CROREALITY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Ginx
-http://cdn.iptv.amis.net/LIVE/CROGINX/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Disney Channel
-http://cdn.iptv.amis.net/LIVE/CRODISNEY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Disney XD
-http://cdn.iptv.amis.net/LIVE/DisneyXD/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Boomerang
-http://cdn.iptv.amis.net/LIVE/Boomerang/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,DaVinci Learning
-http://cdn.iptv.amis.net/ts/DaVinciLear/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Minimax
-http://cdn.iptv.amis.net/ts/Minimax/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:-1,Nickelodeon
 http://37.195.219.210:81/udp/239.1.3.4:1234
 #EXTINF:-1,Al Jazeera Balkans
 http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8
-#EXTINF:0,CNN International
-http://cdn.iptv.amis.net/LIVE/CNN/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Russia Today
-http://rt.ashttp6.visionip.tv/live/RT_Global-SD/playlist.m3u8?wowzasessionid=1584858433
 #EXTINF:0,World Fashion Europe HD
 http://win.cdn.bonus-tv.ru/TVB7/wfhdeu/playlist.m3u8#sthash.nlRkAx1f.dpuf
-#EXTINF:0,Sport TV 1 (SLO)
-http://cdn.iptv.amis.net/ts/SportKlub/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Sport TV 2 (SLO)
-http://cdn.iptv.amis.net/ts/S2/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1, NBC GOLF HD
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1,Fight Sports
 http://118.97.183.222:1935/discover/fight/playlist.m3u8
 #EXTINF:-1,Poker Central HD
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_2528_av-p.m3u8
-#EXTINF:-1,French Lover TV
-http://37.235.190.80:81/udp/225.50.70.7:1234
-#EXTINF:0,Hustler TV
-http://cdn.iptv.amis.net/ts/XDREAM/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Sexto Senso
-http://cdn.iptv.amis.net/ts/Free-X_TV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Spice TV
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
+
 -----amis 2-----
-#EXTINF:0,HRT 1
-http://cdn.iptv.amis.net/LIVE/HRT1/stream_wifi_840k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,HRT 2
-http://cdn.iptv.amis.net/LIVE/HRT2/stream_wifi_840k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,HRT 3
-http://cdn.iptv.amis.net/LIVE/HRT3/stream_wifi_840k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,RTL Televizija
-http://cdn.iptv.amis.net/LIVE/RTLHrvatska/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,RTL 2
-http://cdn.iptv.amis.net/LIVE/RTL2Hrvatska/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,RTL Living
-http://cdn.iptv.amis.net/ts/RTLLIVING/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Sportska Televizija
-http://wowza.h1telekom.hr:1935/sporttv/smil:sptv.smil/playlist.m3u8
 #EXTINF:0, TV Student
 rtmp://213.202.73.202/iskon/studentska_b2.stream
 #EXTINF:0,RTV Banovina
 rtmp://video.radio-banovina.hr/live/myStream
 #EXTINF:0,STV Osijek
 mms://89.201.164.181/stv
-#EXTINF:-1,RTS Sat
-http://cdn.iptv.amis.net/ts/RTSrbije/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Hayat Plus
-http://cdn.iptv.amis.net/ts/Hayat/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,CMC
-http://cdn.iptv.amis.net/LIVE/CMC/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:0,Jugoton TV
 http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u8
-#EXTINF:0,MTV Adria
-http://cdn.iptv.amis.net/LIVE/MTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,VH1
-http://cdn.iptv.amis.net/ts/VH1/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,ICONCERTS
-http://cdn.iptv.amis.net/ts/ICONCERTS/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,VEVO 1 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:0,VEVO 2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:0,VEVO 3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:0,Klasik TV
-http://cdn.iptv.amis.net/LIVE/KlasikTV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Universal Channel
-http://cdn.iptv.amis.net/ts/UniversalChannelCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,FOX Life
-http://cdn.iptv.amis.net/LIVE/FOXLIFEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,FOX Crime
-http://cdn.iptv.amis.net/LIVE/FOXCRIMEHRVATSKA/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:0, Animal Planet
 http://80.80.160.168/live/1/live.m3u8
-#EXTINF:0,Discovery Channel
-http://cdn.iptv.amis.net/ts/Discovery/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:0,Discovery ID
 http://80.80.160.168/live/5/live.m3u8
-#EXTINF:0,National Geographic
-http://cdn.iptv.amis.net/LIVE/NGCCroatia/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Nat Geo Wild
-http://cdn.iptv.amis.net/LIVE/NGCWildCRO/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Viasat Explorer
-http://cdn.iptv.amis.net/LIVE/CROEXPLORER/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Viasat History
-http://cdn.iptv.amis.net/LIVE/CROHISTORY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,History Channel
-http://cdn.iptv.amis.net/LIVE/CROHISTORYCH/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Travel Channel
-http://cdn.iptv.amis.net/LIVE/CROTRAVEL/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:0,TLC
 http://80.80.160.168/live/2/live.m3u8
 #EXTINF:0,Hunting & Fishing
-http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&session=5488c6087e1ea6.57082302
-#EXTINF:0,Russia Today Documentary
-http://rt.ashttp6.visionip.tv/live/RT_Doc-SD/playlist.m3u8
-#EXTINF:0,24 Kitchen
-http://cdn.iptv.amis.net/LIVE/CRODOQ/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,CBS Reality
-http://cdn.iptv.amis.net/LIVE/CROREALITY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Ginx
-http://cdn.iptv.amis.net/LIVE/CROGINX/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Disney Channel
-http://cdn.iptv.amis.net/LIVE/CRODISNEY/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Disney XD
-http://cdn.iptv.amis.net/LIVE/DisneyXD/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Boomerang
-http://cdn.iptv.amis.net/LIVE/Boomerang/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,DaVinci Learning
-http://cdn.iptv.amis.net/ts/DaVinciLear/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Minimax
-http://cdn.iptv.amis.net/ts/Minimax/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&session=5488c6087e1ea6.5708230
 #EXTINF:-1,Nickelodeon
 http://37.195.219.210:81/udp/239.1.3.4:1234
 #EXTINF:-1,Al Jazeera Balkans
 http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8
-#EXTINF:0,CNN International
-http://cdn.iptv.amis.net/LIVE/CNN/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Russia Today
-http://rt.ashttp6.visionip.tv/live/RT_Global-SD/playlist.m3u8?wowzasessionid=1584858433
 #EXTINF:0,World Fashion Europe HD
 http://win.cdn.bonus-tv.ru/TVB7/wfhdeu/playlist.m3u8#sthash.nlRkAx1f.dpuf
-#EXTINF:0,Sport TV 1 (SLO)
-http://cdn.iptv.amis.net/ts/SportKlub/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Sport TV 2 (SLO)
-http://cdn.iptv.amis.net/ts/S2/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:-1, NBC GOLF HD
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1,Fight Sports
 http://118.97.183.222:1935/discover/fight/playlist.m3u8
 #EXTINF:-1,Poker Central HD
@@ -2326,8 +1720,7 @@ http://37.235.190.80:81/udp/225.50.70.7:1234
 http://cdn.iptv.amis.net/ts/XDREAM/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
 #EXTINF:0,Sexto Senso
 http://cdn.iptv.amis.net/ts/Free-X_TV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Spice TV
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
+
 ------13juli exyu------
 
 #EXTINF:-1,SUPER KIDS -B
