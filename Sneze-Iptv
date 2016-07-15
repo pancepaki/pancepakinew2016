@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="SPORT KLUB 1" tvg-link="" tvg-name="SPORT KLUB 1" tvg-logo="" group-title="Domaci",SPORT KLUB 1
+http://centurionlukavac.com:80/live?channelId=71&uid=13&deviceUser=daria1141&devicePass=daria1141234
+#EXTINF:-1 tvg-id="SPORT KLUB 2" tvg-link="" tvg-name="SPORT KLUB 2" tvg-logo="" group-title="Domaci",SPORT KLUB 2
+http://centurionlukavac.com:80/live?channelId=72&uid=13&deviceUser=daria1141&devicePass=daria1141234
+#EXTINF:-1 tvg-id="SPORT KLUB 3" tvg-link="" tvg-name="SPORT KLUB 3" tvg-logo="" group-title="Domaci",SPORT KLUB 3
+http://centurionlukavac.com:80/live?channelId=73&uid=13&deviceUser=daria1141&devicePass=daria1141234
+#EXTINF:-1 tvg-id="SPORT KLUB 1 SR" tvg-link="" tvg-name="SPORT KLUB 1 SR" tvg-logo="" group-title="Domaci",SPORT KLUB 1 SR
+http://centurionlukavac.com:80/live?channelId=74&uid=13&deviceUser=daria1141&devicePass=daria1141234
+#EXTINF:-1 tvg-id="SPORT KLUB 2 SR" tvg-link="" tvg-name="SPORT KLUB 2 SR" tvg-logo="" group-title="Domaci",SPORT KLUB 2 SR
+http://centurionlukavac.com:80/live?channelId=75&uid=13&deviceUser=daria1141&devicePass=daria1141234
+#EXTINF:-1 tvg-id="SPORT KLUB 3 SR" tvg-link="" tvg-name="SPORT KLUB 3 SR" tvg-logo="" group-title="Domaci",SPORT KLUB 3 SR
+http://centurionlukavac.com:80/live?channelId=76&uid=13&deviceUser=daria1141&devicePass=daria1141234
 #EXTINF:-1,JUGOTON TV
 http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/playlist.m3u8
 #EXTINF:0,Jugoton TV
@@ -7,7 +19,18 @@ http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u8
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 #EXTINF:-1,CMC hr
 http://fra1.ddns.net:97/live/test/test/55.m3u8
-
+#EXTINF:-1,RTRS Plus
+http://fra1.ddns.net:97/live/test/test/21.m3u8
+#EXTINF:-1,RTRS
+http://fra1.ddns.net:97/live/test/test/2.m3u8
+#EXTINF:-1,RTL2
+http://fra1.ddns.net:97/live/test/test/22.m3u8
+#EXTINF:-1,RTL KOCKICA
+http://fra1.ddns.net:97/live/test/test/23.m3u8
+#EXTINF:-1,RTL
+http://fra1.ddns.net:97/live/test/test/24.m3u8
+#EXTINF:-1,Prva TV
+http://fra1.ddns.net:97/live/test/test/97.m3u8
 #EXTINF:-1,Pink Western
 http://fra1.ddns.net:97/live/test/test/28.m3u8
 #EXTINF:-1,PINK FREE
@@ -20,11 +43,14 @@ http://fra1.ddns.net:97/live/test/test/8.m3u8
 http://fra1.ddns.net:97/live/test/test/9.m3u8
 #EXTINF:-1,HRT1
 http://fra1.ddns.net:97/live/test/test/10.m3u8
+#EXTINF:-1,OBN MI
+http://fra1.ddns.net:97/live/test/test/209.m3u8
+#EXTINF:-1,OBN
+http://fra1.ddns.net:97/live/test/test/46.m3u8
 #EXTINF:-1,HIT TV
 http://fra1.ddns.net:97/live/test/test/243.m3u8
 #EXTINF:-1,HAPPY
 http://fra1.ddns.net:97/live/test/test/217.m3u8
-
 #EXTINF:-1,FACE TV
 http://fra1.ddns.net:97/live/test/test/5.m3u8
 #EXTINF:-1,BRAVOMUSIC
@@ -133,6 +159,23 @@ http://fra1.ddns.net:97/live/miro/miro/46.m3u8
 http://fra1.ddns.net:97/live/miro/miro/102.m3u8
 #EXTINF:-1,BN BIH
 http://fra1.ddns.net:97/live/miro/miro/6.m3u8
+#EXTINF:-1,BNT
+http://fra1.ddns.net:97/live/test/test/238.m3u8
+#EXTINF:-1,BN Music
+http://fra1.ddns.net:97/live/test/test/59.m3u8
+#EXTINF:-1,BN BIH
+http://fra1.ddns.net:97/live/test/test/6.m3u8
+#EXTINF:-1,BHT
+http://fra1.ddns.net:97/live/test/test/216.m3u8
+#EXTINF:-1,BEL TV
+http://fra1.ddns.net:97/live/test/test/227.m3u8
+#EXTINF:-1,B92
+http://fra1.ddns.net:97/live/test/test/102.m3u8
+#EXTINF:-1,ATV
+http://fra1.ddns.net:97/live/test/test/245.m3u8
+#EXTINF:-1,ATLAS TV
+http://fra1.ddns.net:97/live/test/test/60.m3u8
+
 -----MAKEDONSKI-----
 #EXTINF:-1,SITEL
 http://fms.zulu.mk:554/zulu/sitel_1/playlist_b125000_w1132785237.m3u8? 
