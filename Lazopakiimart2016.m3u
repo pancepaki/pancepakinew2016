@@ -107,6 +107,41 @@ http://203.162.235.45:17931
 http://203.162.235.45:17932
 #EXTINF:-1 group-title="Sports",Japan:SPORT 4
 http://203.162.235.45:17933 	
+#EXTINF:0, FIGHT SPORTS
+http://118.97.183.222:1935/discover/fight/chunklist.m3u8
+#EXTINF:0, TV ALL SPORTS 
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:0, NBA
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:0, NFL NOW 
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_e.m3u8
+
+#EXTINF:0, TV REAL MADRID
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0, PORSCHE CHANNEL
+rtsp://100automoto.tv/channel_porsche
+#EXTINF:0, VERSUS HD EUA
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+#EXTINF:0, PAC 12  Arizona  HD
+http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/master.m3u8
+#EXTINF:0, PAC 12  Bay Area HD
+http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/master.m3u8
+#EXTINF:0, PAC 12  Los Angeles HD
+http://pac12hd2-lh.akamaihd.net/i/p12losa_delivery@132838/master.m3u8
+#EXTINF:0, PAC 12  Oregon HD
+http://pac12hd2-lh.akamaihd.net/i/p12oreg_delivery@132835/master.m3u8
+#EXTINF:0, PAC 12 Mountain HD
+http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/master.m3u8
+#EXTINF:0, PAC 12 Washington HD
+http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/master.m3u8
+
+#EXTINF:0, Canal del Deporte Olimpico - CDO
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+#EXTINF:0, Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+#EXTINF:0, Rete Sport 8 ITALIA
+http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
+
 
 #EXTINF:-1,Encore Sport 5 HD
 http://www.xrxs.net/video/live-p12netw-4728.m3u8
@@ -142,6 +177,11 @@ http://win.cdn.bonus-tv.ru/TVB7/auto24/playlist.m3u8
 http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u
 #EXTINF:-1, Fox Sport   [COLOR lime]FTA[/COLOR]
 http://motorsport.hopto.org:8080/
+#EXTINF:-1,Fight Sports
+http://118.97.183.222:1935/discover/fight/playlist.m3u8
+#EXTINF:-1,Poker Central HD
+http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_2528_av-p.m3u8
+
 
 ------XXXXX------
 #EXTINF:-1,Egoist tv
@@ -167,7 +207,60 @@ http://109.237.146.139:81/udp/239.1.6.34:1234
 http://109.237.146.139:81/udp/239.1.6.35:1234
 #EXTINF:-1,xxx
 http://109.237.146.139:81/udp/239.1.6.33:1234
+#EXTINF:-1,xxx
+http://37.193.253.250:81/udp/239.1.6.32:1234
+#EXTINF:-1,xxx
+http://37.193.253.250:81/udp/239.1.6.33:1234
+#EXTINF:-1,O-la-la
+http://37.193.253.250:81/udp/239.1.6.34:1234
+#EXTINF:-1,Hustler HD
+http://37.193.253.250:81/udp/239.1.6.35:1234
+#EXTINF:-1,Hustler
+http://37.193.253.250:81/udp/239.1.6.36:1234
+#EXTINF:-1,Playboy TV
+http://37.193.253.250:81/udp/239.1.6.39:1234
+#EXTINF:-1,Brazzers TV
+http://37.193.253.250:81/udp/239.1.6.40:1234
 
+
+#EXTINF:-1,Русская ночь
+http://37.193.141.93:81/udp/239.1.6.32:1234
+#EXTINF:-1,xxx
+http://37.193.141.93:81/udp/239.1.6.33:1234
+#EXTINF:-1,O-la-la
+http://37.193.141.93:81/udp/239.1.6.34:1234
+#EXTINF:-1,Hustler HD
+http://37.193.141.93:81/udp/239.1.6.35:1234
+#EXTINF:-1,Hustler
+http://37.193.141.93:81/udp/239.1.6.36:1234
+#EXTINF:-1,Playboy TV
+http://37.193.141.93:81/udp/239.1.6.39:1234
+#EXTINF:-1,Brazzers TV
+http://37.193.141.93:81/udp/239.1.6.40:1234
+#EXTINF:-1,PlayBoy
+http://46.23.144.106:81/udp/239.1.6.39:1234
+#EXTINF:-1,xxx
+http://46.23.144.106:81/udp/239.1.6.32:1234
+#EXTINF:-1,O-la-la
+http://46.23.144.106:81/udp/239.1.6.34:1234
+#EXTINF:-1,Hustler HD
+http://46.23.144.106:81/udp/239.1.6.35:1234
+#EXTINF:-1,xxx
+http://46.23.144.106:81/udp/239.1.6.33:1234
+#EXTINF:-1,Blue Hustler
+http://46.23.144.106:81/udp/239.1.6.36:1234
+#EXTINF:-1,PlayBoy
+http://109.237.156.16:81/udp/239.1.6.39:1234
+#EXTINF:-1,xxx6
+http://109.237.156.16:81/udp/239.1.6.32:1234
+#EXTINF:-1,O-la-la
+http://109.237.156.16:81/udp/239.1.6.34:1234
+#EXTINF:-1,Hustler HD
+http://109.237.156.16:81/udp/239.1.6.35:1234
+#EXTINF:-1,xxx4
+http://109.237.156.16:81/udp/239.1.6.33:1234
+#EXTINF:-1,Blue Hustler
+http://109.237.156.16:81/udp/239.1.6.36:1234
 #EXTINF:-1,xxx
 http://178.49.175.51:81/udp/239.1.6.32:1234
 #EXTINF:-1,xxx
@@ -292,7 +385,14 @@ http://89.212.246.73:8888/udp/239.18.1.235:5000
 http://89.212.246.73:8888/udp/239.18.1.238:5000
 #EXTINF:-1,SCT
 http://89.212.246.73:8888/udp/239.18.1.234:5000
-
+#EXTINF:-1,French Lover TV
+http://37.235.190.80:81/udp/225.50.70.7:1234
+#EXTINF:0,Hustler TV
+http://cdn.iptv.amis.net/ts/XDREAM/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0,Sexto Senso
+http://cdn.iptv.amis.net/ts/Free-X_TV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
+#EXTINF:0,Spice TV
+rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
 #EXTINF:-1,PlayBoy
 http://46.23.149.68:81/udp/239.1.6.39:1234
 #EXTINF:-1,xxx1
@@ -305,7 +405,12 @@ http://46.23.149.68:81/udp/239.1.6.35:1234
 http://46.23.149.68:81/udp/239.1.6.33:1234
 #EXTINF:-1,Blue Hustler
 http://46.23.149.68:81/udp/239.1.6.36:1234
-
+#EXTINF:-1,Erotic 1
+http://5.149.64.8:9999/udp/238.0.64.182:18027?auth=login:pass
+#EXTINF:-1,Erotic 2
+http://5.149.64.8:9999/udp/239.2.105.6:1234?auth=login:pass
+#EXTINF:-1,Erotic 3
+http://5.149.64.8:9999/udp/239.2.105.7:1234?auth=login:pass
 #EXTINF:-1,xxx4
 http://178.57.2.253:8080/udp/224.244.244.199:19993
 #EXTINF:-1,xxx3
@@ -689,6 +794,12 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:0,Vevo TV 3 HD
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:0,VEVO 1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:0,VEVO 2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:0,VEVO 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:0,Virgin Radio
 http://fms.105.net:1935/live/virgin1/.m3u8?
 #EXTINF:0,Virgin Radio TV
@@ -825,7 +936,12 @@ http://74.63.97.188:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
 rtmp://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15fresnillo/livestream
 #EXTINF:0, : C7 Guadalajara
 http://74.63.97.188:1935/c7/videoc7/live.m3u8
-
+#EXTINF:0, Brazil 10
+rtmp://stream2.ba.gov.br/livepkgr//pgm-1?adbe-live-event=irdeb?
+#EXTINF:0, RAI MOVIE ITALIA
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:0, TELETICINO LIVE ITALIA
+http://rtmp.infomaniak.ch:1935/livecast/teleticinolive/livestream.m3u8
 #EXTINF:-1,Mbc Max
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:-1,Abc News
@@ -842,7 +958,20 @@ http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net:80/int/ngrp:beauties_web/livestream.m3u8
 #EXTINF:0, LEQUIPE 21
 http://streaming-hub.com/stream/lequipe21.m3u8
+#EXTINF:0, Animal Planet
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:0,Discovery ID
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:0,TLC
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:0,Hunting & Fishing
+http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&session=5488c6087e1ea6.57082302
 
+#EXTINF:-1,Nickelodeon
+http://37.195.219.210:81/udp/239.1.3.4:1234
+
+#EXTINF:0,World Fashion Europe HD
+http://win.cdn.bonus-tv.ru/TVB7/wfhdeu/playlist.m3u8#sthash.nlRkAx1f.dpuf
 ------EX YU TV--------
 #EXTINF:0,RTV BANOVINA HR
 rtmp://video.radio-banovina.hr/live/myStream
@@ -850,6 +979,12 @@ rtmp://video.radio-banovina.hr/live/myStream
 mms://89.201.164.181/stv
 #EXTINF:0,Studentska TV
 rtmp://213.202.73.202/iskon/studentska_b3.stream
+#EXTINF:0, TV Student
+rtmp://213.202.73.202/iskon/studentska_b2.stream
+#EXTINF:0,RTV Banovina
+rtmp://video.radio-banovina.hr/live/myStream
+#EXTINF:0,Jugoton TV
+http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u8
 
 
 
@@ -891,225 +1026,17 @@ rtmp://213.202.73.202/iskon/studentska_b3.stream
 
 
 
-#EXTINF:0, FIGHT SPORTS
-http://118.97.183.222:1935/discover/fight/chunklist.m3u8
-#EXTINF:0, TV ALL SPORTS 
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:0, NBA
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-#EXTINF:0, NFL NOW 
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_e.m3u8
-
-#EXTINF:0, TV REAL MADRID
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:0, PORSCHE CHANNEL
-rtsp://100automoto.tv/channel_porsche
-#EXTINF:0, VERSUS HD EUA
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-#EXTINF:0, PAC 12  Arizona  HD
-http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/master.m3u8
-#EXTINF:0, PAC 12  Bay Area HD
-http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/master.m3u8
-#EXTINF:0, PAC 12  Los Angeles HD
-http://pac12hd2-lh.akamaihd.net/i/p12losa_delivery@132838/master.m3u8
-#EXTINF:0, PAC 12  Oregon HD
-http://pac12hd2-lh.akamaihd.net/i/p12oreg_delivery@132835/master.m3u8
-#EXTINF:0, PAC 12 Mountain HD
-http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/master.m3u8
-#EXTINF:0, PAC 12 Washington HD
-http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/master.m3u8
-
-#EXTINF:0, Canal del Deporte Olimpico - CDO
-http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
-#EXTINF:0, Dubai Sports
-http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
-#EXTINF:0, Rete Sport 8 ITALIA
-http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
-#EXTINF:0, Brazil 10
-rtmp://stream2.ba.gov.br/livepkgr//pgm-1?adbe-live-event=irdeb?
-#EXTINF:0, RAI MOVIE ITALIA
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:0, TELETICINO LIVE ITALIA
-http://rtmp.infomaniak.ch:1935/livecast/teleticinolive/livestream.m3u8
 
 
-#EXTINF:-1,ESPN HD
-http://163.172.214.251:8000/play/a017
-#EXTINF:-1,CBSHD- TEST
-http://163.172.214.251:8000/play/a01a
 
-------------------kodihr links
-#EXTINF:0, TV Student
-rtmp://213.202.73.202/iskon/studentska_b2.stream
-#EXTINF:0,RTV Banovina
-rtmp://video.radio-banovina.hr/live/myStream
-#EXTINF:0,Jugoton TV
-http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u8
-#EXTINF:0,VEVO 1 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:0,VEVO 2 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:0,VEVO 3 HD
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:0, Animal Planet
-http://80.80.160.168/live/1/live.m3u8
-#EXTINF:0,Discovery ID
-http://80.80.160.168/live/5/live.m3u8
-#EXTINF:0,TLC
-http://80.80.160.168/live/2/live.m3u8
-#EXTINF:0,Hunting & Fishing
-http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&session=5488c6087e1ea6.57082302
-#EXTINF:0,Russia Today Documentary
-http://rt.ashttp6.visionip.tv/live/RT_Doc-SD/playlist.m3u8
-#EXTINF:-1,Nickelodeon
-http://37.195.219.210:81/udp/239.1.3.4:1234
-#EXTINF:0,Russia Today
-http://rt.ashttp6.visionip.tv/live/RT_Global-SD/playlist.m3u8?wowzasessionid=1584858433
-#EXTINF:0,World Fashion Europe HD
-http://win.cdn.bonus-tv.ru/TVB7/wfhdeu/playlist.m3u8#sthash.nlRkAx1f.dpuf
-#EXTINF:-1,Fight Sports
-http://118.97.183.222:1935/discover/fight/playlist.m3u8
-#EXTINF:-1,Poker Central HD
-http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_2528_av-p.m3u8
-#EXTINF:-1,French Lover TV
-http://37.235.190.80:81/udp/225.50.70.7:1234
-#EXTINF:0,Hustler TV
-http://cdn.iptv.amis.net/ts/XDREAM/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Sexto Senso
-http://cdn.iptv.amis.net/ts/Free-X_TV/stream_wifi_1200k.m3u8|User-Agent=Mozilla/5.0
-#EXTINF:0,Spice TV
-rtmp://main2sb.everyon.tv:1935/etv2sb/_definst_/phd10499
-----------------------sultanovic.net-----------------------------
-#EXTINF:-1,BT Sports ESPN
-http://149.202.85.84:8080/eiSsepn/counter1/index.m3u8
-#EXTINF:-1,Boxnation
-http://149.202.207.8:8080/bxoo-nan/counter1/index.m3u8
-#EXTINF:-1,Racing UK
-http://149.202.207.8:8080/riskgyou0K/counter1/index.m3u8
-#EXTINF:-1,At The Races
-http://149.202.207.8:8080/etyhte-rcs/counter1/index.m3u8
-#EXTINF:-1,Star Sports 1
-http://149.202.85.84:8080/seater-sp-1/counter1/index.m3u8
-#EXTINF:-1,Star Sports 2
-http://149.202.85.84:8080/seater-sp-2/counter1/index.m3u8
-#EXTINF:-1,Star Sports 3
-http://149.202.85.84:8080/seater-sp-3/counter1/index.m3u8
-#EXTINF:-1,Star Sports 4
-http://149.202.85.84:8080/seater-sp-4/counter1/index.m3u8
-#EXTINF:-1,Fox Sports 1
-http://149.202.85.84:8080/f00cs-sp-IT/counter1/index.m3u8
-#EXTINF:-1,Arena Sports 1
-http://149.202.85.84:8080/airoona-1/counter1/index.m3u8
-#EXTINF:-1,Arena Sports 2
-http://149.202.85.84:8080/airoona-2/counter1/index.m3u8
-#EXTINF:-1,Arena Sports 3
-http://149.202.85.84:8080/airoona-3/counter1/index.m3u8
-#EXTINF:-1,Arena Sports 4
-http://149.202.85.84:8080/airoona-3/counter1/index.m3u8
-#EXTINF:-1,Arena Sports 5
-http://149.202.85.84:8080/airoona-5/counter1/index.m3u8
-#EXTINF:-1,Sentanta sports
-http://149.202.207.8:8080/bhensp-11/counter1/index.m3u8
-#EXTINF:-1,Premier Sports
-http://149.202.85.84:8080/peemrie/counter1/index.m3u8
-#EXTINF:-1,Sky Sports News
-http://149.202.85.84:8080/syjkiy-sp-ns/counter1/index.m3u8
-#EXTINF:-1,Sky Sports 1
-http://149.202.207.8:8080/syjkiy-1/counter2/index.m3u8
-#EXTINF:-1,Sky Sports 2
-http://149.202.207.8:8080/syjkiy-2/counter2/index.m3u8
-#EXTINF:-1,Sky Sports 3
-http://149.202.85.84:8080/syjkiy-3/counter1/index.m3u8
-#EXTINF:-1,Sky Sports 4
-http://149.202.85.84:8080/syjkiy-4/counter1/index.m3u8
-#EXTINF:-1,Sky Sports 5
-http://149.202.85.84:8080/syjkiy-5/counter1/index.m3u8
-#EXTINF:-1,BT Sports 1
-http://149.202.207.8:8080/beETy-1/counter1/index.m3u8
-#EXTINF:-1,BT Sports 2
-http://149.202.85.84:8080/beETy-2/counter2/index.m3u8
-#EXTINF:-1,Formula 1
-http://191.101.228.168/tp.php/playlist.m3u8?id=1647
-#EXTINF:-1,ESPN
-http://191.101.228.168/tp.php/playlist.m3u8?id=1671
-#EXTINF:-1,ESPN 2
-http://191.101.228.168/tp.php/playlist.m3u8?id=1675
-#EXTINF:-1,ESPN 3
-http://191.101.228.168/tp.php/playlist.m3u8?id=1655
-#EXTINF:-1,ESPN +
-http://191.101.228.168/tp.php/playlist.m3u8?id=1651
-#EXTINF:-1,Fox Sports
-http://191.101.228.168/tp.php/playlist.m3u8?id=1659
-#EXTINF:-1,Fox Sports 2
-http://191.101.228.168/tp.php/playlist.m3u8?id=1663 
-#EXTINF:-1,Eurosport 1
-http://5.149.64.8:9999/udp/239.3.3.1:1237?auth=login:pass
-#EXTINF:-1,Eurosport 2
-http://5.149.64.8:9999/udp/239.3.3.2:1237?auth=login:pass
-#EXTINF:-1,Arenasport 1
-http://5.149.64.8:9999/udp/239.3.4.17:1234?auth=login:pass
-#EXTINF:-1,Arenasport 2
-http://5.149.64.8:9999/udp/239.3.4.18:1234?auth=login:pass
-#EXTINF:-1,Arenasport 3
-http://5.149.64.8:9999/udp/239.3.4.19:1234?auth=login:pass
-#EXTINF:-1,Arenasport 4
-http://5.149.64.8:9999/udp/239.3.4.20:1234?auth=login:pass
-#EXTINF:-1,Erotic 1
-http://5.149.64.8:9999/udp/238.0.64.182:18027?auth=login:pass
-#EXTINF:-1,Erotic 2
-http://5.149.64.8:9999/udp/239.2.105.6:1234?auth=login:pass
-#EXTINF:-1,Erotic 3
-http://5.149.64.8:9999/udp/239.2.105.7:1234?auth=login:pass
-#EXTINF:0,TV 8
-http://89.212.246.73:8888/udp/239.10.2.22:5000
-#EXTINF:0,FOX
-http://89.212.246.73:8888/udp/239.12.2.164:5000
-#EXTINF:0,CBS Reality
-http://89.212.246.73:8888/udp/239.11.2.129:5000
-#EXTINF:0,Da Vinci Learning
-http://89.212.246.73:8888/udp/239.11.2.80:5000
-#EXTINF:0,Outdoor Channel
-http://89.212.246.73:8888/udp/239.11.2.91:5000
-#EXTINF:0,Lov i ribolov
-http://89.212.246.73:8888/udp/239.11.2.92:5000
-#EXTINF:0,Medical Channel
-http://89.212.246.73:8888/udp/239.11.2.132:5000
-#EXTINF:0,novi kanal
-http://89.212.246.73:8888/udp/239.11.2.120:5000
-#EXTINF:0,TV Maribor
-http://89.212.246.73:8888/udp/239.10.2.18:5000
-#EXTINF:0,TOP TV
-http://89.212.246.73:8888/udp/239.10.2.20:5000
-#EXTINF:0,Net TV
-http://89.212.246.73:8888/udp/239.10.2.21:5000
-#EXTINF:0,RTS Maribor
-http://89.212.246.73:8888/udp/239.10.2.19:5000
-#EXTINF:0,TV AS
-http://89.212.246.73:8888/udp/239.10.2.24:5000
-#EXTINF:0,VTV Velenje
-http://89.212.246.73:8888/udp/239.10.2.26:5000
-#EXTINF:0,Arena TV
-http://89.212.246.73:8888/udp/239.10.2.31:5000
-#EXTINF:0,ATM TV
-http://89.212.246.73:8888/udp/239.10.2.32:5000
-#EXTINF:0,BK TV
-http://89.212.246.73:8888/udp/239.10.2.55:5000
-#EXTINF:0,PETV
-http://89.212.246.73:8888/udp/239.10.2.52:5000
-#EXTINF:0,R Kanal+
-http://89.212.246.73:8888/udp/239.10.2.38:5000
-#EXTINF:0,SIP TV
-http://89.212.246.73:8888/udp/239.10.2.39:5000
-#EXTINF:0,Sponka Gold TV
-http://89.212.246.73:8888/udp/239.10.2.65:5000
-#EXTINF:0,BN TV
-http://89.212.246.73:8888/udp/239.12.2.187:5000
-#EXTINF:0,RTS
-http://89.212.246.73:8888/udp/239.11.2.114:5000
-#EXTINF:0,RTS 1
-http://89.212.246.73:8888/udp/239.13.2.251:5000
-#EXTINF:0,K::CN 3 Svet+
-http://89.212.246.73:8888/udp/239.13.2.255:5000
+
+
+
+
+
+
+
+-----------sultanovic.net------------------
 #EXTINF:0,RTV Atlas
 http://89.212.246.73:8888/udp/239.13.2.244:5000
 #EXTINF:0,Alfa TV Makedonija
@@ -1166,61 +1093,8 @@ http://178.124.183.11/hls/CH_SETANTASPORT/variant.m3u8?version=2
 http://178.124.183.11/hls/CH_SETANTASPORTPLUS/variant.m3u8?version=2
 #EXTINF:-1,Nash Football ru
 http://178.124.183.11/hls/CH_NASHFUTBOL/variant.m3u8?version=2
-------------XXXXX-----------
-#EXTINF:-1,xxx
-http://37.193.253.250:81/udp/239.1.6.32:1234
-#EXTINF:-1,xxx
-http://37.193.253.250:81/udp/239.1.6.33:1234
-#EXTINF:-1,O-la-la
-http://37.193.253.250:81/udp/239.1.6.34:1234
-#EXTINF:-1,Hustler HD
-http://37.193.253.250:81/udp/239.1.6.35:1234
-#EXTINF:-1,Hustler
-http://37.193.253.250:81/udp/239.1.6.36:1234
-#EXTINF:-1,Playboy TV
-http://37.193.253.250:81/udp/239.1.6.39:1234
-#EXTINF:-1,Brazzers TV
-http://37.193.253.250:81/udp/239.1.6.40:1234
 
 
-#EXTINF:-1,Русская ночь
-http://37.193.141.93:81/udp/239.1.6.32:1234
-#EXTINF:-1,xxx
-http://37.193.141.93:81/udp/239.1.6.33:1234
-#EXTINF:-1,O-la-la
-http://37.193.141.93:81/udp/239.1.6.34:1234
-#EXTINF:-1,Hustler HD
-http://37.193.141.93:81/udp/239.1.6.35:1234
-#EXTINF:-1,Hustler
-http://37.193.141.93:81/udp/239.1.6.36:1234
-#EXTINF:-1,Playboy TV
-http://37.193.141.93:81/udp/239.1.6.39:1234
-#EXTINF:-1,Brazzers TV
-http://37.193.141.93:81/udp/239.1.6.40:1234
-#EXTINF:-1,PlayBoy
-http://46.23.144.106:81/udp/239.1.6.39:1234
-#EXTINF:-1,xxx
-http://46.23.144.106:81/udp/239.1.6.32:1234
-#EXTINF:-1,O-la-la
-http://46.23.144.106:81/udp/239.1.6.34:1234
-#EXTINF:-1,Hustler HD
-http://46.23.144.106:81/udp/239.1.6.35:1234
-#EXTINF:-1,xxx
-http://46.23.144.106:81/udp/239.1.6.33:1234
-#EXTINF:-1,Blue Hustler
-http://46.23.144.106:81/udp/239.1.6.36:1234
-#EXTINF:-1,PlayBoy
-http://109.237.156.16:81/udp/239.1.6.39:1234
-#EXTINF:-1,xxx6
-http://109.237.156.16:81/udp/239.1.6.32:1234
-#EXTINF:-1,O-la-la
-http://109.237.156.16:81/udp/239.1.6.34:1234
-#EXTINF:-1,Hustler HD
-http://109.237.156.16:81/udp/239.1.6.35:1234
-#EXTINF:-1,xxx4
-http://109.237.156.16:81/udp/239.1.6.33:1234
-#EXTINF:-1,Blue Hustler
-http://109.237.156.16:81/udp/239.1.6.36:1234
 ---------RUSKI---------
 #EXTINF:-1,30 Русский роман
 http://176.112.96.17:8000/play/a00u
@@ -1752,349 +1626,7 @@ http://213.80.192.255:34040/udp/226.100.11.2:2001
 #EXTINF:-1,ĐĐ»Đ»ŃŽĐ·Đ¸ĐľĐ˝+ HD
 http://213.80.192.255:34040/udp/226.100.11.4:2001
 
- -------BUGARI------
- #EXTINF:-1,bTV
-http://185.44.118.34:40555/udp/239.1.1.101:4000
-#EXTINF:-1,БНТ 1
-http://185.44.118.34:40555/udp/239.1.1.102:4000
-#EXTINF:-1,Nova TV
-http://185.44.118.34:40555/udp/239.1.1.103:4000
-#EXTINF:-1,TV Evropa
-http://185.44.118.34:40555/udp/239.1.1.105:4000
-#EXTINF:-1,SKAT
-http://185.44.118.34:40555/udp/239.1.1.106:4000
-#EXTINF:-1,Kanal 3
-http://185.44.118.34:40555/udp/239.1.1.107:4000
-#EXTINF:-1,TV7
-http://185.44.118.34:40555/udp/239.1.1.108:4000
-#EXTINF:-1,Bnt World
-http://185.44.118.34:40555/udp/239.1.1.109:4000
-#EXTINF:-1,bTV Comedy
-http://185.44.118.34:40555/udp/239.1.1.110:4000
-#EXTINF:-1,bTV Cinema
-http://185.44.118.34:40555/udp/239.1.1.111:4000
-#EXTINF:-1,Alfa Ataka
-http://185.44.118.34:40555/udp/239.1.1.112:4000
-#EXTINF:-1,AXN
-http://185.44.118.34:40555/udp/239.1.1.114:4000
-#EXTINF:-1,AXN Black
-http://185.44.118.34:40555/udp/239.1.1.115:4000
-#EXTINF:-1,AXN White
-http://185.44.118.34:40555/udp/239.1.1.116:4000
-#EXTINF:-1,News7
-http://185.44.118.34:40555/udp/239.1.1.117:4000
-#EXTINF:-1,The Voice
-http://185.44.118.34:40555/udp/239.1.1.119:4000
-#EXTINF:-1,MTV
-http://185.44.118.34:40555/udp/239.1.1.120:4000
-#EXTINF:-1,VH1
-http://185.44.118.34:40555/udp/239.1.1.121:4000
-#EXTINF:-1,FEN TV
-http://185.44.118.34:40555/udp/239.1.1.122:4000
-#EXTINF:-1,Balkanika
-http://185.44.118.34:40555/udp/239.1.1.123:4000
-#EXTINF:-1,Folklor TV
-http://185.44.118.34:40555/udp/239.1.1.124:4000
-#EXTINF:-1,Planeta TV
-http://185.44.118.34:40555/udp/239.1.1.125:4000
-#EXTINF:-1,Planeta Folk
-http://185.44.118.34:40555/udp/239.1.1.126:4000
-#EXTINF:-1,RING.BG
-http://185.44.118.34:40555/udp/239.1.1.127:4000
-#EXTINF:-1,Eurosport News
-http://185.44.118.34:40555/udp/239.1.1.128:4000
-#EXTINF:-1,Eurosport
-http://185.44.118.34:40555/udp/239.1.1.129:4000
-#EXTINF:-1,Eurosport 2
-http://185.44.118.34:40555/udp/239.1.1.130:4000
-#EXTINF:-1,National Geographic
-http://185.44.118.34:40555/udp/239.1.1.131:4000
-#EXTINF:-1,Discovery Channel
-http://185.44.118.34:40555/udp/239.1.1.132:4000
-#EXTINF:-1,Discovery World
-http://185.44.118.34:40555/udp/239.1.1.133:4000
-#EXTINF:-1,Discovery Science
-http://185.44.118.34:40555/udp/239.1.1.134:4000
-#EXTINF:-1,Animal Planet
-http://185.44.118.34:40555/udp/239.1.1.135:4000
-#EXTINF:-1,24 Kitchen
-http://185.44.118.34:40555/udp/239.1.1.136:4000
-#EXTINF:-1,Mtv Rock
-http://185.44.118.34:40555/udp/239.1.1.137:4000
-#EXTINF:-1,NG WILD
-http://185.44.118.34:40555/udp/239.1.1.138:4000
-#EXTINF:-1,Super7
-http://185.44.118.34:40555/udp/239.1.1.140:4000
-#EXTINF:-1,Btk
-http://185.44.118.34:40555/udp/239.1.1.141:4000
-#EXTINF:-1,Cartoon Network
-http://185.44.118.34:40555/udp/239.1.1.142:4000
-#EXTINF:-1,bTV Action
-http://185.44.118.34:40555/udp/239.1.1.143:4000
-#EXTINF:-1,Diema
-http://185.44.118.34:40555/udp/239.1.1.144:4000
-#EXTINF:-1,FOX Crime
-http://185.44.118.34:40555/udp/239.1.1.148:4000
-#EXTINF:-1,Fox 
-http://185.44.118.34:40555/udp/239.1.1.151:4000
-#EXTINF:-1,Rt bg
-http://185.44.118.34:40555/udp/239.1.1.153:4000
-#EXTINF:-1,France 24
-http://185.44.118.34:40555/udp/239.1.1.154:4000
-#EXTINF:-1,Cctv 9
-http://185.44.118.34:40555/udp/239.1.1.155:4000
-#EXTINF:-1,France 24
-http://185.44.118.34:40555/udp/239.1.1.156:4000
-#EXTINF:-1,AMC
-http://185.44.118.34:40555/udp/239.1.1.157:4000
-#EXTINF:-1,FILMBOX EXTRA HD
-http://185.44.118.34:40555/udp/239.1.1.158:4000
-#EXTINF:-1,Nbc news
-http://185.44.118.34:40555/udp/239.1.1.160:4000
-#EXTINF:-1,BBC WORLD NEWS
-http://185.44.118.34:40555/udp/239.1.1.161:4000
-#EXTINF:-1,Blumberg
-http://185.44.118.34:40555/udp/239.1.1.165:4000
-#EXTINF:-1,TVE
-http://185.44.118.34:40555/udp/239.1.1.169:4000
-#EXTINF:-1,TVE-24
-http://185.44.118.34:40555/udp/239.1.1.170:4000
-#EXTINF:-1,VOX
-http://185.44.118.34:40555/udp/239.1.1.172:4000
-#EXTINF:-1,SAT 1 
-http://185.44.118.34:40555/udp/239.1.1.175:4000
-#EXTINF:-1,RTL-NITRO
-http://185.44.118.34:40555/udp/239.1.1.176:4000
-#EXTINF:-1,Boomerang
-http://185.44.118.34:40555/udp/239.1.1.177:4000
-#EXTINF:-1,Mezzo live hd
-http://185.44.118.34:40555/udp/239.1.1.178:4000
-#EXTINF:-1,Fine Living
-http://185.44.118.34:40555/udp/239.1.1.179:4000
-#EXTINF:-1,DM Sat
-http://185.44.118.34:40555/udp/239.1.1.180:4000
-#EXTINF:-1,SAT 1
-http://185.44.118.34:40555/udp/239.1.1.181:4000
-#EXTINF:-1,Pro 7
-http://185.44.118.34:40555/udp/239.1.1.182:4000
-#EXTINF:-1,Fiesta TV
-http://185.44.118.34:40555/udp/239.1.1.185:4000
-#EXTINF:-1,RTL
-http://185.44.118.34:40555/udp/239.1.1.186:4000
-#EXTINF:-1,CLASSICA
-http://185.44.118.34:40555/udp/239.1.1.187:4000
-#EXTINF:-1,Mezzo
-http://185.44.118.34:40555/udp/239.1.1.188:4000
-#EXTINF:-1,Viasat Nature
-http://185.44.118.34:40555/udp/239.1.1.189:4000
-#EXTINF:-1,History Channel
-http://185.44.118.34:40555/udp/239.1.1.190:4000
-#EXTINF:-1,Kanal T
-http://185.44.118.34:40555/udp/239.1.1.199:4000
-#EXTINF:-1,Hobby TV HD
-http://185.44.118.34:40555/udp/239.1.1.200:4000
-#EXTINF:-1,1HD
-http://185.44.118.34:40555/udp/239.1.1.201:4000
-#EXTINF:-1,WDR HD 
-http://185.44.118.34:40555/udp/239.1.1.202:4000
-#EXTINF:-1,ZDF
-http://185.44.118.34:40555/udp/239.1.1.203:4000
-#EXTINF:-1,ARTE
-http://185.44.118.34:40555/udp/239.1.1.204:4000
-#EXTINF:-1,TV1 HD
-http://185.44.118.34:40555/udp/239.1.1.205:4000
-#EXTINF:-1,WDR
-http://185.44.118.34:40555/udp/239.1.1.206:4000
-#EXTINF:-1,ALJAZEERA
-http://185.44.118.34:40555/udp/239.1.1.208:4000
-#EXTINF:-1,SKY NEWS
-http://185.44.118.34:40555/udp/239.1.1.209:4000
-#EXTINF:-1,EURONEWS
-http://185.44.118.34:40555/udp/239.1.1.210:4000
-#EXTINF:-1,RT Documentary
-http://185.44.118.34:40555/udp/239.1.1.215:4000
-#EXTINF:-1,RAI 1
-http://185.44.118.34:40555/udp/239.1.1.221:4000
-#EXTINF:-1,TG2 STORIE
-http://185.44.118.34:40555/udp/239.1.1.222:4000
-#EXTINF:-1,RAI 3
-http://185.44.118.34:40555/udp/239.1.1.223:4000
-#EXTINF:-1,RAI NEWS 24
-http://185.44.118.34:40555/udp/239.1.1.224:4000
-#EXTINF:-1,TV SANSON
-http://185.44.118.34:40555/udp/239.1.1.225:4000
-#EXTINF:-1,DSMART 26
-http://185.44.118.34:40555/udp/239.1.2.50:4000
-#EXTINF:-1,KANAL 5
-http://185.44.118.34:40555/udp/239.1.2.52:4000
-#EXTINF:-1,EUROSTAR
-http://185.44.118.34:40555/udp/239.1.2.57:4000
-#EXTINF:-1,NTV EUROPE
-http://185.44.118.34:40555/udp/239.1.2.58:4000
-#EXTINF:-1,POTV
-http://185.44.118.34:40555/udp/239.1.2.61:4000
-#EXTINF:-1,CCTV
-http://185.44.118.34:40555/udp/239.1.2.62:4000
-#EXTINF:-1,MGM HD 
-http://185.44.118.34:40555/udp/239.1.2.64:4000
-#EXTINF:-1,Nickeledeon
-http://185.44.118.34:40555/udp/239.1.2.65:4000
-#EXTINF:-1,TV 1000 HD Comedy
-http://185.44.118.34:40555/udp/239.1.2.66:4000
-#EXTINF:-1,TV 1000 HD Megahit 
-http://185.44.118.34:40555/udp/239.1.2.67:4000
-#EXTINF:-1,SPORT 1
-http://185.44.118.34:40555/udp/239.1.2.70:4000
-#EXTINF:-1,FUDBAL 1 RU
-http://185.44.118.34:40555/udp/239.1.2.74:4000
-#EXTINF:-1,FUDBAL 2 RU
-http://185.44.118.34:40555/udp/239.1.2.75:4000
-#EXTINF:-1,FUDBAL 3 RU
-http://185.44.118.34:40555/udp/239.1.2.76:4000
-#EXTINF:-1,NTV HD
-http://185.44.118.34:40555/udp/239.1.2.77:4000
-#EXTINF:-1,1HD DE 
-http://185.44.118.34:40555/udp/239.1.2.78:4000
-#EXTINF:-1,HBO2 
-http://185.44.118.34:40555/udp/239.1.2.81:4000
-#EXTINF:-1,MEZZO LIVE HD 
-http://185.44.118.34:40555/udp/239.1.2.82:4000
-#EXTINF:-1,Nas Fudbal 
-http://185.44.118.34:40555/udp/239.1.2.83:4000
-#EXTINF:-1,RTG HD
-http://185.44.118.34:40555/udp/239.1.2.84:4000
-#EXTINF:-1,MagicTV
-http://185.44.118.34:40555/udp/239.1.2.200:4000
-#EXTINF:-1,RCK
-http://185.44.118.34:40555/udp/239.1.3.2:4000
-#EXTINF:-1,Jukebox
-http://185.44.118.34:40555/udp/239.1.3.3:4000
-#EXTINF:-1,BG MUSIC
-http://185.44.118.34:40555/udp/239.1.3.121:4000
-#EXTINF:-1,FEN TV
-http://185.44.118.34:40555/udp/239.1.3.122:4000
-#EXTINF:-1,BALKANIKA
-http://185.44.118.34:40555/udp/239.1.3.123:4000
-#EXTINF:-1,Nat Geo Wild HD
-http://185.44.118.34:40555/udp/239.1.0.61:4000
-#EXTINF:-1,Diema Sport SD
-http://185.44.118.34:40555/udp/239.1.0.63:4000
-#EXTINF:-1,Nat Geo HD
-http://185.44.118.34:40555/udp/239.1.0.68:4000
-#EXTINF:-1,TV Plus
-http://185.44.118.34:40555/udp/239.1.0.70:4000
-#EXTINF:-1,Hobby TV
-http://185.44.118.34:40555/udp/239.1.0.71:4000
-#EXTINF:-1,Chasse & Peche BG
-http://185.44.118.34:40555/udp/239.1.0.73:4000
-#EXTINF:-1,AB MOTEURS
-http://185.44.118.34:40555/udp/239.1.0.74:4000
-#EXTINF:-1,Film Plus
-http://185.44.118.34:40555/udp/239.1.0.80:4000
-#EXTINF:-1,F Plus
-http://185.44.118.34:40555/udp/239.1.0.81:4000
-#EXTINF:-1,HBO+
-http://185.44.118.34:40555/udp/239.1.0.82:4000
-#EXTINF:-1,HBO3
-http://185.44.118.34:40555/udp/239.1.0.83:4000
-#EXTINF:-1,CINEMAX
-http://185.44.118.34:40555/udp/239.1.0.85:4000
-#EXTINF:-1,Diema Sport 2 SD
-http://185.44.118.34:40555/udp/239.1.0.88:4000
-#EXTINF:-1,RING
-http://185.44.118.34:40555/udp/239.1.0.92:4000
-#EXTINF:-1,B Action hd 
-http://185.44.118.34:40555/udp/239.1.0.93:4000
-#EXTINF:-1,Bnt
-http://185.44.118.34:40555/udp/239.1.0.94:4000
-#EXTINF:-1,7 News
-http://185.44.118.34:40555/udp/239.1.0.95:4000
-#EXTINF:-1,BNT 1
-http://185.44.118.34:40555/udp/239.1.0.96:4000
-#EXTINF:-1,BNT HD
-http://185.44.118.34:40555/udp/239.1.0.98:4000
-#EXTINF:-1,Viasat History
-http://185.44.118.34:40555/udp/239.1.0.101:4000
-#EXTINF:-1,NOVA
-http://185.44.118.34:40555/udp/239.1.0.103:4000
-#EXTINF:-1,Nova Sport
-http://185.44.118.34:40555/udp/239.1.0.104:4000
-#EXTINF:-1,18+ xxx
-http://185.44.118.34:40555/udp/239.1.0.105:4000
-#EXTINF:-1,Kino Nova
-http://185.44.118.34:40555/udp/239.1.0.106:4000
-#EXTINF:-1,Diema Family
-http://185.44.118.34:40555/udp/239.1.0.107:4000
-#EXTINF:-1,Diema Sport
-http://185.44.118.34:40555/udp/239.1.0.108:4000
-#EXTINF:-1,Diema Sport 2
-http://185.44.118.34:40555/udp/239.1.0.109:4000
-#EXTINF:-1,City TV
-http://185.44.118.34:40555/udp/239.1.0.110:4000
-#EXTINF:-1,VH1 Classic
-http://185.44.118.34:40555/udp/239.1.0.117:4000
-#EXTINF:-1,MTV Hits
-http://185.44.118.34:40555/udp/239.1.0.118:4000
-#EXTINF:-1,MTV Dance
-http://185.44.118.34:40555/udp/239.1.0.138:4000
-#EXTINF:-1,BTV
-http://185.44.118.34:40555/udp/239.1.5.101:4000
-#EXTINF:-1,NOVA TV
-http://185.44.118.34:40555/udp/239.1.5.103:4000
-#EXTINF:-1,BG on AIR
-http://185.44.118.34:40555/udp/239.1.5.112:4000
-#EXTINF:-1,Первый
-http://185.44.118.34:40555/udp/239.1.5.1:4000
-#EXTINF:-1,Россия 1
-http://185.44.118.34:40555/udp/239.1.5.2:4000
-#EXTINF:-1,НТВ
-http://185.44.118.34:40555/udp/239.1.5.3:4000
-#EXTINF:-1,Россия К
-http://185.44.118.34:40555/udp/239.1.5.4:4000
-#EXTINF:-1,Россия 24
-http://185.44.118.34:40555/udp/239.1.5.6:4000
-#EXTINF:-1,Пятый канал
-http://185.44.118.34:40555/udp/239.1.5.7:4000
-#EXTINF:-1,Че
-http://185.44.118.34:40555/udp/239.1.5.8:4000
-#EXTINF:-1,Карусель
-http://185.44.118.34:40555/udp/239.1.5.9:4000
-#EXTINF:-1,ТВЦ
-http://185.44.118.34:40555/udp/239.1.5.10:4000
-#EXTINF:-1,RuTV
-http://185.44.118.34:40555/udp/239.1.5.11:4000
-#EXTINF:-1,ОТР
-http://185.44.118.34:40555/udp/239.1.5.13:4000
-#EXTINF:-1,Мир
-http://185.44.118.34:40555/udp/239.1.5.21:4000
-#EXTINF:-1,ТНТ
-http://185.44.118.34:40555/udp/239.1.5.22:4000
-#EXTINF:-1,Нано
-http://185.44.118.34:40555/udp/239.1.5.23:4000
-#EXTINF:-1,KIEV STB
-http://185.44.118.34:40555/udp/239.1.5.50:4000
-#EXTINF:-1,M1
-http://185.44.118.34:40555/udp/239.1.5.51:4000
-#EXTINF:-1,NOVY CHANNEL
-http://185.44.118.34:40555/udp/239.1.5.52:4000
-#EXTINF:-1,ICTV
-http://185.44.118.34:40555/udp/239.1.5.53:4000
-#EXTINF:-1,M2
-http://185.44.118.34:40555/udp/239.1.5.54:4000
-#EXTINF:-1,MILADY TELEVISION
-http://185.44.118.34:40555/udp/239.1.5.55:4000
-#EXTINF:-1,NEWS 24
-http://185.44.118.34:40555/udp/239.1.5.56:4000
-#EXTINF:-1,Pervy delovoy
-http://185.44.118.34:40555/udp/239.1.5.57:4000
-#EXTINF:-1,QTV
-http://185.44.118.34:40555/udp/239.1.5.58:4000
-#EXTINF:-1,Culture
-http://185.44.118.34:40555/udp/239.1.5.59:4000
-#EXTINF:-1,firstua
-http://185.44.118.34:40555/udp/239.1.5.60:4000
-#EXTINF:-1,TVP INFO
-http://185.44.118.34:40555/udp/239.1.5.80:4000
+ ----RUSKI SPORTSKI-------
 #EXTINF: -1, Match TV
 http://s02.mnogo-tv.by:8000/play/MATCH_TV
 #EXTINF: -1, Match Fighter
