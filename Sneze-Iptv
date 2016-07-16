@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,TV+MKD
+http://141.136.14.18/kanal1/kanal1.m3u8
 #EXTINF:-1,Матч тв
 http://s02.mnogo-tv.by:8000/play/MATCH_TV
 #EXTINF:-1,Матч Боец
