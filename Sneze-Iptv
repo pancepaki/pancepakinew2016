@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1,Матч тв
+http://s02.mnogo-tv.by:8000/play/MATCH_TV
+#EXTINF:-1,Матч Боец
+http://s02.mnogo-tv.by:8000/play/BOEC
+#EXTINF:-1,Матч арена
+http://s02.mnogo-tv.by:8000/play/ARENA
+#EXTINF:-1,МАТЧ ИГРА
+http://s02.mnogo-tv.by:8000/play/IGRA
+#EXTINF:-1,матч наш спорт
+http://s02.mnogo-tv.by:8000/play/NASH_SPORT
+#EXTINF:-1,Матч Планета
+http://s02.mnogo-tv.by:8000/play/MS
+#EXTINF:-1,Матч футбол
+http://s02.mnogo-tv.by:8000/play/FUTBOLL_1
+#EXTINF:-1,Матч футбол 2
+http://s02.mnogo-tv.by:8000/play/FUTBOLL_2
+#EXTINF:-1,Матч футбол 3
+http://s02.mnogo-tv.by:8000/play/FUTBOLL_3
+#EXTINF:-1,Наш футбол
+http://s02.mnogo-tv.by:8000/play/NASH_FUTBOLS
+#EXTINF:-1,KHL TV
+http://s02.mnogo-tv.by:8000/play/KHL_TV
+#EXTINF:-1,Бокс
+http://s02.mnogo-tv.by:8000/play/BOKSTV
+#EXTINF:-1,SETANTA SPORT
+http://s02.mnogo-tv.by:8000/play/SETANTASPORT
+#EXTINF:-1,SETANTA SPORT PLUS
+http://s02.mnogo-tv.by:8000/play/SETANTASPORTPLUS
 #EXTINF:-1,JUGOTON TV
 http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/playlist.m3u8
 #EXTINF:0,Jugoton TV
