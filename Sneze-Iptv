@@ -725,4 +725,21 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 #EXTINF:-1,Beats  music  [COLOR lime]FTA[/COLOR]
 http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
+-----proba----
+#EXTINF:-1,MRT 1
+http://95.128.191.112:81/play/a00i
+#EXTINF:-1,Kanal Plus HDTV
+http://95.128.191.112:81/play/a00g
+#EXTINF:-1,Sobraniski Kanal
+http://95.128.191.112:81/play/a00k
+#EXTINF:-1,Telma
+http://95.128.191.112:81/play/a00d
+#EXTINF:-1,MRT 2
+http://95.128.191.112:81/play/a00j
+#EXTINF:-1,Alsat M
+http://95.128.191.112:81/play/a00e
+#EXTINF:-1,Kanal 5
+http://95.128.191.112:81/play/a01p
+#EXTINF:-1,Sitel
+http://95.128.191.112:81/play/a00b
 
