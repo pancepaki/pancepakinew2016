@@ -1,6 +1,18 @@
 #EXTM3U
 #EXTINF:-1,TV+MKD
 http://141.136.14.18/kanal1/kanal1.m3u8
+#EXTINF:0,Cine Plus Select 1
+http://dzandecembar1.dyndns.org:8088/live?channelId=845&uid=244&deviceUser=erko&devicePass=erko21975
+#EXTINF:0,Cine Plus Select 2
+http://freeiptv2search.dyndns.tv:2801/live?channelId=846&uid=244&deviceUser=erko&devicePass=erko21975
+#EXTINF:0,Cine Plus Select 3
+http://dzandecembar1.dyndns.org:8088/live?channelId=847&uid=244&deviceUser=erko&devicePass=erko21975
+#EXTINF:0,Cine Plus Select 4
+http://freeiptv2search.dyndns.tv:2801/live?channelId=848&uid=244&deviceUser=erko&devicePass=erko21975
+#EXTINF:0,Cine Plus Select 5
+http://freeiptv2search.dyndns.tv:2801/live?channelId=849&uid=244&deviceUser=erko&devicePass=erko21975
+#EXTINF:0,Cine Plus Select 6
+http://freeiptv2search.dyndns.tv:2801/live?channelId=850&uid=244&deviceUser=erko&devicePass=erko21975
 #EXTINF:-1,Матч тв
 http://s02.mnogo-tv.by:8000/play/MATCH_TV
 #EXTINF:-1,Матч Боец
