@@ -744,4 +744,26 @@ http://95.128.191.112:81/play/a01p
 http://95.128.191.112:81/play/a00b
 #EXTINF:-1,Deluxe music
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
+#EXTINF:0,Sky Sport News HD
+http://tv.stream4k.net/hls/ssnhd.m3u8
+#EXTINF:0,Sky Sport HD 1
+http://tv.stream4k.net/hls/sporthd1.m3u8
+#EXTINF:0,Sky Sport HD 2
+http://tv.stream4k.net/hls/sporthd2.m3u8
+#EXTINF:0,Sky Cinema HD
+http://tv.stream4k.net/hls/cinema.m3u8
+#EXTINF:0,Sky Hits HD
+http://tv.stream4k.net/hls/007.m3u8
+#EXTINF:0,Fox HD
+http://tv.stream4k.net/hls/foxhd.m3u8
+#EXTINF:0,Sky Discovery HD
+http://tv.stream4k.net/hls/discovery.m3u8
+#EXTINF:0,National Geographic HD
+http://tv.stream4k.net/hls/national.m3u8
+#EXTINF:0,National Geographic Wild HD
+http://tv.stream4k.net/hls/nationalwild.m3u8
+#EXTINF:0,Sky Atlantic HD
+http://tv.stream4k.net/hls/atlantic.m3u8
+#EXTINF:0,Sport US HD
+http://tv.stream4k.net/hls/sportus.m3u8
 
