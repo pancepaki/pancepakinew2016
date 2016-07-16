@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1,TV+MKD
 http://141.136.14.18/kanal1/kanal1.m3u8
-#EXTINF:-1,Minimax
+#EXTINF:-1,Cinemania Plus
 http://92.60.224.62:3018/udp/239.10.57.10:12057
 #EXTINF:-1,TV Istok
 http://92.60.224.62:3018/udp/231.1.8.1:5908
