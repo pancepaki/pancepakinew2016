@@ -744,5 +744,4 @@ http://95.128.191.112:81/play/a01p
 http://95.128.191.112:81/play/a00b
 #EXTINF:-1,Deluxe music
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
-#EXTINF:-1,History m3u8
-http://cdn.IPTV.amis.net/ts/CROHISTORY/stream_wifi_1200k.m3u8
+
