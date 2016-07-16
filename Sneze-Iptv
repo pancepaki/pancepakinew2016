@@ -11,7 +11,12 @@ http://92.60.224.62:3018/udp/238.21.13.1:6007
 http://92.60.224.62:3018/udp/238.21.13.1:6007
 #EXTINF:-1,SOS Kanal
 http://92.60.224.62:3018/udp/239.10.58.10:12058
-
+#EXTINF:-1,Arena Sport1 IPTVUltra.com [720x576]
+http://195.230.24.166:1935/live/898953arenasport.stream/playlist.m3u8
+#EXTINF:-1,Arena Sport2 IPTVUltra.com [720x576]
+http://195.230.24.166:1935/live/898953arenasport2.stream/playlist.m3u8
+#EXTINF:-1,Arena Sport3 IPTVUltra.com [720x576]
+http://195.230.24.166:1935/live/898953arenasport3.stream/playlist.m3u8
 #EXTINF:0,Cine Plus Select 1
 http://dzandecembar1.dyndns.org:8088/live?channelId=845&uid=244&deviceUser=erko&devicePass=erko21975
 #EXTINF:0,Cine Plus Select 2
@@ -756,8 +761,7 @@ http://95.128.191.112:81/play/a00b
 #EXTINF:-1,Deluxe music
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
 ----proba 2-----
-#EXTINF:-1,a Spor HD IPTVUltra.com [1280x720]
-http://188.165.46.79:1935/live/898953aspor.stream/playlist.m3u8
+
 #EXTINF:-1,Arena Sport1 IPTVUltra.com [720x576]
 http://195.230.24.166:1935/live/898953arenasport.stream/playlist.m3u8
 #EXTINF:-1,Arena Sport2 IPTVUltra.com [720x576]
