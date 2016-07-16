@@ -1,7 +1,16 @@
 #EXTM3U
 #EXTINF:-1,TV+MKD
 http://141.136.14.18/kanal1/kanal1.m3u8
-
+#EXTINF:-1,Minimax
+http://92.60.224.62:3018/udp/239.10.57.10:12057
+#EXTINF:-1,TV Istok
+http://92.60.224.62:3018/udp/231.1.8.1:5908
+#EXTINF:-1,Prva Plus
+http://92.60.224.62:3018/udp/238.21.13.1:6007
+#EXTINF:-1,Prva Plus
+http://92.60.224.62:3018/udp/238.21.13.1:6007
+#EXTINF:-1,SOS Kanal
+http://92.60.224.62:3018/udp/239.10.58.10:12058
 
 #EXTINF:0,Cine Plus Select 1
 http://dzandecembar1.dyndns.org:8088/live?channelId=845&uid=244&deviceUser=erko&devicePass=erko21975
