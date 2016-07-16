@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1,TV+MKD
 http://141.136.14.18/kanal1/kanal1.m3u8
+#EXTINF:0, Iris TV MK
+mms://62.162.58.55/TVIris
+
 #EXTINF:0,Cine Plus Select 1
 http://dzandecembar1.dyndns.org:8088/live?channelId=845&uid=244&deviceUser=erko&devicePass=erko21975
 #EXTINF:0,Cine Plus Select 2
