@@ -24,6 +24,50 @@ rtmp://46.105.209.61/live/live /vip-hd-tv.sdp
 #EXTINF:1, VIP HD
 http://46.105.209.61/live/live /vip-hd-tv
 -------------SPORT------------
+------TURSKA----
+#EXTINF:-1,a Spor HD IPTVUltra.com [1280x720]
+http://188.165.46.79:1935/live/898953aspor.stream/playlist.m3u8
+#EXTINF:-1,Arena Sport1 IPTVUltra.com [720x576]
+http://195.230.24.166:1935/live/898953arenasport.stream/playlist.m3u8
+#EXTINF:-1,Arena Sport2 IPTVUltra.com [720x576]
+http://195.230.24.166:1935/live/898953arenasport2.stream/playlist.m3u8
+#EXTINF:-1,Arena Sport3 IPTVUltra.com [720x576]
+http://195.230.24.166:1935/live/898953arenasport3.stream/playlist.m3u8
+#EXTINF:-1,Bein Sport 1 HD IPTVUltra.com [1920x1080]
+http://188.165.46.79:1935/live/898953beins1.stream/playlist.m3u8
+#EXTINF:-1,Bein Sport 2 HD IPTVUltra.com [1920x1080]
+http://188.165.46.79:1935/live/898953bein2.stream/playlist.m3u8
+#EXTINF:-1,Bein Sport 3 HD IPTVUltra.com [1920x1080]
+http://195.230.24.166:1935/live/898953beins3.stream/playlist.m3u8
+#EXTINF:-1,Euro Sport 2 HD IPTVUltra.com [1280x720]
+http://188.165.46.79:1935/live/898953eurosport22.stream/playlist.m3u8
+#EXTINF:-1,Lig TV 1 IPTVUltra.com [1280x720]
+http://188.165.46.79:1935/live/898953oneliveligtv.stream/playlist.m3u8
+#EXTINF:-1,Lig TV 2 IPTVUltra.com [1280x720]
+http://188.165.46.79:1935/live/898953sportoto1.stream/playlist.m3u8
+#EXTINF:-1,Lig TV 3 IPTVUltra.com [1280x720]
+http://188.165.46.79:1935/live/898953ligtv3.stream/playlist.m3u8
+#EXTINF:-1,National Geographic HD IPTVUltra.com [854x480]
+http://195.230.24.166:1935/live/898953nationalgeographic.stream/playlist.m3u8
+#EXTINF:-1,National Geographic Wild HD IPTVUltra.com [1280x720]
+http://195.230.24.166:1935/live/898953nationalwild.stream/playlist.m3u8
+#EXTINF:-1,NBA TV IPTVUltra.com [640x360]
+http://188.165.46.79:1935/live/898953nba.stream/playlist.m3u8
+#EXTINF:-1,Sky Sport 1 HD IPTVUltra.com [1280x720]
+http://188.165.46.79:1935/live/898953skysports.stream/playlist.m3u8
+#EXTINF:-1,Sky Sport 2 IPTVUltra.com [1280x720]
+http://188.165.46.79:1935/live/898953skysports2.stream/playlist.m3u8
+#EXTINF:-1,Smart Spor IPTVUltra.com [1280x720]
+http://195.230.24.166:1935/live/898953smartspor.stream/playlist.m3u8
+#EXTINF:-1,Smart Spor2 IPTVUltra.com [1280x720]
+http://195.230.24.166:1935/live/898953smartspor2.stream/playlist.m3u8
+#EXTINF:-1,Tivibu Spor IPTVUltra.com [1280x720]
+http://188.165.46.79:1935/live/898953tivibuspor.stream/playlist.m3u8
+#EXTINF:-1,Tivibu Spor2 IPTVUltra.com [1280x720]
+http://188.165.46.79:1935/live/898953tivibuspor2.stream/playlist.m3u8
+-----------------DOTUKA-----
+
+
 #EXTINF: -1, Match TV
 http://s02.mnogo-tv.by:8000/play/MATCH_TV
 #EXTINF: -1, Match Fighter
@@ -3011,3 +3055,46 @@ http://cdn.magictvbox.eu:8080/tvc21/720p.m3u8
 http://cdn.magictvbox.eu:8080/tvr/720p.m3u8
 #EXTINF:0, UTV
 http://cdn.magictvbox.eu:8080/utv/720p.m3u8
+-----------------------EXYU----------------------
+#‎EXTINF‬:-1,Prva Plus
+http://92.60.224.62:3014/udp/238.21.13.1:6007
+#EXTINF:-1,RTS HD
+http://92.60.224.62:3014/udp/238.10.0.1:6005
+#EXTINF:-1,pink3
+http://92.60.224.62:3018/udp/232.171.194.1:4000
+#EXTINF:-1,pink muzik
+http://92.60.224.62:3018/udp/232.171.194.11:4000
+#EXTINF:-1,pink fasion
+http://92.60.224.62:3018/udp/232.171.194.15:4000
+#EXTINF:-1,pink plus
+http://92.60.224.62:3018/udp/232.171.194.17:4000
+#EXTINF:-1,pink extra
+http://92.60.224.62:3018/udp/232.171.194.20:4000
+#EXTINF:-1,pink bh
+http://92.60.224.62:3018/udp/232.171.194.21:4000
+#EXTINF:-1,pink action
+http://92.60.224.62:3018/udp/232.171.194.23:4000
+#EXTINF:-1,pink movies
+http://92.60.224.62:3018/udp/232.171.194.24:4000
+#EXTINF:-1,pink film
+http://92.60.224.62:3018/udp/232.171.194.25:4000
+#EXTINF:-1,pink muzik
+http://92.60.224.62:3018/udp/232.171.194.26:4000
+#EXTINF:-1,pink m
+http://92.60.224.62:3018/udp/232.171.194.29:4000
+#EXTINF:-1,pink famili
+http://92.60.224.62:3018/udp/232.171.194.27:4000
+#EXTINF:-1,pink2
+http://92.60.224.62:3018/udp/232.171.194.28:4000
+#EXTINF:-1,pink kids
+http://92.60.224.62:3018/udp/232.171.194.30:4000
+#EXTINF:-1,pink hits
+http://92.60.224.62:3018/udp/232.171.194.34:4000
+#EXTINF:-1,pink parada
+http://92.60.224.62:3018/udp/232.171.194.35:4000
+#EXTINF:-1,Minimax
+http://92.60.224.62:3013/udp/239.10.57.10:12057
+#EXTINF:-1,Srpska Naucna TV
+http://92.60.224.62:3018/udp/239.225.1.1:2511
+#EXTINF:-1,Happy
+http://92.60.224.62:3014/udp/238.21.12.1:6007
