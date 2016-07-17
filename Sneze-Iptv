@@ -287,6 +287,50 @@ http://fra1.ddns.net:97/live/test/test/103.m3u8
 #EXTINF:0,ALFA SARAJEVO MI
 http://fra1.ddns.net:97/live/test/test/205.m3u8
 ---------KRAJ TEST 17JULI----
+------EXYU 2TEST-----------------------
+#‎EXTINF‬:-1,Prva Plus
+http://92.60.224.62:3014/udp/238.21.13.1:6007
+#EXTINF:-1,RTS HD
+http://92.60.224.62:3014/udp/238.10.0.1:6005
+#EXTINF:-1,pink3
+http://92.60.224.62:3018/udp/232.171.194.1:4000
+#EXTINF:-1,pink muzik
+http://92.60.224.62:3018/udp/232.171.194.11:4000
+#EXTINF:-1,pink fasion
+http://92.60.224.62:3018/udp/232.171.194.15:4000
+#EXTINF:-1,pink plus
+http://92.60.224.62:3018/udp/232.171.194.17:4000
+#EXTINF:-1,pink extra
+http://92.60.224.62:3018/udp/232.171.194.20:4000
+#EXTINF:-1,pink bh
+http://92.60.224.62:3018/udp/232.171.194.21:4000
+#EXTINF:-1,pink action
+http://92.60.224.62:3018/udp/232.171.194.23:4000
+#EXTINF:-1,pink movies
+http://92.60.224.62:3018/udp/232.171.194.24:4000
+#EXTINF:-1,pink film
+http://92.60.224.62:3018/udp/232.171.194.25:4000
+#EXTINF:-1,pink muzik
+http://92.60.224.62:3018/udp/232.171.194.26:4000
+#EXTINF:-1,pink m
+http://92.60.224.62:3018/udp/232.171.194.29:4000
+#EXTINF:-1,pink famili
+http://92.60.224.62:3018/udp/232.171.194.27:4000
+#EXTINF:-1,pink2
+http://92.60.224.62:3018/udp/232.171.194.28:4000
+#EXTINF:-1,pink kids
+http://92.60.224.62:3018/udp/232.171.194.30:4000
+#EXTINF:-1,pink hits
+http://92.60.224.62:3018/udp/232.171.194.34:4000
+#EXTINF:-1,pink parada
+http://92.60.224.62:3018/udp/232.171.194.35:4000
+#EXTINF:-1,Minimax
+http://92.60.224.62:3013/udp/239.10.57.10:12057
+#EXTINF:-1,Srpska Naucna TV
+http://92.60.224.62:3018/udp/239.225.1.1:2511
+#EXTINF:-1,Happy
+http://92.60.224.62:3014/udp/238.21.12.1:6007
+-----------------KRAJTEST EXYU2----------------
 #EXTINF:-1,Nasa tv
 http://fms.zulu.mk:1935/zulu/nashatv_2/playlist.m3u8?wowzasessionid=1041790835
 #EXTINF:-1,Матч тв
