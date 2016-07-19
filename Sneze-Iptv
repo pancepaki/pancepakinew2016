@@ -72,6 +72,51 @@ http://92.60.224.62:3013/udp/239.10.57.10:12057
 http://92.60.224.62:3018/udp/239.225.1.1:2511
 #EXTINF:-1,Nasa tv
 http://fms.zulu.mk:1935/zulu/nashatv_2/playlist.m3u8?wowzasessionid=1041790835
+#EXTINF:-1,PINK TS RABOTI SO XMTV PLAYER
+https://www.youtube.com/watch?list=PLvOtBukI8XWCKZI0v1vfuzL0yHm6uMIIp&v=a4PwTaq8ync
+#EXTINF:0,PINK HORROR
+http://skyiptv.ddns.net:8000/live/unit1504/6526898/341.ts
+#EXTINF:0,PINK comedy
+http://skyiptv.ddns.net:8000/live/unit1504/6526898/346.ts
+#EXTINF:0,EX-YUGOSLAVIAN | Pink Zabava
+http://skyiptv.ddns.net:8000/live/unit1504/6526898/825.ts
+#EXTINF:0,EX-YUGOSLAVIAN | Pink Western
+http://skyiptv.ddns.net:8000/live/unit1504/6526898/824.ts
+#EXTINF:0,EX-YUGOSLAVIAN | Pink Thriller
+http://skyiptv.ddns.net:8000/live/unit1504/6526898/823.ts
+#EXTINF:0,EX-YUGOSLAVIAN | Pink Soap
+http://skyiptv.ddns.net:8000/live/unit1504/6526898/822.ts
+#EXTINF:0,EX-YUGOSLAVIAN | Pink Sci Fi Fantasy
+http://skyiptv.ddns.net:8000/live/unit1504/6526898/821.ts
+#EXTINF:0,EX-YUGOSLAVIAN | Pink Romance
+http://skyiptv.ddns.net:8000/live/unit1504/6526898/820.ts
+#EXTINF:0,EX-YUGOSLAVIAN | Pink Reality
+http://skyiptv.ddns.net:8000/live/unit1504/6526898/819.ts
+#EXTINF:0,EX-YUGOSLAVIAN | Pink Premium
+http://skyiptv.ddns.net:8000/live/unit1504/6526898/818.ts
+#EXTINF:0,EX-YUGOSLAVIAN | Pink Plus
+http://skyiptv.ddns.net:8000/live/unit1504/6526898/817.ts
+#EXTINF:0,EX-YUGOSLAVIAN | Pink M
+http://skyiptv.ddns.net:8000/live/unit1504/6526898/816.ts
+#EXTINF:0,EX-YUGOSLAVIAN | Pink Hits 2
+http://skyiptv.ddns.net:8000/live/unit1504/6526898/815.ts
+#EXTINF:0,EX-YUGOSLAVIAN | Pink Folk 2
+http://skyiptv.ddns.net:8000/live/unit1504/6526898/814.ts
+#EXTINF:0,EX-YUGOSLAVIAN | Pink Film
+http://skyiptv.ddns.net:8000/live/unit1504/6526898/813.ts
+#EXTINF:0,EX-YUGOSLAVIAN | Pink Extra
+http://skyiptv.ddns.net:8000/live/unit1504/6526898/812.ts
+#EXTINF:0,EX-YUGOSLAVIAN | Pink Crime & Mystery
+http://skyiptv.ddns.net:8000/live/unit1504/6526898/811.ts
+#EXTINF:0,EX-YUGOSLAVIAN | Pink BIH
+http://skyiptv.ddns.net:8000/live/unit1504/6526898/810.ts
+#EXTINF:0,EX-YUGOSLAVIAN | Pink Action
+http://skyiptv.ddns.net:8000/live/unit1504/6526898/809.ts
+#EXTINF:0,EX-YUGOSLAVIAN | Pink 2
+http://skyiptv.ddns.net:8000/live/unit1504/6526898/808.ts
+#EXTINF:0,EX-YUGOSLAVIAN | PINK
+http://skyiptv.ddns.net:8000/live/unit1504/6526898/807.ts
+
 -------sport i exyu-------------
 #EXTINF:-1,GOL TV LAT
 http://goltv.exabytetv.info/hls2/amlst:30001_ios/master.m3u8
