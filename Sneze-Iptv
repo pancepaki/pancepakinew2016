@@ -7,8 +7,7 @@ http://92.60.224.62:3018/udp/239.10.57.10:12057
 http://str108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/index.m3u
 #EXTINF:-1,Prva Plus
 http://92.60.224.62:3018/udp/238.21.13.1:6007
-#EXTINF:-1,SOS Kanal
-http://92.60.224.62:3018/udp/239.10.58.10:12058
+
 #EXTINF:0,Cine Plus Select 1
 http://dzandecembar1.dyndns.org:8088/live?channelId=845&uid=244&deviceUser=erko&devicePass=erko21975
 #EXTINF:0,Cine Plus Select 2
@@ -253,7 +252,8 @@ http://fra1.ddns.net:97/live/test/test/102.m3u8
 http://fra1.ddns.net:97/live/test/test/245.m3u8
 #EXTINF:-1,ATLAS TV
 http://fra1.ddns.net:97/live/test/test/60.m3u8
-
+#EXTINF:-1,SOS Kanal
+http://92.60.224.62:3018/udp/239.10.58.10:12058
 -----MAKEDONSKI-----
 #EXTINF:-1,SITEL
 http://fms.zulu.mk:554/zulu/sitel_1/playlist_b125000_w1132785237.m3u8? 
@@ -331,7 +331,25 @@ http://fms.zulu.mk:1935/zulu/sitel_1/playlist.m3u8
    mms://62.162.58.55/TVkanal8
    #EXTINF:0,Alfa
 http://fms.zulu.mk:554/zulu/alfa_2/playlist_b125000_w1132785237.m3u8
-
+-----proba----
+#EXTINF:-1,MRT 1
+http://95.128.191.112:81/play/a00i
+#EXTINF:-1,Kanal Plus HDTV
+http://95.128.191.112:81/play/a00g
+#EXTINF:-1,Sobraniski Kanal
+http://95.128.191.112:81/play/a00k
+#EXTINF:-1,Telma
+http://95.128.191.112:81/play/a00d
+#EXTINF:-1,MRT 2
+http://95.128.191.112:81/play/a00j
+#EXTINF:-1,Alsat M
+http://95.128.191.112:81/play/a00e
+#EXTINF:-1,Kanal 5
+http://95.128.191.112:81/play/a01p
+#EXTINF:-1,Sitel
+http://95.128.191.112:81/play/a00b
+#EXTINF:-1,Deluxe music
+http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
 ----SPORT-----
 #EXTINF:-1,ESPN HD
 http://80.80.160.168/live/6/live.m3u8
@@ -774,25 +792,7 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 #EXTINF:-1,Beats  music  [COLOR lime]FTA[/COLOR]
 http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
------proba----
-#EXTINF:-1,MRT 1
-http://95.128.191.112:81/play/a00i
-#EXTINF:-1,Kanal Plus HDTV
-http://95.128.191.112:81/play/a00g
-#EXTINF:-1,Sobraniski Kanal
-http://95.128.191.112:81/play/a00k
-#EXTINF:-1,Telma
-http://95.128.191.112:81/play/a00d
-#EXTINF:-1,MRT 2
-http://95.128.191.112:81/play/a00j
-#EXTINF:-1,Alsat M
-http://95.128.191.112:81/play/a00e
-#EXTINF:-1,Kanal 5
-http://95.128.191.112:81/play/a01p
-#EXTINF:-1,Sitel
-http://95.128.191.112:81/play/a00b
-#EXTINF:-1,Deluxe music
-http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
+
 ----proba 2-----
 
 #EXTINF:-1,Arena Sport1 IPTVUltra.com [720x576]
@@ -1259,20 +1259,7 @@ http://89.212.154.104:1234/udp/239.13.1.239:5000
 http://89.212.154.104:1234/udp/239.13.1.235:5000
 #EXTINF:0, 1 - Kanal 5 Plus
 http://89.212.154.104:1234/udp/239.13.1.236:5000
-#EXTINF:0, 1 - RTK 1
-http://89.212.154.104:1234/udp/239.11.1.111:5000
-#EXTINF:0, 1 - RTV Shqiptar
-http://89.212.154.104:1234/udp/239.13.1.204:5000
-#EXTINF:0, 1 - Tring 7
-http://89.212.154.104:1234/udp/239.13.1.206:5000
-#EXTINF:0, 1 - Tring Shqip
-http://89.212.154.104:1234/udp/239.13.1.208:5000
-#EXTINF:0, 1 - Tring Tring
-http://89.212.154.104:1234/udp/239.13.1.209:5000
-#EXTINF:0, 1 - Tring Vizion+
-http://89.212.154.104:1234/udp/239.13.1.210:5000
-#EXTINF:0, 1 - CNN International
-http://89.212.154.104:1234/udp/239.11.1.79:5000
+
 #EXTINF:0, 1 - Sky News
 http://89.212.154.104:1234/udp/239.11.1.117:5000
 #EXTINF:0, 1 - BBC World News
@@ -1291,44 +1278,16 @@ http://89.212.154.104:1234/udp/239.12.1.177:5000
 http://89.212.154.104:1234/udp/239.11.1.115:5000
 #EXTINF:0, 1 - Al Jazeera English
 http://89.212.154.104:1234/udp/239.12.1.171:5000
-#EXTINF:0, 1 - EBS (Europe by Satellite)
-http://89.212.154.104:1234/udp/239.12.1.175:5000
-#EXTINF:0, 1 - Bloomberg
-http://89.212.154.104:1234/udp/239.12.1.172:5000
-#EXTINF:0, 1 - France 24 French
-http://89.212.154.104:1234/udp/239.11.1.94:5000
-#EXTINF:0, 1 - TV5MONDE
-http://89.212.154.104:1234/udp/239.14.1.8:5000
-#EXTINF:0, 1 - POP Oto
-http://89.212.154.104:1234/udp/239.14.1.47:5000
 #EXTINF:0, 1 - Minimax
 http://89.212.154.104:1234/udp/239.12.1.150:5000
 #EXTINF:0, 1 - Nickelodeon
 http://89.212.154.104:1234/udp/239.19.1.204:5000
-#EXTINF:0, 1 - Nick JR
-http://89.212.154.104:1234/udp/239.19.1.241:5000
-#EXTINF:0, 1 - Cartoon Network
-http://89.212.154.104:1234/udp/239.11.1.78:5000
-#EXTINF:0, 1 - Disney Channel
-http://89.212.154.104:1234udp/239.11.1.82:5000
-#EXTINF:0, 1 - Disney XD
-http://89.212.154.104:1234/udp/239.11.1.83:5000
-#EXTINF:0, 1 - Disney Junior
-http://89.212.154.104:1234/udp/239.12.1.149:5000
 #EXTINF:0, 1 - RTL Kockica
 http://89.212.154.104:1234/udp/239.13.1.253:5000
 #EXTINF:0, 1 - Pink Kids
 http://89.212.154.104:1234/udp/239.17.1.80:5000
-#EXTINF:0, 1 - Boomerang
-http://89.212.154.104:1234/udp/239.11.1.74:5000
 #EXTINF:0, 1 - Smile of a Child
 http://89.212.154.104:1234/udp/239.12.1.147:5000
-#EXTINF:0, 1 - KiKA
-http://89.212.154.104:1234udp/239.1.1.78:5000
-#EXTINF:0, 1 - Baby TV
-http://89.212.154.104:1234/udp/239.11.1.76:5000
-#EXTINF:0, 1 - Mezzo
-http://89.212.154.104:1234/udp/239.12.1.166:5000
 #EXTINF:0, 1 - VH1
 http://89.212.154.104:1234/udp/239.12.1.168:5000
 #EXTINF:0, 1 - VH1 Classic
@@ -1347,8 +1306,6 @@ http://89.212.154.104:1234/udp/239.13.1.201:5000
 http://89.212.154.104:1234/udp/239.12.1.154:5000
 #EXTINF:0, 1 - Balkanika TV
 http://89.212.154.104:1234/udp/239.12.1.153:5000
-#EXTINF:0, 1 - Trace TV
-http://89.212.154.104:1234/udp/239.12.1.167:5000
 #EXTINF:0, 1 - BN Music
 http://89.212.154.104:1234/udp/239.12.1.151:5000
 #EXTINF:0, 1 - Pink Music
@@ -1455,10 +1412,6 @@ http://89.212.154.104:1234/udp/239.10.2.60:5000
 http://89.212.154.104:1234/udp/239.14.12.62:5000
 #EXTINF:0, 1 - Woman HD
 http://89.212.154.104:1234/udp/239.14.12.61:5000
-#EXTINF:0, 1 - myZen.tv HD
-http://89.212.154.104:1234/udp/239.19.12.212:5000
-#EXTINF:0, 1 - Arte HD
-http://89.212.154.104:1234/udp/239.11.2.135:5000
 #EXTINF:0, 1 - 24Kitchen Adria HD
 http://89.212.154.104:1234/udp/239.19.2.221:5000
 #EXTINF:0, 1 - Fashion One HD
@@ -1467,14 +1420,6 @@ http://89.212.154.104:1234/udp/239.19.2.226:5000
 http://89.212.154.104:1234/udp/239.19.2.220:5000
 #EXTINF:0, 1 - Luxe.TV HD
 http://89.212.154.104:1234/udp/239.19.2.230:5000
-#EXTINF:0, 1 - ZDF HD
-http://89.212.154.104:1234/udp/239.11.2.134:5000
-#EXTINF:0, 1 - Magyar Televizio 2 HD
-http://89.212.154.104:1234/udp/239.11.2.133:5000
-#EXTINF:0, 1 - Das Erste (ARD) HD
-http://89.212.154.104:1234/udp/239.11.2.136:5000
-#EXTINF:0, 1 - Anixe HD
-http://89.212.154.104:1234/udp/239.11.2.131:5000
 #EXTINF:0, 1 - SLO 1 HD720
 http://89.212.154.104:1234/udp/239.10.14.56:5000
 #EXTINF:0, 1 - SLO 2 HD720
@@ -1569,147 +1514,10 @@ http://89.212.154.104:1234/udp/239.19.14.230:5000
 http://89.212.154.104:1234/udp/239.19.14.217:5000
 #EXTINF:0, 1 - ZDF HD720
 http://89.212.154.104:1234/udp/239.11.14.134:5000
-#EXTINF:0, 1 - Anixe HD720
-http://89.212.154.104:1234/udp/239.11.14.131:5000
-#EXTINF:0, 1 - Magyar Televizio 2 HD720
-http://89.212.154.104:1234/udp/239.11.14.133:5000
-#EXTINF:0, 1 - Das Erste (ARD) HD720
-http://89.212.154.104:1234/udp/239.11.14.136:5000
-#EXTINF:0, 1 - TRT Turk
-http://89.212.154.104:1234/udp/239.11.1.72:5000
-#EXTINF:0, 1 - SAT.1
-http://89.212.154.104:1234/udp/239.11.1.116:5000
-#EXTINF:0, 1 - 3sat
-http://89.212.154.104:1234/udp/239.11.1.72:5000
-#EXTINF:0, 1 - Das Erste (ARD)
-http://89.212.154.104:1234/udp/239.11.1.75:5000
-#EXTINF:0, 1 - Kabel 1
-http://89.212.154.104:1234/udp/239.11.1.97:5000
-#EXTINF:0, 1 - Pro 7
-http://89.212.154.104:1234/udp/239.11.1.108:5000
-#EXTINF:0, 1 - RTL
-http://89.212.154.104:1234/udp/239.11.1.112:5000
-#EXTINF:0, 1 - RTL 2
-http://89.212.154.104:1234/udp/239.11.1.113:5000
-#EXTINF:0, 1 - Super RTL
-http://89.212.154.104:1234/udp/239.11.1.119:5000
-#EXTINF:0, 1 - VOX
-http://89.212.154.104:1234/udp/239.11.1.127:5000
-#EXTINF:0, 1 - ORF1
-http://89.212.154.104:1234/udp/239.11.1.105:5000
-#EXTINF:0, 1 - ORF2
-http://89.212.154.104:1234/udp/239.11.1.106:5000
-#EXTINF:0, 1 - ZDF
-http://89.212.154.104:1234/udp/239.11.1.128:5000
-#EXTINF:0, 1 - Tele 5
-http://89.212.154.104:1234/udp/239.1.1.140:5000
-#EXTINF:0, 1 - Italia 1
-http://89.212.154.104:1234/udp/239.14.1.4:5000
-#EXTINF:0, 1 - Canale 5
-http://89.212.154.104:1234/udp/239.14.1.5:5000
-#EXTINF:0, 1 - Rete 4
-http://192.168.1.1:1234/udp/239.14.1.6:5000
-#EXTINF:0, 1 - Mediaset Italia
-http://89.212.154.104:1234/udp/239.12.1.181:5000
-#EXTINF:0, 1 - RAI 1
-http://89.212.154.104:1234/udp/239.11.1.109:5000
-#EXTINF:0, 1 - RAI 2
-http://89.212.154.104:1234/udp/239.11.1.110:5000
-#EXTINF:0, 1 - RAI 3
-http://89.212.154.104:1234/udp/239.12.1.190:5000
-#EXTINF:0, 1 - FR2
-http://89.212.154.104:1234/udp/239.12.1.191:5000
-#EXTINF:0, 1 - FR3
-http://89.212.154.104:1234/udp/239.1.1.70:5000
-#EXTINF:0, 1 - TVE
-http://89.212.154.104:1234/udp/239.11.1.124:5000
-#EXTINF:0, 1 - TL Novelas Europe
-http://89.212.154.104:1234/udp/239.12.1.182:5000
-#EXTINF:0, 1 - Karousel
-http://89.212.154.104:1234/udp/239.20.1.191:5000
-#EXTINF:0, 1 - Channel One
-http://89.212.154.104:1234/udp/239.20.1.190:5000
-#EXTINF:0, 1 - TNT Comedy
-http://89.212.154.104:1234/udp/239.20.1.195:5000
-#EXTINF:0, 1 - RTR Planeta
-http://89.212.154.104:1234/udp/239.1.1.150:5000
-#EXTINF:0, 1 - Russia 24
-http://89.212.154.104:1234/udp/239.1.1.195:5000
-#EXTINF:0, 1 - Duna World
-http://89.212.154.104:1234/udp/239.11.1.86:5000
-#EXTINF:0, 1 - TV Polonia
-http://89.212.154.104:1234/udp/239.19.1.205:5000
-#EXTINF:0, 1 - Sonnenklar TV
-http://89.212.154.104:1234/udp/239.4.7.7:5000
-#EXTINF:0, 1 - TV Exodus
-http://89.212.154.104:1234/udp/239.10.1.23:5000
-#EXTINF:0, 1 - TV Exodus HD
-http://89.212.154.104:1234/udp/239.10.1.41:5000
-#EXTINF:0, 1 - TV Exodus HD720
-http://89.212.154.104:1234/udp/239.10.14.41:5000
-#EXTINF:0, 1 - EWTN Europe
-http://89.212.154.104:1234/udp/239.11.1.90:5000
-#EXTINF:0, 1 - Balkan Erotic
-http://89.212.154.104:1234/udp/239.18.1.232:5000
-#EXTINF:0, 1 - Private TV
-http://89.212.154.104:1234/udp/239.18.1.239:5000
-#EXTINF:0, 1 - Net XXL
-http://89.212.154.104:1234/udp/239.18.1.237:5000
-#EXTINF:0, 1 - Play House
-http://89.212.154.104:1234/udp/239.18.1.235:5000
-#EXTINF:0, 1 - Hot Pleasure
-http://89.212.154.104:1234/udp/239.18.1.238:5000
-#EXTINF:0, 1 - Exotica TV
-http://89.212.154.104:1234/udp/239.18.1.234:5000
-#EXTINF:0, 1 - Hustler TV
-http://89.212.154.104:1234/udp/239.18.1.240:5000
-#EXTINF:0, 1 - SuperOne
-http://89.212.154.104:1234/udp/239.18.1.242:5000
-#EXTINF:0, 1 - Sexation TV
-http://89.212.154.104:1234/udp/239.14.1.13:5000
-#EXTINF:0, 1 - Bangerz
-http://89.212.154.104:1234/udp/239.15.1.192:5000
-#EXTINF:0, 1 - Lesbian Affair
-http://89.212.154.104:1234/udp/239.15.1.193:5000
-#EXTINF:0, 1 - Taboo
-http://89.212.154.104:1234/udp/239.15.1.197:5000
-#EXTINF:0, 1 - Emanuelle
-http://89.212.154.104:1234/udp/239.15.1.198:5000
-#EXTINF:0, 1 - Oldtimer
-http://89.212.154.104:1234/udp/239.15.1.199:5000
-#EXTINF:0, 1 - Hustler TV HD
-http://89.212.154.104:1234/udp/239.18.2.241:5000
-#EXTINF:0, 1 - Hustler TV HD720
-http://89.212.154.104:1234/udp/239.18.14.241:5000
-#EXTINF:0, 1 - Sexation TV HD
-http://89.212.154.104:1234/udp/239.14.12.9:5000
-#EXTINF:0, 1 - Sexation TV HD720
-http://89.212.154.104:1234/udp/239.12.14.62:5000
-#EXTINF:0, 1 - Bangerz HD
-http://89.212.154.104:1234/udp/239.15.12.192:5000
-#EXTINF:0, 1 - Bangerz HD720
-http://89.212.154.104:1234/udp/239.15.14.192:5000
-#EXTINF:0, 1 - Lesbian Affair HD
-http://89.212.154.104:1234/udp/239.15.12.193:5000
-#EXTINF:0, 1 - Lesbian Affair HD720
-http://89.212.154.104:1234/udp/239.15.14.193:5000
 
-#EXTINF:0, 1 - Taboo HD
-http://89.212.154.104:1234/udp/239.15.12.197:5000
-#EXTINF:0, 1 - Taboo HD720
-http://89.212.154.104:1234/udp/239.15.14.197:5000
-#EXTINF:0, 1 - Emanuelle HD
-http://89.212.154.104:1234/udp/239.15.12.198:5000
-#EXTINF:0, 1 - Emanuelle HD720
-http://89.212.154.104:1234/udp/239.15.14.198:5000
-#EXTINF:0, 1 - Oldtimer HD
-http://89.212.154.104:1234/udp/239.15.12.199:5000
-#EXTINF:0, 1 - Oldtimer HD720
-http://89.212.154.104:1234/udp/239.15.14.199:5000
-#EXTINF:0, 1 Testni 1 
-http://89.212.154.104:1234/udp/239.2.7.2:5000
-#EXTINF:0, 1 Testni 2 
-http://89.212.154.104:1234/udp/239.2.7.7:5000   	
+
+
+
 -----EXYU SO PREVOD------------
 #EXTINF:-1,Fox Life
 http://151.236.254.157:9000/play/a02a
