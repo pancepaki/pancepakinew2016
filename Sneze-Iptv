@@ -4,31 +4,11 @@ http://141.136.14.18/kanal1/kanal1.m3u8
 #EXTINF:-1,Cinemania Plus
 http://92.60.224.62:3018/udp/239.10.57.10:12057
 #EXTINF:-1,Pink Family 
-http://str108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/index.m3u8
-#EXTINF:-1,TV Istok
-http://92.60.224.62:3018/udp/231.1.8.1:5908
+http://str108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/index.m3u
 #EXTINF:-1,Prva Plus
 http://92.60.224.62:3018/udp/238.21.13.1:6007
-#EXTINF:-1,Prva Plus
-http://92.60.224.62:3018/udp/238.21.13.1:6007
-#EXTINF:0,RTRS Plus
-http://fra1.ddns.net:97/live/test/test/21.m3u8
-#EXTINF:0,RTRS
-http://fra1.ddns.net:97/live/test/test/2.m3u8
-#EXTINF:0,RTL2
-http://fra1.ddns.net:97/live/test/test/22.m3u8
-#EXTINF:0,RTL KOCKICA
-http://fra1.ddns.net:97/live/test/test/23.m3u8
-#EXTINF:0,RTL
-http://fra1.ddns.net:97/live/test/test/24.m3u8
 #EXTINF:-1,SOS Kanal
 http://92.60.224.62:3018/udp/239.10.58.10:12058
-#EXTINF:-1,Arena Sport1 IPTVUltra.com [720x576]
-http://195.230.24.166:1935/live/898953arenasport.stream/playlist.m3u8
-#EXTINF:-1,Arena Sport2 IPTVUltra.com [720x576]
-http://195.230.24.166:1935/live/898953arenasport2.stream/playlist.m3u8
-#EXTINF:-1,Arena Sport3 IPTVUltra.com [720x576]
-http://195.230.24.166:1935/live/898953arenasport3.stream/playlist.m3u8
 #EXTINF:0,Cine Plus Select 1
 http://dzandecembar1.dyndns.org:8088/live?channelId=845&uid=244&deviceUser=erko&devicePass=erko21975
 #EXTINF:0,Cine Plus Select 2
@@ -37,259 +17,7 @@ http://freeiptv2search.dyndns.tv:2801/live?channelId=846&uid=244&deviceUser=erko
 http://dzandecembar1.dyndns.org:8088/live?channelId=847&uid=244&deviceUser=erko&devicePass=erko2197
 #EXTINF:0,Cine Plus Select 5
 http://freeiptv2search.dyndns.tv:2801/live?channelId=849&uid=244&deviceUser=erko&devicePass=erko21975
------EXYU TEST-17JULI------
-#EXTINF:0,nova tv d-s
-http://fra1.ddns.net:97/live/miro/miro/469.m3u8
-#EXTINF:0,tv k9 d-s
-http://fra1.ddns.net:97/live/miro/miro/483.m3u8
-#EXTINF:0,tv petrovac d-s
-http://fra1.ddns.net:97/live/miro/miro/486.m3u8
-#EXTINF:0,tv vk d-s
-http://fra1.ddns.net:97/live/miro/miro/488.m3u8
-#EXTINF:0,tv sremska d-s
-http://fra1.ddns.net:97/live/miro/miro/487.m3u8
-#EXTINF:0,tv most d-s
-http://fra1.ddns.net:97/live/miro/miro/485.m3u8
-#EXTINF:0,tv delta d-s
-http://fra1.ddns.net:97/live/miro/miro/482.m3u8
-#EXTINF:0,santos d-s
-http://fra1.ddns.net:97/live/miro/miro/481.m3u8
-#EXTINF:0,rubin d-s
-http://fra1.ddns.net:97/live/miro/miro/480.m3u8
-#EXTINF:0,rtv 2 d-s
-http://fra1.ddns.net:97/live/miro/miro/479.m3u8
-#EXTINF:0,rtv 1 d-s
-http://fra1.ddns.net:97/live/miro/miro/478.m3u8
-#EXTINF:0,rts3 d-s
-http://fra1.ddns.net:97/live/miro/miro/456.m3u8
-#EXTINF:0,rts 3 d-s
-http://fra1.ddns.net:97/live/miro/miro/477.m3u8
-#EXTINF:0,rts 1 d-s
-http://fra1.ddns.net:97/live/miro/miro/475.m3u8
-#EXTINF:0,rtrs plus d-s
-http://fra1.ddns.net:97/live/miro/miro/506.m3u8
-#EXTINF:0,rtrs -d-s
-http://fra1.ddns.net:97/live/miro/miro/504.m3u8
-#EXTINF:0,prva d-s
-http://fra1.ddns.net:97/live/miro/miro/455.m3u8
-#EXTINF:0,rtl d-s
-http://fra1.ddns.net:97/live/miro/miro/473.m3u8
-#EXTINF:0,rtl 2 d-s
-http://fra1.ddns.net:97/live/miro/miro/474.m3u8
-#EXTINF:0,rhrt2 d-s
-http://fra1.ddns.net:97/live/miro/miro/467.m3u8
-#EXTINF:0,pro tv int d-s
-http://fra1.ddns.net:97/live/miro/miro/494.m3u8
-#EXTINF:0,posavina tv d-s
-http://fra1.ddns.net:97/live/miro/miro/509.m3u8
-#EXTINF:0,pink d-s
-http://fra1.ddns.net:97/live/miro/miro/471.m3u8
-#EXTINF:0,panonija d-s
-http://fra1.ddns.net:97/live/miro/miro/472.m3u8
-#EXTINF:0,obn d-s
-http://fra1.ddns.net:97/live/miro/miro/495.m3u8
-#EXTINF:0,mtv igman hd d-s
-http://fra1.ddns.net:97/live/miro/miro/496.m3u8
-#EXTINF:0,ktv d-s
-http://fra1.ddns.net:97/live/miro/miro/468.m3u8
-#EXTINF:0,kanal 25 d-s
-http://fra1.ddns.net:97/live/miro/miro/484.m3u8
-#EXTINF:0,hrt4 d-s
-http://fra1.ddns.net:97/live/miro/miro/465.m3u8
-#EXTINF:0,hrt3 d-s
-http://fra1.ddns.net:97/live/miro/miro/464.m3u8
-#EXTINF:0,hrt1 d-s
-http://fra1.ddns.net:97/live/miro/miro/466.m3u8
-#EXTINF:0,hrt 2 hd d-s
-http://fra1.ddns.net:97/live/miro/miro/454.m3u8
-#EXTINF:0,hayatovci d-s
-http://fra1.ddns.net:97/live/miro/miro/501.m3u8
-#EXTINF:0,hayat plus d-s
-http://fra1.ddns.net:97/live/miro/miro/500.m3u8
-#EXTINF:0,hayat music d-s
-http://fra1.ddns.net:97/live/miro/miro/505.m3u8
-#EXTINF:0,hayat hd d-s
-http://fra1.ddns.net:97/live/miro/miro/508.m3u8
-#EXTINF:0,hayat folk d-s
-http://fra1.ddns.net:97/live/miro/miro/507.m3u8
-#EXTINF:0,happy d-s
-http://fra1.ddns.net:97/live/miro/miro/463.m3u8
-#EXTINF:0,face tv d-s
-http://fra1.ddns.net:97/live/miro/miro/499.m3u8
-#EXTINF:0,doma tv d-s
-http://fra1.ddns.net:97/live/miro/miro/462.m3u8
-#EXTINF:0,dm sat d-s
-http://fra1.ddns.net:97/live/miro/miro/497.m3u8
-#EXTINF:0,atlast tv d-s
-http://fra1.ddns.net:97/live/miro/miro/493.m3u8
-#EXTINF:0,b92 d-s
-http://fra1.ddns.net:97/live/miro/miro/461.m3u8
-#EXTINF:0,bn music d-s
-http://fra1.ddns.net:97/live/miro/miro/502.m3u8
-#EXTINF:0,bn bih d-s satalit
-http://fra1.ddns.net:97/live/miro/miro/503.m3u8
-#EXTINF:0,bn bih d-s
-http://fra1.ddns.net:97/live/miro/miro/498.m3u8
-#EXTINF:0,HRT4
-http://fra1.ddns.net:97/live/test/test/7.m3u8
-#EXTINF:0,HRT3
-http://fra1.ddns.net:97/live/test/test/8.m3u8
-#EXTINF:0,HRT2
-http://fra1.ddns.net:97/live/test/test/9.m3u8
-#EXTINF:0,HRT1
-http://fra1.ddns.net:97/live/test/test/10.m3u8
-#EXTINF:0,Life and Holiday
-http://fra1.ddns.net:97/live/test/test/261.m3u8
-#EXTINF:0,VTV
-http://fra1.ddns.net:97/live/test/test/14.m3u8
-#EXTINF:0,TV7
-http://fra1.ddns.net:97/live/test/test/219.m3u8
-#EXTINF:0,TV1
-http://fra1.ddns.net:97/live/test/test/228.m3u8
-#EXTINF:0,TV SLON
-http://fra1.ddns.net:97/live/test/test/229.m3u8
-#EXTINF:0,TV MOST
-http://fra1.ddns.net:97/live/test/test/253.m3u8
-#EXTINF:0,TV HEMA
-http://fra1.ddns.net:97/live/test/test/224.m3u8
-#EXTINF:0,TK MI
-http://fra1.ddns.net:97/live/test/test/207.m3u8
-#EXTINF:0,SVET PLUS
-http://fra1.ddns.net:97/live/test/test/15.m3u8
-#EXTINF:0,STV
-http://fra1.ddns.net:97/live/test/test/17.m3u8
-#EXTINF:0,SREMSKA TV
-http://fra1.ddns.net:97/live/test/test/251.m3u8
-#EXTINF:0,SPORT TV
-http://fra1.ddns.net:97/live/test/test/19.m3u8
-#EXTINF:0,SMART TV
-http://fra1.ddns.net:97/live/test/test/226.m3u8
-#EXTINF:0,SANTOS
-http://fra1.ddns.net:97/live/test/test/218.m3u8
-#EXTINF:0,RUBIN
-http://fra1.ddns.net:97/live/test/test/254.m3u8
-#EXTINF:0,RTV7
-http://fra1.ddns.net:97/live/test/test/241.m3u8
-#EXTINF:0,RTV1
-http://fra1.ddns.net:97/live/test/test/255.m3u8
-#EXTINF:0,RTV ZIVINICE
-http://fra1.ddns.net:97/live/test/test/222.m3u8
-#EXTINF:0,RTV PAZAR MI
-http://fra1.ddns.net:97/live/test/test/208.m3u8
-#EXTINF:0,RTV CG
-http://fra1.ddns.net:97/live/test/test/239.m3u8
-#EXTINF:0,RTV 2
-http://fra1.ddns.net:97/live/test/test/256.m3u8
-#EXTINF:0,RTS3
-http://fra1.ddns.net:97/live/test/test/257.m3u8
-#EXTINF:0,RTS2
-http://fra1.ddns.net:97/live/test/test/258.m3u8
-#EXTINF:0,RTS1
-http://fra1.ddns.net:97/live/test/test/20.m3u8
-#EXTINF:0,RTRS Plus
-http://fra1.ddns.net:97/live/test/test/21.m3u8
-#EXTINF:0,RTRS
-http://fra1.ddns.net:97/live/test/test/2.m3u8
-#EXTINF:0,RTL2
-http://fra1.ddns.net:97/live/test/test/22.m3u8
-#EXTINF:0,RTL KOCKICA
-http://fra1.ddns.net:97/live/test/test/23.m3u8
-#EXTINF:0,RTL
-http://fra1.ddns.net:97/live/test/test/24.m3u8
-#EXTINF:0,Prva TV
-http://fra1.ddns.net:97/live/test/test/97.m3u8
-#EXTINF:0,PROSIEBEN
-http://fra1.ddns.net:97/live/test/test/221.m3u8
-#EXTINF:0,Posavina TV
-http://fra1.ddns.net:97/live/test/test/25.m3u8
-#EXTINF:0,Pink Western
-http://fra1.ddns.net:97/live/test/test/28.m3u8
-#EXTINF:0,PINK FREE
-http://fra1.ddns.net:97/live/test/test/250.m3u8
-#EXTINF:0,PANONIJA
-http://fra1.ddns.net:97/live/test/test/249.m3u8
-#EXTINF:0,OTV Valentino
-http://fra1.ddns.net:97/live/test/test/44.m3u8
-#EXTINF:0,OSJECKA TV
-http://fra1.ddns.net:97/live/test/test/11.m3u8
-#EXTINF:0,OBN MI
-http://fra1.ddns.net:97/live/test/test/209.m3u8
-#EXTINF:0,OBN
-http://fra1.ddns.net:97/live/test/test/46.m3u8
-#EXTINF:0,NTVJATA
-http://fra1.ddns.net:97/live/test/test/96.m3u8
-#EXTINF:0,NOVOSADSKA TV
-http://fra1.ddns.net:97/live/test/test/248.m3u8
-#EXTINF:0,NEON TV
-http://fra1.ddns.net:97/live/test/test/237.m3u8
-#EXTINF:0,N24
-http://fra1.ddns.net:97/live/test/test/220.m3u8
-#EXTINF:0,Minimax
-http://fra1.ddns.net:97/live/test/test/47.m3u8
-#EXTINF:0,KOPERNIKUS
-http://fra1.ddns.net:97/live/test/test/231.m3u8
-#EXTINF:0,KCN
-http://fra1.ddns.net:97/live/test/test/48.m3u8
-#EXTINF:0,KANAL 6
-http://fra1.ddns.net:97/live/test/test/242.m3u8
-#EXTINF:0,IZVORNA TV
-http://fra1.ddns.net:97/live/test/test/210.m3u8
-#EXTINF:0,HIT TV
-http://fra1.ddns.net:97/live/test/test/243.m3u8
-#EXTINF:0,Hayatovci
-http://fra1.ddns.net:97/live/test/test/50.m3u8
-#EXTINF:0,HAYAT TV
-http://fra1.ddns.net:97/live/test/test/244.m3u8
-#EXTINF:0,Hayat Music
-http://fra1.ddns.net:97/live/test/test/51.m3u8
-#EXTINF:0,Hayat Folk TV
-http://fra1.ddns.net:97/live/test/test/12.m3u8
-#EXTINF:0,HAPPY
-http://fra1.ddns.net:97/live/test/test/217.m3u8
-#EXTINF:0,Federalna MI
-http://fra1.ddns.net:97/live/test/test/202.m3u8
-#EXTINF:0,Federalna
-http://fra1.ddns.net:97/live/test/test/215.m3u8
-#EXTINF:0,FACE TV
-http://fra1.ddns.net:97/live/test/test/5.m3u8
-#EXTINF:0,Duga TV
-http://fra1.ddns.net:97/live/test/test/53.m3u8
-#EXTINF:0,DM SAT
-http://fra1.ddns.net:97/live/test/test/225.m3u8
-#EXTINF:0,CMC
-http://fra1.ddns.net:97/live/test/test/55.m3u8
-#EXTINF:0,Chasse et Peche
-http://fra1.ddns.net:97/live/test/test/56.m3u8
-#EXTINF:0,Cartoon Network
-http://fra1.ddns.net:97/live/test/test/57.m3u8
-#EXTINF:0,BRAVOMUSIC
-http://fra1.ddns.net:97/live/test/test/235.m3u8
-#EXTINF:0,Bommerang
-http://fra1.ddns.net:97/live/test/test/58.m3u8
-#EXTINF:0,BNT
-http://fra1.ddns.net:97/live/test/test/238.m3u8
-#EXTINF:0,BN Music
-http://fra1.ddns.net:97/live/test/test/59.m3u8
-#EXTINF:0,BN BIH
-http://fra1.ddns.net:97/live/test/test/6.m3u8
-#EXTINF:0,BHT
-http://fra1.ddns.net:97/live/test/test/216.m3u8
-#EXTINF:0,BEL TV
-http://fra1.ddns.net:97/live/test/test/227.m3u8
-#EXTINF:0,B92
-http://fra1.ddns.net:97/live/test/test/102.m3u8
-#EXTINF:0,ATV
-http://fra1.ddns.net:97/live/test/test/245.m3u8
-#EXTINF:0,ATLAS TV
-http://fra1.ddns.net:97/live/test/test/60.m3u8
-#EXTINF:0,ALJAZEERA IZ
-http://fra1.ddns.net:97/live/test/test/95.m3u8
-#EXTINF:0,ALJAZEERA BALKANS
-http://fra1.ddns.net:97/live/test/test/103.m3u8
-#EXTINF:0,ALFA SARAJEVO MI
-http://fra1.ddns.net:97/live/test/test/205.m3u8
----------KRAJ TEST 17JULI----
-------EXYU 2TEST-----------------------
+------EXYU TEST-----------------------
 #‎EXTINF‬:-1,Prva Plus
 http://92.60.224.62:3014/udp/238.21.13.1:6007
 #EXTINF:-1,RTS HD
@@ -330,34 +58,32 @@ http://92.60.224.62:3018/udp/232.171.194.35:4000
 http://92.60.224.62:3013/udp/239.10.57.10:12057
 #EXTINF:-1,Srpska Naucna TV
 http://92.60.224.62:3018/udp/239.225.1.1:2511
-#EXTINF:-1,Happy
-http://92.60.224.62:3014/udp/238.21.12.1:6007
------------------KRAJTEST EXYU2----------------
 #EXTINF:-1,Nasa tv
 http://fms.zulu.mk:1935/zulu/nashatv_2/playlist.m3u8?wowzasessionid=1041790835
-#EXTINF:-1,Матч тв
+-------sport i exyu-------------
+
+#EXTINF:-1,Match tv
 http://s02.mnogo-tv.by:8000/play/MATCH_TV
-#EXTINF:-1,Матч Боец
+#EXTINF:-1,Match boks
 http://s02.mnogo-tv.by:8000/play/BOEC
-#EXTINF:-1,Матч арена
+#EXTINF:-1,Маtch arena
 http://s02.mnogo-tv.by:8000/play/ARENA
-#EXTINF:-1,МАТЧ ИГРА
+#EXTINF:-1,Match igra
 http://s02.mnogo-tv.by:8000/play/IGRA
-#EXTINF:-1,матч наш спорт
+#EXTINF:-1,Nash sport
 http://s02.mnogo-tv.by:8000/play/NASH_SPORT
-#EXTINF:-1,Матч Планета
-http://s02.mnogo-tv.by:8000/play/MS
-#EXTINF:-1,Матч футбол
+
+#EXTINF:-1,Fudbal 1 rus
 http://s02.mnogo-tv.by:8000/play/FUTBOLL_1
-#EXTINF:-1,Матч футбол 2
+#EXTINF:-1,Fudbal 2 rus
 http://s02.mnogo-tv.by:8000/play/FUTBOLL_2
-#EXTINF:-1,Матч футбол 3
+#EXTINF:-1,Fudbal 3 rus
 http://s02.mnogo-tv.by:8000/play/FUTBOLL_3
-#EXTINF:-1,Наш футбол
+#EXTINF:-1,Nash footbal
 http://s02.mnogo-tv.by:8000/play/NASH_FUTBOLS
 #EXTINF:-1,KHL TV
 http://s02.mnogo-tv.by:8000/play/KHL_TV
-#EXTINF:-1,Бокс
+#EXTINF:-1,BOKS  TV
 http://s02.mnogo-tv.by:8000/play/BOKSTV
 #EXTINF:-1,SETANTA SPORT
 http://s02.mnogo-tv.by:8000/play/SETANTASPORT
