@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1,TV+MKD
 http://141.136.14.18/kanal1/kanal1.m3u8
+#EXTINF:-1,Kanal Plus HDTV
+http://95.128.191.112:81/play/a00g
 #EXTINF:-1,Cinemania Plus
 http://92.60.224.62:3018/udp/239.10.57.10:12057
+#EXTINF:-1,CMC
+http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 #EXTINF:-1,Pink Family 
 http://str108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/index.m3u
 #EXTINF:-1,Prva Plus
@@ -13,6 +17,12 @@ http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/playlist.m3u8
 http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u8
 #EXTINF:-1,CMC
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
+#EXTINF:-1,TV+MKD
+http://141.136.14.18/kanal1/kanal1.m3u8
+#EXTINF:-1,TV1
+http://fra1.ddns.net:97/live/test/test/228.m3u8
+#EXTINF:-1,SOS Kanal
+http://92.60.224.62:3018/udp/239.10.58.10:12058
 #EXTINF:0,Cine Plus Select 1
 http://dzandecembar1.dyndns.org:8088/live?channelId=845&uid=244&deviceUser=erko&devicePass=erko21975
 #EXTINF:0,Cine Plus Select 2
@@ -95,110 +105,7 @@ http://s02.mnogo-tv.by:8000/play/SETANTASPORT
 http://s02.mnogo-tv.by:8000/play/SETANTASPORTPLUS
 #EXTINF:-1,Lov i ribolov HD
 http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&session=5488c6087e1ea6.57082302
-#EXTINF:-1,TV+MKD
-http://141.136.14.18/kanal1/kanal1.m3u8
-#EXTINF:-1,RTL
-http://fra1.ddns.net:97/live/josip/josip/24.m3u8
-#EXTINF:-1,CMC
-http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
-#EXTINF:-1,SMART TV
-http://fra1.ddns.net:97/live/test/test/226.m3u8
-#EXTINF:-1,SANTOS
-http://fra1.ddns.net:97/live/test/test/218.m3u8
-#EXTINF:-1,RUBIN
-http://fra1.ddns.net:97/live/test/test/254.m3u8
-#EXTINF:-1,NTVJATA
-http://fra1.ddns.net:97/live/test/test/96.m3u8
-#EXTINF:-1,NOVOSADSKA TV
-http://fra1.ddns.net:97/live/test/test/248.m3u8
-#EXTINF:-1,NEON TV
-http://fra1.ddns.net:97/live/test/test/237.m3u8
-#EXTINF:-1,KOPERNIKUS 2
-http://fra1.ddns.net:97/live/test/test/231.m3u8
-#EXTINF:-1,KOPERNIKUS 1
-http://fra1.ddns.net:97/live/test/test/48.m3u8
-#EXTINF:-1,HAYAT TV
-http://fra1.ddns.net:97/live/test/test/244.m3u8
-#EXTINF:-1,Hayat Music
-http://fra1.ddns.net:97/live/test/test/51.m3u8
-#EXTINF:-1,Hayat Folk TV
-http://fra1.ddns.net:97/live/test/test/12.m3u8
-#EXTINF:-1,ALJAZEERA IZ
-http://fra1.ddns.net:97/live/test/test/95.m3u8
-#EXTINF:-1,ALJAZEERA BALKANS
-http://fra1.ddns.net:97/live/test/test/103.m3u8
-#EXTINF:-1,TV7
-http://fra1.ddns.net:97/live/test/test/219.m3u8
-#EXTINF:-1,TV1
-http://fra1.ddns.net:97/live/test/test/228.m3u8
-#EXTINF:-1,TV SLON
-http://fra1.ddns.net:97/live/test/test/229.m3u8
-#EXTINF:-1,TV MOST
-http://fra1.ddns.net:97/live/test/test/253.m3u8
-#EXTINF:-1,TK MI
-http://fra1.ddns.net:97/live/test/test/207.m3u8
-#EXTINF:-1,OBN
-http://fra1.ddns.net:97/live/josip/josip/46.m3u8
-#EXTINF:-1,B92
-http://fra1.ddns.net:97/live/josip/josip/440.m3u8
-#EXTINF:-1,BN BIH
-http://fra1.ddns.net:97/live/josip/josip/6.m3u8
-#EXTINF:-1,DM SAT
-http://fra1.ddns.net:97/live/josip/josip/225.m3u8
-#EXTINF:-1,NAT GEO WILD - K
-http://fra1.ddns.net:97/live/miro/miro/440.m3u8
-#EXTINF:-1,SREMSKA TV
-http://fra1.ddns.net:97/live/miro/miro/251.m3u8
-#EXTINF:-1,RTS3
-http://fra1.ddns.net:97/live/miro/miro/257.m3u8
-#EXTINF:-1,RTL
-http://fra1.ddns.net:97/live/miro/miro/24.m3u8
-#EXTINF:-1,DM SAT
-http://fra1.ddns.net:97/live/miro/miro/225.m3u8
-#EXTINF:-1,B92
-http://fra1.ddns.net:97/live/miro/miro/102.m3u8
-#EXTINF:-1,BN BIH
-http://fra1.ddns.net:97/live/miro/miro/6.m3u8
-#EXTINF:-1,OBN
-http://fra1.ddns.net:97/live/miro/miro/46.m3u8
-#EXTINF:-1,HRT4
-http://fra1.ddns.net:97/live/miro/miro/7.m3u8
-#EXTINF:-1,HRT3
-http://fra1.ddns.net:97/live/miro/miro/8.m3u8
-#EXTINF:-1,HRT2
-http://fra1.ddns.net:97/live/miro/miro/9.m3u8
-#EXTINF:-1,HRT1
-http://fra1.ddns.net:97/live/miro/miro/10.m3u
-#EXTINF:-1,SREMSKA TV
-http://fra1.ddns.net:97/live/josip/josip/251.m3u8
-#EXTINF:-1,RTS3
-http://fra1.ddns.net:97/live/josip/josip/257.m3u8
-#EXTINF:-1,BN BIH
-http://fra1.ddns.net:97/live/miro/miro/6.m3u8
-#EXTINF:-1,OBN
-http://fra1.ddns.net:97/live/miro/miro/46.m3u8
-#EXTINF:-1,B92
-http://fra1.ddns.net:97/live/miro/miro/102.m3u8
-#EXTINF:-1,BN BIH
-http://fra1.ddns.net:97/live/miro/miro/6.m3u8
-#EXTINF:-1,BNT
-http://fra1.ddns.net:97/live/test/test/238.m3u8
-#EXTINF:-1,BN Music
-http://fra1.ddns.net:97/live/test/test/59.m3u8
-#EXTINF:-1,BN BIH
-http://fra1.ddns.net:97/live/test/test/6.m3u8
-#EXTINF:-1,BHT
-http://fra1.ddns.net:97/live/test/test/216.m3u8
-#EXTINF:-1,BEL TV
-http://fra1.ddns.net:97/live/test/test/227.m3u8
-#EXTINF:-1,B92
-http://fra1.ddns.net:97/live/test/test/102.m3u8
-#EXTINF:-1,ATV
-http://fra1.ddns.net:97/live/test/test/245.m3u8
-#EXTINF:-1,ATLAS TV
-http://fra1.ddns.net:97/live/test/test/60.m3u8
-#EXTINF:-1,SOS Kanal
-http://92.60.224.62:3018/udp/239.10.58.10:12058
+
 -----MAKEDONSKI-----
 #EXTINF:-1,SITEL
 http://fms.zulu.mk:554/zulu/sitel_1/playlist_b125000_w1132785237.m3u8? 
@@ -224,8 +131,6 @@ mms://62.162.58.55/24vesti
 http://fms.zulu.mk:1935/zulu/shutel_2/playlist.m3u8
 #EXTINF:0,NASA TV
 http://fms.zulu.mk:1935/zulu/nashatv_2/playlist.m3u8
-#EXTINF:0,KANAL 8
-mms://62.162.58.55/TVkanal8
 #EXTINF:0,KANAL 21
 mms://62.162.58.55/TVkanal21
 #EXTINF:-1,SITEL
@@ -236,8 +141,6 @@ http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8?
 http://fms.zulu.mk:554/zulu/mtv1_1/playlist_b125000_w1132785237.m3u8? 
 #EXTINF:-1 group-title="MAKEDONIJA", 24VESTI 
 mms://62.162.58.55/24vesti 
-#EXTINF:-1 group-title="MAKEDONIJA", TV KANAL 8 
-mms://62.162.58.55/TVKanal8 
 #EXTINF:0,Alfa_mk
 http://fms.zulu.mk:554/zulu/alfa_2/playlist_b125000_w1132785237.m3u8
 #EXTINF:0,KANAL 5
@@ -276,23 +179,7 @@ http://fms.zulu.mk:1935/zulu/sitel_1/playlist.m3u8
    mms://62.162.58.55/TVkanal8
    #EXTINF:0,Alfa
 http://fms.zulu.mk:554/zulu/alfa_2/playlist_b125000_w1132785237.m3u8
------proba----
-#EXTINF:-1,MRT 1
-http://95.128.191.112:81/play/a00i
-#EXTINF:-1,Kanal Plus HDTV
-http://95.128.191.112:81/play/a00g
-#EXTINF:-1,Sobraniski Kanal
-http://95.128.191.112:81/play/a00k
-#EXTINF:-1,Telma
-http://95.128.191.112:81/play/a00d
-#EXTINF:-1,MRT 2
-http://95.128.191.112:81/play/a00j
-#EXTINF:-1,Alsat M
-http://95.128.191.112:81/play/a00e
-#EXTINF:-1,Kanal 5
-http://95.128.191.112:81/play/a01p
-#EXTINF:-1,Sitel
-http://95.128.191.112:81/play/a00b
+
 #EXTINF:-1,Deluxe music
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
 ----SPORT-----
