@@ -1,14 +1,10 @@
 #EXTM3U
 #EXTINF:-1,TV+MKD
 http://141.136.14.18/kanal1/kanal1.m3u8
-#EXTINF:-1,Cinemania Plus
-http://92.60.224.62:3018/udp/239.10.57.10:12057
 #EXTINF:-1,CMC
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 #EXTINF:-1,Pink Family 
 http://str108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/index.m3u
-#EXTINF:-1,Prva Plus
-http://92.60.224.62:3018/udp/238.21.13.1:6007
 #EXTINF:-1,JUGOTON TV
 http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/playlist.m3u8
 #EXTINF:0,Jugoton TV
@@ -17,59 +13,6 @@ http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u8
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 #EXTINF:-1,TV+MKD
 http://141.136.14.18/kanal1/kanal1.m3u8
-#EXTINF:-1,TV1
-http://fra1.ddns.net:97/live/test/test/228.m3u8
-#EXTINF:-1,SOS Kanal
-http://92.60.224.62:3018/udp/239.10.58.10:12058
-#EXTINF:0,Cine Plus Select 1
-http://dzandecembar1.dyndns.org:8088/live?channelId=845&uid=244&deviceUser=erko&devicePass=erko21975
-#EXTINF:0,Cine Plus Select 2
-http://freeiptv2search.dyndns.tv:2801/live?channelId=846&uid=244&deviceUser=erko&devicePass=erko21975
-#EXTINF:0,Cine Plus Select 3
-http://dzandecembar1.dyndns.org:8088/live?channelId=847&uid=244&deviceUser=erko&devicePass=erko2197
-#EXTINF:0,Cine Plus Select 5
-http://freeiptv2search.dyndns.tv:2801/live?channelId=849&uid=244&deviceUser=erko&devicePass=erko21975
-------EXYU TEST-----------------------
-#‎EXTINF‬:-1,Prva Plus
-http://92.60.224.62:3014/udp/238.21.13.1:6007
-#EXTINF:-1,RTS HD
-http://92.60.224.62:3014/udp/238.10.0.1:6005
-#EXTINF:-1,pink3
-http://92.60.224.62:3018/udp/232.171.194.1:4000
-#EXTINF:-1,pink muzik
-http://92.60.224.62:3018/udp/232.171.194.11:4000
-#EXTINF:-1,pink fasion
-http://92.60.224.62:3018/udp/232.171.194.15:4000
-#EXTINF:-1,pink plus
-http://92.60.224.62:3018/udp/232.171.194.17:4000
-#EXTINF:-1,pink extra
-http://92.60.224.62:3018/udp/232.171.194.20:4000
-#EXTINF:-1,pink bh
-http://92.60.224.62:3018/udp/232.171.194.21:4000
-#EXTINF:-1,pink action
-http://92.60.224.62:3018/udp/232.171.194.23:4000
-#EXTINF:-1,pink movies
-http://92.60.224.62:3018/udp/232.171.194.24:4000
-#EXTINF:-1,pink film
-http://92.60.224.62:3018/udp/232.171.194.25:4000
-#EXTINF:-1,pink muzik
-http://92.60.224.62:3018/udp/232.171.194.26:4000
-#EXTINF:-1,pink m
-http://92.60.224.62:3018/udp/232.171.194.29:4000
-#EXTINF:-1,pink famili
-http://92.60.224.62:3018/udp/232.171.194.27:4000
-#EXTINF:-1,pink2
-http://92.60.224.62:3018/udp/232.171.194.28:4000
-#EXTINF:-1,pink kids
-http://92.60.224.62:3018/udp/232.171.194.30:4000
-#EXTINF:-1,pink hits
-http://92.60.224.62:3018/udp/232.171.194.34:4000
-#EXTINF:-1,pink parada
-http://92.60.224.62:3018/udp/232.171.194.35:4000
-#EXTINF:-1,Minimax
-http://92.60.224.62:3013/udp/239.10.57.10:12057
-#EXTINF:-1,Srpska Naucna TV
-http://92.60.224.62:3018/udp/239.225.1.1:2511
 #EXTINF:-1,Nasa tv
 http://fms.zulu.mk:1935/zulu/nashatv_2/playlist.m3u8?wowzasessionid=1041790835
 #EXTINF:-1,PINK TS RABOTI SO XMTV PLAYER
@@ -562,4 +505,13 @@ http://151.236.254.157:9000/play/a02c
 http://151.236.254.157:9000/play/a00r
 #EXTINF:-1,FLN
 http://151.236.254.157:9000/play/a
-
+#EXTINF:-1,Cinemania Plus
+http://92.60.224.62:3018/udp/239.10.57.10:12057
+#EXTINF:0,Cine Plus Select 1
+http://dzandecembar1.dyndns.org:8088/live?channelId=845&uid=244&deviceUser=erko&devicePass=erko21975
+#EXTINF:0,Cine Plus Select 2
+http://freeiptv2search.dyndns.tv:2801/live?channelId=846&uid=244&deviceUser=erko&devicePass=erko21975
+#EXTINF:0,Cine Plus Select 3
+http://dzandecembar1.dyndns.org:8088/live?channelId=847&uid=244&deviceUser=erko&devicePass=erko2197
+#EXTINF:0,Cine Plus Select 5
+http://freeiptv2search.dyndns.tv:2801/live?channelId=849&uid=244&deviceUser=erko&devicePass=erko21975
