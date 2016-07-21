@@ -35,26 +35,7 @@ http://centurionlukavac.com:80/live?channelId=67&uid=13&deviceUser=daria1141&dev
 http://centurionlukavac.com:80/live?channelId=68&uid=13&deviceUser=daria1141&devicePass=daria1141234
 #EXTINF:-1,PINK TS RABOTI SO XMTV PLAYER
 https://www.youtube.com/watch?list=PLvOtBukI8XWCKZI0v1vfuzL0yHm6uMIIp&v=a4PwTaq8ync
-#EXTINF:0,EX-YU: RTL Televizija
-http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/1127.ts
-#EXTINF:0,EX-YU: RTL Kockica
-http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/1132.ts
-#EXTINF:0,EX-YU: RTL 2
-http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/1128.ts
-#EXTINF:0,EX-YU: Nova Tv
-http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/1126.ts
-#EXTINF:0,EX-YU: HBO Comedy
-http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/1165.ts
-#EXTINF:0,EX-YU: HBO Adria
-http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/1164.ts
-#EXTINF:0,EX-YU: Cinestar Premiere 2
-http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/1167.ts
-#EXTINF:0,EX-YU: Cinestar Premiere 1
-http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/1166.ts
-#EXTINF:0,EX-YU: Cinemax 2
-http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/1169.ts
-#EXTINF:0,EX-YU: Cinemax 1
-http://nlxiptv.no-ip.biz:1994/live/esad.hasanovic10/skype/1168.ts
+
 #EXTINF:0,PINK HORROR
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/341.ts
 #EXTINF:0,PINK comedy
