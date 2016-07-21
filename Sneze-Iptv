@@ -25,6 +25,14 @@ http://s04.platinum-iptv.com:80/live?channelId=673&uid=2199&deviceSn=27997
 http://s04.platinum-iptv.com:80/live?channelId=674&uid=2199&deviceSn=27997
 #EXTINF:-1,Arena 5 Srb
 http://s04.platinum-iptv.com:80/live?channelId=675&uid=2199&deviceSn=27997
+#EXTINF:-1 tvg-id="ARENA SPORT 1" tvg-link="" tvg-name="ARENA SPORT 1" tvg-logo="" group-title="Domaci",ARENA SPORT 1
+http://centurionlukavac.com:80/live?channelId=65&uid=13&deviceUser=daria1141&devicePass=daria1141234
+#EXTINF:-1 tvg-id="ARENA SPORT 2" tvg-link="" tvg-name="ARENA SPORT 2" tvg-logo="" group-title="Domaci",ARENA SPORT 2
+http://centurionlukavac.com:80/live?channelId=66&uid=13&deviceUser=daria1141&devicePass=daria1141234
+#EXTINF:-1 tvg-id="ARENA SPORT 3" tvg-link="" tvg-name="ARENA SPORT 3" tvg-logo="" group-title="Domaci",ARENA SPORT 3
+http://centurionlukavac.com:80/live?channelId=67&uid=13&deviceUser=daria1141&devicePass=daria1141234
+#EXTINF:-1 tvg-id="ARENA SPORT 4" tvg-link="" tvg-name="ARENA SPORT 4" tvg-logo="" group-title="Domaci",ARENA SPORT 4
+http://centurionlukavac.com:80/live?channelId=68&uid=13&deviceUser=daria1141&devicePass=daria1141234
 #EXTINF:-1,PINK TS RABOTI SO XMTV PLAYER
 https://www.youtube.com/watch?list=PLvOtBukI8XWCKZI0v1vfuzL0yHm6uMIIp&v=a4PwTaq8ync
 #EXTINF:0,PINK HORROR
