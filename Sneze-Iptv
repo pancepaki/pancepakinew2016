@@ -15,6 +15,16 @@ http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 http://141.136.14.18/kanal1/kanal1.m3u8
 #EXTINF:-1,Nasa tv
 http://fms.zulu.mk:1935/zulu/nashatv_2/playlist.m3u8?wowzasessionid=1041790835
+#EXTINF:-1,Arena 1 Srb
+http://s04.platinum-iptv.com:80/live?channelId=671&uid=2199&deviceSn=27997
+#EXTINF:-1,Arena 2 Srb
+http://s04.platinum-iptv.com:80/live?channelId=672&uid=2199&deviceSn=27997
+#EXTINF:-1,Arena 3 Srb
+http://s04.platinum-iptv.com:80/live?channelId=673&uid=2199&deviceSn=27997
+#EXTINF:-1,Arena 4 Srb
+http://s04.platinum-iptv.com:80/live?channelId=674&uid=2199&deviceSn=27997
+#EXTINF:-1,Arena 5 Srb
+http://s04.platinum-iptv.com:80/live?channelId=675&uid=2199&deviceSn=27997
 #EXTINF:-1,PINK TS RABOTI SO XMTV PLAYER
 https://www.youtube.com/watch?list=PLvOtBukI8XWCKZI0v1vfuzL0yHm6uMIIp&v=a4PwTaq8ync
 #EXTINF:0,PINK HORROR
