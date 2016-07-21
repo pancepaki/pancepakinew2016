@@ -534,3 +534,36 @@ http://freeiptv2search.dyndns.tv:2801/live?channelId=846&uid=244&deviceUser=erko
 http://dzandecembar1.dyndns.org:8088/live?channelId=847&uid=244&deviceUser=erko&devicePass=erko2197
 #EXTINF:0,Cine Plus Select 5
 http://freeiptv2search.dyndns.tv:2801/live?channelId=849&uid=244&deviceUser=erko&devicePass=erko21975
+=====slo tv=====
+#EXTINF:-1,DOMA HD
+http://95.47.178.141:8086/udp/239.255.0.2:5000
+#EXTINF:-1,Markiza HD
+http://95.47.178.141:8086/udp/239.255.0.1:5000
+#EXTINF:-1,duck TV
+http://95.47.178.141:8086/udp/239.255.0.14:5000
+#EXTINF:-1,REBEL
+http://95.47.178.141:8086/udp/239.255.0.13:5000
+#EXTINF:-1,Eurosport 2 HD
+http://95.47.178.141:8086/udp/239.255.0.25:5000
+#EXTINF:-1,Filmbox Extra HD
+http://95.47.178.141:8086/udp/239.255.0.26:5000
+#EXTINF:-1,JOJ Cinema
+http://95.47.178.141:8086/udp/239.255.0.37:5000
+#EXTINF:-1,Eurosport 1 HD
+http://95.47.178.141:8086/udp/239.255.0.38:5000
+#EXTINF:-1,CT 1 HD
+http://95.47.178.141:8086/udp/239.255.0.49:5000
+#EXTINF:-1,CT 2 HD
+http://95.47.178.141:8086/udp/239.255.0.50:5000
+#EXTINF:-1,SENZI
+http://95.47.178.141:8086/udp/239.255.0.59:5000
+#EXTINF:-1,Minimax
+http://95.47.178.141:8086/udp/239.255.0.61:5000
+#EXTINF:-1,Discovery CZ
+http://95.47.178.141:8086/udp/239.255.0.66:5000
+#EXTINF:-1,Film+
+http://95.47.178.141:8086/udp/239.255.0.70:5000
+#EXTINF:-1,brava HD
+http://95.47.178.141:8086/udp/239.255.0.77:5000
+#EXTINF:-1,Polo TV
+http://95.47.178.141:8086/udp/239.255.0.203:5000
