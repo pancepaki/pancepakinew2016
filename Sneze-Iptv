@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,TV+MKD
 http://141.136.14.18/kanal1/kanal1.m3u8
+#EXTINF:-1,O2 HD-MKD
+http://92.62.234.202:2222/udp/239.2.0.101:1234
 #EXTINF:-1,CMC
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 #EXTINF:-1,Pink Family 
