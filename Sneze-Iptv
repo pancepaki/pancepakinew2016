@@ -5,8 +5,42 @@ http://141.136.14.18/kanal1/kanal1.m3u8
 rtmp://46.105.209.61/live/live /vip-hd-tv.sdp
 #EXTINF:1, VIP HD
 http://46.105.209.61/live/live /vip-hd-tv
+#EXTINF:0,EX-YU: RTL
+http://tvsbrothers.noip.me:8000/live/po6lhjfTvi/FqGSG8e6ox/723.ts
+#EXTINF:0,EX-YU: Prva TV
+http://tvsbrothers.noip.me:8000/live/po6lhjfTvi/FqGSG8e6ox/724.ts
+#EXTINF:0,EX-YU: Prva Plus
+http://tvsbrothers.noip.me:8000/live/po6lhjfTvi/FqGSG8e6ox/725.ts
+#EXTINF:0,EX-YU: SportKlub 3 SD/HD
+http://tvsbrothers.noip.me:8000/live/po6lhjfTvi/FqGSG8e6ox/719.ts
+#EXTINF:0,EX-YU: SportKlub 2 SD/HD
+http://tvsbrothers.noip.me:8000/live/po6lhjfTvi/FqGSG8e6ox/718.ts
+#EXTINF:0,EX-YU: SportKlub 1 SD/HD
+http://tvsbrothers.noip.me:8000/live/po6lhjfTvi/FqGSG8e6ox/717.ts
 #EXTINF:-1,Cinestar Tv
 http://151.236.254.157:9000/play/a02p
+#EXTINF:0,EX-YU: CineStar Premiere 2
+http://tvsbrothers.noip.me:8000/live/po6lhjfTvi/FqGSG8e6ox/754.ts
+#EXTINF:0,EX-YU: CineStar Action TV
+http://tvsbrothers.noip.me:8000/live/po6lhjfTvi/FqGSG8e6ox/756.ts
+#EXTINF:0,EX-YU: CineMax 2
+http://tvsbrothers.noip.me:8000/live/po6lhjfTvi/FqGSG8e6ox/757.ts
+#EXTINF:0,EX-YU: CineMax 1
+http://tvsbrothers.noip.me:8000/live/po6lhjfTvi/FqGSG8e6ox/758.ts
+#EXTINF:0,EX-YU: Doma TV
+http://tvsbrothers.noip.me:8000/live/po6lhjfTvi/FqGSG8e6ox/749.ts
+#EXTINF:0,EX-YU: Grand TV
+http://tvsbrothers.noip.me:8000/live/po6lhjfTvi/FqGSG8e6ox/739.ts
+#EXTINF:0,EX-YU: HBO Adria
+http://tvsbrothers.noip.me:8000/live/po6lhjfTvi/FqGSG8e6ox/733.ts
+#EXTINF:0,EX-YU: Fox TV
+http://tvsbrothers.noip.me:8000/live/po6lhjfTvi/FqGSG8e6ox/741.ts
+#EXTINF:0,EX-YU: Fox Movies
+http://tvsbrothers.noip.me:8000/live/po6lhjfTvi/FqGSG8e6ox/742.ts
+#EXTINF:0,EX-YU: Fox Life
+http://tvsbrothers.noip.me:8000/live/po6lhjfTvi/FqGSG8e6ox/743.ts
+#EXTINF:0,EX-YU: Fox Crime
+http://tvsbrothers.noip.me:8000/live/po6lhjfTvi/FqGSG8e6ox/744.ts
 #EXTINF:-1,CMC
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 #EXTINF:-1,Pink Family 
