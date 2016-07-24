@@ -5,7 +5,8 @@ http://141.136.14.18/kanal1/kanal1.m3u8
 rtmp://46.105.209.61/live/live /vip-hd-tv.sdp
 #EXTINF:1, VIP HD
 http://46.105.209.61/live/live /vip-hd-tv
-
+#EXTINF:-1,Cinestar Tv
+http://151.236.254.157:9000/play/a02p
 #EXTINF:-1,CMC
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 #EXTINF:-1,Pink Family 
@@ -49,43 +50,43 @@ https://www.youtube.com/watch?list=PLvOtBukI8XWCKZI0v1vfuzL0yHm6uMIIp&v=a4PwTaq8
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/341.ts
 #EXTINF:0,PINK comedy
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/346.ts
-#EXTINF:0,EX-YUGOSLAVIAN | Pink Zabava
+#EXTINF:0, Pink Zabava
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/825.ts
-#EXTINF:0,EX-YUGOSLAVIAN | Pink Western
+#EXTINF:0, Pink Western
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/824.ts
-#EXTINF:0,EX-YUGOSLAVIAN | Pink Thriller
+#EXTINF:0, Pink Thriller
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/823.ts
-#EXTINF:0,EX-YUGOSLAVIAN | Pink Soap
+#EXTINF:0, Pink Soap
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/822.ts
-#EXTINF:0,EX-YUGOSLAVIAN | Pink Sci Fi Fantasy
+#EXTINF:0, Pink Sci Fi Fantasy
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/821.ts
-#EXTINF:0,EX-YUGOSLAVIAN | Pink Romance
+#EXTINF:0, Pink Romance
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/820.ts
-#EXTINF:0,EX-YUGOSLAVIAN | Pink Reality
+#EXTINF:0, Pink Reality
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/819.ts
-#EXTINF:0,EX-YUGOSLAVIAN | Pink Premium
+#EXTINF:0, Pink Premium
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/818.ts
-#EXTINF:0,EX-YUGOSLAVIAN | Pink Plus
+#EXTINF:0, Pink Plus
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/817.ts
-#EXTINF:0,EX-YUGOSLAVIAN | Pink M
+#EXTINF:0, Pink M
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/816.ts
-#EXTINF:0,EX-YUGOSLAVIAN | Pink Hits 2
+#EXTINF:0, Pink Hits 2
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/815.ts
-#EXTINF:0,EX-YUGOSLAVIAN | Pink Folk 2
+#EXTINF:0, Pink Folk 2
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/814.ts
-#EXTINF:0,EX-YUGOSLAVIAN | Pink Film
+#EXTINF:0, Pink Film
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/813.ts
-#EXTINF:0,EX-YUGOSLAVIAN | Pink Extra
+#EXTINF:0, Pink Extra
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/812.ts
-#EXTINF:0,EX-YUGOSLAVIAN | Pink Crime & Mystery
+#EXTINF:0, Pink Crime & Mystery
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/811.ts
-#EXTINF:0,EX-YUGOSLAVIAN | Pink BIH
+#EXTINF:0, Pink BIH
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/810.ts
-#EXTINF:0,EX-YUGOSLAVIAN | Pink Action
+#EXTINF:0, Pink Action
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/809.ts
-#EXTINF:0,EX-YUGOSLAVIAN | Pink 2
+#EXTINF:0, Pink 2
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/808.ts
-#EXTINF:0,EX-YUGOSLAVIAN | PINK
+#EXTINF:0, PINK
 http://skyiptv.ddns.net:8000/live/unit1504/6526898/807.ts
 #EXTINF:0,===== EX-YUGOSLAVIA 22juli======
 http://tvsbrothers.noip.me:8000/live/po6lhjfTvi/FqGSG8e6ox/686.ts
@@ -258,7 +259,6 @@ http://s02.mnogo-tv.by:8000/play/ARENA
 http://s02.mnogo-tv.by:8000/play/IGRA
 #EXTINF:-1,Nash sport
 http://s02.mnogo-tv.by:8000/play/NASH_SPORT
-
 #EXTINF:-1,Fudbal 1 rus
 http://s02.mnogo-tv.by:8000/play/FUTBOLL_1
 #EXTINF:-1,Fudbal 2 rus
@@ -443,14 +443,6 @@ http://www.xrxs.net/video/live-p12netw-4728.m3u8
 http://xrxs.net/video/live-p12netw-4728.m3u8
 #EXTINF:-1,Nova Sport 1
 http://213.81.153.241/live001/channel028_p2.stream/DVR.m3u8
-#EXTINF:-1,MUTV
-http://centurionlukavac.com:80/live?channelId=166&uid=13&deviceUser=daria1141&devicePass=daria1141234
-#EXTINF:-1,Chelsea tv
-http://centurionlukavac.com:80/live?channelId=167&uid=13&deviceUser=daria1141&devicePass=daria1141234
-#EXTINF:-1,Liverpool FC
-http://centurionlukavac.com:80/live?channelId=169&uid=13&deviceUser=daria1141&devicePass=daria1141234
-#EXTINF:-1,Boxnation
-http://centurionlukavac.com:80/live?channelId=171&uid=13&deviceUser=daria1141&devicePass=daria1141234
 #EXTINF:-1,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF: -1, Match TV
@@ -565,12 +557,6 @@ http://www.xrxs.net/video/live-p12netw-4728.m3u8
 http://xrxs.net/video/live-p12netw-4728.m3u8
 #EXTINF:-1,Nova Sport 1
 http://213.81.153.241/live001/channel028_p2.stream/DVR.m3u8
-#EXTINF:-1,Chelsea tv
-http://centurionlukavac.com:80/live?channelId=167&uid=13&deviceUser=daria1141&devicePass=daria1141234
-#EXTINF:-1,Liverpool FC
-http://centurionlukavac.com:80/live?channelId=169&uid=13&deviceUser=daria1141&devicePass=daria1141234
-#EXTINF:-1,Boxnation
-http://centurionlukavac.com:80/live?channelId=171&uid=13&deviceUser=daria1141&devicePass=daria1141234
 #EXTINF:-1,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1,MLS / NBA HD
@@ -648,11 +634,6 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
 #EXTINF:-1,Beats  music  [COLOR lime]FTA[/COLOR]
 http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
-----proba 2-----
-
-
-
-
 -----EXYU SO PREVOD------------
 #EXTINF:-1,Fox Life
 http://151.236.254.157:9000/play/a02a
@@ -718,104 +699,4 @@ http://217.16.82.6:1935/zulu/telma_2/playlist.m3u8
 http://217.16.82.6:1935/zulu/nashatv_2/playlist.m3u8
 #EXTINF:-1,Shutel
 http://217.16.82.6:1935/zulu/shutel_2/playlist.m3u8
-=====CESKA=====
-#EXTINF:0,Prima Comedy Central
-http://81.201.51.181:9981/stream/channelid/1267990317?ticket=8520CDDD9AE46B6DD37C877B01748769BACB2028&profile=pass
-#EXTINF:0,BARRANDOV TV
-http://81.201.51.181:9981/stream/channelid/1033329927?ticket=F41C0D6EC34D50F5FD0ADD3435E8E93395751F94&profile=pass
-#EXTINF:0,Barrandov Plus
-http://81.201.51.181:9981/stream/channelid/1463540012?ticket=D64EB79D89E394E63A981B520F36D5F0260BB6FD&profile=pass
-#EXTINF:0,CRo D-DUR
-http://81.201.51.181:9981/stream/channelid/1480606931?ticket=D6CCE9B00CF7F47BB0C3E007761D462D16129935&profile=pass
-#EXTINF:0,CRo DVOJKA
-http://81.201.51.181:9981/stream/channelid/1023547013?ticket=27FFEB563A3E9BFACBCFD82D8656D92844127802&profile=pass
-#EXTINF:0,CRo JAZZ
-http://81.201.51.181:9981/stream/channelid/273228025?ticket=54073E42290A6F8BFDB9C4A0AE19B27325A338E9&profile=pass
-#EXTINF:0,CRo PLUS
-http://81.201.51.181:9981/stream/channelid/454341673?ticket=97091D4E94C013674AAFBB35F7F39C4397E5EBC1&profile=pass
-#EXTINF:0,CRo RADIO JUNIOR
-http://81.201.51.181:9981/stream/channelid/586005580?ticket=576ADBC775DB1694CD2610413E6B563BA089DD43&profile=pass
-#EXTINF:0,CRo RADIO WAVE
-http://81.201.51.181:9981/stream/channelid/1898469253?ticket=58B9DA7CDA09B69E8B4A09A380429144B51906C2&profile=pass
-#EXTINF:0,CRo RADIOZURNAL
-http://81.201.51.181:9981/stream/channelid/958714920?ticket=4D8DA492A807C3EBB23CFB665FE4CDB6F88E5BBA&profile=pass
-#EXTINF:0,CRo VLTAVA
-http://81.201.51.181:9981/stream/channelid/713009268?ticket=AA971F6C8395B16F93A8AC417C1E5308062CF05A&profile=pass
-#EXTINF:0,CT 1
-http://81.201.51.181:9981/stream/channelid/1799224978?ticket=DE67DB216EBE30D4305F856D8214494EFC24116C&profile=pass
-#EXTINF:0,CT 1 HD
-http://81.201.51.181:9981/stream/channelid/724091827?ticket=34E0A0573BB029D3562B10C0C5BEE8DE5695C9AC&profile=pass
-#EXTINF:0,CT 2
-http://81.201.51.181:9981/stream/channelid/936704776?ticket=276CA7756E0FE8026EE67A88FF255085E4142648&profile=pass
-#EXTINF:0,CT 2 HD
-http://81.201.51.181:9981/stream/channelid/418978407?ticket=FE22A5477A3BA09571BA7C6AFCB3AA2494CA04EC&profile=pass
-#EXTINF:0,CT 24
-http://81.201.51.181:9981/stream/channelid/2064620470?ticket=E3F6CD6B335F7D3D97C1B3134727439CC3C4DFED&profile=pass
-#EXTINF:0,CT :D / CT art
-http://81.201.51.181:9981/stream/channelid/953896094?ticket=84BE2F7A75D5A3E34AF74A83132BDA102FAF403E&profile=pass
-#EXTINF:0,CT sport
-http://81.201.51.181:9981/stream/channelid/610636352?ticket=8F401BC3F934C620083B6AF7EA4F3F2B602406DC&profile=pass
-#EXTINF:0,CT sport HD
-http://81.201.51.181:9981/stream/channelid/1392590929?ticket=84592B56D7366813B5B4FD86119E9150C114F06A&profile=pass
-#EXTINF:0,CT:D / CT art
-http://81.201.51.181:9981/stream/channelid/24842019?ticket=45189E35992333F3389BCDB2A1D3866ED23D718F&profile=pass
-#EXTINF:0,Cesky Impuls
-http://81.201.51.181:9981/stream/channelid/2065523170?ticket=1CBF054AD2E99B7EDF4B468510F5BAB50402FCBA&profile=pass
-#EXTINF:0,FANDA
-http://81.201.51.181:9981/stream/channelid/134015283?ticket=896B2419CB3793C5EF935C9ABACC0C778F6C1C31&profile=pass
-#EXTINF:0,Harmonie TV
-http://81.201.51.181:9981/stream/channelid/978160382?ticket=0CA8D0706884299C7723E03D01679E733207A3AB&profile=pass
-#EXTINF:0,KINOSVET
-http://81.201.51.181:9981/stream/channelid/1485460340?ticket=9E00DD0E4484887E2CEE1A79EBC425A1A3FE18BA&profile=pass
-#EXTINF:0,kinoSvet
-http://81.201.51.181:9981/stream/channelid/1656542498?ticket=453296ACFFFA146F5176F796A9809ACF7D299A1B&profile=pass
-#EXTINF:0,Kino Barrandov
-http://81.201.51.181:9981/stream/channelid/11272652?ticket=74497B10AE2261974D413704C29FD68565ADA4AB&profile=pass
-#EXTINF:0,MNAM TV
-http://81.201.51.181:9981/stream/channelid/1117036279?ticket=5F041906E6C84BB5B5ABB995E43D646569F9B524&profile=pass
-#EXTINF:0,NOVA
-http://81.201.51.181:9981/stream/channelid/1299802292?ticket=8D67AADD83920D1B5B152E6BB71A838AE0E16659&profile=pass
-#EXTINF:0,NOVA CINEMA
-http://81.201.51.181:9981/stream/channelid/407572890?ticket=F803BDEFED16E1F7CE68631C16D955C097233DA0&profile=pass
-#EXTINF:0,Ocko
-http://81.201.51.181:9981/stream/channelid/1997287679?ticket=1BA8C5514A29F216A67104621EC1EF401A0A3FEE&profile=pass
-#EXTINF:0,Ocko Gold
-http://81.201.51.181:9981/stream/channelid/985584387?ticket=4E246D7DB631F29E89277ACD6363766DAB3F168D&profile=pass
-#EXTINF:0,Praha TV
-http://81.201.51.181:9981/stream/channelid/1328449082?ticket=E012924818BF03712E54608FD4D5FFE36C70B069&profile=pass
-#EXTINF:0,Prima
-http://81.201.51.181:9981/stream/channelid/130447260?ticket=9B9FBB8C944B2A93FB6FA457CD933E0BE4BA3099&profile=pass
-#EXTINF:0,Prima COOL
-http://81.201.51.181:9981/stream/channelid/954664019?ticket=91F2C0FD0906A33CDF9946F2C5134EC092C10B54&profile=pass
-#EXTINF:0,Prima LOVE
-http://81.201.51.181:9981/stream/channelid/1043894981?ticket=84E256257024B9CDDD6F1570E69B3A177CF62D85&profile=pass
-#EXTINF:0,Prima MAX
-http://81.201.51.181:9981/stream/channelid/844064046?ticket=35BA513942F65FE5110828354782E4195D531221&profile=pass
-#EXTINF:0,Prima ZOOM
-http://81.201.51.181:9981/stream/channelid/340335023?ticket=D63980A3BC2E683BE1078187DF9CF49750B2FF45&profile=pass
-#EXTINF:0,Proglas
-http://81.201.51.181:9981/stream/channelid/1278682261?ticket=68A69CC09E3975C991567E7EAA1BF378520DE3C3&profile=pass
-#EXTINF:0,RADIO CAS
-http://81.201.51.181:9981/stream/channelid/312557141?ticket=0F0DA956E851A5751C6A182FFDF94EC707930824&profile=pass
-#EXTINF:0,RADIO CAS ROCK
-http://81.201.51.181:9981/stream/channelid/512072738?ticket=0C62212DB39763D04EBDA404E2E83FC71BD25DA1&profile=pass
-#EXTINF:0,REBEL
-http://81.201.51.181:9981/stream/channelid/372316861?ticket=8FDA0AB799BF403F13DC2ED6BBF000226BB392B5&profile=pass
-#EXTINF:0,RELAX
-http://81.201.51.181:9981/stream/channelid/386064748?ticket=5667B55D2D6C3E3E147BFA3DA8420698050F6F40&profile=pass
-#EXTINF:0,RETRO MUSIC TV
-http://81.201.51.181:9981/stream/channelid/540590749?ticket=E3322A9F4962D31574E0EFA9C5301E962B970179&profile=pass
-#EXTINF:0,Radio Dechovka
-http://81.201.51.181:9981/stream/channelid/45061915?ticket=388685518097C65B6CFE6017ED804CFAA3D2048E&profile=pass
-#EXTINF:0,Retro Music TV
-http://81.201.51.181:9981/stream/channelid/386725183?ticket=5F5BB513E3F47B2E4F5D5B83D433F038F9382F8D&profile=pass
-#EXTINF:0,SLUSNEJ KANAL
-http://81.201.51.181:9981/stream/channelid/2137552668?ticket=7E1C8EA886653E86FBE287F0C2B9B48158ED9BA1&profile=pass
-#EXTINF:0,SMICHOV
-http://81.201.51.181:9981/stream/channelid/238862861?ticket=2775A55248343DCDCABAE8B7160EC8EF99DCB6F2&profile=pass
-#EXTINF:0,Slagr TV
-http://81.201.51.181:9981/stream/channelid/1047948996?ticket=5A30F501337E56176199EA248CBD1325AF7FAF0F&profile=pass
-#EXTINF:0,TELKA
-http://81.201.51.181:9981/stream/channelid/1242984732?ticket=335DD8384E8F6E157DA094F448F1751BC37D0F68&profile=pass
-#EXTINF:0,TV Regina
-http://81.201.51.181:9981/stream/channelid/2058000527?ticket=79787014DCA15EC70A1DA6692910AE03240ACD3C&profile=pass
+
