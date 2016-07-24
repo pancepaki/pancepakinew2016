@@ -24,50 +24,6 @@ rtmp://46.105.209.61/live/live /vip-hd-tv.sdp
 #EXTINF:1, VIP HD
 http://46.105.209.61/live/live /vip-hd-tv
 -------------SPORT------------
-------TURSKA----
-#EXTINF:-1,a Spor HD IPTVUltra.com [1280x720]
-http://188.165.46.79:1935/live/898953aspor.stream/playlist.m3u8
-#EXTINF:-1,Arena Sport1 IPTVUltra.com [720x576]
-http://195.230.24.166:1935/live/898953arenasport.stream/playlist.m3u8
-#EXTINF:-1,Arena Sport2 IPTVUltra.com [720x576]
-http://195.230.24.166:1935/live/898953arenasport2.stream/playlist.m3u8
-#EXTINF:-1,Arena Sport3 IPTVUltra.com [720x576]
-http://195.230.24.166:1935/live/898953arenasport3.stream/playlist.m3u8
-#EXTINF:-1,Bein Sport 1 HD IPTVUltra.com [1920x1080]
-http://188.165.46.79:1935/live/898953beins1.stream/playlist.m3u8
-#EXTINF:-1,Bein Sport 2 HD IPTVUltra.com [1920x1080]
-http://188.165.46.79:1935/live/898953bein2.stream/playlist.m3u8
-#EXTINF:-1,Bein Sport 3 HD IPTVUltra.com [1920x1080]
-http://195.230.24.166:1935/live/898953beins3.stream/playlist.m3u8
-#EXTINF:-1,Euro Sport 2 HD IPTVUltra.com [1280x720]
-http://188.165.46.79:1935/live/898953eurosport22.stream/playlist.m3u8
-#EXTINF:-1,Lig TV 1 IPTVUltra.com [1280x720]
-http://188.165.46.79:1935/live/898953oneliveligtv.stream/playlist.m3u8
-#EXTINF:-1,Lig TV 2 IPTVUltra.com [1280x720]
-http://188.165.46.79:1935/live/898953sportoto1.stream/playlist.m3u8
-#EXTINF:-1,Lig TV 3 IPTVUltra.com [1280x720]
-http://188.165.46.79:1935/live/898953ligtv3.stream/playlist.m3u8
-#EXTINF:-1,National Geographic HD IPTVUltra.com [854x480]
-http://195.230.24.166:1935/live/898953nationalgeographic.stream/playlist.m3u8
-#EXTINF:-1,National Geographic Wild HD IPTVUltra.com [1280x720]
-http://195.230.24.166:1935/live/898953nationalwild.stream/playlist.m3u8
-#EXTINF:-1,NBA TV IPTVUltra.com [640x360]
-http://188.165.46.79:1935/live/898953nba.stream/playlist.m3u8
-#EXTINF:-1,Sky Sport 1 HD IPTVUltra.com [1280x720]
-http://188.165.46.79:1935/live/898953skysports.stream/playlist.m3u8
-#EXTINF:-1,Sky Sport 2 IPTVUltra.com [1280x720]
-http://188.165.46.79:1935/live/898953skysports2.stream/playlist.m3u8
-#EXTINF:-1,Smart Spor IPTVUltra.com [1280x720]
-http://195.230.24.166:1935/live/898953smartspor.stream/playlist.m3u8
-#EXTINF:-1,Smart Spor2 IPTVUltra.com [1280x720]
-http://195.230.24.166:1935/live/898953smartspor2.stream/playlist.m3u8
-#EXTINF:-1,Tivibu Spor IPTVUltra.com [1280x720]
-http://188.165.46.79:1935/live/898953tivibuspor.stream/playlist.m3u8
-#EXTINF:-1,Tivibu Spor2 IPTVUltra.com [1280x720]
-http://188.165.46.79:1935/live/898953tivibuspor2.stream/playlist.m3u8
------------------DOTUKA-----
-
-
 #EXTINF: -1, Match TV
 http://s02.mnogo-tv.by:8000/play/MATCH_TV
 #EXTINF: -1, Match Fighter
