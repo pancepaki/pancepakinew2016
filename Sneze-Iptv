@@ -3,7 +3,8 @@
 http://141.136.14.18/kanal1/kanal1.m3u8
 #‎EXTINF‬:1, VIP HD
 rtmp://46.105.209.61/live/live /vip-hd-tv.sdp
-
+#EXTINF:1, VIP HD
+http://46.105.209.61/live/live /vip-hd-tv
 
 #EXTINF:-1,CMC
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
