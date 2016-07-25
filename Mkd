@@ -1,5 +1,6 @@
 #EXTM3U 
-
+#EXTINF:-1,KPLUS
+http://80.80.58.175:1935/makedonija-tv/_definst_/kplus-tv-stip/playstream.m3u8
  
 
   
