@@ -795,6 +795,108 @@ http://streamlky.alsolnet.com/misionescuatro/live/playlist.m3u8
 http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1,zzz SeÃ±al Provincial
 http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
- 
+ ======exyu vo m3u8=====================
+ #EXTINF:-1,NICKELODEON HRVATSKA
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/639.ts
+ #EXTINF:-1,NOVA TV
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/19.ts
+ #EXTINF:-1,HRT 1
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/23.ts
+ #EXTINF:-1,HRT 2
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/22.ts
+ #EXTINF:-1,HRT 3
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/21.ts
+ #EXTINF:-1,PINK COMEDY
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/20.ts
+ #EXTINF:-1,RTL
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/17.ts
+ #EXTINF:-1,RTS 1
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/16.ts
+ #EXTINF:-1,RTS 2
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/15.ts
+ #EXTINF:-1,NOVA RS
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/14.ts
+ #EXTINF:-1,HAPPY
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/13.ts
+ #EXTINF:-1,CINESTAR 1
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/12.ts
+ #EXTINF:-1,CINESTAR 2
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/11.ts
+ #EXTINF:-1,TV 1000
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/10.ts
+ #EXTINF:-1,PINK SUPER KIDS
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/9.ts
+ #EXTINF:-1,JIM JAM
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/8.ts
+ #EXTINF:-1,20DJAHRS
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/7.ts
+ #EXTINF:-1,DISCOVERY
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/6.ts
+ #EXTINF:-1,HISTORY 2
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/5.ts
+ #EXTINF:-1,NATIONAL GEOGRAFY CHANNEL
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/4.ts
+ #EXTINF:-1,ID
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/3.ts
+ #EXTINF:-1,ARENA SPORT 1
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/2.ts
+ #EXTINF:-1,SPORT KLUB 1
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/1.ts
+ #EXTINF:-1,OBN
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/628.ts
+ #EXTINF:-1,N1
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/627.ts
+ #EXTINF:-1,FTV
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/626.ts
+ #EXTINF:-1,BN
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/625.ts
+ #EXTINF:-1,BN 2
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/624.ts
+ #EXTINF:-1,BHT
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/623.ts
+ #EXTINF:-1,SPORT KLUB 2
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/641.ts
+ #EXTINF:-1,ARENA SPORT 2
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/640.ts
+ #EXTINF:-1,PINK CRIME&MISTERY
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/638.ts
+ #EXTINF:-1,PINK COMEDY
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/637.ts
+ #EXTINF:-1,PINK ACTION
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/636.ts
+ #EXTINF:-1,PINK KUVAR
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/635.ts
+ #EXTINF:-1,KANAL 5
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/634.ts
+ #EXTINF:-1,GRAND TELEVIZIJA
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/633.ts
+ #EXTINF:-1,DM SAT
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/632.ts
+ #EXTINF:-1,B92
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/631.ts
+ #EXTINF:-1,BALKANIKA
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/630.ts
+ #EXTINF:-1,ASTRA
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/629.ts
+ #EXTINF:-1,PINK
+http://176.9.150.209:8080/live/ExYuApp/kugz84792tzdTTZfrhi4289erGTklgtdtjg/18.ts
+ #EXTINF:-1,SPORT VIA SPORT
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/1236.ts
+ #EXTINF:-1,HAYAT MUSIC
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/1200.ts
+ #EXTINF:-1,ARENA SPORT 3
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/1182.ts
+ #EXTINF:-1,ARENA SPORT 2
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/1181.ts
+ #EXTINF:-1,ARENA SPORT 1
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/1180.ts
+ #EXTINF:-1,PULS
+http://176.9.150.209:8080/live/ExYuApp/VR5Z3Bljnbrw5re56tgTGE351100/689.ts
+ #EXTINF:-1,HAYAT
+http://31.47.9.48:25654/ipvt_002
+ #EXTINF:-1,HAYAT PLUS
+http://shqiptv.online:8000/live/JO0kaa@/19072016/316.ts
+
+
 
   
