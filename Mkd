@@ -735,7 +735,66 @@ http://89.142.238.133:1234/udp/232.4.1.48:5002
 http://89.142.238.133:1234/udp/232.2.4.17:5002
 #EXTINF:-1,Trace Urban
 http://89.142.238.133:1234/udp/232.2.4.18:5002   	
-
+#EXTINF:-1,TyC Sports
+http://kalseglive-a.akamaihd.net/dc-0/m/pa-live-publish6/kLive/smil:1_3j5azqiu_all.smil/playlist.m3u8
+#EXTINF:-1,TELEFE
+http://live-edge01.telecentro.net.ar/test/smil:prueba2.smil/playlist.m3u8
+#EXTINF:-1,CANAL 13
+http://live-edge02.telecentro.net.ar/test/smil:prueba1.smil/playlist.m3u8
+#EXTINF:-1,CANAL 12 Cordoba
+http://kalseglive-a.akamaihd.net/dc-1/m/ny-live-publish102/kLive/smil:1_jfy47czy_all.smil/32/chunklist.m3u8
+#EXTINF:-1,AMERICA TV
+http://live-edge02.telecentro.net.ar/test/smil:prueba3.smil/playlist.m3u8
+#EXTINF:-1,A24
+http://live-edge01.telecentro.net.ar/test/smil:prueba4.smil/playlist.m3u8
+#EXTINF:-1,TVP
+http://live-edge02.telecentro.net.ar/test/smil:prueba5.smil/playlist.m3u8
+#EXTINF:-1,Cronica
+http://grilla.gigared.com.ar/streams/166V8/1/1.m3u8
+#EXTINF:-1,canal 10 Cordoba
+http://iphone-streaming.ustream.tv/uhls/20251601/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,cba24n Cordoba
+http://iphone-streaming.ustream.tv/uhls/11678041/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,CANAL 9
+http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,CANAL 26
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:-1,ENCUENTRO
+http://lsdencuentrohls-lh.akamaihd.net/i/encuentrohls_1@96967/master.m3u8
+#EXTINF:-1,C5N Argentina
+http://c5n.stweb.tv:1935/c5n/live/master.m3u8
+#EXTINF:-1,Canal 9 ParanÃ¡
+http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
+#EXTINF:-1,LRI450 TV Litoral – 9 TV – Paranï¿½ – ER Entre Rios
+http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
+#EXTINF:-1,LRL456 Orbe 21 – 21.1 TV – CABA TV TDA – CD Cd Aut Bs As
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:-1,ORBE 21
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+#EXTINF:-1,Provincial – 2CTV – San Miguel – GB Gran Bs As
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:-1,Solidaria TV – 45 TV – Caseros – GB Gran Bs As
+http://188.165.135.22/remararg/livestream/playlist.m3u8
+#EXTINF:-1,TaTeTi – 22.3 TV – CABA TV TDA – CD Cd Aut Bs As
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+#EXTINF:-1,Telemax – 26.2 TV – CABA TV TDA – CD Cd Aut Bs As
+http://live-edge01.telecentro.net.ar/live/tlx-480/playlist.m3u8
+#EXTINF:-1,zzz ACUA Federal HD – 35.3 TV – CABA TV TDA – CD Cd Aut Bs As
+http://media.tda.gob.ar/ACUA-Federal/smil:acuafederal_pc.smil/playlist.m3u8
+#EXTINF:-1,zzz Canal 2 – 2 TV – San S de Jujuy – JU Jujuy
+http://xcanal2jujuyx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,zzz Canal 9 Salta
+http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,zzz DTV Diputados – 23.4 TV – CABA TV TDA – CD Cd Aut Bs As
+http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_1@301805/master.m3u8
+#EXTINF:-1,zzz Link TV – ITV – Esperanza – ST Santa Fe
+http://xlinktvcanalx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,zzz Misiones Cuatro – 8 TV – Posadas TV – MI Misiones
+http://streamlky.alsolnet.com/misionescuatro/live/playlist.m3u8
+#EXTINF:-1,zzz Multivisiï¿½n 9 – 9 TV – Salta TV – SA Salta
+http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1,zzz SeÃ±al Provincial
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
  
 
   
