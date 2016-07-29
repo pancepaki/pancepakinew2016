@@ -1,6 +1,741 @@
 #EXTM3U 
-#EXTINF:-1,KPLUS
+#EXTINF:-1,K Plus
 http://80.80.58.175:1935/makedonija-tv/_definst_/kplus-tv-stip/playstream.m3u8
+#EXTINF:-1,K1 Veles
+http://80.80.58.175:1935/makedonija-tv/_definst_/k1-tv-veles/playstream.m3u8
+#EXTINF:-1,K3
+http://80.80.58.175:1935/makedonija-tv/_definst_/k3-tv-kumanovo/playstream.m3u8
+#EXTINF:-1,A1 Strumica
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/a1-strumica/playstream.m3u8
+#EXTINF:-1,O2 Ohrid
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/o2-tv-ohrid/playstream.m3u8
+#EXTINF:-1,Ultra Tetovo
+http://makedonija-tv.cdn.spectar.tv/makedonija-tv/_definst_/ultra-tv-tetovo/playstream.m3u8
+#EXTINF:-1,Mega Bitola
+http://#EXTINF:-1,NOVA TV
+http://makedonija-novatv-player.spectar.tv:1935/makedonija-tv/_definst_/novatv/chunklist.m3u8-tv.cdn.spectar.tv/makedonija-
+tv/_definst_/hdtv-mega-bitola/playstream.m3u8
+#EXTINF:-1,NOVA SPORT
+http://87.246.0.136:59349/tv_nova_Sport
+#EXTINF:-1,https://iptv.zone/en EX YU:Viasat Explorer (RS)
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2272.m3u8
+#EXTINF:-1,EX YU: Viasat History (RS)
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2273.m3u8
+#EXTINF:-1,EX YU: VH1
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2271.m3u8
+#EXTINF:-1,EX YU: TV TK
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2378.m3u8
+#EXTINF:-1,EX YU: TV 1000 (HR)
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2100.m3u8
+#EXTINF:-1,EX YU: SPORTKLUB 3 HD HR
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2377.m3u8
+#EXTINF:-1,EX YU: SPORTKLUB 2 HD HR
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2376.m3u8
+#EXTINF:-1,EX YU: SPORTKLUB 1 HD HR
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2375.m3u8
+#EXTINF:-1,EX YU: RTRS
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2274.m3u8
+#EXTINF:-1,EX YU: PRVA PLUS
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2379.m3u8
+#EXTINF:-1,EX YU: PINK Serije
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2572.m3u8
+#EXTINF:-1,EX YU: PINK Kuvar
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2573.m3u8
+#EXTINF:-1,EX YU: PINK Family
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2574.m3u8
+#EXTINF:-1,EX YU: PINK Comedy
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2575.m3u8
+#EXTINF:-1,EX YU: Nova RS
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2098.m3u8
+#EXTINF:-1,EX YU: Nickelodeon (HR)
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2103.m3u8
+#EXTINF:-1,EX YU: Nick Jr. (RS)
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2102.m3u8
+#EXTINF:-1,EX YU: KCN 3
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2275.m3u8
+#EXTINF:-1,EX YU: KCN 2
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2276.m3u8
+#EXTINF:-1,EX YU: KCN 1
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2277.m3u8
+#EXTINF:-1,EX YU: Kanal 5+
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2219.m3u8
+#EXTINF:-1,EX YU: Kanal 5
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2218.m3u8
+#EXTINF:-1,EX YU: Fight Sports (RS)
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2101.m3u8
+#EXTINF:-1,EX YU: EUROSPORT
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2374.m3u8
+#EXTINF:-1,EX YU: CINESTAR ACTION
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2238.m3u8
+#EXTINF:-1,EX YU: Bosna TV1
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2099.m3u8
+#EXTINF:-1,EX YU: Alfa
+http://globiptv.com:8000/live/cardsharing/yg4tdh/2220.m3u8
+#EXTINF:0 tvg-name=1HD
+http://spb1.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
+#EXTINF:0 tvg-name=538 TV
+http://538hls.lswcdn.triple-it.nl/content/538tv/538tv_0.m3u8
+#EXTINF:0 tvg-name="Albmusicmusic
+http://188.138.17.8:1935/albuk/albmus.stream/playlist.m3u8
+#EXTINF:0 tvg-name= Bandwagon Live Music
+http://68.235.37.11:1935/BW/smil:bw.smil/playlist.m3u8
+#EXTINF:0 tvg-name=CMC TV
+http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
+#EXTINF:0 tvg-name=Cantinazo TV
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:0 tvg-name="Capital TV"
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-name="City TV"
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/stream.m3u8
+#EXTINF:0 tvg-name="D17"
+http://178.250.208.141/17/play.m3u8
+#EXTINF:0 tvg-name="DJING Animation HD"
+http://www.djing.com/tv/a-05.m3u8
+#EXTINF:0 tvg-name="DJING Classic HD"
+http://www.djing.com/tv/i-05.m3u8
+#EXTINF:0 tvg-name="DJING Dancefloor HD"
+http://www.djing.com/tv/d-05.m3u8
+#EXTINF:0 tvg-name="DJING HD"
+http://www.djing.com/tv/h-05.m3u8
+#EXTINF:0 tvg-name="DJING Hot Hot Hot HD"
+http://www.djing.com/tv/hothothot.m3u8
+#EXTINF:0 tvg-name="DJING Ibiza HD"
+http://www.djing.com/tv/d-05.m3u8
+#EXTINF:0 tvg-name="DJING Underground HD"
+http://www.djing.com/tv/u-05.m3u8
+#EXTINF:0 tvg-name="ESKA TV HD"
+http://stream.smcloud.net/live/eskatv/aylist.m3u8
+#EXTINF:0 tvg-name="FLOW RAP AND R&B NONSTOP"
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/appleman.m3u8
+#EXTINF:0 tvg-name="Gaan Bangla TV"
+http://118.179.35.11/hls/GRAMBANGLA/index.m3u8
+#EXTINF:0 tvg-name="Gold TV"
+rtmp://goldtv.md:8080/live/goldtv
+#EXTINF:0 tvg-name="HD Live Mix"
+rtmp://91.201.78.3:1935/live/rockhd
+#EXTINF:0 tvg-name="HD One Classic"
+rtmp://91.201.78.3:1935/live/classicshd
+#EXTINF:0 tvg-name="HD One Dance"
+rtmp://91.201.78.3:1935/live/dancehd
+#EXTINF:0 tvg-name="HD One Jazz"
+rtmp://91.201.78.3:1935/live/jazzhd
+#EXTINF:0 tvg-name="HD One Pop"
+rtmp://91.201.78.3:1935/live/pophd
+#EXTINF:0 tvg-name="HD One Rock"
+rtmp://91.201.78.3:1935/live/rockhd
+#EXTINF:0 tvg-name="HEART TV"
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:0 tvg-name="Heavy Metal Television"
+rtmp://70.166.98.130:1935/hmtv/myStream
+#EXTINF:0 tvg-name="HitTV"
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:0 tvg-name="Jugoton TV"
+http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/playlist.m3u8
+#EXTINF:0 tvg-name="HIT TV"
+http://tst.es.flash.glb.ipercast.net/tst.es-live/live/playlist.m3u8
+#EXTINF:0 tvg-name="La Mega Mundial"
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:0 tvg-name="M 6"
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+#EXTINF:0 tvg-name="M2O Music"
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0 tvg-name="MAD"
+http://144.76.2.213:1935/live/livestream/playlist.m3u8
+#EXTINF:0 tvg-name="MFM TV"
+http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
+#EXTINF:0 tvg-name="MTV AM"
+http://mtvam.ru/hlsam/playlist.m3u8
+#EXTINF:0 tvg-name="MTV ForMusic"
+http://194.116.73.52/quartaretetv1/formusicweb/playlist.m3u8
+#EXTINF:0 tvg-name="MTV India"
+http://130.185.144.63:8081/iptv/MTVIndia/chunks.m3u8
+#EXTINF:0 tvg-name="MUS.C BOX"
+http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8
+#EXTINF:0 tvg-name="Magic TV"
+http://31.13.217.76:1935/magictv/magictv_live.stream/playlist.m3u8
+#EXTINF:0 tvg-name="MiMusica"
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+#EXTINF:0 tvg-name="Monte Carlo TV"
+http://fms.105.net:1935/live/rmc1/playlist.m3u8
+#EXTINF:0 tvg-name="Music Box"
+rtmp://212.26.132.86/live/mb_ua
+#EXTINF:0 tvg-name="My JAM TV"
+http://108.61.159.243:1935/XStreamEngine-243/smil:MyJamTV.smil/playlist.m3u8
+#EXTINF:0 tvg-name="NASHVILLE THE BEST COUNTRY 24/7"
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/appleman.m3u8
+#EXTINF:0 tvg-name="RE tv"
+http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
+#EXTINF:0 tvg-name="Real Hip Hop Network"
+http://rhn.tulix.tv/live/Stream1/playlist.m3u8
+#EXTINF:0 tvg-name="Real Jamaican Television"
+http://univ-i.akamaihd.net/hls/live/222631/group1/playlist.m3u8
+#EXTINF:0 tvg-name="Russian Music Box"
+http://hls.peers.tv/streaming/musboxru/126/tvrec/playlist.m3u8
+#EXTINF:0 tvg-name="TRT Musik"
+http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
+#EXTINF:0 tvg-name="TV Blast"
+http://www.streaming507.com:1935/TVBlast/TVBlast/playlist.m3u8
+#EXTINF:0 tvg-name="TV M3"
+http://rtmp.infomaniak.ch/livecast/tvm3/PAZ.m3u8
+#EXTINF:0 tvg-name="Telemusica"
+http://186.155.200.118:1935/live/telemusica/chunklist_w1353784156_69909.m3u8
+#EXTINF:0 tvg-name="Teve Musica HD"
+http://ss6.domint.net:2086/tmtv_str/musica/playlist.m3u8
+#EXTINF:0 tvg-name="Tigo Music"
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
+#EXTINF:0 tvg-name="Trace Urban HD"
+http://58.97.57.152:1935/live/hd06.stream/playlist.m3u8?id=298&type=live&ch=hd06
+#EXTINF:0 tvg-name="VEVO "
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO "
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO 2 HD"
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO 3 HD"
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO 4"
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/02/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO 5"
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/02/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO 6"
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/02/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO 7"
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/03/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO 8"
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/03/prog_index.m3u8
+#EXTINF:0 tvg-name="VEVO 9"
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/03/prog_index.m3u8
+#EXTINF:0 tvg-name="VH1 Classic"
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL728/PROFILE05.m3u8
+#EXTINF:0 tvg-name="VH1 HD"
+http://187.188.79.4/wp/vod.cdn.iutpcdn.com/LIVE/H01/CANAL703/PROFILE05.m3u8
+#EXTINF:0 tvg-name="VM Music"
+http://k3.usastreams.com:1935/canal29/canal29/playlist.m3u8
+#EXTINF:0 tvg-name="Virgin TV"
+http://fms.105.net:1935/live/virgin1/livestream.m3u8
+#EXTINF:-1,SLO1
+http://89.142.238.133:1234/udp/232.4.1.1:5002
+#EXTINF:-1,Slovenija 1 HD
+http://89.142.238.133:1234/udp/232.4.1.53:5002
+#EXTINF:-1,SLO2
+http://89.142.238.133:1234/udp/232.4.1.2:5002
+#EXTINF:-1,Slovenija 2 HD
+http://89.142.238.133:1234/udp/232.4.1.54:5002
+#EXTINF:-1,SLO 3
+http://89.142.238.133:1234/udp/232.4.1.41:5002
+#EXTINF:-1,RTS Maribor
+http://89.142.238.133:1234/udp/232.4.1.15:5002
+#EXTINF:-1,Tele M
+http://89.142.238.133:1234/udp/232.4.1.37:5002
+#EXTINF:-1,TV Koper Capodistria
+http://89.142.238.133:1234/udp/232.4.1.18:5002
+#EXTINF:-1,Planet TV
+http://89.142.238.133:1234/udp/232.4.1.56:5002
+#EXTINF:-1,Planet TV HD
+http://89.142.238.133:1234/udp/232.4.1.102:5002
+#EXTINF:-1,Planet TV HD
+http://89.142.238.133:1234/udp/232.4.1.55:5002
+#EXTINF:-1,POP TV
+http://89.142.238.133:1234/udp/232.4.1.3:5002
+#EXTINF:-1,POP Brio
+http://89.142.238.133:1234/udp/232.4.9.1:5002
+#EXTINF:-1,POP Kino
+http://89.142.238.133:1234/udp/232.4.9.2:5002
+#EXTINF:-1,POP Oto
+http://89.142.238.133:1234/udp/232.4.9.4:5002
+#EXTINF:-1,Carli TV
+http://89.142.238.133:1234/udp/232.4.1.10:5002
+#EXTINF:-1,Kanal A
+http://89.142.238.133:1234/udp/232.4.1.4:5002
+#EXTINF:-1,Arena TV
+http://89.142.238.133:1234/udp/232.4.1.42:5002
+#EXTINF:-1,TV3 Medias
+http://89.142.238.133:1234/udp/232.4.1.47:5002
+#EXTINF:-1,Info TV
+http://89.142.238.133:1234/udp/232.4.1.9:5002
+#EXTINF:-1,Sponka TV
+http://89.142.238.133:1234/udp/232.4.1.16:5002
+#EXTINF:-1,TV Veseljak
+http://89.142.238.133:1234/udp/232.4.1.13:5002
+#EXTINF:-1,NET TV
+http://89.142.238.133:1234/udp/232.4.1.14:5002
+#EXTINF:-1,TV Primorka
+http://89.142.238.133:1234/udp/232.4.1.31:5002
+#EXTINF:-1,TV Petelin
+http://89.142.238.133:1234/udp/232.4.1.36:5002
+#EXTINF:-1,Vitel
+http://89.142.238.133:1234/udp/232.4.1.35:5002
+#EXTINF:-1,Golica TV
+http://89.142.238.133:1234/udp/232.4.1.19:5002
+#EXTINF:-1,TV As
+http://89.142.238.133:1234/udp/232.4.1.39:5002
+#EXTINF:-1,VTV
+http://89.142.238.133:1234/udp/232.4.1.17:5002
+#EXTINF:-1,Gostilna
+http://89.142.238.133:1234/udp/232.4.9.7:5002
+#EXTINF:-1,https://iptv.zone SIP TV
+http://89.142.238.133:1234/udp/232.4.1.38:5002
+#EXTINF:-1,Kanal 10 / Idea TV
+http://89.142.238.133:1234/udp/232.4.1.40:5002
+#EXTINF:-1,PeTV
+http://89.142.238.133:1234/udp/232.4.1.50:5002
+#EXTINF:-1,TV Celje
+http://89.142.238.133:1234/udp/232.4.1.46:5002
+#EXTINF:-1,HRT1
+http://89.142.238.133:1234/udp/232.4.1.6:5002
+#EXTINF:-1,HRT2
+http://89.142.238.133:1234/udp/232.4.1.7:5002
+#EXTINF:-1,RTL Hrvatska
+http://89.142.238.133:1234/udp/232.4.11.11:5002
+#EXTINF:-1,RTL 2 Hrvatska
+http://89.142.238.133:1234/udp/232.4.11.18:5002
+#EXTINF:-1,RTL Plus
+http://89.142.238.133:1234/udp/232.4.11.21:5002
+#EXTINF:-1,JabukaTV
+http://89.142.238.133:1234/udp/232.4.11.22:5002
+#EXTINF:-1,Narodna TV
+http://89.142.238.133:1234/udp/232.4.11.24:5002
+#EXTINF:-1,MrezaTV
+http://89.142.238.133:1234/udp/232.4.11.25:5002
+#EXTINF:-1,TV Jadran
+http://89.142.238.133:1234/udp/232.4.11.26:5002
+#EXTINF:-1,Z 1 - Zagrebacka TV
+http://89.142.238.133:1234/udp/232.4.11.29:5002
+#EXTINF:-1,Tv Istra
+http://89.142.238.133:1234/udp/232.4.11.27:5002
+#EXTINF:-1,Atlas TV
+http://89.142.238.133:1234/udp/232.4.11.52:5002
+#EXTINF:-1,RT Crna gora
+http://89.142.238.133:1234/udp/232.4.1.23:5002
+#EXTINF:-1,BHT 1
+http://89.142.238.133:1234/udp/232.4.11.13:5002
+#EXTINF:-1,OBN
+http://89.142.238.133:1234/udp/232.4.3.48:5002
+#EXTINF:-1,TV 1
+http://89.142.238.133:1234/udp/232.4.11.19:5002
+#EXTINF:-1,Federalna TV
+http://89.142.238.133:1234/udp/232.4.11.14:5002
+#EXTINF:-1,NTVC
+http://89.142.238.133:1234/udp/232.4.11.15:5002
+#EXTINF:-1,na
+http://89.142.238.133:1234/udp/232.4.11.20:5002
+#EXTINF:-1,OTV Valentino
+http://89.142.238.133:1234/udp/232.4.11.16:5002
+#EXTINF:-1,RTRS
+http://89.142.238.133:1234/udp/232.4.11.17:5002
+#EXTINF:-1,BN TV
+http://89.142.238.133:1234/udp/232.4.3.26:5002
+#EXTINF:-1,Hayat
+http://89.142.238.133:1234/udp/232.4.1.21:5002
+#EXTINF:-1,Elta Televizija 1 HD
+http://89.142.238.133:1234/udp/232.4.1.52:5002
+#EXTINF:-1,Elta Televizija 2
+http://89.142.238.133:1234/udp/232.4.11.12:5002
+#EXTINF:-1,Hema Sarajevo
+http://89.142.238.133:1234/udp/232.4.1.51:5002
+#EXTINF:-1,MRT 1
+http://89.142.238.133:1234/udp/232.4.11.33:5002
+#EXTINF:-1,MRT 2
+http://89.142.238.133:1234/udp/232.4.11.34:5002
+#EXTINF:-1,MRT 3
+http://89.142.238.133:1234/udp/232.4.11.35:5002
+#EXTINF:-1,Nasa TV
+http://89.142.238.133:1234/udp/232.4.11.36:5002
+#EXTINF:-1,Sitel TV
+http://89.142.238.133:1234/udp/232.4.11.39:5002
+#EXTINF:-1,Sitel 3
+http://89.142.238.133:1234/udp/232.4.11.37:5002
+#EXTINF:-1,MKTV
+http://89.142.238.133:1234/udp/232.4.1.25:5002
+#EXTINF:-1,Alfa TV
+http://89.142.238.133:1234/udp/232.4.11.30:5002
+#EXTINF:-1,Kanal 5
+http://89.142.238.133:1234/udp/232.4.11.31:5002
+#EXTINF:-1,Kanal 5 Plus
+http://89.142.238.133:1234/udp/232.4.11.32:5002
+#EXTINF:-1,Telma TV
+http://89.142.238.133:1234/udp/232.4.11.38:5002
+#EXTINF:-1,RTS 1
+http://89.142.238.133:1234/udp/232.4.11.47:5002
+#EXTINF:-1,RTS 2
+http://89.142.238.133:1234/udp/232.4.11.48:5002
+#EXTINF:-1,Prva
+http://89.142.238.133:1234/udp/232.4.11.46:5002
+#EXTINF:-1,Duga +
+http://89.142.238.133:1234/udp/232.4.11.49:5002
+#EXTINF:-1,B 92
+http://89.142.238.133:1234/udp/232.4.11.40:5002
+#EXTINF:-1,B92 Info
+http://89.142.238.133:1234/udp/232.4.11.41:5002
+#EXTINF:-1,Happy TV
+http://89.142.238.133:1234/udp/232.4.11.42:5002
+#EXTINF:-1,Vikom Radio Televizija
+http://89.142.238.133:1234/udp/232.4.11.43:5002
+#EXTINF:-1,KCN 1
+http://89.142.238.133:1234/udp/232.4.11.44:5002
+#EXTINF:-1,KCN 2
+http://89.142.238.133:1234/udp/232.4.11.45:5002
+#EXTINF:-1,KCN 3
+http://89.142.238.133:1234/udp/232.4.11.53:5002
+#EXTINF:-1,RT Srbija
+http://89.142.238.133:1234/udp/232.4.1.22:5002
+#EXTINF:-1,KohaVision
+http://89.142.238.133:1234/udp/232.4.11.51:5002
+#EXTINF:-1,RTK
+http://89.142.238.133:1234/udp/232.4.1.24:5002
+#EXTINF:-1,Folk +
+http://89.142.238.133:1234/udp/232.4.11.3:5002
+#EXTINF:-1,RTV 21
+http://89.142.238.133:1234/udp/232.4.11.10:5002
+#EXTINF:-1,Vizion Plus
+http://89.142.238.133:1234/udp/232.4.11.9:5002
+#EXTINF:-1,Tring Tring
+http://89.142.238.133:1234/udp/232.4.11.8:5002
+#EXTINF:-1,Tring Shqip
+http://89.142.238.133:1234/udp/232.4.11.7:5002
+#EXTINF:-1,https://iptv.zone Tring Max
+http://89.142.238.133:1234/udp/232.4.11.6:5002
+#EXTINF:-1,Kanali 7
+http://89.142.238.133:1234/udp/232.4.11.5:5002
+#EXTINF:-1,Alsat-M
+http://89.142.238.133:1234/udp/232.4.11.2:5002
+#EXTINF:-1,RTV 21 Plus
+http://89.142.238.133:1234/udp/232.4.11.4:5002
+#EXTINF:-1,Cartoon/TCM
+http://89.142.238.133:1234/udp/232.4.2.33:5002
+#EXTINF:-1,KidsCo
+http://89.142.238.133:1234/udp/232.4.3.5:5002
+#EXTINF:-1,Minimax
+http://89.142.238.133:1234/udp/232.4.2.41:5002
+#EXTINF:-1,Minimax
+http://89.142.238.133:1234/udp/232.2.2.41:5002
+#EXTINF:-1,JimJam
+http://89.142.238.133:1234/udp/232.4.3.3:5002
+#EXTINF:-1,Disney XD
+http://89.142.238.133:1234/udp/232.4.3.4:5002
+#EXTINF:-1,Disney Channel
+http://89.142.238.133:1234/udp/232.4.2.2:5002
+#EXTINF:-1,Disney Junior
+http://89.142.238.133:1234/udp/232.4.3.42:5002
+#EXTINF:-1,Nickelodeon
+http://89.142.238.133:1234/udp/232.4.3.11:5002
+#EXTINF:-1,Boomerang
+http://89.142.238.133:1234/udp/232.4.3.6:5002
+#EXTINF:-1,Baby TV
+http://89.142.238.133:1234/udp/232.4.2.12:5002
+#EXTINF:-1,Orlando Kids
+http://89.142.238.133:1234/udp/232.4.3.47:5002
+#EXTINF:-1,Mangas
+http://89.142.238.133:1234/udp/232.4.4.11:5002
+#EXTINF:-1,MTV Live HD
+http://89.142.238.133:1234/udp/232.4.3.51:5002
+#EXTINF:-1,MTV Dance
+http://89.142.238.133:1234/udp/232.4.3.7:5002
+#EXTINF:-1,MTV Rocks
+http://89.142.238.133:1234/udp/232.4.3.8:5002
+#EXTINF:-1,MTV Hits
+http://89.142.238.133:1234/udp/232.4.3.9:5002
+#EXTINF:-1,VH1
+http://89.142.238.133:1234/udp/232.4.2.14:5002
+#EXTINF:-1,VH1 Classic
+http://89.142.238.133:1234/udp/232.4.3.10:5002
+#EXTINF:-1,MTV
+http://89.142.238.133:1234/udp/232.4.2.11:5002
+#EXTINF:-1,Mezzo
+http://89.142.238.133:1234/udp/232.4.3.41:5002
+#EXTINF:-1,Mezzo Live HD
+http://89.142.238.133:1234/udp/232.4.3.50:5002
+#EXTINF:-1,DM SAT
+http://89.142.238.133:1234/udp/232.4.3.25:5002
+#EXTINF:-1,Pink Music
+http://89.142.238.133:1234/udp/232.4.2.40:5002
+#EXTINF:-1,Pink Plus
+http://89.142.238.133:1234/udp/232.4.8.1:5002
+#EXTINF:-1,Pink Plus
+http://89.142.238.133:1234/udp/232.2.8.1:5002
+#EXTINF:-1,Pink Extra
+http://89.142.238.133:1234/udp/232.4.8.2:5002
+#EXTINF:-1,Pink Extra
+http://89.142.238.133:1234/udp/232.2.8.2:5002
+#EXTINF:-1,Pink Folk 1
+http://89.142.238.133:1234/udp/232.2.8.4:5002
+#EXTINF:-1,Pink 2
+http://89.142.238.133:1234/udp/232.4.8.5:5002
+#EXTINF:-1,Pink Family
+http://89.142.238.133:1234/udp/232.4.8.7:5002
+#EXTINF:-1,Pink Movies
+http://89.142.238.133:1234/udp/232.4.8.8:5002
+#EXTINF:-1,Pink Zabava
+http://89.142.238.133:1234/udp/232.4.8.9:5002
+#EXTINF:-1,Pink World
+http://89.142.238.133:1234/udp/232.4.8.10:5002
+#EXTINF:-1,Pink Film
+http://89.142.238.133:1234/udp/232.4.8.3:5002
+#EXTINF:-1,Pink Film
+http://89.142.238.133:1234/udp/232.2.8.3:5002
+#EXTINF:-1,Jugoton TV
+http://89.142.238.133:1234/udp/232.4.3.60:5002
+#EXTINF:-1,Sutel TV
+http://89.142.238.133:1234/udp/232.4.3.62:5002
+#EXTINF:-1,CMC
+http://89.142.238.133:1234/udp/232.4.2.16:5002
+#EXTINF:-1,Balkanika
+http://89.142.238.133:1234/udp/232.4.3.27:5002
+#EXTINF:-1,I-Concerts HD
+http://89.142.238.133:1234/udp/232.4.6.11:5002
+#EXTINF:-1,HBO HD
+http://89.142.238.133:1234/udp/232.4.205.5:5003
+#EXTINF:-1,Cinestar
+http://89.142.238.133:1234/udp/232.4.202.42:5003
+#EXTINF:-1,Cinestar A&T
+http://89.142.238.133:1234/udp/232.4.3.46:5002
+#EXTINF:-1,TV 1000
+http://89.142.238.133:1234/udp/232.4.2.1:5002
+#EXTINF:-1,Klasik TV
+http://89.142.238.133:1234/udp/232.2.2.15:5002
+#EXTINF:-1,Fox
+http://89.142.238.133:1234/udp/232.4.2.46:5002
+#EXTINF:-1,Fox HD
+http://89.142.238.133:1234/udp/232.4.3.138:5002
+#EXTINF:-1,Fox HD
+http://89.142.238.133:1234/udp/232.2.3.138:5002
+#EXTINF:-1,Fox Movies HD
+http://89.142.238.133:1234/udp/232.4.3.132:5002
+#EXTINF:-1,FOX Movies
+http://89.142.238.133:1234/udp/232.4.2.45:5002
+#EXTINF:-1,Fox Crime HD
+http://89.142.238.133:1234/udp/232.4.3.130:5002
+#EXTINF:-1,FOX Crime
+http://89.142.238.133:1234/udp/232.4.2.19:5002
+#EXTINF:-1,Fox Life HD
+http://89.142.238.133:1234/udp/232.4.3.131:5002
+#EXTINF:-1,FOX Life
+http://89.142.238.133:1234/udp/232.4.2.18:5002
+#EXTINF:-1,Universal Channel
+http://89.142.238.133:1234/udp/232.4.3.1:5002
+#EXTINF:-1,MGM
+http://89.142.238.133:1234/udp/232.4.2.17:5002
+#EXTINF:-1,MGM
+http://89.142.238.133:1234/udp/232.2.2.17:5002
+#EXTINF:-1,CBS Drama
+http://89.142.238.133:1234/udp/232.4.2.29:5002
+#EXTINF:-1,CBS Reality
+http://89.142.238.133:1234/udp/232.4.2.21:5002
+#EXTINF:-1,National Geographic HD
+http://89.142.238.133:1234/udp/232.4.6.3:5002
+#EXTINF:-1,National Geographic HD
+http://89.142.238.133:1234/udp/232.2.6.3:5002
+#EXTINF:-1,National Geographic
+http://89.142.238.133:1234/udp/232.4.2.9:5002
+#EXTINF:-1,National Geographic Wild
+http://89.142.238.133:1234/udp/232.4.3.16:5002
+#EXTINF:-1,Animal Planet HD
+http://89.142.238.133:1234/udp/232.4.6.14:5002
+#EXTINF:-1,Animal Planet HD
+http://89.142.238.133:1234/udp/232.2.6.14:5002
+#EXTINF:-1,Animal Planet
+http://89.142.238.133:1234/udp/232.4.2.10:5002
+#EXTINF:-1,Crime & Investigation
+http://89.142.238.133:1234/udp/232.4.3.59:5002
+#EXTINF:-1,Discovery Channel
+http://89.142.238.133:1234/udp/232.4.2.8:5002
+#EXTINF:-1,Discovery Science
+http://89.142.238.133:1234/udp/232.4.3.12:5002
+#EXTINF:-1,Discovery Science HD
+http://89.142.238.133:1234/udp/232.4.3.129:5002
+#EXTINF:-1,Discovery World
+http://89.142.238.133:1234/udp/232.4.3.13:5002
+#EXTINF:-1,Discovery HD Showcase
+http://89.142.238.133:1234/udp/232.4.6.1:5002
+#EXTINF:-1,Discovery HD Showcase
+http://89.142.238.133:1234/udp/232.2.6.1:5002
+#EXTINF:-1,Investigation Discovery
+http://89.142.238.133:1234/udp/232.4.2.22:5002
+#EXTINF:-1,Travel Channel HD
+http://89.142.238.133:1234/udp/232.2.6.8:5002
+#EXTINF:-1,Travel Channel HD
+http://89.142.238.133:1234/udp/232.4.6.8:5002
+#EXTINF:-1,Travel Channel
+http://89.142.238.133:1234/udp/232.4.2.20:5002
+#EXTINF:-1,History HD
+http://89.142.238.133:1234/udp/232.4.6.2:5002
+#EXTINF:-1,History HD
+http://89.142.238.133:1234/udp/232.2.6.2:5002
+#EXTINF:-1,History Channel
+http://89.142.238.133:1234/udp/232.4.3.18:5002
+#EXTINF:-1,Viasat History
+http://89.142.238.133:1234/udp/232.4.3.2:5002
+#EXTINF:-1,Viasat Explorer
+http://89.142.238.133:1234/udp/232.4.3.14:5002
+#EXTINF:-1,TLC
+http://89.142.238.133:1234/udp/232.4.3.15:5002
+#EXTINF:-1,FLN
+http://89.142.238.133:1234/udp/232.4.3.31:5002
+#EXTINF:-1,Da Vinci Learning
+http://89.142.238.133:1234/udp/232.4.3.17:5002
+#EXTINF:-1,https://iptv.zone Da Vinci U
+http://89.142.238.133:1234/udp/232.2.3.43:5002
+#EXTINF:-1,Nautical Channel
+http://89.142.238.133:1234/udp/232.4.4.2:5002
+#EXTINF:-1,DocuBox HD
+http://89.142.238.133:1234/udp/232.4.3.52:5002
+#EXTINF:-1,Wild TV HD
+http://89.142.238.133:1234/udp/232.4.6.9:5002
+#EXTINF:-1,Wild TV HD
+http://89.142.238.133:1234/udp/232.2.6.9:5002
+#EXTINF:-1,Food Network HD
+http://89.142.238.133:1234/udp/232.2.6.13:5002
+#EXTINF:-1,Fishing & Hunting
+http://89.142.238.133:1234/udp/232.4.3.39:5002
+#EXTINF:-1,Food HD
+http://89.142.238.133:1234/udp/232.4.6.13:5002
+#EXTINF:-1,24 KITCHEN
+http://89.142.238.133:1234/udp/232.4.3.19:5002
+#EXTINF:-1,Sport TV
+http://89.142.238.133:1234/udp/232.4.2.4:5002
+#EXTINF:-1,Sport TV
+http://89.142.238.133:1234/udp/232.4.202.4:5003
+#EXTINF:-1,Sport TV HD
+http://89.142.238.133:1234/udp/232.4.2.128:5002
+#EXTINF:-1,Sport 2 TV
+http://89.142.238.133:1234/udp/232.4.3.24:5002
+#EXTINF:-1,Sport 2 TV
+http://89.142.238.133:1234/udp/232.4.203.24:5003
+#EXTINF:-1,Sport 2 TV HD
+http://89.142.238.133:1234/udp/232.4.3.128:5002
+#EXTINF:-1,Sport TV 3
+http://89.142.238.133:1234/udp/232.4.3.66:5002
+#EXTINF:-1,Sport TV 3 HD
+http://89.142.238.133:1234/udp/232.2.3.139:5002
+#EXTINF:-1,Sport TV 3 HD
+http://89.142.238.133:1234/udp/232.4.3.139:5002
+#EXTINF:-1,SportKlub 1 HD
+http://89.142.238.133:1234/udp/232.4.3.135:5002
+#EXTINF:-1,SportKlub 1
+http://89.142.238.133:1234/udp/232.4.2.24:5002
+#EXTINF:-1,SportKlub 2
+http://89.142.238.133:1234/udp/232.4.3.21:5002
+#EXTINF:-1,SportKlub 3 HD
+http://89.142.238.133:1234/udp/232.4.3.137:5002
+#EXTINF:-1,SportKlub 3
+http://89.142.238.133:1234/udp/232.4.2.44:5002
+#EXTINF:-1,SportKlub 4
+http://89.142.238.133:1234/udp/232.4.3.63:5002
+#EXTINF:-1,SportKlub 5
+http://89.142.238.133:1234/udp/232.4.3.64:5002
+#EXTINF:-1,SportKlub 6
+http://89.142.238.133:1234/udp/232.4.3.65:5002
+#EXTINF:-1,EuroSport HD
+http://89.142.238.133:1234/udp/232.4.6.4:5002
+#EXTINF:-1,Eurosport HD
+http://89.142.238.133:1234/udp/232.2.6.4:5002
+#EXTINF:-1,Eurosport
+http://89.142.238.133:1234/udp/232.4.2.25:5002
+#EXTINF:-1,Eurosport 2 HD
+http://89.142.238.133:1234/udp/232.4.6.12:5002
+#EXTINF:-1,Eurosport 2 HD
+http://89.142.238.133:1234/udp/232.2.6.12:5002
+#EXTINF:-1,Eurosport 2
+http://89.142.238.133:1234/udp/232.4.2.26:5002
+#EXTINF:-1,SPORT1
+http://89.142.238.133:1234/udp/232.4.2.3:5002
+#EXTINF:-1,FightBox HD
+http://89.142.238.133:1234/udp/232.4.3.53:5002
+#EXTINF:-1,Extreme
+http://89.142.238.133:1234/udp/232.4.3.22:5002
+#EXTINF:-1,Motors TV
+http://89.142.238.133:1234/udp/232.4.4.1:5002
+#EXTINF:-1,AB Moteurs
+http://89.142.238.133:1234/udp/232.4.4.12:5002
+#EXTINF:-1,Polayer Channel
+http://89.142.238.133:1234/udp/232.4.4.3:5002
+#EXTINF:-1,Ginx
+http://89.142.238.133:1234/udp/232.4.3.45:5002
+#EXTINF:-1,Ginx HD
+http://89.142.238.133:1234/udp/232.4.3.56:5002
+#EXTINF:-1,Style Network
+http://89.142.238.133:1234/udp/232.4.3.20:5002
+#EXTINF:-1,Fashion TV HD
+http://89.142.238.133:1234/udp/232.4.3.49:5002
+#EXTINF:-1,Fashion TV
+http://89.142.238.133:1234/udp/232.4.3.30:5002
+#EXTINF:-1,Fashion Box HD
+http://89.142.238.133:1234/udp/232.4.3.55:5002
+#EXTINF:-1,Outdoor Channel
+http://89.142.238.133:1234/udp/232.4.3.61:5002
+#EXTINF:-1,Motorvision HD
+http://89.142.238.133:1234/udp/232.4.3.57:5002
+#EXTINF:-1,ARD
+http://89.142.238.133:1234/udp/232.4.1.11:5002
+#EXTINF:-1,ZDF
+http://89.142.238.133:1234/udp/232.4.1.34:5002
+#EXTINF:-1,SAT 1
+http://89.142.238.133:1234/udp/232.4.3.34:5002
+#EXTINF:-1,RTL
+http://89.142.238.133:1234/udp/232.4.2.34:5002
+#EXTINF:-1,RTL II
+http://89.142.238.133:1234/udp/232.4.2.35:5002
+#EXTINF:-1,Super RTL
+http://89.142.238.133:1234/udp/232.4.2.36:5002
+#EXTINF:-1,Pro 7
+http://89.142.238.133:1234/udp/232.4.3.35:5002
+#EXTINF:-1,Kabel 1
+http://89.142.238.133:1234/udp/232.4.2.37:5002
+#EXTINF:-1,N-TV
+http://89.142.238.133:1234/udp/232.4.3.33:5002
+#EXTINF:-1,VOX
+http://89.142.238.133:1234/udp/232.4.3.32:5002
+#EXTINF:-1,3SAT
+http://89.142.238.133:1234/udp/232.4.1.45:5002
+#EXTINF:-1,ORF 1
+http://89.142.238.133:1234/udp/232.4.1.26:5002
+#EXTINF:-1,ORF 2
+http://89.142.238.133:1234/udp/232.4.1.27:5002
+#EXTINF:-1,RAI 1
+http://89.142.238.133:1234/udp/232.4.1.28:5002
+#EXTINF:-1,RAI 2
+http://89.142.238.133:1234/udp/232.4.1.29:5002
+#EXTINF:-1,RAI 3
+http://89.142.238.133:1234/udp/232.4.1.30:5002
+#EXTINF:-1,Mediaset Int
+http://89.142.238.133:1234/udp/232.4.3.44:5002
+#EXTINF:-1,BBC Knowledge
+http://89.142.238.133:1234/udp/232.4.3.58:5002
+#EXTINF:-1,Duna TV
+http://89.142.238.133:1234/udp/232.4.1.44:5002
+#EXTINF:-1,TVE
+http://89.142.238.133:1234/udp/232.4.1.32:5002
+#EXTINF:-1,E!
+http://89.142.238.133:1234/udp/232.4.2.23:5002
+#EXTINF:-1,TV5MONDE
+http://89.142.238.133:1234/udp/232.4.1.33:5002
+#EXTINF:-1,CNN International
+http://89.142.238.133:1234/udp/232.4.2.5:5002
+#EXTINF:-1,Bloomberg
+http://89.142.238.133:1234/udp/232.4.3.40:5002
+#EXTINF:-1,Channel One Russia
+http://89.142.238.133:1234/udp/232.4.2.39:5002
+#EXTINF:-1,BBC Entertainment
+http://89.142.238.133:1234/udp/232.4.2.30:5002
+#EXTINF:-1,BBC World
+http://89.142.238.133:1234/udp/232.4.2.7:5002
+#EXTINF:-1,Sky News
+http://89.142.238.133:1234/udp/232.4.2.32:5002
+#EXTINF:-1,France 24
+http://89.142.238.133:1234/udp/232.4.2.6:5002
+#EXTINF:-1,EuroNews
+http://89.142.238.133:1234/udp/232.4.3.29:5002
+#EXTINF:-1,Russia Today
+http://89.142.238.133:1234/udp/232.4.2.43:5002
+#EXTINF:-1,EWTN
+http://89.142.238.133:1234/udp/232.4.2.31:5002
+#EXTINF:-1,TV Antena 1
+http://89.142.238.133:1234/udp/232.4.1.48:5002
+#EXTINF:-1,Trace Sport
+http://89.142.238.133:1234/udp/232.2.4.17:5002
+#EXTINF:-1,Trace Urban
+http://89.142.238.133:1234/udp/232.2.4.18:5002   	
+
  
 
   
