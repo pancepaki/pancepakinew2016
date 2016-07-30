@@ -1,9 +1,6 @@
 #EXTM3U
 #EXTINF:-1,TV+MKD
 http://141.136.14.18/kanal1/kanal1.m3u8
-#EXTINF:-1,Sitel
-http://89.212.246.73:8888/udp/239.13.3.243:5000
-
 EXTINF‬:1, VIP HD1
 rtmp://46.105.209.61/live/live /vip-hd-tv.sdp
 #EXTINF:-1,HNTV-HR
