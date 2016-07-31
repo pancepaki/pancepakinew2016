@@ -43,8 +43,6 @@ http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u8
 http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 #EXTINF:-1,TV+MKD
 http://141.136.14.18/kanal1/kanal1.m3u8
-#EXTINF:-1,Nasa tv
-http://fms.zulu.mk:1935/zulu/nashatv_2/playlist.m3u8?wowzasessionid=1041790835
 #EXTINF:-1,Arena 1 Srb
 http://s04.platinum-iptv.com:80/live?channelId=671&uid=2199&deviceSn=27997
 #EXTINF:-1,Arena 2 Srb
