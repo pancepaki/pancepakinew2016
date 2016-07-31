@@ -1,6 +1,57 @@
 #EXTM3U
 #EXTINF:-1,TV+MKD
 http://141.136.14.18/kanal1/kanal1.m3u8
+#EXTINF:0,GRAND TV 
+http://fra1.ddns.net:97/live/test/test/325.m3u8
+#EXTINF:0,PINK HORROR -S
+http://fra1.ddns.net:97/live/test/test/345.m3u8
+#EXTINF:0,SPORT KLUB 6
+http://fra1.ddns.net:97/live/test/test/617.m3u8
+#EXTINF:0,SPORT KLUB 5
+http://fra1.ddns.net:97/live/test/test/616.m3u8
+#EXTINF:0,SPORT KLUB 4
+http://fra1.ddns.net:97/live/test/test/615.m3u8
+#EXTINF:0,SPORT KLUB 3 HD -K
+http://fra1.ddns.net:97/live/test/test/452.m3u8
+#EXTINF:0,SPORT KLUB 3 -S
+http://fra1.ddns.net:97/live/test/test/353.m3u8
+#EXTINF:0,SPORT KLUB 2 HR -S
+http://fra1.ddns.net:97/live/test/test/364.m3u8
+#EXTINF:0,SPORT KLUB 2 HR
+http://fra1.ddns.net:97/live/test/test/618.m3u8
+#EXTINF:0,SPORT KLUB 2 HD -K
+http://fra1.ddns.net:97/live/test/test/451.m3u8
+
+#EXTINF:0,hbo comedy m
+http://fra1.ddns.net:97/live/test/test/391.m3u8
+#EXTINF:0,hbo adria m
+http://fra1.ddns.net:97/live/test/test/390.m3u8
+#EXTINF:0,HBO ADRIA -S
+http://fra1.ddns.net:97/live/test/test/329.m3u8
+#EXTINF:0,hbo 3-b
+http://fra1.ddns.net:97/live/test/test/403.m3u8
+#EXTINF:0,bil - hbo 2
+http://fra1.ddns.net:97/live/test/test/402.m3u8
+#EXTINF:0,CINESTAR PREMIERE 2 -S
+http://fra1.ddns.net:97/live/test/test/297.m3u8
+#EXTINF:0,CINESTAR PREMIERE 1-S
+http://fra1.ddns.net:97/live/test/test/296.m3u8
+#EXTINF:0,CINESTAR ACTION -K
+http://fra1.ddns.net:97/live/test/test/441.m3u8
+#EXTINF:0,cinestar action-b
+http://fra1.ddns.net:97/live/test/test/405.m3u8
+#EXTINF:0,CINEMAX HD
+http://fra1.ddns.net:97/live/test/test/406.m3u8
+#EXTINF:0,cinemax 2 hd od bhcardsha - CINEMAX " HD
+http://fra1.ddns.net:97/live/test/test/407.m3u8
+#EXTINF:0,doma tv d-s
+http://fra1.ddns.net:97/live/test/test/462.m3u8
+#EXTINF:0,rtl hd
+http://fra1.ddns.net:97/live/test/test/473.m3u8
+#EXTINF:0,nova tv hr
+http://fra1.ddns.net:97/live/test/test/469.m3u8
+
+
 EXTINF‬:1, VIP HD1
 rtmp://46.105.209.61/live/live /vip-hd-tv.sdp
 #EXTINF:-1,HNTV-HR
@@ -11,6 +62,20 @@ http://212.39.124.238:8000/play/a011
 http://212.39.124.238:8000/play/a010
 #EXTINF:-1,0002 HNTV1-HR      
 http://212.39.124.227:8000/play/a012
+#EXTINF:0,OTV Valentino
+http://fra1.ddns.net:97/live/test/test/44.m3u8
+#EXTINF:0,DOMA TV hr
+http://fra1.ddns.net:97/live/test/test/424.m3u8
+#EXTINF:0,RTL2
+http://fra1.ddns.net:97/live/test/test/22.m3u8
+#EXTINF:0,RTL
+http://fra1.ddns.net:97/live/test/test/24.m3u8
+#EXTINF:0,Prva TV
+http://fra1.ddns.net:97/live/test/test/97.m3u8
+#EXTINF:0,Prva Plus
+http://fra1.ddns.net:97/live/test/test/534.m3u8
+
+
 #EXTINF:-1,RTRS Plus
 http://fra1.ddns.net:97/live/test/test/21.m3u8
 #EXTINF:-1,RTRS
