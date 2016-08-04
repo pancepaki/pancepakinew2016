@@ -3,6 +3,34 @@
 http://141.136.14.18/kanal1/kanal1.m3u8
 #EXTINF:0,GRAND TV 
 http://fra1.ddns.net:97/live/test/test/325.m3u8
+#EXTINF:0,bosna tv1 m
+http://fra1.ddns.net:97/live/test/test/512.m3u8
+#EXTINF:0,bosna tv -b
+http://fra1.ddns.net:97/live/test/test/416.m3u8
+#EXTINF:0,HIT TV
+http://fra1.ddns.net:97/live/test/test/243.m3u8
+#EXTINF:0,hit brcko-b
+http://fra1.ddns.net:97/live/test/test/411.m3u8
+#EXTINF:0,tv sehara
+http://fra1.ddns.net:97/live/test/test/401.m3u8
+#EXTINF:0,PRVA HERCEGOVACKA
+http://fra1.ddns.net:97/live/test/test/386.m3u8
+#EXTINF:0,ATLAS TV
+http://fra1.ddns.net:97/live/test/test/60.m3u8
+#EXTINF:0,RTL2 -S
+http://fra1.ddns.net:97/live/test/test/266.m3u8
+#EXTINF:0,RTL2
+http://fra1.ddns.net:97/live/test/test/22.m3u8
+#EXTINF:0,RTL KOCKICA
+http://fra1.ddns.net:97/live/test/test/23.m3u8
+#EXTINF:0,RTL
+http://fra1.ddns.net:97/live/test/test/24.m3u8
+#EXTINF:0,OSJECKA TV
+http://fra1.ddns.net:97/live/test/test/11.m3u8
+#EXTINF:0,Prva TV
+http://fra1.ddns.net:97/live/test/test/97.m3u8
+#EXTINF:0,Prva Plus
+http://fra1.ddns.net:97/live/test/test/534.m3u8
 #EXTINF:0,PINK HORROR -S
 http://fra1.ddns.net:97/live/test/test/345.m3u8
 #EXTINF:0,SPORT KLUB 6
