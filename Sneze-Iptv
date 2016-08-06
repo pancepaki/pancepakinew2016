@@ -36,6 +36,10 @@ http://85.217.224.213:4080/udp/239.239.39.20:30000
 http://188.247.133.18:8888/ipvt_004
 #EXTINF:-1,Arenasport 1
 http://188.247.133.18:8888/ipvt_002
+#EXTINF:-1,Arena Sport 1
+http://85.217.224.213:4080/udp/239.239.39.11:30000
+#EXTINF:-1,Arena Sport 2
+http://85.217.224.213:4080/udp/239.239.39.12:30000
 #EXTINF:0,RTL2
 http://fra1.ddns.net:97/live/test/test/22.m3u8
 #EXTINF:0,RTL KOCKICA
