@@ -3,6 +3,9 @@
 http://141.136.14.18/kanal1/kanal1.m3u8
 #EXTINF:0,GRAND TV 
 http://fra1.ddns.net:97/live/test/test/325.m3u8
+#EXTINF:0,Topsound-hd
+http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/chunklist_w1960175513_b1248000.m3u8
+
 #EXTINF:0,bosna tv1 m
 http://fra1.ddns.net:97/live/test/test/512.m3u8
 #EXTINF:0,bosna tv -b
@@ -29,6 +32,10 @@ http://85.217.224.213:4080/udp/239.239.39.18:30000
 http://85.217.224.213:4080/udp/239.239.39.19:30000
 #EXTINF:-1,Digi Sport 2 RO HD
 http://85.217.224.213:4080/udp/239.239.39.20:30000
+#EXTINF:-1,Arenasport 3
+http://188.247.133.18:8888/ipvt_004
+#EXTINF:-1,Arenasport 1
+http://188.247.133.18:8888/ipvt_002
 #EXTINF:0,RTL2
 http://fra1.ddns.net:97/live/test/test/22.m3u8
 #EXTINF:0,RTL KOCKICA
