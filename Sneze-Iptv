@@ -19,6 +19,16 @@ http://fra1.ddns.net:97/live/test/test/386.m3u8
 http://fra1.ddns.net:97/live/test/test/60.m3u8
 #EXTINF:0,Diema sport hd
 http://84.43.207.130/diemasport1hd/diemasport1hd.m3u8
+#EXTINF:-1,Digi Sport 1 RO HD
+http://85.217.224.213:4080/udp/239.239.39.14:30000
+#EXTINF:-1,Digi Sport 2 HU HD
+http://85.217.224.213:4080/udp/239.239.39.16:30000
+#EXTINF:-1,Arena Sport 4
+http://85.217.224.213:4080/udp/239.239.39.18:30000
+#EXTINF:-1,Arena Sport 5
+http://85.217.224.213:4080/udp/239.239.39.19:30000
+#EXTINF:-1,Digi Sport 2 RO HD
+http://85.217.224.213:4080/udp/239.239.39.20:30000
 #EXTINF:0,RTL2
 http://fra1.ddns.net:97/live/test/test/22.m3u8
 #EXTINF:0,RTL KOCKICA
