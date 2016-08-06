@@ -17,8 +17,8 @@ http://fra1.ddns.net:97/live/test/test/401.m3u8
 http://fra1.ddns.net:97/live/test/test/386.m3u8
 #EXTINF:0,ATLAS TV
 http://fra1.ddns.net:97/live/test/test/60.m3u8
-#EXTINF:0,RTL2 -S
-http://fra1.ddns.net:97/live/test/test/266.m3u8
+#EXTINF:0,Diema sport hd
+http://84.43.207.130/diemasport1hd/diemasport1hd.m3u8
 #EXTINF:0,RTL2
 http://fra1.ddns.net:97/live/test/test/22.m3u8
 #EXTINF:0,RTL KOCKICA
