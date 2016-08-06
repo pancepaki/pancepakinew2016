@@ -14,12 +14,24 @@ rtmp://46.249.95.140/live/livestream
 #EXTINF:-1,XXX Bunga Bunga
 #EXTVLCOPT:http-user-agent=android
 http://tring-amd-live-dy.tring.tv/out/u/318_461.m3u8
-
+#EXTINF:-1,HustlerTV HD
+ http://176.222.255.187:81/udp/239.254.2.232:1234
+#EXTINF:-1,French
+  http://176.222.255.187:81/udp/239.254.2.50:1234 
+#EXTINF:-1,OLALA
+  http://176.222.255.187:81/udp/239.254.2.90:1234 
+#EXTINF:-1,Russian 
+  http://176.222.255.187:81/udp/239.254.2.107:1234
+#EXTINF:-1,Platium 
+  http://176.222.255.187:81/udp/239.254.2.231:1234
+#EXTINF:-1,PLAYBOYTV 
+  http://176.222.255.187:81/udp/239.254.2.242:1234
+#EXTINF:-1,brazzerstv 
+ http://176.222.255.187:81/udp/239.254.2.243:1234
 #EXTINF:-1,+18 playboy
 http://globiptv.com:8000/live/CLIENTX484/3222065487/1803.ts
 #EXTINF:-1,+18 Hustler HD
 http://globiptv.com:8000/live/CLIENTX484/3222065487/2008.ts
-
 #EXTINF:-1,XXX Bizare
 #EXTVLCOPT:http-user-agent=android
 http://tring-amd-live-dy.tring.tv/out/u/324_467.m3u8
@@ -27,7 +39,6 @@ http://tring-amd-live-dy.tring.tv/out/u/324_467.m3u8
 http://206.190.152.218:1935/rtsp-distribution/mp4:wil-safari-01.stream/playlist.m3u8
 #EXTINF:-1,TV+
 http://141.136.14.18/kanal1/kanal1.m3u8
-
 #EXTINF:-1,Lov i ribolov HD
 http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&session=5488c6087e1ea6.57082302
 #‎EXTINF‬:1, VIP HD
