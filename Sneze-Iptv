@@ -49,7 +49,10 @@ http://fra1.ddns.net:97/live/test/test/364.m3u8
 http://fra1.ddns.net:97/live/test/test/618.m3u8
 #EXTINF:0,SPORT KLUB 2 HD -K
 http://fra1.ddns.net:97/live/test/test/451.m3u8
-
+#EXTINF:0,Sky Sport
+http://151.80.47.26:28036/ipvt_001
+#EXTINF:0,Rtrs Plus
+http://parh.rtrs.tv:1935/plus/plus/chunklist_w2005662156.m3u8
 #EXTINF:0,hbo comedy m
 http://fra1.ddns.net:97/live/test/test/391.m3u8
 #EXTINF:0,hbo adria m
