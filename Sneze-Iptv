@@ -5,7 +5,8 @@ http://141.136.14.18/kanal1/kanal1.m3u8
 http://fra1.ddns.net:97/live/test/test/325.m3u8
 #EXTINF:0,Topsound-hd
 http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/chunklist_w1960175513_b1248000.m3u8
-
+#EXTINF:0,Stoptv-mk
+http://makedonija-musictv-origin.spectar.tv:1935/makedonija-tv/_definst_/musictv/playlist.m3u8
 #EXTINF:0,bosna tv1 m
 http://fra1.ddns.net:97/live/test/test/512.m3u8
 #EXTINF:0,bosna tv -b
