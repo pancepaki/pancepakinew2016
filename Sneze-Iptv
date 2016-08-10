@@ -64,7 +64,7 @@ http://media.bossna-caffe.com:80/live?channelId=85&uid=6333&deviceUser=100jovano
 http://media.bossna-caffe.com:80/live?channelId=86&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
 #EXTINF:-1 tvg-id="262" tvg-name="RTV Zenica" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4hMOns4_MBlZurJfClCoDsXnXcI_1XHWyRCYfx2wssj9etk1_" group-title="Ex-YU",RTV Zenica - RTV Zenica
 http://media.bossna-caffe.com:80/live?channelId=262&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-
+================TEST ===========================
 #EXTINF:0,bosna tv1 m
 http://fra1.ddns.net:97/live/test/test/512.m3u8
 #EXTINF:0,bosna tv -b
