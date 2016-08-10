@@ -15,6 +15,56 @@ http://95.86.27.228/tikveshija/tikveshija.m3u8
 http://95.86.27.228/sitel/sitel.m3u8
 #EXTINF:0,Kanal 5
 http://95.86.27.228/kanal5/kanal5.m3u8
+=======BOSNA KAFE PROGRAMI=====
+#EXTINF:-1 tvg-id="128" tvg-name="HRT1" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/hrt1.png" group-title="Ex-YU",HRT1 - HRT1
+http://media.bossna-caffe.com:80/live?channelId=128&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="129" tvg-name="HRT2" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/hrt2.png" group-title="Ex-YU",HRT2 - HRT2
+http://media.bossna-caffe.com:80/live?channelId=129&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="131" tvg-name="HRT3" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/hrt3.png" group-title="Ex-YU",HRT3 - HRT3
+http://media.bossna-caffe.com:80/live?channelId=131&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="132" tvg-name="HRT 4" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/hrt4.png" group-title="Ex-YU",HRT 4 - HRT 4
+http://media.bossna-caffe.com:80/live?channelId=132&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="99" tvg-name="Nova TV" tvg-logo="http://esso.bossna-caffe.com/logos/cro/nova_tv_hr.png" group-title="Ex-YU",Nova TV - Nova TV
+http://media.bossna-caffe.com:80/live?channelId=99&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="28" tvg-name="Doma TV" tvg-logo="http://static.etrend.sk/uploads/tx_media/2009/6/tv_doma_logo_1.gif" group-title="Ex-YU",Doma TV - Doma TV
+http://media.bossna-caffe.com:80/live?channelId=28&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="43" tvg-name="RTL" tvg-logo="http://img1.wikia.nocookie.net/__cb20110325202505/logopedia/images/0/0b/RTL_Logo_2004.jpg" group-title="Ex-YU",RTL - RTL
+http://media.bossna-caffe.com:80/live?channelId=43&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="179" tvg-name="RTL 2" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRnhqqGVE9j6smNywUIHzwYtqWZUcGLWbAQbVVoLqDhN4HSlMcb_g" group-title="Ex-YU",RTL 2 - RTL 2
+http://media.bossna-caffe.com:80/live?channelId=179&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="263" tvg-name="RTL Living" tvg-logo="http://esso.bossna-caffe.com/logos/cro/rtl_living_hr.png" group-title="Ex-YU",RTL Living - RTL Living
+http://media.bossna-caffe.com:80/live?channelId=263&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="177" tvg-name="CMC" tvg-logo="http://esso.bossna-caffe.com/logos/cmc-logo.png" group-title="Music",CMC - CMC
+http://media.bossna-caffe.com:80/live?channelId=177&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="126" tvg-name="BHT1" tvg-logo="http://esso.bossna-caffe.com/logos/bih/bht1.png" group-title="Ex-YU",BHT1 - BHT1
+http://media.bossna-caffe.com:80/live?channelId=126&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="127" tvg-name="FTV" tvg-logo="http://esso.bossna-caffe.com/logos/bih/ftv_ba.png" group-title="Ex-YU",FTV - FTV
+http://media.bossna-caffe.com:80/live?channelId=127&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="271" tvg-name="TV Sarajevo" tvg-logo="http://esso.bossna-caffe.com/logos/bih/tv_sarajevo.jpg" group-title="Ex-YU",TV Sarajevo - TV Sarajevo
+http://media.bossna-caffe.com:80/live?channelId=271&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="253" tvg-name="Face TV" tvg-logo="http://esso.bossna-caffe.com/logos/bih/face_tv_ba.png" group-title="Ex-YU",Face TV - Face TV
+http://media.bossna-caffe.com:80/live?channelId=253&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="186" tvg-name="TK Tuzla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Logo_of_RTV_TK.png" group-title="Ex-YU",TK Tuzla - TK Tuzla
+http://media.bossna-caffe.com:80/live?channelId=186&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="78" tvg-name="Hayat HD" tvg-logo="http://www.bismillah.ba/foto-galeria/sponzori-Hayat-logo.png" group-title="Ex-YU",Hayat HD - Hayat HD
+http://media.bossna-caffe.com:80/live?channelId=78&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="591" tvg-name="HAYAT PLUS" tvg-logo="http://upload.wikimedia.org/wikipedia/bs/thumb/1/1a/Logo_hayat_tv_sat_plus.png/200px-Logo_hayat_tv_sat_plus.png" group-title="Ex-YU",HAYAT PLUS - HAYAT PLUS
+http://media.bossna-caffe.com:80/live?channelId=591&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="156" tvg-name="Hayat Folk" tvg-logo="http://esso.bossna-caffe.com/logos/hayat-folk-logo.png" group-title="Music",Hayat Folk - Hayat Folk
+http://media.bossna-caffe.com:80/live?channelId=156&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="49" tvg-name="OBN" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/0/0e/Obn_logo.jpg" group-title="Ex-YU",OBN - OBN
+http://media.bossna-caffe.com:80/live?channelId=49&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="322" tvg-name="Valentino TV" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsnw7MAlN5LmjqrfBqdzAjoxXs9vubYqqDyGHJIgFyGvXP5kaRMkzGwrY" group-title="Ex-YU",Valentino TV - Valentino TV
+http://media.bossna-caffe.com:80/live?channelId=322&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="242" tvg-name="SOS" tvg-logo="http://esso.bossna-caffe.com/logos/srb/sos_kanal.png" group-title="Ex-YU",SOS - SOS
+http://cms.bossna-caffe.com:80/live?channelId=242&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="85" tvg-name="BN BIH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpMLOH7A4xoKEVuzdJwBW4SpgeBKlPaHu6rgilsd-dyfUBDEbX8oBdA" group-title="Ex-YU",BN BIH - BN BIH
+http://media.bossna-caffe.com:80/live?channelId=85&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="86" tvg-name="BN Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpMLOH7A4xoKEVuzdJwBW4SpgeBKlPaHu6rgilsd-dyfUBDEbX8oBdA" group-title="Music",BN Music - BN Music
+http://media.bossna-caffe.com:80/live?channelId=86&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="262" tvg-name="RTV Zenica" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4hMOns4_MBlZurJfClCoDsXnXcI_1XHWyRCYfx2wssj9etk1_" group-title="Ex-YU",RTV Zenica - RTV Zenica
+http://media.bossna-caffe.com:80/live?channelId=262&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+
 #EXTINF:0,bosna tv1 m
 http://fra1.ddns.net:97/live/test/test/512.m3u8
 #EXTINF:0,bosna tv -b
