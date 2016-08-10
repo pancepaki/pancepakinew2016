@@ -15,6 +15,195 @@ http://95.86.27.228/tikveshija/tikveshija.m3u8
 http://95.86.27.228/sitel/sitel.m3u8
 #EXTINF:0,Kanal 5
 http://95.86.27.228/kanal5/kanal5.m3u8
+=====PINK PLATFORMA========
+#EXTINF:-1 tvg-id="51" tvg-name="Pink" tvg-logo="http://ukskytv.com/images/pink-plus-large.jpg" group-title="Pink",Pink - Pink
+http://cms.bossna-caffe.com:80/live?channelId=51&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="50" tvg-name="PINK BIH" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_bh.jpg" group-title="Pink",PINK BIH - PINK BIH
+http://cms.bossna-caffe.com:80/live?channelId=50&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="306" tvg-name="Pink Plus" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_plus.png" group-title="Pink",Pink Plus - Pink Plus
+http://cms.bossna-caffe.com:80/live?channelId=306&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="66" tvg-name="Pink 2" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_2_rs.png" group-title="Pink",Pink 2 - Pink 2
+http://cms.bossna-caffe.com:80/live?channelId=66&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="319" tvg-name="Pink 3" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_3_info_rs.png" group-title="Pink",Pink 3 - Pink 3
+http://media.bossna-caffe.com:80/live?channelId=319&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="67" tvg-name="Pink M" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_m.png" group-title="Pink",Pink M - Pink M
+http://cms.bossna-caffe.com:80/live?channelId=67&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="289" tvg-name="Pink Soap" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_soap_rs.png" group-title="Pink",Pink Soap - Pink Soap
+http://cms.bossna-caffe.com:80/live?channelId=289&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="164" tvg-name="Pink Action" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQl2WdU-nQ-EYI5JoPc5JAXGrcNpHnYQzXBmBZK2EoJe-Gj0nz2zQ" group-title="Pink",Pink Action - Pink Action
+http://cms.bossna-caffe.com:80/live?channelId=164&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="82" tvg-name="Pink Film" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_film.png" group-title="Pink",Pink Film - Pink Film
+http://cms.bossna-caffe.com:80/live?channelId=82&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="83" tvg-name="Pink Folk" tvg-logo="http://esso.bossna-caffe.com/logos/pink_folk1.png" group-title="Music",Pink Folk - Pink Folk
+http://cms.bossna-caffe.com:80/live?channelId=83&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="295" tvg-name="Pink Folk 2" tvg-logo="http://esso.bossna-caffe.com/logos/pink_folk2.png" group-title="Music",Pink Folk 2 - Pink Folk 2
+http://video.bossna-caffe.com:80/live?channelId=295&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="69" tvg-name="Pink Premium" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_premium_rs.png" group-title="Pink",Pink Premium - Pink Premium
+http://s02.bossna-caffe.com:80/live?channelId=69&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="37" tvg-name="Pink Comedy" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_comedy_rs.png" group-title="Pink",Pink Comedy - Pink Comedy
+http://cms.bossna-caffe.com:80/live?channelId=37&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="39" tvg-name="Pink Horor" tvg-logo="http://tvprofil.net/img/kanali-logo/pinkHorror.png" group-title="Pink",Pink Horor - Pink Horor
+http://cms.bossna-caffe.com:80/live?channelId=39&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="498" tvg-name="Pink Movies" tvg-logo="/noicon.png" group-title="Pink",Pink Movies - Pink Movies
+http://media.bossna-caffe.com:80/live?channelId=498&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="38" tvg-name="PINK CRIME & MYSTERY" tvg-logo="http://esso.bossna-caffe.com/logos/srb/Pink_Crime_Mistery_logo.png" group-title="Pink",PINK CRIME & MYSTERY - PINK CRIME & MYSTERY
+http://cms.bossna-caffe.com:80/live?channelId=38&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="167" tvg-name="Pink World" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_world_rs.png" group-title="Pink",Pink World - Pink World
+http://cms.bossna-caffe.com:80/live?channelId=167&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="163" tvg-name="Pink Western" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink-western-logo.jpg" group-title="Pink",Pink Western - Pink Western
+http://cms.bossna-caffe.com:80/live?channelId=163&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="499" tvg-name="Pink Pedia" tvg-logo="/noicon.png" group-title="Documentary & Style",Pink Pedia - Pink Pedia
+http://video.bossna-caffe.com:80/live?channelId=499&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="251" tvg-name="Pink Kids" tvg-logo="http://esso.bossna-caffe.com/logos/pink-kids-logo.png" group-title="Children",Pink Kids - Pink Kids
+http://cms.bossna-caffe.com:80/live?channelId=251&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="40" tvg-name="PINK SCI-FI & FANTASY" tvg-logo="http://esso.bossna-caffe.com/logos/srb/Pink_SciFi_Fantasy_logo.png" group-title="Pink",PINK SCI-FI & FANTASY - PINK SCI-FI & FANTASY
+http://cms.bossna-caffe.com:80/live?channelId=40&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="41" tvg-name="Pink Thriller" tvg-logo="http://esso.bossna-caffe.com/logos/srb/Pink_Thriller_logo.png" group-title="Pink",Pink Thriller - Pink Thriller
+http://cms.bossna-caffe.com:80/live?channelId=41&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="500" tvg-name="Pink Zabava" tvg-logo="/noicon.png" group-title="Pink",Pink Zabava - Pink Zabava
+http://video.bossna-caffe.com:80/live?channelId=500&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="294" tvg-name="Pink Music" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRu2qkFEfbMgsTq7mzbONWo8yW8umMuntm-P0TO-7VnXmB-J9tTlzJZOJT-" group-title="Music",Pink Music - Pink Music
+http://media.bossna-caffe.com:80/live?channelId=294&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="323" tvg-name="Pink Romance" tvg-logo="http://esso.bossna-caffe.com/logos/srb/Pink_Romance_logo.png" group-title="Pink",Pink Romance - Pink Romance
+http://media.bossna-caffe.com:80/live?channelId=323&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="624" tvg-name="Pink Serije" tvg-logo="/noicon.png" group-title="Pink",Pink Serije - Pink Serije
+http://video.bossna-caffe.com:80/live?channelId=624&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="317" tvg-name="Pink Reality" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_reality_rs.png" group-title="Pink",Pink Reality - Pink Reality
+http://cms.bossna-caffe.com:80/live?channelId=317&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="327" tvg-name="Pink Kuvar" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQU4ZgirBYRLM_Y12F-aeztTtAUnwetFPV9ZoaiefEfvHDjaFyVNZCsfdNW" group-title="Pink",Pink Kuvar - Pink Kuvar
+http://media.bossna-caffe.com:80/live?channelId=327&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="416" tvg-name="═════ FILM & SERIJE ═════" tvg-logo="/noicon.png" group-title="Movies",═════ FILM & SERIJE ═════ - ═════ FILM & SERIJE ═════
+http://s02.bossna-caffe.com:80/live?channelId=416&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="34" tvg-name="HBO Adria" tvg-logo="http://esso.bossna-caffe.com/logos/HBO.png" group-title="Movies",HBO Adria - HBO Adria
+http://media.bossna-caffe.com:80/live?channelId=34&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="35" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="Movies",HBO 2 - HBO 2
+http://media.bossna-caffe.com:80/live?channelId=35&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="791" tvg-name="HBO 3" tvg-logo="/noicon.png" group-title="Movies",HBO 3 - HBO 3
+http://cms.bossna-caffe.com:80/live?channelId=791&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="302" tvg-name="Cinestar TV" tvg-logo="http://esso.bossna-caffe.com/logos/CineStar_TV_logo.png" group-title="Movies",Cinestar TV - Cinestar TV
+http://media.bossna-caffe.com:80/live?channelId=302&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="71" tvg-name="CINESTAR PREMIERE 1" tvg-logo="http://esso.bossna-caffe.com/logos/CineStar_TV_premiere_1_logo.png" group-title="Movies",CINESTAR PREMIERE 1 - CINESTAR PREMIERE 1
+http://media.bossna-caffe.com:80/live?channelId=71&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="244" tvg-name="Cinestar Premiere 2" tvg-logo="http://esso.bossna-caffe.com/logos/CineStar_TV_premiere_2_logo.png" group-title="Movies",Cinestar Premiere 2 - Cinestar Premiere 2
+http://media.bossna-caffe.com:80/live?channelId=244&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="410" tvg-name="Cinestar Action" tvg-logo="http://esso.bossna-caffe.com/logos/CineStar_TV_action_logo.png" group-title="Movies",Cinestar Action - Cinestar Action
+http://s02.bossna-caffe.com:80/live?channelId=410&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="14" tvg-name="Cinemax" tvg-logo="http://esso.bossna-caffe.com/logos/cinemax-logo.png" group-title="Movies",Cinemax - Cinemax
+http://media.bossna-caffe.com:80/live?channelId=14&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="13" tvg-name="Cinemax 2" tvg-logo="http://esso.bossna-caffe.com/logos/cinemax2-logo.png" group-title="Movies",Cinemax 2 - Cinemax 2
+http://media.bossna-caffe.com:80/live?channelId=13&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="612" tvg-name="My Film HD" tvg-logo="/noicon.png" group-title="Movies",My Film HD - My Film HD
+http://cms.bossna-caffe.com:80/live?channelId=612&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="31" tvg-name="Fox" tvg-logo="http://esso.bossna-caffe.com/logos/fox-logo.png" group-title="Movies",Fox - Fox
+http://media.bossna-caffe.com:80/live?channelId=31&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="33" tvg-name="Fox Movies" tvg-logo="http://esso.bossna-caffe.com/logos/fox-movies-logo.png" group-title="Movies",Fox Movies - Fox Movies
+http://media.bossna-caffe.com:80/live?channelId=33&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="313" tvg-name="FOX LIFE" tvg-logo="http://esso.bossna-caffe.com/logos/fox-life-logo.PNG" group-title="Movies",FOX LIFE - FOX LIFE
+http://media.bossna-caffe.com:80/live?channelId=313&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="32" tvg-name="Fox Crime" tvg-logo="http://esso.bossna-caffe.com/logos/fox-crime-logo.png" group-title="Movies",Fox Crime - Fox Crime
+http://media.bossna-caffe.com:80/live?channelId=32&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="793" tvg-name="Film Klub" tvg-logo="/noicon.png" group-title="Movies",Film Klub - Film Klub
+http://cms.bossna-caffe.com:80/live?channelId=793&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+#EXTINF:-1 tvg-id="8" tvg-name="SyFy" tvg-logo="http://esso.bossna-caffe.com/logos/sci-fi-logo.png" group-title="Movies",SyFy - SyFy
+http://media.bossna-caffe.com:80/live?channelId=8&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+===================DOMASNI FILMCINJA===========================
+#EXTINF:-1 tvg-id="795" tvg-name="Život i smrt porno bande (2009)" tvg-logo="/noicon.png" group-title="Videoteka",Život i smrt porno bande (2009) - Život i smrt porno bande (2009)
+http://movie.bossna-caffe.com/movies/1.avi
+#EXTINF:-1 tvg-id="796" tvg-name="Žena Sa Slomljenim Nosem (2011)" tvg-logo="/noicon.png" group-title="Videoteka",Žena Sa Slomljenim Nosem (2011) - Žena Sa Slomljenim Nosem (2011)
+http://movie.bossna-caffe.com/movies/2.avi
+#EXTINF:-1 tvg-id="797" tvg-name="Vrhovi Zelengore (1976)" tvg-logo="/noicon.png" group-title="Videoteka",Vrhovi Zelengore (1976) - Vrhovi Zelengore (1976)
+http://movie.bossna-caffe.com/movies/3.avi
+#EXTINF:-1 tvg-id="798" tvg-name="Volim te najviše na svetu (2003)" tvg-logo="/noicon.png" group-title="Videoteka",Volim te najviše na svetu (2003) - Volim te najviše na svetu (2003)
+http://movie.bossna-caffe.com/movies/4.avi
+#EXTINF:-1 tvg-id="799" tvg-name="Varvari" tvg-logo="/noicon.png" group-title="Videoteka",Varvari - Varvari
+http://movie.bossna-caffe.com/movies/5.avi
+#EXTINF:-1 tvg-id="800" tvg-name="Varljivo leto \\'68 (1984)" tvg-logo="/noicon.png" group-title="Videoteka",Varljivo leto \\'68 (1984) - Varljivo leto \\'68 (1984)
+http://movie.bossna-caffe.com/movies/6.avi
+#EXTINF:-1 tvg-id="801" tvg-name="Valter brani Sarajevo (1972)" tvg-logo="/noicon.png" group-title="Videoteka",Valter brani Sarajevo (1972) - Valter Brani Sarajevo (1972)
+http://movie.bossna-caffe.com/movies/7.avi
+#EXTINF:-1 tvg-id="802" tvg-name="Ustanicka Ulica (2012)" tvg-logo="/noicon.png" group-title="Videoteka",Ustanicka Ulica (2012) - Ustanicka Ulica (2012)
+http://movie.bossna-caffe.com/movies/8.avi
+#EXTINF:-1 tvg-id="803" tvg-name="Ubistvo s predumišljajem (1995)" tvg-logo="/noicon.png" group-title="Videoteka",Ubistvo s predumišljajem (1995) - Ubistvo s predumišljajem (1995)
+http://movie.bossna-caffe.com/movies/9.avi
+#EXTINF:-1 tvg-id="804" tvg-name="U raljama zivota (1984)" tvg-logo="/noicon.png" group-title="Videoteka",U raljama zivota (1984) - U raljama zivota (1984)
+http://movie.bossna-caffe.com/movies/10.mp4
+#EXTINF:-1 tvg-id="805" tvg-name="Turneja (2008)" tvg-logo="/noicon.png" group-title="Videoteka",Turneja (2008) - Turneja (2008)
+http://movie.bossna-caffe.com/movies/11.avi
+#EXTINF:-1 tvg-id="806" tvg-name="Tockovi (1999)" tvg-logo="/noicon.png" group-title="Videoteka",Tockovi (1999) - Tockovi (1999)
+http://movie.bossna-caffe.com/movies/12.avi
+#EXTINF:-1 tvg-id="807" tvg-name="Narkomanska Posla  (003)" tvg-logo="/noicon.png" group-title="Videoteka",Narkomanska Posla  (003) - Narkomanska Posla  (003)
+http://movie.bossna-caffe.com/movies/13.mp4
+#EXTINF:-1 tvg-id="808" tvg-name="Opca Zabuna (2001)" tvg-logo="/noicon.png" group-title="Videoteka",Opca Zabuna (2001) - Opca Zabuna (2001)
+http://movie.bossna-caffe.com/movies/14.avi
+#EXTINF:-1 tvg-id="809" tvg-name="Partizanska Eskadrila (1979)" tvg-logo="/noicon.png" group-title="Videoteka",Partizanska Eskadrila (1979) - Partizanska Eskadrila (1979)
+http://movie.bossna-caffe.com/movies/15.avi
+#EXTINF:-1 tvg-id="810" tvg-name="Problemi Sa Stolicom  (2004)" tvg-logo="/noicon.png" group-title="Videoteka",Problemi Sa Stolicom  (2004) - Problemi Sa Stolicom  (2004)
+http://movie.bossna-caffe.com/movies/16.mp4
+#EXTINF:-1 tvg-id="811" tvg-name="Na putu (2010)" tvg-logo="/noicon.png" group-title="Videoteka",Na putu (2010) - Na putu (2010)
+http://movie.bossna-caffe.com/movies/17.mkv
+#EXTINF:-1 tvg-id="812" tvg-name="Ko to tamo peva (1980)" tvg-logo="/noicon.png" group-title="Videoteka",Ko to tamo peva (1980) - Ko to tamo peva (1980)
+http://movie.bossna-caffe.com/movies/18.avi
+#EXTINF:-1 tvg-id="813" tvg-name="Tito I ja (1992)" tvg-logo="/noicon.png" group-title="Videoteka",Tito I ja (1992) - Tito I ja (1992)
+http://movie.bossna-caffe.com/movies/19.avi
+#EXTINF:-1 tvg-id="814" tvg-name="Stara Slika (2005)" tvg-logo="/noicon.png" group-title="Videoteka",Stara Slika (2005) - Stara Slika (2005)
+http://movie.bossna-caffe.com/movies/20.mp4
+#EXTINF:-1 tvg-id="815" tvg-name="Cao inspektore (1985)" tvg-logo="/noicon.png" group-title="Videoteka",Cao inspektore (1985) - Cao inspektore (1985)
+http://movie.bossna-caffe.com/movies/21.mp4
+#EXTINF:-1 tvg-id="816" tvg-name="Srpski Oziljci (2009)" tvg-logo="/noicon.png" group-title="Videoteka",Srpski Oziljci (2009) - Srpski Oziljci (2009)
+http://movie.bossna-caffe.com/movies/22.avi
+#EXTINF:-1 tvg-id="817" tvg-name="Snijeg (2009)" tvg-logo="/noicon.png" group-title="Videoteka",Snijeg (2009) - Snijeg (2009)
+http://movie.bossna-caffe.com/movies/23.avi
+#EXTINF:-1 tvg-id="818" tvg-name="Slovenka (2009)" tvg-logo="/noicon.png" group-title="Videoteka",Slovenka (2009) - Slovenka (2009)
+http://movie.bossna-caffe.com/movies/24.mkv
+#EXTINF:-1 tvg-id="819" tvg-name="Skupljaci perja (1967)" tvg-logo="/noicon.png" group-title="Videoteka",Skupljaci perja (1967) - Skupljaci perja (1967)
+http://movie.bossna-caffe.com/movies/25.avi
+#EXTINF:-1 tvg-id="822" tvg-name="Šišanje (2010)" tvg-logo="/noicon.png" group-title="Videoteka",Šišanje (2010) - Šišanje (2010)
+http://movie.bossna-caffe.com/movies/28.avi
+#EXTINF:-1 tvg-id="823" tvg-name="Sedamdeset i dva sata (2010)" tvg-logo="/noicon.png" group-title="Videoteka",Sedamdeset i dva sata (2010) - Sedamdeset i dva sata (2010)
+http://movie.bossna-caffe.com/movies/29.avi
+#EXTINF:-1 tvg-id="824" tvg-name="Sestre (2011)" tvg-logo="/noicon.png" group-title="Videoteka",Sestre (2011) - Sestre (2011)
+http://movie.bossna-caffe.com/movies/30.mp4
+#EXTINF:-1 tvg-id="825" tvg-name="Rane (1998)" tvg-logo="/noicon.png" group-title="Videoteka",Rane (1998) - Rane (1998)
+http://movie.bossna-caffe.com/movies/31.avi
+#EXTINF:-1 tvg-id="826" tvg-name="Most Partizanski Film (1969)" tvg-logo="/noicon.png" group-title="Videoteka",Most Partizanski Film (1969) - Most Partizanski Film (1969)
+http://movie.bossna-caffe.com/movies/32.avi
+#EXTINF:-1 tvg-id="827" tvg-name="Metastaze (2009)" tvg-logo="/noicon.png" group-title="Videoteka",Metastaze (2009) - Metastaze (2009)
+http://movie.bossna-caffe.com/movies/33.mp4
+#EXTINF:-1 tvg-id="828" tvg-name="Lepa Sela Lepo Gore (1996)" tvg-logo="/noicon.png" group-title="Videoteka",Lepa Sela Lepo Gore (1996) - Lepa Sela Lepo Gore (1996)
+http://movie.bossna-caffe.com/movies/34.avi
+#EXTINF:-1 tvg-id="829" tvg-name="Klopka za Generala (1971)" tvg-logo="/noicon.png" group-title="Videoteka",Klopka za Generala (1971) - Klopka za Generala (1971)
+http://movie.bossna-caffe.com/movies/35.avi
+#EXTINF:-1 tvg-id="830" tvg-name="Klopka (2007)" tvg-logo="/noicon.png" group-title="Videoteka",Klopka (2007) - Klopka (2007)
+http://movie.bossna-caffe.com/movies/36.avi
+#EXTINF:-1 tvg-id="831" tvg-name="Diverzanti (1967)" tvg-logo="/noicon.png" group-title="Videoteka",Diverzanti (1967) - Diverzanti (1967)
+http://movie.bossna-caffe.com/movies/37.avi
+#EXTINF:-1 tvg-id="832" tvg-name="Bure baruta (1998)" tvg-logo="/noicon.png" group-title="Videoteka",Bure baruta (1998) - Bure baruta (1998)
+http://movie.bossna-caffe.com/movies/38.avi
+#EXTINF:-1 tvg-id="833" tvg-name="Braca Po Materi" tvg-logo="/noicon.png" group-title="Videoteka",Braca Po Materi - Braca Po Materi
+http://movie.bossna-caffe.com/movies/39.avi
+#EXTINF:-1 tvg-id="834" tvg-name="Bitka na Neretvi (1969)" tvg-logo="/noicon.png" group-title="Videoteka",Bitka na Neretvi (1969) - Bitka na Neretvi (1969)
+http://movie.bossna-caffe.com/movies/40.avi
+#EXTINF:-1 tvg-id="835" tvg-name="Bitka na Kozari (1962)" tvg-logo="/noicon.png" group-title="Videoteka",Bitka na Kozari (1962) - Bitka na Kozari (1962)
+http://movie.bossna-caffe.com/movies/41.avi
+#EXTINF:-1 tvg-id="836" tvg-name="Biro za izgubljene stvari (2008)" tvg-logo="/noicon.png" group-title="Videoteka",Biro za izgubljene stvari (2008) - Biro za izgubljene stvari (2008)
+http://movie.bossna-caffe.com/movies/42.avi
+#EXTINF:-1 tvg-id="837" tvg-name="Beogradski Fantom (2009)" tvg-logo="/noicon.png" group-title="Videoteka",Beogradski Fantom (2009) - Beogradski Fantom (2009)
+http://movie.bossna-caffe.com/movies/43.mp4
+#EXTINF:-1 tvg-id="838" tvg-name="Beli Lavovi (2011)" tvg-logo="/noicon.png" group-title="Videoteka",Beli Lavovi (2011) - Beli Lavovi (2011)
+http://movie.bossna-caffe.com/movies/44.mp4
+#EXTINF:-1 tvg-id="839" tvg-name="Balkanski špijun (1984)" tvg-logo="/noicon.png" group-title="Videoteka",Balkanski špijun (1984) - Balkanski špijun (1984)
+http://movie.bossna-caffe.com/movies/45.mp4
+#EXTINF:-1 tvg-id="840" tvg-name="Balkanska Braca (2005)" tvg-logo="/noicon.png" group-title="Videoteka",Balkanska Braca (2005) - Balkanska Braca (2005)
+http://movie.bossna-caffe.com/movies/47.mp4
+#EXTINF:-1 tvg-id="841" tvg-name="Apsolutnih 100 (2001)" tvg-logo="/noicon.png" group-title="Videoteka",Apsolutnih 100 (2001) - Apsolutnih 100 (2001)
+http://movie.bossna-caffe.com/movies/48.mp4
+#EXTINF:-1 tvg-id="842" tvg-name="Artiljero (2012)" tvg-logo="/noicon.png" group-title="Videoteka",Artiljero (2012) - Artiljero (2012)
+http://movie.bossna-caffe.com/movies/49.avi
+#EXTINF:-1 tvg-id="843" tvg-name="Bal na vodi (1986)" tvg-logo="/noicon.png" group-title="Videoteka",Bal na vodi (1986) - Bal na vodi (1986)
+http://movie.bossna-caffe.com/movies/50.mp4
+#EXTINF:-1 tvg-id="844" tvg-name="13 Hours The Secret Soldiers of Benghazi (2016)" tvg-logo="/noicon.png" group-title="Videoteka",13 Hours The Secret Soldiers of Benghazi (2016) - 13 Hours The Secret Soldiers of Benghazi (2016)
+
+
 =======BOSNA KAFE PROGRAMI=====
 #EXTINF:-1 tvg-id="128" tvg-name="HRT1" tvg-logo="http://esso.bossna-caffe.com/iptv/Logo/cro/hrt1.png" group-title="Ex-YU",HRT1 - HRT1
 http://media.bossna-caffe.com:80/live?channelId=128&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
