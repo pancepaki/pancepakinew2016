@@ -787,6 +787,8 @@ http://fms.zulu.mk:554/zulu/alfa_2/playlist_b125000_w1132785237.m3u8
 #EXTINF:-1,Deluxe music
 http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
 ----SPORT-----
+#EXTINF:-1,sport tv3 hd.por
+http://83.78.191.43:2064/
 #EXTINF:-1,ESPN HD
 http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1,NBA
