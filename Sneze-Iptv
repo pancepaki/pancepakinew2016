@@ -1128,3 +1128,5 @@ http://217.16.82.6:1935/zulu/nashatv_2/playlist.m3u8
 http://217.16.82.6:1935/zulu/shutel_2/playlist.m3u8
 #EXTINF:-1,HRT 2 HD
 http://cdn.iptv.amis.net/ts/HRT2HD/stream_multi.m3u8
+#EXTINF:-1,Lov i ribolov HD
+http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&session=5488c6087e1ea6.57082302
