@@ -23,7 +23,8 @@ http://95.86.27.228/kanal5/kanal5.m3u8
 http://95.86.27.228/mrt1/mrt1.m3u8
 #EXTINF:-1,Alfa mk
 http://95.86.27.228/alfa/alfa.m3u8
-
+#EXTINF:-1,TV Nova Skopje
+http://makedonija-novatv-player.spectar.tv:1935/makedonija-tv/_definst_/novatv/playlist.m3u8
 =====PINK PLATFORMA========
 #EXTINF:-1 tvg-id="51" tvg-name="Pink" tvg-logo="http://ukskytv.com/images/pink-plus-large.jpg" group-title="Pink",Pink - Pink
 http://cms.bossna-caffe.com:80/live?channelId=51&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
