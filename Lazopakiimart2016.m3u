@@ -12104,3 +12104,13 @@ http://rlu.ru/10fAM?NOVOROSSIA.TV.DNR
 http://gourl.su/tf 
 #EXTINF:-1,24 kanal ru
 http://gourl.su/ud?UKROFASCHIZM
+#EXTINF:-1,rusija 1hd
+http://rlu.ru/10t37?m3u8
+#EXTINF:-1,1 kanal ru
+http://gourl.su/tl?m3u8
+#EXTINF:-1,rbc.ru
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1,rt-global-live-HD
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8?sd=10&rebase=on
+#EXTINF:-1,rt-global-live
+http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
