@@ -19,6 +19,8 @@ http://str108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/ovcar.m3u8
 http://str108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/alkatraz.m3u8
 #EXTINF:-1,PinkFamily 3
 http://str108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/moni2.m3u8
+#EXTINF:-1,Penthouse hd
+http://195.228.11.89:4080/udp/225.255.255.75:10000
 #EXTINF:-1,Eroxx
 http://195.113.80.204:9001/eroxx
 #EXTINF:-1,XXX Bunga Bunga
