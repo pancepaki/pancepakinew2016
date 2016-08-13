@@ -12114,3 +12114,36 @@ http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
 http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8?sd=10&rebase=on
 #EXTINF:-1,rt-global-live
 http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+#EXTINF:-1, Rusija 24
+http://testlivestream.rfn.ru/live/smil:r24.smil/playlist.m3u8 
+#EXTINF:-1,24 mir
+rtmp://77.243.11.114/live/live?mir 
+#EXTINF:-1,trk bg
+rtmp://gigaz.wi.com.ua/hallDemoHLS/LVIV?UKROFASHIZM
+#EXTINF:-1,1REPUBLIC.DNR
+http://iphone-streaming.ustream.tv/uhls/18742830/streams/live/iphone/playlist.m3u8?1REPUBLIC.DNR
+#EXTINF:-1,UNION.TV.DNR
+http://iphone-streaming.ustream.tv/uhls/20059572/streams/live/iphone/playlist.m3u8?UNION.TV.DNR
+#EXTINF:-1,Enter film ru
+http://109.87.21.239:8888/udp/238.0.0.21:1234
+#EXTINF:-1,RT Today
+http://hls.svc.moyo.tv/hls/CH_RUSSIATODAY/bw3378000/variant.m3u8?version=3
+#EXTINF:-1,Cinemax_HD
+http://46.47.133.90:80/hls/Cinemax_HD_low.m3u8
+#EXTINF:-1,Animal planet ru
+http://80.80.160.168/live/1/live.m3u8 
+#EXTINF:-1,MTVCZ
+http://46.47.133.91:80/hls/MTVCZ_low.m3u8
+#EXTINF:-1,ruska noch
+http://avi://gourl.su/vt?m3u8
+#EXTINF:-1,TVI
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/playlist.m3u8
+#EXTINF:-1,kung fu
+http://46.182.25.34:1935/tv/1703/playlist.m3u8
+#EXTINF:-1,carton ru
+http://46.182.25.34:1935/tv/1771/playlist.m3u8
+#EXTINF:-1,Inter ru
+http://109.200.251.242:4022/udp/224.5.1.179:1234
+#EXTINF:-1,lanet.tv
+http://play.lanet.tv/live/9014.m3u8
+
