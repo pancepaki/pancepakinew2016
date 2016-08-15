@@ -7,22 +7,8 @@ http://fra1.ddns.net:97/live/test/test/325.m3u8
 http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/chunklist_w1960175513_b1248000.m3u8
 #EXTINF:0,Stoptv-mk
 http://makedonija-musictv-origin.spectar.tv:1935/makedonija-tv/_definst_/musictv/playlist.m3u8
-#EXTINF:0,HDTV Meга Битола
-https://www.youtube.com/watch?v=ZWB37ebHAu0
-#EXTINF:0,O2 Oхрид
-https://www.youtube.com/watch?v=YDmrE-tWwq8
-#EXTINF:-1,Ktv-mk
-http://95.86.9.58/ktv/ktv.m3u8
-#EXTINF:0,K1-veles 
-http://95.86.27.228/tikveshija/tikveshija.m3u8
-#EXTINF:0,Sitel
-http://95.86.27.228/sitel/sitel.m3u8
-#EXTINF:0,Kanal 5
-http://95.86.27.228/kanal5/kanal5.m3u8
 #EXTINF:-1,Mrt 1
 http://95.86.27.228/mrt1/mrt1.m3u8
-#EXTINF:-1,Alfa mk
-http://95.86.27.228/alfa/alfa.m3u8
 #EXTINF:-1,TV Nova Skopje
 http://makedonija-novatv-player.spectar.tv:1935/makedonija-tv/_definst_/novatv/playlist.m3u8
 =====PINK PLATFORMA========
