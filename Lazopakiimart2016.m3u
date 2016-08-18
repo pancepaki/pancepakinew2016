@@ -21,6 +21,8 @@ http://str108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/ovcar.m3u8
 http://str108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/alkatraz.m3u8
 #EXTINF:-1,PinkFamily 3
 http://str108.setplex.net/fastv_2psh/PinkFamilyglobal_rly_greece_103/moni2.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="+18",1brazers
+http://198.16.76.122:8000/133/BJDRTISRYHMI48CA
 #EXTINF:-1,Reality xxx
 http://62-210-214-31.rev.poneytelecom.eu:5890/live/es1/es1/1654.ts
 #EXTINF:-1,Premium xxx
