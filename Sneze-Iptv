@@ -1128,3 +1128,11 @@ http://217.16.82.6:1935/zulu/shutel_2/playlist.m3u8
 http://cdn.iptv.amis.net/ts/HRT2HD/stream_multi.m3u8
 #EXTINF:-1,Lov i ribolov HD
 http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&session=5488c6087e1ea6.57082302
+#EXTINF:-1 $ExtFilter="TV" group-title="Test",Digi Sport 1
+http://213.81.170.239/live002/channel023_p5.stream/DVR.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="Test",Digi Sport 2
+http://213.81.153.243/live003/channel024_p5.stream/DVR.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="Test",Digi Sport 3
+http://213.81.153.241/live001/channel026_p5.stream/DVR.m3u8
+#EXTINF:-1 $ExtFilter="TV" group-title="Test",Digi Sport 4
+http://213.81.170.239/live002/channel027_p5.stream/DVR.m3u8
