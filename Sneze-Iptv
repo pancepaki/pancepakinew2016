@@ -1136,3 +1136,9 @@ http://213.81.153.243/live003/channel024_p5.stream/DVR.m3u8
 http://213.81.153.241/live001/channel026_p5.stream/DVR.m3u8
 #EXTINF:-1 $ExtFilter="TV" group-title="Test",Digi Sport 4
 http://213.81.170.239/live002/channel027_p5.stream/DVR.m3u8
+#EXTINF:0,Planeta TV
+http://195.228.11.88:4080/udp/225.255.255.6:10000
+#EXTINF:0,Planeta Folk
+http://195.228.11.89:4080/udp/225.255.255.52:10000
+#EXTINF:0,Fen Folk
+http://195.228.11.89:4080/udp/225.255.255.44:10000
