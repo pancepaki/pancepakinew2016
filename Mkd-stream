@@ -8,8 +8,8 @@ http://fms.zulu.mk:1935/zulu/sitel_2/playlist.m3u8
 #EXTINF:0,Sitel 3
 
 http://217.16.82.6:1935/zulu/sitel3_2/playlist.m3u8
-
-
+#EXTINF:0,Tv+kumanovo
+http://141.136.14.18/kanal1/kanal1.m3u8
 #EXTINF:0,alfa
 
 http://fms.zulu.mk:1935/zulu/alfa_2/playlist.m3u8?wowzasessionid=1564127175
