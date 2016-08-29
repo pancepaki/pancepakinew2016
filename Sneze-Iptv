@@ -7,101 +7,83 @@ http://fra1.ddns.net:97/live/test/test/325.m3u8
 http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/chunklist_w1960175513_b1248000.m3u8
 #EXTINF:0,Stoptv-mk
 http://makedonija-musictv-origin.spectar.tv:1935/makedonija-tv/_definst_/musictv/playlist.m3u8
-#EXTINF:-1,Mrt 1
-http://95.86.27.228/mrt1/mrt1.m3u8
+#EXTINF:0,sitel
+
+http://fms.zulu.mk:1935/zulu/sitel_2/playlist.m3u8?wowzasessionid=977217910
+#EXTINF:0,Sitel
+http://fms.zulu.mk:1935/zulu/sitel_2/playlist.m3u8
+#EXTINF:0,Sitel 3
+
+http://217.16.82.6:1935/zulu/sitel3_2/playlist.m3u8
+
+
+#EXTINF:0,alfa
+
+http://fms.zulu.mk:1935/zulu/alfa_2/playlist.m3u8?wowzasessionid=1564127175
+#EXTINF:0,Alfa1
+http://fms.zulu.mk:1935/zulu/alfa_1/playlist.m3u8
+
+#EXTINF:0,kanal5
+
+http://fms.zulu.mk:1935/zulu/kanal5_2/playlist.m3u8?wowzasessionid=410045241
+#EXTINF:0,kanal5-SESION
+http://fms.zulu.mk:554/zulu/kanal5_1/playlist_b125000_w1132785237.m3u8?wowzasessionid=1035831752
+
+#EXTINF:0,mtv1
+
+http://fms.zulu.mk:1935/zulu/mtv1_2/playlist.m3u8?wowzasessionid=6484542
+
+#EXTINF:0,nashatv
+
+http://fms.zulu.mk:1935/zulu/nashatv_2/playlist.m3u8?wowzasessionid=827816502
+#EXTINF:0,NASA-TV
+http://217.16.82.6:1935/zulu/nashatv_2/playlist.m3u8
+
+#EXTINF:0,novatv
+
+http://makedonija-novatv-player.spectar.tv:1935/makedonija-tv/_definst_/novatv/chunklist.m3u8
+#EXTINF:0,TV-nova
+http://makedonija-novatv-player.spectar.tv:1935/makedonija-tv/_definst_/novatv/media-u0hbyq6qu_1407.ts
+
+#EXTINF:0,cmc-tv
+
+http://95.128.236.80:1935/kaltura/smil:cmc.smil/chunklist_b656000.m3u8
+#EXTINF:0,jugoton-tv
+
+http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b356000.m3u8
+
+#EXTINF:0,tv+kumanovo
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8?time=1471676335218
+
+#EXTINF:0,sutel
+http://fms.zulu.mk:1935/zulu/shutel_2/playlist.m3u8?wowzasessionid=884025746
+
+#EXTINF:0,telma
+rtsp://fms.zulu.mk:554/zulu/telma_2
+
+#EXTINF:0,kanal 5 plus
+rtsp://fms.zulu.mk:554/zulu/kanal5plus_2
+
+#EXTINF:0,kanal 21
+rtsp://62.162.58.55/TVKanal21
+#EXTINF:0,tv+kumanovo
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8?time=1471684483593
+
+#EXTINF:0,kanal5
+http://fms.zulu.mk:1935/zulu/kanal5_2/playlist.m3u8?wowzasessionid=262798439&time=1471684892490
+
+#EXTINF:0,Telma
+http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8?wowzasessionid=534344965
+
+#EXTINF:0,Tv-sonce
+rtmp://62.162.118.26/h_s7Ew9xL4_son/stream2
+
+
+
+
 #EXTINF:-1,TV Nova Skopje
 http://makedonija-novatv-player.spectar.tv:1935/makedonija-tv/_definst_/novatv/playlist.m3u8
-=====PINK PLATFORMA========
-#EXTINF:-1 tvg-id="51" tvg-name="Pink" tvg-logo="http://ukskytv.com/images/pink-plus-large.jpg" group-title="Pink",Pink - Pink
-http://cms.bossna-caffe.com:80/live?channelId=51&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="50" tvg-name="PINK BIH" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_bh.jpg" group-title="Pink",PINK BIH - PINK BIH
-http://cms.bossna-caffe.com:80/live?channelId=50&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="306" tvg-name="Pink Plus" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_plus.png" group-title="Pink",Pink Plus - Pink Plus
-http://cms.bossna-caffe.com:80/live?channelId=306&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="66" tvg-name="Pink 2" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_2_rs.png" group-title="Pink",Pink 2 - Pink 2
-http://cms.bossna-caffe.com:80/live?channelId=66&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="319" tvg-name="Pink 3" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_3_info_rs.png" group-title="Pink",Pink 3 - Pink 3
-http://media.bossna-caffe.com:80/live?channelId=319&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="67" tvg-name="Pink M" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_m.png" group-title="Pink",Pink M - Pink M
-http://cms.bossna-caffe.com:80/live?channelId=67&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="289" tvg-name="Pink Soap" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_soap_rs.png" group-title="Pink",Pink Soap - Pink Soap
-http://cms.bossna-caffe.com:80/live?channelId=289&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="164" tvg-name="Pink Action" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQl2WdU-nQ-EYI5JoPc5JAXGrcNpHnYQzXBmBZK2EoJe-Gj0nz2zQ" group-title="Pink",Pink Action - Pink Action
-http://cms.bossna-caffe.com:80/live?channelId=164&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="82" tvg-name="Pink Film" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_film.png" group-title="Pink",Pink Film - Pink Film
-http://cms.bossna-caffe.com:80/live?channelId=82&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="83" tvg-name="Pink Folk" tvg-logo="http://esso.bossna-caffe.com/logos/pink_folk1.png" group-title="Music",Pink Folk - Pink Folk
-http://cms.bossna-caffe.com:80/live?channelId=83&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="295" tvg-name="Pink Folk 2" tvg-logo="http://esso.bossna-caffe.com/logos/pink_folk2.png" group-title="Music",Pink Folk 2 - Pink Folk 2
-http://video.bossna-caffe.com:80/live?channelId=295&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="69" tvg-name="Pink Premium" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_premium_rs.png" group-title="Pink",Pink Premium - Pink Premium
-http://s02.bossna-caffe.com:80/live?channelId=69&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="37" tvg-name="Pink Comedy" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_comedy_rs.png" group-title="Pink",Pink Comedy - Pink Comedy
-http://cms.bossna-caffe.com:80/live?channelId=37&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="39" tvg-name="Pink Horor" tvg-logo="http://tvprofil.net/img/kanali-logo/pinkHorror.png" group-title="Pink",Pink Horor - Pink Horor
-http://cms.bossna-caffe.com:80/live?channelId=39&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="498" tvg-name="Pink Movies" tvg-logo="/noicon.png" group-title="Pink",Pink Movies - Pink Movies
-http://media.bossna-caffe.com:80/live?channelId=498&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="38" tvg-name="PINK CRIME & MYSTERY" tvg-logo="http://esso.bossna-caffe.com/logos/srb/Pink_Crime_Mistery_logo.png" group-title="Pink",PINK CRIME & MYSTERY - PINK CRIME & MYSTERY
-http://cms.bossna-caffe.com:80/live?channelId=38&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="167" tvg-name="Pink World" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_world_rs.png" group-title="Pink",Pink World - Pink World
-http://cms.bossna-caffe.com:80/live?channelId=167&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="163" tvg-name="Pink Western" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink-western-logo.jpg" group-title="Pink",Pink Western - Pink Western
-http://cms.bossna-caffe.com:80/live?channelId=163&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="499" tvg-name="Pink Pedia" tvg-logo="/noicon.png" group-title="Documentary & Style",Pink Pedia - Pink Pedia
-http://video.bossna-caffe.com:80/live?channelId=499&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="251" tvg-name="Pink Kids" tvg-logo="http://esso.bossna-caffe.com/logos/pink-kids-logo.png" group-title="Children",Pink Kids - Pink Kids
-http://cms.bossna-caffe.com:80/live?channelId=251&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="40" tvg-name="PINK SCI-FI & FANTASY" tvg-logo="http://esso.bossna-caffe.com/logos/srb/Pink_SciFi_Fantasy_logo.png" group-title="Pink",PINK SCI-FI & FANTASY - PINK SCI-FI & FANTASY
-http://cms.bossna-caffe.com:80/live?channelId=40&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="41" tvg-name="Pink Thriller" tvg-logo="http://esso.bossna-caffe.com/logos/srb/Pink_Thriller_logo.png" group-title="Pink",Pink Thriller - Pink Thriller
-http://cms.bossna-caffe.com:80/live?channelId=41&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="500" tvg-name="Pink Zabava" tvg-logo="/noicon.png" group-title="Pink",Pink Zabava - Pink Zabava
-http://video.bossna-caffe.com:80/live?channelId=500&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="294" tvg-name="Pink Music" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRu2qkFEfbMgsTq7mzbONWo8yW8umMuntm-P0TO-7VnXmB-J9tTlzJZOJT-" group-title="Music",Pink Music - Pink Music
-http://media.bossna-caffe.com:80/live?channelId=294&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="323" tvg-name="Pink Romance" tvg-logo="http://esso.bossna-caffe.com/logos/srb/Pink_Romance_logo.png" group-title="Pink",Pink Romance - Pink Romance
-http://media.bossna-caffe.com:80/live?channelId=323&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="624" tvg-name="Pink Serije" tvg-logo="/noicon.png" group-title="Pink",Pink Serije - Pink Serije
-http://video.bossna-caffe.com:80/live?channelId=624&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="317" tvg-name="Pink Reality" tvg-logo="http://esso.bossna-caffe.com/logos/srb/pink_reality_rs.png" group-title="Pink",Pink Reality - Pink Reality
-http://cms.bossna-caffe.com:80/live?channelId=317&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="327" tvg-name="Pink Kuvar" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQU4ZgirBYRLM_Y12F-aeztTtAUnwetFPV9ZoaiefEfvHDjaFyVNZCsfdNW" group-title="Pink",Pink Kuvar - Pink Kuvar
-http://media.bossna-caffe.com:80/live?channelId=327&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="416" tvg-name="═════ FILM & SERIJE ═════" tvg-logo="/noicon.png" group-title="Movies",═════ FILM & SERIJE ═════ - ═════ FILM & SERIJE ═════
-http://s02.bossna-caffe.com:80/live?channelId=416&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="34" tvg-name="HBO Adria" tvg-logo="http://esso.bossna-caffe.com/logos/HBO.png" group-title="Movies",HBO Adria - HBO Adria
-http://media.bossna-caffe.com:80/live?channelId=34&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="35" tvg-name="HBO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" group-title="Movies",HBO 2 - HBO 2
-http://media.bossna-caffe.com:80/live?channelId=35&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="791" tvg-name="HBO 3" tvg-logo="/noicon.png" group-title="Movies",HBO 3 - HBO 3
-http://cms.bossna-caffe.com:80/live?channelId=791&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="302" tvg-name="Cinestar TV" tvg-logo="http://esso.bossna-caffe.com/logos/CineStar_TV_logo.png" group-title="Movies",Cinestar TV - Cinestar TV
-http://media.bossna-caffe.com:80/live?channelId=302&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="71" tvg-name="CINESTAR PREMIERE 1" tvg-logo="http://esso.bossna-caffe.com/logos/CineStar_TV_premiere_1_logo.png" group-title="Movies",CINESTAR PREMIERE 1 - CINESTAR PREMIERE 1
-http://media.bossna-caffe.com:80/live?channelId=71&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="244" tvg-name="Cinestar Premiere 2" tvg-logo="http://esso.bossna-caffe.com/logos/CineStar_TV_premiere_2_logo.png" group-title="Movies",Cinestar Premiere 2 - Cinestar Premiere 2
-http://media.bossna-caffe.com:80/live?channelId=244&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="410" tvg-name="Cinestar Action" tvg-logo="http://esso.bossna-caffe.com/logos/CineStar_TV_action_logo.png" group-title="Movies",Cinestar Action - Cinestar Action
-http://s02.bossna-caffe.com:80/live?channelId=410&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="14" tvg-name="Cinemax" tvg-logo="http://esso.bossna-caffe.com/logos/cinemax-logo.png" group-title="Movies",Cinemax - Cinemax
-http://media.bossna-caffe.com:80/live?channelId=14&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="13" tvg-name="Cinemax 2" tvg-logo="http://esso.bossna-caffe.com/logos/cinemax2-logo.png" group-title="Movies",Cinemax 2 - Cinemax 2
-http://media.bossna-caffe.com:80/live?channelId=13&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="612" tvg-name="My Film HD" tvg-logo="/noicon.png" group-title="Movies",My Film HD - My Film HD
-http://cms.bossna-caffe.com:80/live?channelId=612&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="31" tvg-name="Fox" tvg-logo="http://esso.bossna-caffe.com/logos/fox-logo.png" group-title="Movies",Fox - Fox
-http://media.bossna-caffe.com:80/live?channelId=31&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="33" tvg-name="Fox Movies" tvg-logo="http://esso.bossna-caffe.com/logos/fox-movies-logo.png" group-title="Movies",Fox Movies - Fox Movies
-http://media.bossna-caffe.com:80/live?channelId=33&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="313" tvg-name="FOX LIFE" tvg-logo="http://esso.bossna-caffe.com/logos/fox-life-logo.PNG" group-title="Movies",FOX LIFE - FOX LIFE
-http://media.bossna-caffe.com:80/live?channelId=313&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="32" tvg-name="Fox Crime" tvg-logo="http://esso.bossna-caffe.com/logos/fox-crime-logo.png" group-title="Movies",Fox Crime - Fox Crime
-http://media.bossna-caffe.com:80/live?channelId=32&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="793" tvg-name="Film Klub" tvg-logo="/noicon.png" group-title="Movies",Film Klub - Film Klub
-http://cms.bossna-caffe.com:80/live?channelId=793&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
-#EXTINF:-1 tvg-id="8" tvg-name="SyFy" tvg-logo="http://esso.bossna-caffe.com/logos/sci-fi-logo.png" group-title="Movies",SyFy - SyFy
-http://media.bossna-caffe.com:80/live?channelId=8&uid=6333&deviceUser=100jovanovic&devicePass=jovanovic123
+
 ===================DOMASNI FILMCINJA===========================
 #EXTINF:-1 tvg-id="795" tvg-name="Život i smrt porno bande (2009)" tvg-logo="/noicon.png" group-title="Videoteka",Život i smrt porno bande (2009) - Život i smrt porno bande (2009)
 http://movie.bossna-caffe.com/movies/1.avi
