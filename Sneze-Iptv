@@ -1,4 +1,48 @@
 #EXTM3U
+#EXTINF:0,RTL2
+http://fra1.ddns.net:97/live/test/test/22.m3u8
+#EXTINF:0,RTL KOCKICA
+http://fra1.ddns.net:97/live/test/test/23.m3u8
+#EXTINF:0,RTL
+http://fra1.ddns.net:97/live/test/test/24.m3u8
+#EXTINF:-1,HRT2
+http://fra1.ddns.net:97/live/test/test/9.m3u8
+#EXTINF:0,Prva TV
+http://fra1.ddns.net:97/live/test/test/97.m3u8
+#EXTINF:0,Rtrs Plus
+http://parh.rtrs.tv:1935/plus/plus/chunklist_w2005662156.m3u8
+#EXTINF:0,hbo comedy m
+http://fra1.ddns.net:97/live/test/test/391.m3u8
+#EXTINF:0,hbo adria m
+http://fra1.ddns.net:97/live/test/test/390.m3u8
+#EXTINF:0,hbo 3-b
+http://fra1.ddns.net:97/live/test/test/403.m3u8
+#EXTINF:0,CINESTAR PREMIERE 2 -S
+http://fra1.ddns.net:97/live/test/test/297.m3u8
+#EXTINF:0,CINESTAR PREMIERE 1-S
+http://fra1.ddns.net:97/live/test/test/296.m3u8
+#EXTINF:0,CINESTAR ACTION -K
+http://fra1.ddns.net:97/live/test/test/441.m3u8
+#EXTINF:0,cinestar action-b
+http://fra1.ddns.net:97/live/test/test/405.m3u8
+#EXTINF:0,CINEMAX HD
+http://fra1.ddns.net:97/live/test/test/406.m3u8
+#EXTINF:0,cinemax 2 hd od bhcardsha - CINEMAX " HD
+http://fra1.ddns.net:97/live/test/test/407.m3u8
+#EXTINF:0,DOMA TV hr
+http://fra1.ddns.net:97/live/test/test/424.m3u8
+#EXTINF:0,RTL2
+http://fra1.ddns.net:97/live/test/test/22.m3u8
+#EXTINF:0,RTL
+http://fra1.ddns.net:97/live/test/test/24.m3u8
+#EXTINF:0,Prva TV
+http://fra1.ddns.net:97/live/test/test/97.m3u8
+#EXTINF:-1,CMC
+http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
+#EXTINF:-1,JUGOTON TV
+http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/playlist.m3u8
+#EXTINF:-1,GOL TV 
+http://goltv.exabytetv.info/hls2/amlst:30001_ios/master.m3u8
 #EXTINF:-1,TV+MKD
 http://141.136.14.18/kanal1/kanal1.m3u8
 #EXTINF:0,GRAND TV 
@@ -47,6 +91,26 @@ rtmp://62.162.118.26/h_s7Ew9xL4_son/stream2
 #EXTINF:-1,TV Nova Skopje
 http://makedonija-novatv-player.spectar.tv:1935/makedonija-tv/_definst_/novatv/playlist.m3u8
 =========================exyu-programcinja====================
+#EXTINF:0,bosna tv1 m
+http://fra1.ddns.net:97/live/test/test/512.m3u8
+#EXTINF:0,bosna tv -b
+http://fra1.ddns.net:97/live/test/test/416.m3u8
+#EXTINF:0,hit brcko-b
+http://fra1.ddns.net:97/live/test/test/411.m3u8
+#EXTINF:0,tv sehara
+http://fra1.ddns.net:97/live/test/test/401.m3u8
+#EXTINF:0,PRVA HERCEGOVACKA
+http://fra1.ddns.net:97/live/test/test/386.m3u8
+#EXTINF:0,ATLAS TV
+http://fra1.ddns.net:97/live/test/test/60.m3u8
+#EXTINF:-1,Arenasport 3
+http://188.247.133.18:8888/ipvt_004
+#EXTINF:-1,Arenasport 1
+http://188.247.133.18:8888/ipvt_002
+#EXTINF:0,OSJECKA TV
+http://fra1.ddns.net:97/live/test/test/11.m3u8
+#EXTINF:0,PINK HORROR -S
+http://fra1.ddns.net:97/live/test/test/345.m3u8
 
 
 
@@ -411,12 +475,7 @@ http://fra1.ddns.net:97/live/test/test/401.m3u8
 http://fra1.ddns.net:97/live/test/test/386.m3u8
 #EXTINF:0,ATLAS TV
 http://fra1.ddns.net:97/live/test/test/60.m3u8
-#EXTINF:0,Diema sport hd
-http://84.43.207.130/diemasport1hd/diemasport1hd.m3u8
-#EXTINF:-1,Digi Sport 1 RO HD
-http://85.217.224.213:4080/udp/239.239.39.14:30000
-#EXTINF:-1,Digi Sport 2 HU HD
-http://85.217.224.213:4080/udp/239.239.39.16:30000
+
 #EXTINF:-1,Arena Sport 4
 http://85.217.224.213:4080/udp/239.239.39.18:30000
 #EXTINF:-1,Arena Sport 5
@@ -517,8 +576,6 @@ http://fra1.ddns.net:97/live/test/test/24.m3u8
 http://fra1.ddns.net:97/live/test/test/97.m3u8
 #EXTINF:0,Prva Plus
 http://fra1.ddns.net:97/live/test/test/534.m3u8
-
-
 #EXTINF:-1,RTRS Plus
 http://fra1.ddns.net:97/live/test/test/21.m3u8
 #EXTINF:-1,RTRS
@@ -561,93 +618,12 @@ http://s04.platinum-iptv.com:80/live?channelId=673&uid=2199&deviceSn=27997
 http://s04.platinum-iptv.com:80/live?channelId=674&uid=2199&deviceSn=27997
 #EXTINF:-1,Arena 5 Srb
 http://s04.platinum-iptv.com:80/live?channelId=675&uid=2199&deviceSn=27997
-#EXTINF:-1 tvg-id="ARENA SPORT 1" tvg-link="" tvg-name="ARENA SPORT 1" tvg-logo="" group-title="Domaci",ARENA SPORT 1
-http://centurionlukavac.com:80/live?channelId=65&uid=13&deviceUser=daria1141&devicePass=daria1141234
-#EXTINF:-1 tvg-id="ARENA SPORT 2" tvg-link="" tvg-name="ARENA SPORT 2" tvg-logo="" group-title="Domaci",ARENA SPORT 2
-http://centurionlukavac.com:80/live?channelId=66&uid=13&deviceUser=daria1141&devicePass=daria1141234
-#EXTINF:-1 tvg-id="ARENA SPORT 3" tvg-link="" tvg-name="ARENA SPORT 3" tvg-logo="" group-title="Domaci",ARENA SPORT 3
-http://centurionlukavac.com:80/live?channelId=67&uid=13&deviceUser=daria1141&devicePass=daria1141234
-#EXTINF:-1 tvg-id="ARENA SPORT 4" tvg-link="" tvg-name="ARENA SPORT 4" tvg-logo="" group-title="Domaci",ARENA SPORT 4
-http://centurionlukavac.com:80/live?channelId=68&uid=13&deviceUser=daria1141&devicePass=daria1141234
 #EXTINF:-1,O2 HD
 http://92.62.234.202:2222/udp/239.2.0.101:1234
 #EXTINF:-1,O2 HD SPORT
 http://92.62.234.204:2222/udp/239.4.0.101:1234
-#EXTINF:-1,PINK TS RABOTI SO XMTV PLAYER
-https://www.youtube.com/watch?list=PLvOtBukI8XWCKZI0v1vfuzL0yHm6uMIIp&v=a4PwTaq8ync
-
-#EXTINF:0,PINK HORROR
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/341.ts
-#EXTINF:0,PINK comedy
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/346.ts
-#EXTINF:0, Pink Zabava
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/825.ts
-#EXTINF:0, Pink Western
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/824.ts
-#EXTINF:0, Pink Thriller
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/823.ts
-#EXTINF:0, Pink Soap
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/822.ts
-#EXTINF:0, Pink Sci Fi Fantasy
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/821.ts
-#EXTINF:0, Pink Romance
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/820.ts
-#EXTINF:0, Pink Reality
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/819.ts
-#EXTINF:0, Pink Premium
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/818.ts
-#EXTINF:0, Pink Plus
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/817.ts
-#EXTINF:0, Pink M
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/816.ts
-#EXTINF:0, Pink Hits 2
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/815.ts
-#EXTINF:0, Pink Folk 2
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/814.ts
-#EXTINF:0, Pink Film
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/813.ts
-#EXTINF:0, Pink Extra
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/812.ts
-#EXTINF:0, Pink Crime & Mystery
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/811.ts
-#EXTINF:0, Pink BIH
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/810.ts
-#EXTINF:0, Pink Action
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/809.ts
-#EXTINF:0, Pink 2
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/808.ts
-#EXTINF:0, PINK
-http://skyiptv.ddns.net:8000/live/unit1504/6526898/807.ts
-
--------sport i exyu-------------
-#EXTINF:-1,GOL TV LAT
+#EXTINF:-1,GOL TV 
 http://goltv.exabytetv.info/hls2/amlst:30001_ios/master.m3u8
-#EXTINF:-1,Match tv
-http://s02.mnogo-tv.by:8000/play/MATCH_TV
-#EXTINF:-1,Match boks
-http://s02.mnogo-tv.by:8000/play/BOEC
-#EXTINF:-1,Маtch arena
-http://s02.mnogo-tv.by:8000/play/ARENA
-#EXTINF:-1,Match igra
-http://s02.mnogo-tv.by:8000/play/IGRA
-#EXTINF:-1,Nash sport
-http://s02.mnogo-tv.by:8000/play/NASH_SPORT
-#EXTINF:-1,Fudbal 1 rus
-http://s02.mnogo-tv.by:8000/play/FUTBOLL_1
-#EXTINF:-1,Fudbal 2 rus
-http://s02.mnogo-tv.by:8000/play/FUTBOLL_2
-#EXTINF:-1,Fudbal 3 rus
-http://s02.mnogo-tv.by:8000/play/FUTBOLL_3
-#EXTINF:-1,Nash footbal
-http://s02.mnogo-tv.by:8000/play/NASH_FUTBOLS
-#EXTINF:-1,KHL TV
-http://s02.mnogo-tv.by:8000/play/KHL_TV
-#EXTINF:-1,BOKS  TV
-http://s02.mnogo-tv.by:8000/play/BOKSTV
-#EXTINF:-1,SETANTA SPORT
-http://s02.mnogo-tv.by:8000/play/SETANTASPORT
-#EXTINF:-1,SETANTA SPORT PLUS
-http://s02.mnogo-tv.by:8000/play/SETANTASPORTPLUS
 #EXTINF:-1,Lov i ribolov HD
 http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&session=5488c6087e1ea6.57082302
 -----MAKEDONSKI-----
@@ -1086,3 +1062,9 @@ http://213.81.153.241/live001/channel026_p5.stream/DVR.m3u8
 http://213.81.170.239/live002/channel027_p5.stream/DVR.m3u8
 #EXTINF:0,Stoptv-mk
 http://makedonija-musictv-origin.spectar.tv:1935/makedonija-tv/_definst_/musictv/playlist.m3u8
+#EXTINF:0,Diema sport hd
+http://84.43.207.130/diemasport1hd/diemasport1hd.m3u8
+#EXTINF:-1,Digi Sport 1 RO HD
+http://85.217.224.213:4080/udp/239.239.39.14:30000
+#EXTINF:-1,Digi Sport 2 HU HD
+http://85.217.224.213:4080/udp/239.239.39.16:30000
