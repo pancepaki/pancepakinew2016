@@ -1,4 +1,6 @@
 #EXTM3U
+Sport 1
+http://62.113.194.54:9002/Apple/Sport1_HD/.m3u8
 #EXTINF:0,RTL2
 http://fra1.ddns.net:97/live/test/test/22.m3u8
 #EXTINF:0,RTL KOCKICA
