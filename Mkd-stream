@@ -69,6 +69,49 @@ http://fms.zulu.mk:1935/zulu/kanal5_2/playlist.m3u8?wowzasessionid=262798439&tim
 http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8?wowzasessionid=534344965
 
 #EXTINF:0,Tv-sonce
+#EXTINF:0,MTV 1
+mms://62.162.58.55/TVmtv1
+#EXTINF:0,SITEL
+rtsp://fms.zulu.mk:554/zulu/sitel_2
+#EXTINF:0,SITEL 3
+rtsp://fms.zulu.mk:554/zulu/sitel3_2
+#EXTINF:0,KANAL 5
+rtsp://fms.zulu.mk:554/zulu/kanal5_2
+#EXTINF:0,KANAL 5 PLUS
+rtsp://fms.zulu.mk:554/zulu/kanal5plus_2
+#EXTINF:0,TELMA
+rtsp://fms.zulu.mk:554/zulu/telma_2
+#EXTINF:0,ALFA
+rtsp://fms.zulu.mk:554/zulu/alfa_2
+#EXTINF:0,NASHA TV
+rtsp://fms.zulu.mk:554/zulu/nasatv_2
+#EXTINF:0,ALSAT
+rtsp://fms.zulu.mk:554/zulu/alsat_2
+#EXTINF:0,BTR
+rtsp://fms.zulu.mk:554/zulu/btr_2
+#EXTINF:0,MTM TV
+http://tv.mtm.mk:8080/
+#EXTINF:0,24 vesti
+mmsh://62.162.58.55/24vesti
+#EXTINF:0,INTEL TV
+mms://62.162.58.55/TVIntel
+#EXTINF:0,IRIS
+mms://62.162.58.55/TVIris
+#EXTINF:0,ORBIS TV
+mms://62.162.58.55/TVOrbis
+#EXTINF:0,SONCE TV
+mms://62.162.58.55/TVSonce
+#EXTINF:0,TERA TV
+mms://62.162.58.55/TVTera
+#EXTINF:0,KANAL 21
+mms://62.162.58.55/TVKanal21
+#EXTINF:0,Kanal 8
+mms://62.162.58.55/TVKanal8
+#EXTINF:0,TV VIS
+mmsh://195.26.129.60:2600
+#EXTINF:0,Jungle TV
+mms://62.162.58.55/JungleTV
 rtmp://62.162.118.26/h_s7Ew9xL4_son/stream2
+
 
 
