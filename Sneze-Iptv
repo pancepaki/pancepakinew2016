@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0,MKD Muzicka tv
-rtmp://88.85.102.198:1935/live2/mak 
-Sport 1
+#EXTINF:-1,Stop tv
+http://makedonija-musictv-origin.spectar.tv:1935/makedonija-tv/_definst_/musictv/playlist.m3u8
+#EXTINF:0,Sport 1
 http://62.113.194.54:9002/Apple/Sport1_HD/.m3u8
 #EXTINF:0,RTL2
 http://fra1.ddns.net:97/live/test/test/22.m3u8
