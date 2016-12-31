@@ -1,6 +1,44 @@
 #EXTM3U
 #EXTINF:-1,Stop tv
 http://makedonija-musictv-origin.spectar.tv:1935/makedonija-tv/_definst_/musictv/playlist.m3u8
+#EXTINF:-1,24vesti
+mms://62.162.58.55/24vesti
+#EXTINF:-1,TV21-MK
+mms://62.162.58.55/TVkanal21
+#EXTINF:-1,TV+-MK
+http://141.136.14.18/kanal1/kanal1.m3u8
+#EXTINF:0,tv+kumanovo
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8?time=1471684483593
+#EXTINF:-1,TV Sonce
+http://5.32.183.178:4080/udp/224.0.0.100:1238
+#EXTINF:-1,Happy-tv
+http://5.32.183.178:4080/udp/224.0.0.100:1237
+#EXTINF:-1,VOJVODINA 1
+http://5.32.183.178:4080/udp/224.0.0.100:1237
+#EXTINF:-1,Balkanika
+http://5.32.183.177:4080/udp/224.0.0.120:1238
+#EXTINF:-1,B92
+http://5.32.183.178:4080/udp/224.0.0.100:1235
+#EXTINF:-1,RTRS+
+http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
+#EXTINF:-1,RTV-KLADOVO
+http://212.200.113.230:1935/iptv/iptv40000.stream/playlist.m3u8
+#EXTINF:-1,Arena Sport 1
+http://85.217.224.213:4080/udp/239.239.39.11:30000
+#EXTINF:-1,Arena Sport 2
+http://85.217.224.213:4080/udp/239.239.39.12:30000
+#EXTINF:-1,Digi Sport 2 HU HD
+http://85.217.224.213:4080/udp/239.239.39.16:30000
+#EXTINF:-1,Arena Sport 4
+http://85.217.224.213:4080/udp/239.239.39.18:30000
+#EXTINF:-1,Arena Sport 5
+http://85.217.224.213:4080/udp/239.239.39.19:30000
+#EXTINF:-1,Digi Sport 2 RO HD
+http://85.217.224.213:4080/udp/239.239.39.20:30000
+#EXTINF:-1,DIGI Sport 1 HU HD
+http://85.217.224.213:4080/udp/239.239.39.23:30000
+
+
 #EXTINF:0,Sport 1
 http://62.113.194.54:9002/Apple/Sport1_HD/.m3u8
 #EXTINF:0,RTL2
