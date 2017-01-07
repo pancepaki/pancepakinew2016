@@ -223,8 +223,6 @@ http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:-1,SportBG
 http://t.co/0LvQuvp6q1
-#EXTINF:-1,DigiSport3 (CZ)
-http://213.81.153.241/live001/channel026_p2.stream/DVR.m3u8
 #EXTINF:-1,Боец
 http://msk3.peers.tv/streaming/boets/16/tvrecw/playlist.m3u8
 #EXTINF:-1,Бокс ТВ
