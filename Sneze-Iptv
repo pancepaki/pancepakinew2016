@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0,HBO-HD
+http://fra1.ddns.net:97/live/test/test/391.m3u8
+#EXTINF:0,HBO3-HD
+http://fra1.ddns.net:97/live/test/test/403.m3u8
 #EXTINF:-1,Stop tv
 http://makedonija-musictv-origin.spectar.tv:1935/makedonija-tv/_definst_/musictv/playlist.m3u8
 #EXTINF:0,Topsound-hd
@@ -137,38 +141,12 @@ http://fra1.ddns.net:97/live/test/test/24.m3u8
 http://fra1.ddns.net:97/live/test/test/11.m3u8
 #EXTINF:0,Prva TV
 http://fra1.ddns.net:97/live/test/test/97.m3u8
-#EXTINF:0,PINK HORROR -S
-http://fra1.ddns.net:97/live/test/test/345.m3u8
-#EXTINF:0,SPORT KLUB 6
-http://fra1.ddns.net:97/live/test/test/617.m3u8
-#EXTINF:0,SPORT KLUB 5
-http://fra1.ddns.net:97/live/test/test/616.m3u8
-#EXTINF:0,SPORT KLUB 4
-http://fra1.ddns.net:97/live/test/test/615.m3u8
-#EXTINF:0,SPORT KLUB 3 HD -K
-http://fra1.ddns.net:97/live/test/test/452.m3u8
-#EXTINF:0,SPORT KLUB 3 -S
-http://fra1.ddns.net:97/live/test/test/353.m3u8
-#EXTINF:0,SPORT KLUB 2 HR -S
-http://fra1.ddns.net:97/live/test/test/364.m3u8
-#EXTINF:0,SPORT KLUB 2 HR
-http://fra1.ddns.net:97/live/test/test/618.m3u8
-#EXTINF:0,SPORT KLUB 2 HD -K
-http://fra1.ddns.net:97/live/test/test/451.m3u8
-#EXTINF:0,Sky Sport
-http://151.80.47.26:28036/ipvt_001
 #EXTINF:0,Rtrs Plus
 http://parh.rtrs.tv:1935/plus/plus/chunklist_w2005662156.m3u8
-#EXTINF:0,hbo comedy m
+#EXTINF:0,HBO-HD
 http://fra1.ddns.net:97/live/test/test/391.m3u8
-#EXTINF:0,hbo adria m
-http://fra1.ddns.net:97/live/test/test/390.m3u8
-#EXTINF:0,HBO ADRIA -S
-http://fra1.ddns.net:97/live/test/test/329.m3u8
-#EXTINF:0,hbo 3-b
+#EXTINF:0,HBO3-HD
 http://fra1.ddns.net:97/live/test/test/403.m3u8
-#EXTINF:0,bil - hbo 2
-http://fra1.ddns.net:97/live/test/test/402.m3u8
 #EXTINF:0,CINESTAR PREMIERE 2 -S
 http://fra1.ddns.net:97/live/test/test/297.m3u8
 #EXTINF:0,CINESTAR PREMIERE 1-S
