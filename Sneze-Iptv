@@ -106,11 +106,8 @@ http://fra1.ddns.net:97/live/test/test/401.m3u8
 http://fra1.ddns.net:97/live/test/test/386.m3u8
 #EXTINF:0,ATLAS TV
 http://fra1.ddns.net:97/live/test/test/60.m3u8
-
 #EXTINF:0,OSJECKA TV
 http://fra1.ddns.net:97/live/test/test/11.m3u8
-#EXTINF:0,PINK HORROR -S
-http://fra1.ddns.net:97/live/test/test/345.m3u8
 ================TEST ===========================
 #EXTINF:0,bosna tv1 m
 http://fra1.ddns.net:97/live/test/test/512.m3u8
@@ -126,7 +123,6 @@ http://fra1.ddns.net:97/live/test/test/401.m3u8
 http://fra1.ddns.net:97/live/test/test/386.m3u8
 #EXTINF:0,ATLAS TV
 http://fra1.ddns.net:97/live/test/test/60.m3u8
-
 #EXTINF:-1,Arena Sport 4
 http://85.217.224.213:4080/udp/239.239.39.18:30000
 #EXTINF:-1,Arena Sport 5
