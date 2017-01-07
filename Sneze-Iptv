@@ -5,6 +5,8 @@ http://fra1.ddns.net:97/live/test/test/391.m3u8
 http://fra1.ddns.net:97/live/test/test/403.m3u8
 #EXTINF:0,CINEMAX-HD
 http://fra1.ddns.net:97/live/test/test/407.m3u8
+#EXTINF:-1,HRT2
+http://fra1.ddns.net:97/live/test/test/9.m3u8
 #EXTINF:-1,Stop tv
 http://makedonija-musictv-origin.spectar.tv:1935/makedonija-tv/_definst_/musictv/playlist.m3u8
 #EXTINF:0,Topsound-hd
@@ -167,14 +169,6 @@ http://fra1.ddns.net:97/live/test/test/473.m3u8
 http://fra1.ddns.net:97/live/test/test/469.m3u8
 EXTINF‬:1, VIP HD1
 rtmp://46.105.209.61/live/live /vip-hd-tv.sdp
-#EXTINF:-1,HNTV-HR
-http://212.39.124.238:8000/play/a012
-#EXTINF:-1,Fox Crime
-http://212.39.124.238:8000/play/a011
-#EXTINF:-1,Fox Life
-http://212.39.124.238:8000/play/a010
-#EXTINF:-1,0002 HNTV1-HR      
-http://212.39.124.227:8000/play/a012
 #EXTINF:0,OTV Valentino
 http://fra1.ddns.net:97/live/test/test/44.m3u8
 #EXTINF:0,DOMA TV hr
@@ -185,8 +179,6 @@ http://fra1.ddns.net:97/live/test/test/22.m3u8
 http://fra1.ddns.net:97/live/test/test/24.m3u8
 #EXTINF:0,Prva TV
 http://fra1.ddns.net:97/live/test/test/97.m3u8
-#EXTINF:0,Prva Plus
-http://fra1.ddns.net:97/live/test/test/534.m3u8
 #EXTINF:-1,RTRS Plus
 http://fra1.ddns.net:97/live/test/test/21.m3u8
 #EXTINF:-1,RTRS
@@ -195,8 +187,6 @@ http://fra1.ddns.net:97/live/test/test/2.m3u8
 http://fra1.ddns.net:97/live/test/test/22.m3u8
 #EXTINF:-1,RTL KOCKICA
 http://fra1.ddns.net:97/live/test/test/23.m3u8
-#EXTINF:1, VIP HD2
-http://46.105.209.61/live/live /vip-hd-tv
 #EXTINF:-1,RTL
 http://fra1.ddns.net:97/live/test/test/24.m3u8
 #EXTINF:-1,Prva TV
@@ -209,103 +199,23 @@ http://fra1.ddns.net:97/live/test/test/8.m3u8
 http://fra1.ddns.net:97/live/test/test/9.m3u8
 #EXTINF:-1,HRT1
 http://fra1.ddns.net:97/live/test/test/10.m3u8
-#EXTINF:-1,CMC
-http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
-#EXTINF:-1,JUGOTON TV
-http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/playlist.m3u8
-#EXTINF:0,Jugoton TV
-http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/chunklist_b1556000.m3u8
-#EXTINF:-1,CMC
-http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
 #EXTINF:-1,TV+MKD
 http://141.136.14.18/kanal1/kanal1.m3u8
-#EXTINF:-1,Arena 1 Srb
-http://s04.platinum-iptv.com:80/live?channelId=671&uid=2199&deviceSn=27997
-#EXTINF:-1,Arena 2 Srb
-http://s04.platinum-iptv.com:80/live?channelId=672&uid=2199&deviceSn=27997
-#EXTINF:-1,Arena 3 Srb
-http://s04.platinum-iptv.com:80/live?channelId=673&uid=2199&deviceSn=27997
-#EXTINF:-1,Arena 4 Srb
-http://s04.platinum-iptv.com:80/live?channelId=674&uid=2199&deviceSn=27997
-#EXTINF:-1,Arena 5 Srb
-http://s04.platinum-iptv.com:80/live?channelId=675&uid=2199&deviceSn=27997
-#EXTINF:-1,O2 HD
-http://92.62.234.202:2222/udp/239.2.0.101:1234
-#EXTINF:-1,O2 HD SPORT
-http://92.62.234.204:2222/udp/239.4.0.101:1234
-#EXTINF:-1,GOL TV 
-http://goltv.exabytetv.info/hls2/amlst:30001_ios/master.m3u8
-#EXTINF:-1,Lov i ribolov HD
-http://str.trofey.net:1935/live/2_max.smil/chunklist_w158057594_b4000000.m3u8?id=2&session=5488c6087e1ea6.57082302
+#EXTINF:-1,O1 HD
+http://92.62.234.202:2222/udp/239.02.0.101:1234
 -----MAKEDONSKI-----
-#EXTINF:-1,SITEL
-http://fms.zulu.mk:554/zulu/sitel_1/playlist_b125000_w1132785237.m3u8? 
-#EXTINF:-1,TELMA
-http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8? 
-#EXTINF:-1,MPT1
-http://fms.zulu.mk:554/zulu/mtv1_1/playlist_b125000_w1132785237.m3u8? 
-#EXTINF:-1,24 Vesti 
-mms://62.162.58.55/24vesti
-#EXTINF:0,SITEL
-http://fms.zulu.mk:1935/zulu/sitel_2/playlist.m3u8
-#EXTINF:0,KANAL 5
-http://fms.zulu.mk:1935/zulu/kanal5_2/playlist.m3u8?wowzasessionid=2097540408
-#EXTINF:0,KANAL 5+
-http://fms.zulu.mk:1935/zulu/kanal5plus_2/playlist.m3u8
-#EXTINF:0,ALFA
-http://fms.zulu.mk:1935/zulu/alfa_1/playlist.m3u8
-#EXTINF:0,ТELMA
-http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8
 #EXTINF:0,24 VESTI
 mms://62.162.58.55/24vesti
-#EXTINF:0,SUTEL
-http://fms.zulu.mk:1935/zulu/shutel_2/playlist.m3u8
-#EXTINF:0,NASA TV
-http://fms.zulu.mk:1935/zulu/nashatv_2/playlist.m3u8
 #EXTINF:0,KANAL 21
 mms://62.162.58.55/TVkanal21
-#EXTINF:-1,SITEL
-http://fms.zulu.mk:554/zulu/sitel_1/playlist_b125000_w1132785237.m3u8? 
-#EXTINF:-1,TELMA
-http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8? 
-#EXTINF:-1,MPT1
-http://fms.zulu.mk:554/zulu/mtv1_1/playlist_b125000_w1132785237.m3u8? 
 #EXTINF:-1 group-title="MAKEDONIJA", 24VESTI 
 mms://62.162.58.55/24vesti 
-#EXTINF:0,Alfa_mk
-http://fms.zulu.mk:554/zulu/alfa_2/playlist_b125000_w1132785237.m3u8
-#EXTINF:0,KANAL 5
-http://217.16.82.6:554/zulu/kanal5_1/playlist.m3u8
-#EXTINF:0,KANAL 8 (Kocani)
-mms://62.162.58.55/TVkanal8
-#EXTINF:0,MPT1
-http://217.16.82.6:554/zulu/mtv1_1/playlist.m3u8
-#EXTINF:0,SITEL
-http://217.16.82.6:554/zulu/sitel_1/playlist.m3u8
-#EXTINF:0,TELMA
-http://217.16.82.6:554/zulu/telma_1/playlist.m3u8
 #EXTINF:0,24 VESTI
 mmsh://62.162.58.55/24vesti
 #EXTINF:0,TV SONCE
 http://92.53.27.201:10000
-#EXTINF:0,SITEL
-  http://fms.zulu.mk:1935/zulu/sitel_2/playlist.m3u8
- #EXTINF:0,KANAL5
-   http://fms.zulu.mk:1935/zulu/kanal5_2/playlist.m3u8?wowzasessionid=2097540408
-   #EXTINF:0,KANAL-5+
-   http://fms.zulu.mk:1935/zulu/kanal5plus_2/playlist.m3u8
-    #EXTINF:0,ALFA
-     http://fms.zulu.mk:1935/zulu/alfa_1/playlist.m3u8
-   #EXTINF:0,TELMA
-   http://fms.zulu.mk:554/zulu/telma_1/playlist_b125000_w1132785237.m3u8
-   #EXTINF:0,24-VESTI
-    mms://62.162.58.55/24vesti
-   #EXTINF:0,SUTEL
-   http://fms.zulu.mk:1935/zulu/shutel_2/playlist.m3u8
-    #EXTINF:0,NASA TV
-   http://fms.zulu.mk:1935/zulu/nashatv_2/playlist.m3u8
- #EXTINF:0,SITEL
-http://fms.zulu.mk:1935/zulu/sitel_1/playlist.m3u8
+#EXTINF:0,24-VESTI
+mms://62.162.58.55/24vesti
    #EXTINF:0,KANAL 8
    mms://62.162.58.55/TVkanal8
    #EXTINF:0,Alfa
