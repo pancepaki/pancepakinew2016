@@ -106,10 +106,7 @@ http://fra1.ddns.net:97/live/test/test/401.m3u8
 http://fra1.ddns.net:97/live/test/test/386.m3u8
 #EXTINF:0,ATLAS TV
 http://fra1.ddns.net:97/live/test/test/60.m3u8
-#EXTINF:-1,Arenasport 3
-http://188.247.133.18:8888/ipvt_004
-#EXTINF:-1,Arenasport 1
-http://188.247.133.18:8888/ipvt_002
+
 #EXTINF:0,OSJECKA TV
 http://fra1.ddns.net:97/live/test/test/11.m3u8
 #EXTINF:0,PINK HORROR -S
