@@ -75,10 +75,6 @@ http://fra1.ddns.net:97/live/test/test/22.m3u8
 http://fra1.ddns.net:97/live/test/test/24.m3u8
 #EXTINF:0,Prva TV
 http://fra1.ddns.net:97/live/test/test/97.m3u8
-#EXTINF:-1,CMC
-http://95.128.236.80:1935/kaltura/smil:cmc.smil/playlist.m3u8
-#EXTINF:-1,JUGOTON TV
-http://95.128.236.80:1935/kaltura/smil:jugotontv.smil/playlist.m3u8
 #EXTINF:-1,TV+MKD
 http://141.136.14.18/kanal1/kanal1.m3u8
 #EXTINF:0,Topsound-hd
