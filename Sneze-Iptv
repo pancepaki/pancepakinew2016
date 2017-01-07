@@ -203,7 +203,7 @@ http://fra1.ddns.net:97/live/test/test/10.m3u8
 http://141.136.14.18/kanal1/kanal1.m3u8
 #EXTINF:-1,O1 HD
 http://92.62.234.202:2222/udp/239.02.0.101:1234
------MAKEDONSKI-----
+-----MAKEDONSKI-IPTV -----
 #EXTINF:0,24 VESTI
 mms://62.162.58.55/24vesti
 #EXTINF:0,KANAL 21
