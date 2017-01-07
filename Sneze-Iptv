@@ -3,6 +3,8 @@
 http://fra1.ddns.net:97/live/test/test/391.m3u8
 #EXTINF:0,HBO3-HD
 http://fra1.ddns.net:97/live/test/test/403.m3u8
+#EXTINF:0,CINEMAX-HD
+http://fra1.ddns.net:97/live/test/test/407.m3u8
 #EXTINF:-1,Stop tv
 http://makedonija-musictv-origin.spectar.tv:1935/makedonija-tv/_definst_/musictv/playlist.m3u8
 #EXTINF:0,Topsound-hd
@@ -147,17 +149,15 @@ http://parh.rtrs.tv:1935/plus/plus/chunklist_w2005662156.m3u8
 http://fra1.ddns.net:97/live/test/test/391.m3u8
 #EXTINF:0,HBO3-HD
 http://fra1.ddns.net:97/live/test/test/403.m3u8
-#EXTINF:0,CINESTAR PREMIERE 2 -S
+#EXTINF:0,CINESTAR PREMIERE 2 
 http://fra1.ddns.net:97/live/test/test/297.m3u8
-#EXTINF:0,CINESTAR PREMIERE 1-S
+#EXTINF:0,CINESTAR PREMIERE 1
 http://fra1.ddns.net:97/live/test/test/296.m3u8
-#EXTINF:0,CINESTAR ACTION -K
+#EXTINF:0,CINESTAR ACTION 1
 http://fra1.ddns.net:97/live/test/test/441.m3u8
-#EXTINF:0,cinestar action-b
+#EXTINF:0,cinestar action-2
 http://fra1.ddns.net:97/live/test/test/405.m3u8
-#EXTINF:0,CINEMAX HD
-http://fra1.ddns.net:97/live/test/test/406.m3u8
-#EXTINF:0,cinemax 2 hd od bhcardsha - CINEMAX " HD
+#EXTINF:0,CINEMAX-HD
 http://fra1.ddns.net:97/live/test/test/407.m3u8
 #EXTINF:0,doma tv d-s
 http://fra1.ddns.net:97/live/test/test/462.m3u8
@@ -165,8 +165,6 @@ http://fra1.ddns.net:97/live/test/test/462.m3u8
 http://fra1.ddns.net:97/live/test/test/473.m3u8
 #EXTINF:0,nova tv hr
 http://fra1.ddns.net:97/live/test/test/469.m3u8
-
-
 EXTINF‬:1, VIP HD1
 rtmp://46.105.209.61/live/live /vip-hd-tv.sdp
 #EXTINF:-1,HNTV-HR
