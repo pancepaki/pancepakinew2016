@@ -261,66 +261,14 @@ http://81.7.13.162/hls/ss4/index.m3u8
 http://www.xrxs.net/video/live-p12netw-4728.m3u8
 #EXTINF:-1,Encore Sport 6 HD
 http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1,Nova Sport 1
-http://213.81.153.241/live001/channel028_p2.stream/DVR.m3u8
 #EXTINF:-1,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF: -1, Match TV
-http://s02.mnogo-tv.by:8000/play/MATCH_TV
-#EXTINF: -1, Match Fighter
-http://s02.mnogo-tv.by:8000/play/BOEC
-#EXTINF: -1, Match arena
-http://s02.mnogo-tv.by:8000/play/ARENA
-#EXTINF: -1, MATCH GAME
-http://s02.mnogo-tv.by:8000/play/IGRA
-#EXTINF: -1, Match our sport
-http://s02.mnogo-tv.by:8000/play/NASH_SPORT
-#EXTINF: -1, Soccer match
-http://s02.mnogo-tv.by:8000/play/FUTBOLL_1
-#EXTINF: -1, Match futbol2
-http://s02.mnogo-tv.by:8000/play/FUTBOLL_2
-#EXTINF: -1, Match futbol3
-http://s02.mnogo-tv.by:8000/play/FUTBOLL_3
-#EXTINF: -1, Our football
-http://s02.mnogo-tv.by:8000/play/NASH_FUTBOLS
-#EXTINF: -1, Match TV
-http://s02.mnogo-tv.by:8000/play/MATCH_TV
-#EXTINF: -1, Match Fighter
-http://s02.mnogo-tv.by:8000/play/BOEC
-#EXTINF: -1, Match arena
-http://s02.mnogo-tv.by:8000/play/ARENA
-#EXTINF: -1, MATCH GAME
-http://s02.mnogo-tv.by:8000/play/IGRA
-#EXTINF: -1, Match our sport
-http://s02.mnogo-tv.by:8000/play/NASH_SPORT
-#EXTINF: -1, Soccer match
-http://s02.mnogo-tv.by:8000/play/FUTBOLL_1
-#EXTINF: -1, Match futbol2
-http://s02.mnogo-tv.by:8000/play/FUTBOLL_2
-#EXTINF: -1, Match futbol3
-http://s02.mnogo-tv.by:8000/play/FUTBOLL_3
-#EXTINF: -1, Our football
-http://s02.mnogo-tv.by:8000/play/NASH_FUTBOLS
-#EXTINF:-1,DigiSport3 (CZ)
-http://213.81.153.241/live001/channel026_p2.stream/DVR.m3u8
-#EXTINF:-1,ESPN HD
-http://80.80.160.168/live/6/live.m3u8
 #EXTINF:-1,SportBG 720p Bulgarian
 http://t.co/0LvQuvp6q1
-#EXTINF:-1,Sports Centrs TV
-http://dvb.gpsystems.lv:4242/bynumber/5
 #EXTINF:-1,Sports TV
 http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w708638919_b800000.m3u8
-#EXTINF:-1,Super Tennis
-http://94.100.31.242:8183/hls/xz3125/index.m3u8
 #EXTINF:-1 channelId="4" , МАТЧ ТВ
 http://95.27.185.85:4022/udp/233.33.210.93:5050
-#EXTINF:-1,Sky Sports HD – Bein Sports HD – BT Sports HD (Stream Switches Channels)
-http://92.222.205.40:8085/lighd
-#EXTINF:-1,Setanta Sports Ireland
-http://centurionlukavac.com:80/live?channelId=164&uid=13&deviceUser=daria1141&devicePass=daria1141234
-#EXTINF:0, Rai Sport 1
-mmsh://212.162.68.163:80/raisport+
 EXTINF:1, Buraspor TV
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
 #EXTINF:0, Football (RU)
@@ -337,35 +285,6 @@ http://81.7.13.162/hls/ss2/index.m3u8
 http://81.7.13.162/hls/ss3/index.m3u8
 #EXTINF:-1,SuperSport 4
 http://81.7.13.162/hls/ss4/index.m3u8
-#EXTINF:-1,NovaSport1 (CZ)
-http://213.81.153.241/live001/channel028_p2.stream/DVR.m3u8
-#EXTINF:-1,Japan Sports 1 HD
-http://203.162.235.45:17930
-#EXTINF:-1,Japan Sports 3 HD
-http://203.162.235.45:17932
- #EXTINF:-1 group-title="Sports",Japan:SPORT 2
-http://203.162.235.45:17931
-#EXTINF:-1 group-title="Sports",Japan:SPORT 3
-http://203.162.235.45:17932
-#EXTINF:-1 group-title="Sports",Japan:SPORT 4
-http://203.162.235.45:17933 	
-#EXTINF:0, FIGHT SPORTS
-http://118.97.183.222:1935/discover/fight/chunklist.m3u8
-rtsp://100automoto.tv/channel_porsche
-#EXTINF:0, VERSUS HD EUA
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
-#EXTINF:0, PAC 12  Arizona  HD
-http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/master.m3u8
-#EXTINF:0, PAC 12  Bay Area HD
-http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/master.m3u8
-#EXTINF:0, PAC 12  Los Angeles HD
-http://pac12hd2-lh.akamaihd.net/i/p12losa_delivery@132838/master.m3u8
-#EXTINF:0, PAC 12  Oregon HD
-http://pac12hd2-lh.akamaihd.net/i/p12oreg_delivery@132835/master.m3u8
-#EXTINF:0, PAC 12 Mountain HD
-http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/master.m3u8
-#EXTINF:0, PAC 12 Washington HD
-http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/master.m3u8
 #EXTINF:0, Dubai Sports
 http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
 #EXTINF:0, Rete Sport 8 ITALIA
@@ -374,12 +293,8 @@ http://rm-edge-1.cdn2.streamago.tv/streamagoedge/39648/36567/Rete8%20Sport.m3u8
 http://www.xrxs.net/video/live-p12netw-4728.m3u8
 #EXTINF:-1,Encore Sport 6 HD
 http://xrxs.net/video/live-p12netw-4728.m3u8
-#EXTINF:-1,Nova Sport 1
-http://213.81.153.241/live001/channel028_p2.stream/DVR.m3u8
 #EXTINF:-1,Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
-#EXTINF:-1,MLS / NBA HD
-http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
 #EXTINF:0,Eurosport (French)
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
 #EXTINF:0,Eurosport 1 ENG
@@ -390,17 +305,11 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8
 #EXTINF:0,TURK-BURSASPOR TV
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
-#EXTINF:-1,Авто 24
-http://win.cdn.bonus-tv.ru/TVB7/auto24/playlist.m3u8
-#EXTINF:-1, Sports TV  [COLOR lime]FTA[/COLOR]
-http://stream.sportstv.com.tr/sportstv/SportsTV3/HasBahCa.m3u
 #EXTINF:-1, Fox Sport   [COLOR lime]FTA[/COLOR]
 http://motorsport.hopto.org:8080/
-#EXTINF:-1,Fight Sports
-http://118.97.183.222:1935/discover/fight/playlist.m3u8
 #EXTINF:-1,Poker Central HD
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_2528_av-p.m3u8
- ----------MUZIKA-------- 
+ ----------MUZIKA-IPTV -------- 
  #EXTINF:-1,1HD muzika
 http://msk3.peers.tv/streaming/firstmuz/16/hd/playlist.m3u8
 #EXTINF:-1,1HD/music
@@ -411,14 +320,10 @@ http://stream.1music.hu/stream/1music.m3u8
 http://nodeb.gocaster.net:1935/CGL/_definst_/TODAYFM_TEST2/.m3u8
 #EXTINF:-1,DSTV BG
 rtmp://46.249.95.140/live/livestream
-#EXTINF:-1,For Music
-http://wowza1.top-ix.org/quartaretetv1/formusicweb/index.m3u8
 #EXTINF:-1,Magic TV
 http://31.13.217.76:1935/magictv/magictv_live.stream/playlist.m3u8
 #EXTINF:0,Virgin 2
 http://wow01.105.net/live/virgin1/chunklist.m3u8
-#EXTINF:-1 tvg-id="Total_Kiss tv" tvg-name="Kiss_tv" tvg-logo="guiatv-prueba.png",Kiss TV - España
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
 #EXTINF:0, DREAM TV
 http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:0,CITY TV
@@ -437,22 +342,7 @@ rtmp://fms.105.net:1935/live/virgin1
 rtmp://fms.105.net:1935/live/virgin2
 #EXTINF:0,VOX Music TV 2
 rtmp://stream.smcloud.net/live/vox2/stream1#plugin_player
-#EXTINF:-1,Vevo HD 1
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
-#EXTINF:-1,Vevo HD 2
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
-#EXTINF:-1,Vevo HD 
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
-#EXTINF:-1,1Music Channel TV
-http://santhoratv.zecast.net/santhoratv/santhoratv/chunklist.m3u8
-#EXTINF:-1,VEVO HD 1  [COLOR lime]FTA[/COLOR]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
-#EXTINF:-1,VEVO HD 2  [COLOR lime]FTA[/COLOR]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
-#EXTINF:-1,VEVO HD 3  [COLOR lime]FTA[/COLOR]
-http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
-#EXTINF:-1,Beats  music  [COLOR lime]FTA[/COLOR]
-http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
+
 -----EXYU SO PREVOD------------
 #EXTINF:-1,Fox Life
 http://151.236.254.157:9000/play/a02a
