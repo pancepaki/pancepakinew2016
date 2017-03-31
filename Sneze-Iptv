@@ -61,8 +61,6 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 http://t.co/0LvQuvp6q1
 #EXTINF:-1,Sports TV
 http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w708638919_b800000.m3u8
-#EXTINF:-1,Super Tennis
-http://94.100.31.242:8183/hls/xz3125/index.m3u8
 #EXTINF:0,TURK-BURSASPOR TV
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/hasbahca.m3u8
 #EXTINF:0, : REAL MADRID TV HD
