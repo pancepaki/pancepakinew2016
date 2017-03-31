@@ -31,8 +31,6 @@ http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/chunklist_w19601
 http://141.136.14.18/kanal1/kanal1_1500/index.m3u8?time=1471684483593
 #EXTINF:0,Tv-sonce
 rtmp://62.162.118.26/h_s7Ew9xL4_son/stream2
-#EXTINF:-1,TV Nova Skopje
-http://makedonija-novatv-player.spectar.tv:1935/makedonija-tv/_definst_/novatv/playlist.m3u8
 #EXTINF:0,Rtrs Plus
 http://parh.rtrs.tv:1935/plus/plus/chunklist_w2005662156.m3u8
 EXTINF‬:1, VIP HD1
