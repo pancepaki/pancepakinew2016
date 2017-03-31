@@ -1,4 +1,264 @@
 #EXTM3U
+#EXTINF:0,BHT - BHT
+http://s03.bihnet.net:80/live?channelId=2&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,BHTV - BHTV
+http://s02.bihnet.net:80/live?channelId=477&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,BHT HD - BHT HD
+http://s03.bihnet.net:80/live?channelId=172&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,FEDERALNA TV - FEDERALNA TV
+http://s02.bihnet.net:80/live?channelId=1&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,OBN - OBN
+http://s02.bihnet.net:80/live?channelId=11&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,TV SARAJEVO - TV SARAJEVO
+http://s03.bihnet.net:80/live?channelId=144&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,TK - TK
+http://s02.bihnet.net:80/live?channelId=8&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,TV SLON - TV SLON
+http://s02.bihnet.net:80/live?channelId=187&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,TV 1 - TV 1
+http://s02.bihnet.net:80/live?channelId=9&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,PINK BIH - PINK BIH
+http://s02.bihnet.net:80/live?channelId=24&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,BN BIH - BN BIH
+http://s02.bihnet.net:80/live?channelId=76&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,BN SAT - BN SAT
+http://s02.bihnet.net:80/live?channelId=18&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,HAYAT BIH - HAYAT BIH
+http://s02.bihnet.net:80/live?channelId=12&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,HAYAT PLUS - HAYAT PLUS
+http://s02.bihnet.net:80/live?channelId=13&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,FACE TV - FACE TV
+http://s02.bihnet.net:80/live?channelId=14&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,MTV IGMAN - MTV IGMAN
+http://s02.bihnet.net:80/live?channelId=72&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,TELEVIZIJA 5 - TELEVIZIJA 5
+http://37.59.21.217:8809/live/tv5web.m3u8
+#EXTINF:0,TV Zenica - TV Zenica
+http://s03.bihnet.net:80/live?channelId=235&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,USK - USK
+http://s03.bihnet.net:80/live?channelId=143&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,Novi Pazar - Novi Pazar
+http://s03.bihnet.net:80/live?channelId=236&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,ALFA TV MK - ALFA TV MK
+http://s03.bihnet.net:80/live?channelId=71&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,ATV - ATV
+http://s02.bihnet.net:80/live?channelId=167&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,AL JAZZERA BALKAN - AL JAZZERA BALKAN
+http://s02.bihnet.net:80/live?channelId=69&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,RTL TELEVIZIJA - RTL TELEVIZIJA
+http://s03.bihnet.net:80/live?channelId=3&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,RTL TELEVIZIJA H - RTL TELEVIZIJA H
+http://s02.bihnet.net:80/live?channelId=478&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,RTL 2 - RTL 2
+http://s02.bihnet.net:80/live?channelId=5&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,NOVA TV - NOVA TV
+http://s03.bihnet.net:80/live?channelId=4&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,NOVA TV H - NOVA TV H
+http://s02.bihnet.net:80/live?channelId=479&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,DOMA TV - DOMA TV
+http://s02.bihnet.net:80/live?channelId=6&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,KLASIK TV - KLASIK TV
+http://s02.bihnet.net:80/live?channelId=10&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,HRT-TV1 - HRT-TV1
+http://s02.bihnet.net:80/live?channelId=50&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,HRT-TV2 - HRT-TV2
+http://s02.bihnet.net:80/live?channelId=51&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,HRT-TV3 - HRT-TV3
+http://s02.bihnet.net:80/live?channelId=52&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,HRT-TV4 - HRT-TV4
+http://s02.bihnet.net:80/live?channelId=53&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,Z1 - Z1
+http://s03.bihnet.net:80/live?channelId=370&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,OTV VALENTINO - OTV VALENTINO
+http://s02.bihnet.net:80/live?channelId=67&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,POSAVINA TV - POSAVINA TV
+http://s02.bihnet.net:80/live?channelId=123&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,OSJECKA TV - OSJECKA TV
+http://s03.bihnet.net:80/live?channelId=170&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,PRVA - PRVA
+http://s02.bihnet.net:80/live?channelId=79&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,NOVA RS - NOVA RS
+http://s02.bihnet.net:80/live?channelId=78&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,RTRS - RTRS
+http://s02.bihnet.net:80/live?channelId=65&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,RTS 1 - RTS 1
+http://s02.bihnet.net:80/live?channelId=15&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,RTS 2 - RTS 2
+http://s02.bihnet.net:80/live?channelId=16&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,RTS 3 - RTS 3
+http://s02.bihnet.net:80/live?channelId=173&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,B92 - B92
+http://s02.bihnet.net:80/live?channelId=17&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,HAPPY - HAPPY
+http://s02.bihnet.net:80/live?channelId=19&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,TV MOST - TV MOST
+http://s02.bihnet.net:80/live?channelId=188&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,GLAS DRINE - GLAS DRINE
+http://s03.bihnet.net:80/live?channelId=262&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,RTV CG - RTV CG
+http://s03.bihnet.net:80/live?channelId=263&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,N1 BiH - N1 BiH
+http://s03.bihnet.net:80/live?channelId=66&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,RTL KOCKICA - RTL KOCKICA
+http://s02.bihnet.net:80/live?channelId=7&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,PINK KIDS - PINK KIDS
+http://s02.bihnet.net:80/live?channelId=57&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,NICKELODEON - NICKELODEON
+http://s02.bihnet.net:80/live?channelId=159&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,DISCOVERY - DISCOVERY
+http://s02.bihnet.net:80/live?channelId=20&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,NATIONAL GEOGRAPHIC - NATIONAL GEOGRAPHIC
+http://s02.bihnet.net:80/live?channelId=21&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,ANIMAL PLANET - ANIMAL PLANET
+http://s02.bihnet.net:80/live?channelId=156&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,LOV I RIBOLOV - LOV I RIBOLOV
+http://s02.bihnet.net:80/live?channelId=155&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,24 KITCHEN - 24 KITCHEN
+http://s03.bihnet.net:80/live?channelId=164&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,PINK SOAP - PINK SOAP
+http://s02.bihnet.net:80/live?channelId=33&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,AXN ADRIA - AXN ADRIA
+http://s02.bihnet.net:80/live?channelId=228&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,HBO ADRIA - HBO ADRIA
+http://s02.bihnet.net:80/live?channelId=54&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,HBO 2 - HBO 2
+http://s02.bihnet.net:80/live?channelId=158&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,CINESTAR TV - CINESTAR TV
+http://s02.bihnet.net:80/live?channelId=74&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,CINESTAR PREMIERE 2 - CINESTAR PREMIERE 2
+http://s02.bihnet.net:80/live?channelId=80&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,CINEMAX 2 - CINEMAX 2
+http://s02.bihnet.net:80/live?channelId=181&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,FOX MOVIES - FOX MOVIES
+http://s02.bihnet.net:80/live?channelId=82&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,FOX LIFE - FOX LIFE
+http://s02.bihnet.net:80/live?channelId=81&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,FOX CRIME - FOX CRIME
+http://s02.bihnet.net:80/live?channelId=83&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,PINK ACTION - PINK ACTION
+http://s02.bihnet.net:80/live?channelId=75&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,PINK CRIME & MYSTERY - PINK CRIME & MYSTERY
+http://s02.bihnet.net:80/live?channelId=23&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,PINK COMEDY - PINK COMEDY
+http://s02.bihnet.net:80/live?channelId=26&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,PINK HORROR - PINK HORROR
+http://s02.bihnet.net:80/live?channelId=29&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,PINK SCI-FI & FANTASY - PINK SCI-FI & FANTASY
+http://s02.bihnet.net:80/live?channelId=32&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,PINK FILM - PINK FILM
+http://s02.bihnet.net:80/live?channelId=27&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,PINK ROMANCE - PINK ROMANCE
+http://s02.bihnet.net:80/live?channelId=31&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,PINK WESTERN - PINK WESTERN
+http://s02.bihnet.net:80/live?channelId=37&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,PINK PREMIUM - PINK PREMIUM
+http://s02.bihnet.net:80/live?channelId=34&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,PINK PLUS - PINK PLUS
+http://s03.bihnet.net:80/live?channelId=204&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,PINK - PINK
+http://s02.bihnet.net:80/live?channelId=152&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,PINK WORLD - PINK WORLD
+http://s02.bihnet.net:80/live?channelId=38&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,PINK ZABAVA - PINK ZABAVA
+http://s02.bihnet.net:80/live?channelId=30&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,PINK REALITY - PINK REALITY
+http://s02.bihnet.net:80/live?channelId=35&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,PINK FOLK 1 - PINK FOLK 1
+http://s02.bihnet.net:80/live?channelId=28&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,PINK FOLK 2 - PINK FOLK 2
+http://s02.bihnet.net:80/live?channelId=39&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,BOSNA TV 1 - BOSNA TV 1
+http://s02.bihnet.net:80/live?channelId=22&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,GRAND TV - GRAND TV
+http://s02.bihnet.net:80/live?channelId=165&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,DM SAT - DM SAT
+http://s02.bihnet.net:80/live?channelId=55&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,BN Music - BN Music
+http://s02.bihnet.net:80/live?channelId=40&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,HAYAT FOLK - HAYAT FOLK
+http://s02.bihnet.net:80/live?channelId=41&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,IZVORNA TV - IZVORNA TV
+http://s02.bihnet.net:80/live?channelId=186&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,CMC - CMC
+http://s02.bihnet.net:80/live?channelId=77&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,BALKANIKA - BALKANIKA
+http://s02.bihnet.net:80/live?channelId=36&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,AL - FOLK - AL - FOLK
+http://s02.bihnet.net:80/live?channelId=194&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,AL - FILM NJE - AL - FILM NJE
+http://s02.bihnet.net:80/live?channelId=90&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,AL - FILM DY - AL - FILM DY
+http://s02.bihnet.net:80/live?channelId=91&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,AL - FILM HITS - AL - FILM HITS
+http://s02.bihnet.net:80/live?channelId=92&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,AL - FILM DRAME - AL - FILM DRAME
+http://s02.bihnet.net:80/live?channelId=93&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,AL - FILM TRILLER - AL - FILM TRILLER
+http://s02.bihnet.net:80/live?channelId=189&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,AL - FILM KOMEDI - AL - FILM KOMEDI
+http://s02.bihnet.net:80/live?channelId=190&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,AL - KTV KOHAVIZION - AL - KTV KOHAVIZION
+http://s02.bihnet.net:80/live?channelId=192&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,AL - RTK 1 - AL - RTK 1
+http://s02.bihnet.net:80/live?channelId=191&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,AL - RTV 21 HD - AL - RTV 21 HD
+http://s02.bihnet.net:80/live?channelId=193&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,AL - TRING MAX - AL - TRING MAX
+http://s02.bihnet.net:80/live?channelId=195&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,AL - TRING SUPER - AL - TRING SUPER
+http://s03.bihnet.net:80/live?channelId=198&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,AL - TRING SHQIP - AL - TRING SHQIP
+http://s02.bihnet.net:80/live?channelId=196&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,AL - TRING PLANET - AL - TRING PLANET
+http://s03.bihnet.net:80/live?channelId=199&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,AL - TRING WORLD - AL - TRING WORLD
+http://s03.bihnet.net:80/live?channelId=200&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,AL - SUPER SPORT 1 - AL - SUPER SPORT 1
+http://s02.bihnet.net:80/live?channelId=85&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,AL - SUPER SPORT 2 - AL - SUPER SPORT 2
+http://s02.bihnet.net:80/live?channelId=86&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,AL - SUPER SPORT 3 - AL - SUPER SPORT 3
+http://s02.bihnet.net:80/live?channelId=87&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,AL - SUPER SPORT 4 - AL - SUPER SPORT 4
+http://s02.bihnet.net:80/live?channelId=88&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,ARENA SPORT 1 SR - ARENA SPORT 1 SR
+http://s02.bihnet.net:80/live?channelId=42&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,ARENA SPORT 2 SR - ARENA SPORT 2 SR
+http://s02.bihnet.net:80/live?channelId=43&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,ARENA SPORT 3 SR - ARENA SPORT 3 SR
+http://s02.bihnet.net:80/live?channelId=44&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,ARENA SPORT 4 SR - ARENA SPORT 4 SR
+http://s02.bihnet.net:80/live?channelId=45&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,ARENA SPORT 5 SR - ARENA SPORT 5 SR
+http://s02.bihnet.net:80/live?channelId=46&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,ARENA SPORT 1 HR - ARENA SPORT 1 HR
+http://s02.bihnet.net:80/live?channelId=160&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,ARENA SPORT 2 HD HR - ARENA SPORT 2 HD HR
+http://s02.bihnet.net:80/live?channelId=161&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,ARENA SPORT 3 HD - ARENA SPORT 3 HD
+http://s02.bihnet.net:80/live?channelId=162&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,ARENA SPORT 4 HR - ARENA SPORT 4 HR
+http://s02.bihnet.net:80/live?channelId=163&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,SPORT KLUB START - SPORT KLUB START
+http://s03.bihnet.net:80/live?channelId=58&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,SPORT KLUB 1 HR - SPORT KLUB 1 HR
+http://s02.bihnet.net:80/live?channelId=47&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,SPORT KLUB 2 HR - SPORT KLUB 2 HR
+http://s02.bihnet.net:80/live?channelId=147&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,SPORT KLUB 3 HR - SPORT KLUB 3 HR
+http://s02.bihnet.net:80/live?channelId=148&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,SPORT KLUB 1 HD - SPORT KLUB 1 HD
+http://s02.bihnet.net:80/live?channelId=146&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,SPORT KLUB 2 - SPORT KLUB 2
+http://s02.bihnet.net:80/live?channelId=48&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,SPORT KLUB 3 - SPORT KLUB 3
+http://s02.bihnet.net:80/live?channelId=49&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,SPORT KLUB 4 - SPORT KLUB 4
+http://s03.bihnet.net:80/live?channelId=237&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,SPORT KLUB 5 - SPORT KLUB 5
+http://s03.bihnet.net:80/live?channelId=238&uid=434&deviceMac=00:1A:79:2D:29:AA
+#EXTINF:0,SPORT KLUB 6 - SPORT KLUB 6
+http://s03.bihnet.net:80/live?channelId=239&uid=434&deviceMac=00:1A:79:2D:29:AA
 #EXTINF:0,Topsound-hd
 http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/chunklist_w1960175513_b1248000.m3u8
 #EXTINF:0,Tv-sonce
