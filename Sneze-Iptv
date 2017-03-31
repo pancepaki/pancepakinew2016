@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0,PAROVI-HEPPY TV
-https://www.youtube.com/watch?v=nIpFLJIHEB0&feature=player_embedded
-#EXTINF:-1,Stop tv
-http://makedonija-musictv-origin.spectar.tv:1935/makedonija-tv/_definst_/musictv/playlist.m3u8
 #EXTINF:0,Topsound-hd
 http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/chunklist_w1960175513_b1248000.m3u8
 #EXTINF:0,Tv-sonce
