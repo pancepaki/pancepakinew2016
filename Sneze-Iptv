@@ -93,8 +93,6 @@ http://stream.sportstv.com.tr/sportstv/smil:sportstv.smil/chunklist_w708638919_b
 http://95.27.185.85:4022/udp/233.33.210.93:5050
 EXTINF:1, Buraspor TV
 http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
-#EXTINF:0, Football (RU)
-http://hls.novotelecom.ru/streaming/futbol/tvrec/playlist.m3u8
 #EXTINF:0, : REAL MADRID TV HD
 http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
 #EXTINF:-1 ,EuroSports
