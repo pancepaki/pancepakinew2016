@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1,Starfolkmusic Makedonija Tv
+https://live.muzickatv.mk/hls/Starmusic.m3u8
+#EXTINF:-1,Sky Folk
+http://eu.live.skyfolk.mk/live.m3u8
+#EXTINF:-1,DSTV BG
+rtmp://46.249.95.140/live/livestream
+#EXTINF:-1,Premium xxx
+https://web.opendrive.com/api/v1/download/file.json/Nl83MDA2NTQ0OF8?inline=1
+#EXTINF:-1,TV+
+http://141.136.14.18/kanal1/kanal1.m3u8
+#EXTINF:0, : REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net:80/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:0, TV ALL SPORTS 
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:0, TV REAL MADRID
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1,One HD
+http://rtmp.one.by:1300
+#EXTINF:-1,One UHD
+http://rtmp.one.by:1400
+#EXTINF:0,Radio capital TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:0, DJING Ibiza
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:0, Radio 105
+rtmp://fms.105.net:1935/live/105Test1
+#EXTINF:0, Radio Montecarlo
+rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:-1, One.by 
+http://rtmp.one.by:1200 
+#EXTINF:-1, One.by HD 
+http://rtmp.one.by:1300 
+#EXTINF:-1, One.by UHD 
+http://rtmp.one.by:1400 
+#EXTINF:-1, One.by Россия 
+http://rtmp.one.by:2200 
+#EXTINF:-1,1Music Channel TV
+http://santhoratv.zecast.net/santhoratv/santhoratv/chunklist.m3u8
+#EXTINF:-1,Djing hd  [COLOR lime]FTA[/COLOR]
+http://djing.com/tv/underground.m3u8
+#EXTINF:-1,Djing1 [COLOR lime]FTA[/COLOR]
+http://djing.com/tv/dancefloor.m3u8
+#EXTINF:-1,Monte Carlo Music [COLOR lime]FTA[/COLOR]
+rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:-1,One by hd  [COLOR lime]FTA[/COLOR]
+http://rtmp.one.by:2300/
+#EXTINF:-1,TLX HD MUSIC  [COLOR lime]FTA[/COLOR]
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0,Radio capital TV
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:0,DREAM
+http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0,Dream TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0,M2O Music
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,MONTECARLO MUSIC
+rtmp://fms.105.net/live/rmc1
+#EXTINF:0,Music Channel Hungary
+http://stream.1music.hu/stream/1music.m3u8
