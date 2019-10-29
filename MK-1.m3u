@@ -61,3 +61,37 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=o
 rtmp://fms.105.net/live/rmc1
 #EXTINF:0,Music Channel Hungary
 http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:0,One.by
+http://rtmp.one.by:1200
+#EXTINF:0,One.by HD
+http://rtmp.one.by:1300
+#EXTINF:0,One.by UHD
+http://rtmp.one.by:1400
+#EXTINF:0,One.by Россия
+http://rtmp.one.by:2200
+#EXTINF:0,One.by Россия HD
+http://rtmp.one.by:2300
+#EXTINF:-1,Korea 1  [COLOR lime]FTA[/COLOR]
+rtmp://124.139.232.61:1935/live/livestream
+#EXTINF:-1,Korea 2  [COLOR lime]FTA[/COLOR]
+rtmp://live.chosun.gscdn.com/live//tvchosun1.stream
+#EXTINF:-1,France LCN TV  [COLOR lime]FTA[/COLOR]
+http://live.lachainenormande.fr:80/live/lcn/livestream/playlist.m3u8
+#EXTINF:-1,Germany-ALEX LIVE TV   [COLOR lime]FTA[/COLOR]
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
+#EXTINF:-1,Germany-BADEN TV  [COLOR lime]FTA[/COLOR]
+rtmp://badentv-stream2.siebnich.info/rtplive/btv.stream
+#EXTINF:-1,Germany-TVO  [COLOR lime]FTA[/COLOR]
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w1654226206.m3u8
+#EXTINF:-1,Germany-Tagesschau_1  [COLOR lime]FTA[/COLOR]
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, ALEX BERLIN (Urban Music)
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
+#EXTINF:-1,Lancelot tv  [COLOR lime]FTA[/COLOR]
+rtmp://62.210.141.18:1935/directo/lancelot.television
+#EXTINF:0, RAI MOVIE ITALIA
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1,Mbc Max
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
+#EXTINF:0,RTV BANOVINA HR
+rtmp://video.radio-banovina.hr/live/myStream
