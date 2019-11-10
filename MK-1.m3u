@@ -105,5 +105,5 @@ http://stream.kava.lt:1935/as1214XX/cam.stream/chunklist_w1921423132.m3u8
 http://77.72.196.214:8554/live/mp4:AltoAdigeTV/chunklist.m3u8
 #EXTINF:-1,Active Channel
 http://activechannel-live.hls.adaptive.level3.net/sc09/activechannel/76568433/hls/stream.m3u8
-#EXTINF:-1,耀才财经台
+#EXTINF:-1 japan
 rtmp://202.69.69.180:443/webcast/bshdlive-pc
